@@ -6,7 +6,7 @@ require "uri"
 
 module IalaApi
   API_BASE = "https://www.iala.int/wiki/dictionary/api.php".freeze
-  RATE_LIMIT_DELAY = 1.0
+  RATE_LIMIT_DELAY = ENV.fetch("IALA_API_DELAY", "0.2").to_f
 
   # Returns array of {pageid, ns, title} hashes — all pages in category
   # Handles cmcontinue pagination automatically
