@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Mean_life
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-1-035
 ---
 id: 5-1-035-eng
 termid: 5-1-035

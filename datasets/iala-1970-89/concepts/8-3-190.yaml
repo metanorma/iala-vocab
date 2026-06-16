@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Mooring_recovery_wire
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-3-190
 ---
 id: 8-3-190-eng
 termid: 8-3-190

@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Lamp_Changer
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-4-095
 ---
 id: 2-4-095-eng
 termid: 2-4-095

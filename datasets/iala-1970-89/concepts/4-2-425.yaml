@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Down_lead
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-2-425
 ---
 id: 4-2-425-eng
 termid: 4-2-425

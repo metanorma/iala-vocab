@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Excess_attenuation
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 3-1-240
 ---
 id: 3-1-240-eng
 termid: 3-1-240

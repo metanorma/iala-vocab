@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Ranging_Mode_(R-Mode)
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: ranging-mode-r-mode-
 ---
 id: ranging-mode-r-mode--eng
 termid: ranging-mode-r-mode-

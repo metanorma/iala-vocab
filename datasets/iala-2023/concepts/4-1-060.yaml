@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Occupied_bandwidth
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-060
 ---
 id: 4-1-060-eng
 termid: 4-1-060

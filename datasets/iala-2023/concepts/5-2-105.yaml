@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Automatic_sequence_control
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-2-105
 ---
 id: 5-2-105-eng
 termid: 5-2-105

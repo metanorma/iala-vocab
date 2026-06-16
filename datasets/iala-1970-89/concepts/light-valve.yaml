@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Light_Valve
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: light-valve
 ---
 id: light-valve-eng
 termid: light-valve

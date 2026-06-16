@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Differential_R-Mode_(DR-Mode)
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: differential-r-mode-dr-mode-
 ---
 id: differential-r-mode-dr-mode--eng
 termid: differential-r-mode-dr-mode-

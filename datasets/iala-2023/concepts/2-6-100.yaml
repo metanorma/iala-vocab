@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Isolated_Danger_Mark_(or_Buoy)_(G.B.)
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-6-100
 ---
 id: 2-6-100-eng
 termid: 2-6-100

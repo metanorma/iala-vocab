@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_characteristic
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-2-005
 ---
 id: 4-2-005-eng
 termid: 4-2-005

@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Ground_wave_-_Radar
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-3-360
 ---
 id: 4-3-360-eng
 termid: 4-3-360

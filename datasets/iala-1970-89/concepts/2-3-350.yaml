@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Metal_Vapour_Lamp
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-350
 ---
 id: 2-3-350-eng
 termid: 2-3-350

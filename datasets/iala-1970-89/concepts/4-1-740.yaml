@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Receiver_radiation
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-1-740
 ---
 id: 4-1-740-eng
 termid: 4-1-740

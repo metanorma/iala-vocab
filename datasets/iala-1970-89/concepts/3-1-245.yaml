@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Actual_range_of_a_sound_signal
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 3-1-245
 ---
 id: 3-1-245-eng
 termid: 3-1-245

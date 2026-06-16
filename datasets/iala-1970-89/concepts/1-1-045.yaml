@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Bringing_into_service
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-1-045
 ---
 id: 1-1-045-eng
 termid: 1-1-045

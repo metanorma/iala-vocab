@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Aural_masking
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 3-1-210
 ---
 id: 3-1-210-eng
 termid: 3-1-210

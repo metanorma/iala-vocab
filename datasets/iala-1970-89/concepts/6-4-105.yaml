@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Continuous_duty
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-4-105
 ---
 id: 6-4-105-eng
 termid: 6-4-105

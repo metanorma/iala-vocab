@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Charge_(2)
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-5-130
 ---
 id: 6-5-130-eng
 termid: 6-5-130

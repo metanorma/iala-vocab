@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Bellini-Tosi_antenna
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-2-375
 ---
 id: 4-2-375-eng
 termid: 4-2-375

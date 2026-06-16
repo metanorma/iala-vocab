@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Mercury_wetted_relay
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-200
 ---
 id: 5-4-200-eng
 termid: 5-4-200

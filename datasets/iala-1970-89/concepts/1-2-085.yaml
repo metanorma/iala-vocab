@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Circle_of_uncertainty
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-2-085
 ---
 id: 1-2-085-eng
 termid: 1-2-085

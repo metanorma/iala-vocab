@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Visibility_meter
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-360
 ---
 id: 5-4-360-eng
 termid: 5-4-360

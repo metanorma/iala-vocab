@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Threshold_of_perception
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-1-450
 ---
 id: 1-1-450-eng
 termid: 1-1-450

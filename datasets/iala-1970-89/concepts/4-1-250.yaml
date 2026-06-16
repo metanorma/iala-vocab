@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Effective_height_(U.S.A.)
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-1-250
 ---
 id: 4-1-250-eng
 termid: 4-1-250

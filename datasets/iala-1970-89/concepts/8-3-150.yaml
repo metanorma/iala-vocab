@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Chain_stopper
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-3-150
 ---
 id: 8-3-150-eng
 termid: 8-3-150

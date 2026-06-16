@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Cathodic_protection_(2)
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-6-515
 ---
 id: 7-6-515-eng
 termid: 7-6-515

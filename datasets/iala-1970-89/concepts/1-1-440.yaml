@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Perception
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-1-440
 ---
 id: 1-1-440-eng
 termid: 1-1-440

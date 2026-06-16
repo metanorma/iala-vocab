@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Discharge_Lamp
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-310
 ---
 id: 2-3-310-eng
 termid: 2-3-310

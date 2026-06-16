@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/ODAS_buoy
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-4-060
 ---
 id: 8-4-060-eng
 termid: 8-4-060

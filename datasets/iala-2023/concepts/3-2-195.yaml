@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Electrodynamic_emitter_-_Driver
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 3-2-195
 ---
 id: 3-2-195-eng
 termid: 3-2-195

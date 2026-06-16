@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Interrupted_Quick-Flashing_Light
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-5-195
 ---
 id: 2-5-195-eng
 termid: 2-5-195

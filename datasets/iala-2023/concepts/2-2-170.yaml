@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Focal_Plane_(of_a_light)
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-2-170
 ---
 id: 2-2-170-eng
 termid: 2-2-170

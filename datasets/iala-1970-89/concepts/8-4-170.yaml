@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Centre_of_buoyancy_(of_a_buoy)
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-4-170
 ---
 id: 8-4-170-eng
 termid: 8-4-170

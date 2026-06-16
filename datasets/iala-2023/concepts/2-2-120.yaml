@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Profile_(of_a_lens,_other_than_a_fixed_lens)
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-2-120
 ---
 id: 2-2-120-eng
 termid: 2-2-120

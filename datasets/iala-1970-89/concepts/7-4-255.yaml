@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Atterberg_limits
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-4-255
 ---
 id: 7-4-255-eng
 termid: 7-4-255

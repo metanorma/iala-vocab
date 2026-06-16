@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Low_Pressure_Sodium_(Vapour)_Lamp
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-355
 ---
 id: 2-3-355-eng
 termid: 2-3-355

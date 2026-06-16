@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Nigrescence_Time_(of_a_lamp)
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-280
 ---
 id: 2-3-280-eng
 termid: 2-3-280

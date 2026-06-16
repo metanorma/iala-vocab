@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Winter_buoy
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-4-050
 ---
 id: 8-4-050-eng
 termid: 8-4-050

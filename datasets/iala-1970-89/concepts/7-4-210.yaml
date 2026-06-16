@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Compaction
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-4-210
 ---
 id: 7-4-210-eng
 termid: 7-4-210

@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Whistle_buoy
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 3-2-240
 ---
 id: 3-2-240-eng
 termid: 3-2-240

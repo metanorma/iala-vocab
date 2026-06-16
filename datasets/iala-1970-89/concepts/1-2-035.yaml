@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Bearing
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-2-035
 ---
 id: 1-2-035-eng
 termid: 1-2-035

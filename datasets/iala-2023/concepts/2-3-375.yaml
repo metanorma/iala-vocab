@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Extra_High_Pressure_Mercury_(Vapour)_Lamp
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-375
 ---
 id: 2-3-375-eng
 termid: 2-3-375

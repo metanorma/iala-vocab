@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Effective_height_(G.B.)
+related:
+- type: identical
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: effective-height-g-b-
 ---
 id: effective-height-g-b--eng
 termid: effective-height-g-b-

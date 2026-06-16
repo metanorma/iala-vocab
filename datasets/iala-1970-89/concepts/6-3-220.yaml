@@ -11,6 +11,11 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Cut-in_wind_speed_(of_a_wind-power_genearator)/es
+related:
+- type: superseded_by
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-3-220
 ---
 id: 6-3-220-spa
 termid: 6-3-220
