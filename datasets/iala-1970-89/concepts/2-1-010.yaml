@@ -1,0 +1,43 @@
+---
+id: 2-1-010
+termid: 2-1-010
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Luminous_Flux
+---
+id: 2-1-010-eng
+termid: 2-1-010
+language_code: eng
+terms:
+- type: expression
+  designation: Luminous Flux
+  normative_status: preferred
+definition:
+- content: |-
+    The quantity characteristic of radiant flux which expresses its capacity to produce a luminous sensation, evaluated according to the values of spectral luminous efficiency.
+
+
+    Unless otherwise indicated, the luminous flux in question relates to photopic vision, and is connected with the radiant flux in accordance with the formula adopted in 1948 by the Reference: C.I.E.
+
+
+    Symbol: F
+
+
+    Unit: lumen (lm)
+
+
+    Reference: C.I.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

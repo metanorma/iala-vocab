@@ -1,0 +1,32 @@
+---
+id: background-lighting
+termid: background-lighting
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Background_Lighting
+---
+id: background-lighting-eng
+termid: background-lighting
+language_code: eng
+terms:
+- type: expression
+  designation: Background Lighting
+  normative_status: preferred
+definition:
+- content: |-
+    Background lighting encompasses ambient lighting either directly behind or adjacent to the AtoN having regard to the range of perspectives or directions of intended viewing.
+
+
+
+    Source: ENG7, Guideline G1073
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

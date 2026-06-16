@@ -1,0 +1,34 @@
+---
+id: conversion-of-electric-energy
+termid: conversion-of-electric-energy
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Conversion_of_electric_energy
+---
+id: conversion-of-electric-energy-eng
+termid: conversion-of-electric-energy
+language_code: eng
+terms:
+- type: expression
+  designation: Conversion of electric energy
+  normative_status: preferred
+definition:
+- content: |-
+    6-7-000
+
+
+    Change of input electric energy of one kind into output electric energy of another kind (e.g. change of voltage, frequency, waveform or number of phases ; change of alternating current into direct current or vice versa).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

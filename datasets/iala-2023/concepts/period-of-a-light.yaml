@@ -1,0 +1,28 @@
+---
+id: period-of-a-light
+termid: period-of-a-light
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-unknown
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Period_of_a_light
+---
+id: period-of-a-light-eng
+termid: period-of-a-light
+language_code: eng
+terms:
+- type: expression
+  designation: Period of a light
+  normative_status: preferred
+definition:
+- content: Period of a light – is the time interval between the beginnings of two
+    successive cycles of a rhythmic light.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

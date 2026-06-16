@@ -1,0 +1,31 @@
+---
+id: 5-4-105
+termid: 5-4-105
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Shaft_encoder
+---
+id: 5-4-105-eng
+termid: 5-4-105
+language_code: eng
+terms:
+- type: expression
+  designation: Shaft encoder
+  normative_status: preferred
+definition:
+- content: A device coupled mechanically to a shaft, used to convert shaft angle to
+    some form of binary code.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

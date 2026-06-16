@@ -1,0 +1,34 @@
+---
+id: 2-6-210
+termid: 2-6-210
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Superstructure_(of_a_buoy,_usually_lighted)
+---
+id: 2-6-210-eng
+termid: 2-6-210
+language_code: eng
+terms:
+- type: expression
+  designation: Superstructure (of a buoy, usually lighted)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Cage (U.S.A.)
+
+
+    That part of the buoy built on top of the body of the buoy and used as a daymark or part thereof and usually to support the light or a topmark or a radar reflector, or a combination of these.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 4-3-015
+termid: 4-3-015
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Surveillance_radar
+---
+id: 4-3-015-eng
+termid: 4-3-015
+language_code: eng
+terms:
+- type: expression
+  designation: Surveillance radar
+  normative_status: preferred
+definition:
+- content: |-
+    A radio navigational aid employing primary radar to display at a land station the position of craft within its range.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

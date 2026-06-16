@@ -1,0 +1,37 @@
+---
+id: 6-5-120
+termid: 6-5-120
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Discharge
+---
+id: 6-5-120-eng
+termid: 6-5-120
+language_code: eng
+terms:
+- type: expression
+  designation: Discharge
+  normative_status: preferred
+definition:
+- content: |-
+    1 The process by which a cell or battery delivers current to an external circuit. A discharge may be continuous or intermittent.
+
+
+    2 The quantity of electricity that is removed from a cell or battery while current is delivered to an external circuit.
+
+
+    It is usually measured in ampere-hours.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

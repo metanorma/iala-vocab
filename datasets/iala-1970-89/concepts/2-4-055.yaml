@@ -1,0 +1,30 @@
+---
+id: 2-4-055
+termid: 2-4-055
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sighting_Device
+---
+id: 2-4-055-eng
+termid: 2-4-055
+language_code: eng
+terms:
+- type: expression
+  designation: Sighting Device
+  normative_status: preferred
+definition:
+- content: A device which allows an optical apparatus to be aligned in a given direction.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,52 @@
+---
+id: 8-4-050
+termid: 8-4-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Winter_buoy
+---
+id: 8-4-050-eng
+termid: 8-4-050
+language_code: eng
+terms:
+- type: expression
+  designation: Winter buoy
+  normative_status: preferred
+definition:
+- content: |-
+    A buoy, often unlighted, used as a replacement for a light buoy or a large unlighted buoy in certain areas during the winter months when other aids to navigation are temporarily withdrawn.
+
+
+
+    Note 1:
+
+
+    The term ice buoy is used when the buoy is designed to withstand the effects ofice.
+
+
+
+    Note 2:
+
+
+    In German, the term Winterbetonnung means the state of the buoyage system as modified during the winter months.
+
+
+
+    Note 3:
+
+
+    The French term "bouee d'hiver" is not much used in France.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,30 @@
+---
+id: 8-3-165
+termid: 8-3-165
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Handy-billy_tackle
+---
+id: 8-3-165-eng
+termid: 8-3-165
+language_code: eng
+terms:
+- type: expression
+  designation: Handy-billy tackle
+  normative_status: preferred
+definition:
+- content: A light portable rope tackle rigged for hoisting and heaving.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

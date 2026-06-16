@@ -1,0 +1,33 @@
+---
+id: 5-2-080
+termid: 5-2-080
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Closed_Loop
+---
+id: 5-2-080-eng
+termid: 5-2-080
+language_code: eng
+terms:
+- type: expression
+  designation: Closed Loop
+  normative_status: preferred
+definition:
+- content: "Alternative term: Feedback loop\n\n\nA group of circuits including at
+    least one forward path and one feedback path which make up a closed loop in a
+    block diagram. \n\n\n\n\n\nFigure 2 - Block diagram of automatic control system
+    (5-2-045) incorporating a closed loop (5-2-080)\n\n\nReference: I.E.C. (modified)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

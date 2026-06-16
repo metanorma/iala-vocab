@@ -1,0 +1,37 @@
+---
+id: background-luminance
+termid: background-luminance
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Background_Luminance
+---
+id: background-luminance-eng
+termid: background-luminance
+language_code: eng
+terms:
+- type: expression
+  designation: Background Luminance
+  normative_status: preferred
+definition:
+- content: |-
+    A general area or large patch of light of roughly uniform brightness, directly behind an AtoN light, that impairs the mariner’s view of the AtoN light of interest.
+
+
+
+
+
+
+
+
+    Source: ENG7, Guideline G1073
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

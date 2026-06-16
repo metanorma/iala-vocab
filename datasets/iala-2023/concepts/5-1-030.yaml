@@ -1,0 +1,31 @@
+---
+id: 5-1-030
+termid: 5-1-030
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Availability_(quantitative)
+---
+id: 5-1-030-eng
+termid: 5-1-030
+language_code: eng
+terms:
+- type: expression
+  designation: Availability (quantitative)
+  normative_status: preferred
+definition:
+- content: The probability that a system will be available for operation at an arbitrarily
+    chosen instant in the future. It may be expressed as the ratio MTBF/(MTBF + MTTR).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

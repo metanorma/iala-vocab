@@ -1,0 +1,34 @@
+---
+id: 5-3-290
+termid: 5-3-290
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pre-emphasis
+---
+id: 5-3-290-eng
+termid: 5-3-290
+language_code: eng
+terms:
+- type: expression
+  designation: Pre-emphasis
+  normative_status: preferred
+definition:
+- content: |-
+    A modification of the gain-frequency characteristic of a channel normally resulting in an increase of the relative amplitude of higher frequency signal components which is used in conjunction with a separate, but corresponding, inverse process of de-emphasis to improve the signal-to-noise ratio.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

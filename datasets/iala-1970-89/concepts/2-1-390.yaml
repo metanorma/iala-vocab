@@ -1,0 +1,38 @@
+---
+id: 2-1-390
+termid: 2-1-390
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Threshold_of_Illuminance
+---
+id: 2-1-390-eng
+termid: 2-1-390
+language_code: eng
+terms:
+- type: expression
+  designation: Threshold of Illuminance
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Visual Threshold
+
+
+    The weakest illuminance produced at the eye which makes it possible to see a given source against a given background luminance.
+
+
+
+    Note: The internationally accepted value of the threshold of illuminance for observation of a light at night under typical maritime conditions is 2.10-7 lux (0.686 sea-mile candela, 2-1-060). This figure was agreed at the International Technical Conference of Lighthouse Authorities, Paris 1933. In Britain and U.S.A. this value is sometimes approximated by 0.67 sea-mile candela.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 5-3-240
+termid: 5-3-240
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Full_carrier
+---
+id: 5-3-240-eng
+termid: 5-3-240
+language_code: eng
+terms:
+- type: expression
+  designation: Full carrier
+  normative_status: preferred
+definition:
+- content: |-
+    Carrier emitted at a power level of 6 dB or less below the peak envelope power.
+
+
+    Reference: C.C.I.R.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

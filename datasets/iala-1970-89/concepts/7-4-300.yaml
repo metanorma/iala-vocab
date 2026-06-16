@@ -1,0 +1,31 @@
+---
+id: 7-4-300
+termid: 7-4-300
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Geological_survey
+---
+id: 7-4-300-eng
+termid: 7-4-300
+language_code: eng
+terms:
+- type: expression
+  designation: Geological survey
+  normative_status: preferred
+definition:
+- content: A survey undertaken to determine the predominant features and properties
+    of rock and soil formations across an area.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

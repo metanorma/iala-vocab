@@ -1,0 +1,34 @@
+---
+id: 1-3-020
+termid: 1-3-020
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Tide_-_Low_tide
+---
+id: 1-3-020-eng
+termid: 1-3-020
+language_code: eng
+terms:
+- type: expression
+  designation: Tide - Low tide
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Low water
+
+
+    Lowest water between two successive tides at the point of transition from falling tide to rising tide.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 6-4-025
+termid: 6-4-025
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Armature
+---
+id: 6-4-025-eng
+termid: 6-4-025
+language_code: eng
+terms:
+- type: expression
+  designation: Armature
+  normative_status: preferred
+definition:
+- content: |-
+    The part of a rotary electric machine in which an alternating voltage is generated and the load current is carried, or which, when a current is passed through the coils wound on it, provides motive power.
+
+
+    Note: In Great Britain, the term is used only if the part is on the rotor of the machine, and then it refers to the complete rotor.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

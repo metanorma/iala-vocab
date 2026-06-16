@@ -1,0 +1,33 @@
+---
+id: 4-3-550
+termid: 4-3-550
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Octahedral_cluster
+---
+id: 4-3-550-eng
+termid: 4-3-550
+language_code: eng
+terms:
+- type: expression
+  designation: Octahedral cluster
+  normative_status: preferred
+definition:
+- content: An arrangement of eight corner reflectors with common faces designed to
+    give a substantially uniform response in all directions. The octahedral cluster
+    is formed by mounting three rectangular plates mutually at right angles, the geometric
+    centres of the plates being coincident.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

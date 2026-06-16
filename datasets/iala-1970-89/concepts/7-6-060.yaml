@@ -1,0 +1,31 @@
+---
+id: 7-6-060
+termid: 7-6-060
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/To_strike_off
+---
+id: 7-6-060-eng
+termid: 7-6-060
+language_code: eng
+terms:
+- type: expression
+  designation: To strike off
+  normative_status: preferred
+definition:
+- content: To level off the free surface of concrete contained in shuttering by passing
+    a board across the surface, supported each side by the top edge of the shuttering.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

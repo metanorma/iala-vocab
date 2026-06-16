@@ -1,0 +1,42 @@
+---
+id: 7-3-165
+termid: 7-3-165
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Aggregate
+---
+id: 7-3-165-eng
+termid: 7-3-165
+language_code: eng
+terms:
+- type: expression
+  designation: Aggregate
+  normative_status: preferred
+definition:
+- content: |-
+    Inert granular material, either processed from rock, occurring naturally, such as gravel or sand, or manufactured, such as furnace slag.
+
+
+    Aggregate is mixed with cement and water in suitable proportions to make concrete.
+
+
+
+    Note: 1 A distinction is made between coarse aggregate retained on a 5 mm test sieve and fine aggregate which is passed by such a sieve.
+
+
+
+    Note: 2 In French and German a distinction is also made between different aggregates according to whether they are of natural origin or produced by crushing, e.g. in French between pierre roulee and pierre cassee and between sable de riviere and sable de concassage, and similarly in German between ungebrochenes Korn and gebrochenes Korn, between Grobkies and Schotter, between Kies and Splitt (all coarse aggregates), and between Sand and Brechsand (fine aggregates).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

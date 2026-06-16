@@ -1,0 +1,42 @@
+---
+id: 2-4-040
+termid: 2-4-040
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Rollers
+---
+id: 2-4-040-eng
+termid: 2-4-040
+language_code: eng
+terms:
+- type: expression
+  designation: Rollers
+  normative_status: preferred
+definition:
+- content: |-
+    Small rotating bodies in the form of balls, wheels, cylinders or truncated cones, used to assist movement by reducing friction.
+
+
+
+
+
+
+    Note 1: In lighthouse service, rollers are mainly used to assist and guide the movement of a rotating optic.
+
+
+
+    Note 2: In Germany, no general term equivalent to "rollers" exists, but particular terms are used when the rollers are in the form of balls (Kugellager), wheels (Walzenlager), cylinders (Zylinderlager) or truncated cones (Kegellager).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

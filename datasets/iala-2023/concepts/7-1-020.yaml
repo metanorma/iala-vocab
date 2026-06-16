@@ -1,0 +1,35 @@
+---
+id: 7-1-020
+termid: 7-1-020
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Island_station
+---
+id: 7-1-020-eng
+termid: 7-1-020
+language_code: eng
+terms:
+- type: expression
+  designation: Island station
+  normative_status: preferred
+definition:
+- content: |-
+    An aid to navigation station founded on or close to the coast of a small or sparsely populated island.
+
+
+
+    Note: The term island light is used for an island station having a light as its principal aid to navigation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,27 @@
+---
+id: nautophone
+termid: nautophone
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-unknown
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Nautophone
+---
+id: nautophone-eng
+termid: nautophone
+language_code: eng
+terms:
+- type: expression
+  designation: Nautophone
+  normative_status: preferred
+definition:
+- content: Nautophone – is a horn in which the membrane is activated electrically.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

@@ -1,0 +1,32 @@
+---
+id: 6-5-230
+termid: 6-5-230
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Trickle_charge
+---
+id: 6-5-230-eng
+termid: 6-5-230
+language_code: eng
+terms:
+- type: expression
+  designation: Trickle charge
+  normative_status: preferred
+definition:
+- content: A continuous charge at low rate that is intended to compensate for the
+    self discharge of a battery on open circuit and thus to maintain the battery in
+    a fully-charged condition.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

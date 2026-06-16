@@ -1,0 +1,35 @@
+---
+id: 6-3-100
+termid: 6-3-100
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mean_wind_speed
+---
+id: 6-3-100-eng
+termid: 6-3-100
+language_code: eng
+terms:
+- type: expression
+  designation: Mean wind speed
+  normative_status: preferred
+definition:
+- content: |-
+    The statistical mean of the instantaneous values of the wind speed during a given period.
+
+
+
+    Note: This period can vary from a few seconds to a year.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,32 @@
+---
+id: 2-2-150
+termid: 2-2-150
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Equi-Angular_Lens
+---
+id: 2-2-150-eng
+termid: 2-2-150
+language_code: eng
+terms:
+- type: expression
+  designation: Equi-Angular Lens
+  normative_status: preferred
+definition:
+- content: A prismatic lens obtained by the rotation of an equi-angular profile about
+    the optical axis of the lens. In such a lens, the bullseye and rings usually present
+    a continuous convex surface towards the source.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

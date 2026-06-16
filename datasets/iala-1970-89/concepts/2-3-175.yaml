@@ -1,0 +1,34 @@
+---
+id: 2-3-175
+termid: 2-3-175
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Straight-Filament_Lamp
+---
+id: 2-3-175-eng
+termid: 2-3-175
+language_code: eng
+terms:
+- type: expression
+  designation: Straight-Filament Lamp
+  normative_status: preferred
+definition:
+- content: |-
+    A lamp having a filament which is uncoiled and straight or which consists of uncoiled straight portions.
+
+
+    Reference: C.I.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

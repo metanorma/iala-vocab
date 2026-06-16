@@ -1,0 +1,41 @@
+---
+id: 2-4-125
+termid: 2-4-125
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cut_Screen_(G.B.)
+---
+id: 2-4-125-eng
+termid: 2-4-125
+language_code: eng
+terms:
+- type: expression
+  designation: Cut Screen (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Sector Screen (U.S.A.)
+
+
+    An opaque screen so placed as to provide a sharp cut-off to a beam in a sector light, and to reduce the angle of uncertainty (2-5-230).
+
+
+
+
+
+
+    Note: In French the term Cache is used when the device is located at the optic; and the term Ecran is used when the device is located at any other position, e.g. at the lantern or outside it.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

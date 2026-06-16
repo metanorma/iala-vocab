@@ -1,0 +1,40 @@
+---
+id: 5-2-125
+termid: 5-2-125
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Reference_input_signal
+---
+id: 5-2-125-eng
+termid: 5-2-125
+language_code: eng
+terms:
+- type: expression
+  designation: Reference input signal
+  normative_status: preferred
+definition:
+- content: |-
+    A signal external to a control loop which serves as the reference and standard of comparison for the directly controlled variable.
+
+
+
+
+
+    Figure 2 - Block diagram of automatic control system (5-2-045) incorporating a closed loop (5-2-080)
+
+
+    Reference: ANSI (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

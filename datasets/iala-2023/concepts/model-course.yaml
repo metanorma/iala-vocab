@@ -1,0 +1,30 @@
+---
+id: model-course
+termid: model-course
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Model_course
+---
+id: model-course-eng
+termid: model-course
+language_code: eng
+terms:
+- type: expression
+  designation: Model course
+  normative_status: preferred
+definition:
+- content: "urn:mrn:iala:dic:0901106e\n\n\nIALA Model Courses are training documents
+    which define the level of training and knowledge needed to reach levels of competence
+    defined by IALA. \n\n\nSource: \nIALA Guideline G1014 Accreditation of VTS training
+    organizations and approval to deliver IALA VTS model courses"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

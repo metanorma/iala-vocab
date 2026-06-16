@@ -1,0 +1,31 @@
+---
+id: 1-1-055
+termid: 1-1-055
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Discontinuation
+---
+id: 1-1-055-eng
+termid: 1-1-055
+language_code: eng
+terms:
+- type: expression
+  designation: Discontinuation
+  normative_status: preferred
+definition:
+- content: Official removal or switching-off of an aid to navigation and its deletion
+    from the authorized list (e.g. list of lights).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

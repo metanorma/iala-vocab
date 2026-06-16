@@ -1,0 +1,31 @@
+---
+id: 6-3-385
+termid: 6-3-385
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Calorific_value_(of_a_fuel)
+---
+id: 6-3-385-eng
+termid: 6-3-385
+language_code: eng
+terms:
+- type: expression
+  designation: Calorific value (of a fuel)
+  normative_status: preferred
+definition:
+- content: The number of heat energy units obtained by the complete combustion of
+    unit mass of the fuel.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

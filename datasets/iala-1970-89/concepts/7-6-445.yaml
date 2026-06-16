@@ -1,0 +1,30 @@
+---
+id: 7-6-445
+termid: 7-6-445
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/To_rivet
+---
+id: 7-6-445-eng
+termid: 7-6-445
+language_code: eng
+terms:
+- type: expression
+  designation: To rivet
+  normative_status: preferred
+definition:
+- content: To join together metal parts using rivets (see 7-2-355).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

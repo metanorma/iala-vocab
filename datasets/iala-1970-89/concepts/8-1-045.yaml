@@ -1,0 +1,31 @@
+---
+id: 8-1-045
+termid: 8-1-045
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hack_boat_(GB)
+---
+id: 8-1-045-eng
+termid: 8-1-045
+language_code: eng
+terms:
+- type: expression
+  designation: Hack boat (GB)
+  normative_status: preferred
+definition:
+- content: A small boat used at a depot as a platform for any minor maintenance duties,
+    such as painting.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

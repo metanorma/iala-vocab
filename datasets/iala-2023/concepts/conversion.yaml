@@ -1,0 +1,30 @@
+---
+id: conversion
+termid: conversion
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-12
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Conversion
+---
+id: conversion-eng
+termid: conversion
+language_code: eng
+terms:
+- type: expression
+  designation: Conversion
+  normative_status: preferred
+definition:
+- content: "Alteration, the object of which is a change of use of a building or artefact,
+    from one use or type to another.\n\n\n\nReference: Stirlingcharter \n\n\n(This
+    definition was noted at the IALA Seminar on the Practical Aspects of Lighthouse
+    Preservation in Gothenburg 2005)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

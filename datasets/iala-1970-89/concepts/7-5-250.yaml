@@ -1,0 +1,31 @@
+---
+id: 7-5-250
+termid: 7-5-250
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Bending_moment
+---
+id: 7-5-250-eng
+termid: 7-5-250
+language_code: eng
+terms:
+- type: expression
+  designation: Bending moment
+  normative_status: preferred
+definition:
+- content: A component of a moment at a section of a structural member, in the plane
+    of that section and resulting from all external forces to one side of that section.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

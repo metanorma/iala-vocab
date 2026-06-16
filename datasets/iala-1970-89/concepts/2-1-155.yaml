@@ -1,0 +1,40 @@
+---
+id: 2-1-155
+termid: 2-1-155
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Retro-Reflection
+---
+id: 2-1-155-eng
+termid: 2-1-155
+language_code: eng
+terms:
+- type: expression
+  designation: Retro-Reflection
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Reflex Reflection
+
+
+    Reflection in which light is returned in directions close to the direction from which it came, this property being maintained over wide variations of the direction of the incident light.
+
+
+
+
+
+    Reference: C.I.E. (Fig. 7d)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

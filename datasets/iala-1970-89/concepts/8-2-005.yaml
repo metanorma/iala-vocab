@@ -1,0 +1,32 @@
+---
+id: 8-2-005
+termid: 8-2-005
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Light_vessel_station
+---
+id: 8-2-005-eng
+termid: 8-2-005
+language_code: eng
+terms:
+- type: expression
+  designation: Light vessel station
+  normative_status: preferred
+definition:
+- content: The designated geographical location at which a light vessel can serve
+    as an aid to navigation. It is indicated on charts and in other appropriate nautical
+    documents.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

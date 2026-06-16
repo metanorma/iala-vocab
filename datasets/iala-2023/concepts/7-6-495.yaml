@@ -1,0 +1,30 @@
+---
+id: 7-6-495
+termid: 7-6-495
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mooring_eye
+---
+id: 7-6-495-eng
+termid: 7-6-495
+language_code: eng
+terms:
+- type: expression
+  designation: Mooring eye
+  normative_status: preferred
+definition:
+- content: Forged or cast metal loop to which mooring ropes may be tied.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

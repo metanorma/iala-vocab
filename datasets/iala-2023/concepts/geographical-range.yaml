@@ -1,0 +1,30 @@
+---
+id: geographical-range
+termid: geographical-range
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Geographical_Range
+---
+id: geographical-range-eng
+termid: geographical-range
+language_code: eng
+terms:
+- type: expression
+  designation: Geographical Range
+  normative_status: preferred
+definition:
+- content: The greatest distance at which an object or a light source can be seen
+    under conditions of perfect visibility, as limited only by the curvature of the
+    earth, by refraction of the atmosphere, and by the elevation of the observer and
+    the object or light.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

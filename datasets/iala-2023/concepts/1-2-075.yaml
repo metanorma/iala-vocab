@@ -1,0 +1,38 @@
+---
+id: 1-2-075
+termid: 1-2-075
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Position_line
+---
+id: 1-2-075-eng
+termid: 1-2-075
+language_code: eng
+terms:
+- type: expression
+  designation: Position line
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Line of position
+
+
+    A line (geometrical locus), defined by a constant measured value, on which a vessel may be identified on the basis of a measurement.
+
+
+
+    Note: There are terrestrial, astronomical and radio position lines.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

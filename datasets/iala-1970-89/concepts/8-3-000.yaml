@@ -1,0 +1,31 @@
+---
+id: 8-3-000
+termid: 8-3-000
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lifting_gear
+---
+id: 8-3-000-eng
+termid: 8-3-000
+language_code: eng
+terms:
+- type: expression
+  designation: Lifting gear
+  normative_status: preferred
+definition:
+- content: A general term used for equipment designed for lifting and transporting
+    loads such as cargo, buoys, chains, sinkers, also stores, etc.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

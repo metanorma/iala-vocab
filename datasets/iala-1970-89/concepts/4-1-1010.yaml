@@ -1,0 +1,34 @@
+---
+id: 4-1-1010
+termid: 4-1-1010
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Elevated_duct
+---
+id: 4-1-1010-eng
+termid: 4-1-1010
+language_code: eng
+terms:
+- type: expression
+  designation: Elevated duct
+  normative_status: preferred
+definition:
+- content: |-
+    A tropospheric radio duct of which the lower boundary is above the surface of the earth.
+
+
+    Reference: C.C.I.R.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

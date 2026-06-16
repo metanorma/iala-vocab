@@ -1,0 +1,34 @@
+---
+id: 1-1-395
+termid: 1-1-395
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Control_desk
+---
+id: 1-1-395-eng
+termid: 1-1-395
+language_code: eng
+terms:
+- type: expression
+  designation: Control desk
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Control console
+
+
+    A unit on which command or control devices or both are arranged, e.g. for lights, radio emitters or sound signals.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,61 @@
+---
+id: 2-1-060
+termid: 2-1-060
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lux
+---
+id: 2-1-060-eng
+termid: 2-1-060
+language_code: eng
+terms:
+- type: expression
+  designation: Lux
+  normative_status: preferred
+definition:
+- content: |-
+    Lumen per Square Metre
+
+
+    The SI Unit: of illuminance. The illuminance produced by a luminous flux of one lumen uniformly distributed over a surface of area one square metre.
+
+
+    Symbol: lx, lm/m2 1 lx = 1 lm/m2
+
+
+    Other metric Unit: phot (ph)
+
+
+    Non-metric units footcandle (fc)
+
+
+    sea-mile candela (s.m.c.)
+
+
+    1 fc = 1 lumen per square foot (lm/ft2)
+
+
+    1 s.m.c. = 1 lumen per square sea-mile
+
+
+    1 lx = 10-4 phot = footcandle
+
+
+    = 3.43 x 106 sea-mile candela
+
+
+    C.I.E.(modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

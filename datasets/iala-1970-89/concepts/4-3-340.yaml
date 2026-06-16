@@ -1,0 +1,37 @@
+---
+id: 4-3-340
+termid: 4-3-340
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Step-strobe_marker
+---
+id: 4-3-340-eng
+termid: 4-3-340
+language_code: eng
+terms:
+- type: expression
+  designation: Step-strobe marker
+  normative_status: preferred
+definition:
+- content: |-
+    Step-strobe marker (for an A-scan)
+
+
+    A form of strobe marker in which the discontinuity is in the form of a step in the time-base.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

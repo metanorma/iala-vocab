@@ -1,0 +1,60 @@
+---
+id: 2-3-100
+termid: 2-3-100
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Bulb
+---
+id: 2-3-100-eng
+termid: 2-3-100
+language_code: eng
+terms:
+- type: expression
+  designation: Bulb
+  normative_status: preferred
+definition:
+- content: |-
+    A transparent or translucent gas-tight envelope enclosing the luminous element of a lamp.
+
+
+    Reference: C.I.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)
+---
+id: 2-3-100-spa
+termid: 2-3-100
+language_code: spa
+terms:
+- type: expression
+  designation: Bulb/es
+  normative_status: preferred
+definition:
+- content: |-
+    Bulbo
+
+
+
+    Recubrimiento transparente o translúcido, hermético al gas que encierra el elemento luminoso de una lámpara.
+
+
+
+    Referencia: C.I.E. (modificado)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 4-1-000
+termid: 4-1-000
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radio_waves
+---
+id: 4-1-000-eng
+termid: 4-1-000
+language_code: eng
+terms:
+- type: expression
+  designation: Radio waves
+  normative_status: preferred
+definition:
+- content: |-
+    Electromagnetic waves of frequencies lower than 3 000 GHz propagated in space without artificial guide.
+
+
+    Reference: I.T.U.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

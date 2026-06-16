@@ -1,0 +1,34 @@
+---
+id: 1-1-030
+termid: 1-1-030
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Coast_guard_station
+---
+id: 1-1-030-eng
+termid: 1-1-030
+language_code: eng
+terms:
+- type: expression
+  designation: Coast guard station
+  normative_status: preferred
+definition:
+- content: |-
+    Coast guard station (U.S.A.)
+
+
+    Building(s) on the coast for housing personnel and equipment for saving life at sea. Also called life-saving station.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

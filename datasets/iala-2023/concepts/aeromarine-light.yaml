@@ -1,0 +1,28 @@
+---
+id: aeromarine-light
+termid: aeromarine-light
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-unknown
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Aeromarine_Light
+---
+id: aeromarine-light-eng
+termid: aeromarine-light
+language_code: eng
+terms:
+- type: expression
+  designation: Aeromarine Light
+  normative_status: preferred
+definition:
+- content: a marine light in which the beam has been deflected at an angle of 10°
+    - 15° above the horizon, so that the light is usable for aircraft navigation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

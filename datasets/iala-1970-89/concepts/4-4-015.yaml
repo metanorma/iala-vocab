@@ -1,0 +1,37 @@
+---
+id: 4-4-015
+termid: 4-4-015
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Master_station
+---
+id: 4-4-015-eng
+termid: 4-4-015
+language_code: eng
+terms:
+- type: expression
+  designation: Master station
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Master
+
+
+    In radio navigation, the station of a chain which provides a datum by which the emissions of the other (slave) stations are controlled.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

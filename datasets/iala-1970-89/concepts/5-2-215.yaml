@@ -1,0 +1,34 @@
+---
+id: 5-2-215
+termid: 5-2-215
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Instantaneous_value_(2)
+---
+id: 5-2-215-eng
+termid: 5-2-215
+language_code: eng
+terms:
+- type: expression
+  designation: Instantaneous value (2)
+  normative_status: preferred
+definition:
+- content: |-
+    The value of a variable quantity at the instant under consideration.
+
+
+    Reference: I.E.C. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

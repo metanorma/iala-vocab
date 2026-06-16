@@ -1,0 +1,35 @@
+---
+id: 1-2-155
+termid: 1-2-155
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Anchorage
+---
+id: 1-2-155-eng
+termid: 1-2-155
+language_code: eng
+terms:
+- type: expression
+  designation: Anchorage
+  normative_status: preferred
+definition:
+- content: |-
+    An area where ships can ride at anchor, sometimes designated by competent authorities.
+
+
+
+    Reference: I.H.B. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

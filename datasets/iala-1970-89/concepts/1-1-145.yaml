@@ -1,0 +1,56 @@
+---
+id: 1-1-145
+termid: 1-1-145
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radiant_exposure
+---
+id: 1-1-145-eng
+termid: 1-1-145
+language_code: eng
+terms:
+- type: expression
+  designation: Radiant exposure
+  normative_status: preferred
+definition:
+- content: |-
+    Radiant exposure (at a point of a surface)
+
+
+    The product of an irradiance (Ee) and its duration (dt).
+
+
+    Symbol He He = ?Ee.dt
+
+
+    Unit joule per square metre (J/m2)
+
+
+
+    Note: 1 Equivalent definition Surface density of the radiant energy received.
+
+
+
+    Note: 2 Formerly irradiation in English and irradiation in French.
+
+
+
+    Reference: C.I.E. (modified)
+
+
+
+    Note: 3 For further definitions see C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,38 @@
+---
+id: 7-1-085
+termid: 7-1-085
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Groyne
+---
+id: 7-1-085-eng
+termid: 7-1-085
+language_code: eng
+terms:
+- type: expression
+  designation: Groyne
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Groin
+
+
+    A structure extending into the sea from a beach or bank, designed to prevent littoral drift.
+
+
+
+    Note: The French term epi and the German term Buhne are also used for structures extending into rivers or estuaries, designed to restrict the cross-sectional area of the water flow.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

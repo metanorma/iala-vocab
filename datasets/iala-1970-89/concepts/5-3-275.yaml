@@ -1,0 +1,34 @@
+---
+id: 5-3-275
+termid: 5-3-275
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Rise_time_(of_a_pulse)
+---
+id: 5-3-275-eng
+termid: 5-3-275
+language_code: eng
+terms:
+- type: expression
+  designation: Rise time (of a pulse)
+  normative_status: preferred
+definition:
+- content: |-
+    The interval between the instants at which the instantaneous value of a pulse or of its envelope (if a carrier frequency pulse is concerned) first reaches specified lower and upper limits, namely 10% and 90% of the peak value unless otherwise stated.
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

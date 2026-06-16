@@ -1,0 +1,36 @@
+---
+id: 4-3-090-1
+termid: 4-3-090-1
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sandbox
+---
+id: 4-3-090-1-eng
+termid: 4-3-090-1
+language_code: eng
+terms:
+- type: expression
+  designation: Sandbox
+  normative_status: preferred
+definition:
+- content: "Alternative terms: A-scan, A-scope, Range amplitude display (G.B.)\n\n\nA
+    display in which the targets appear as vertical deflections from a line representing
+    a time base. \n\n\nThe target range is indicated by the horizontal distance of
+    the deflection from one end of the time base.\n\n\nThe amplitude of the vertical
+    deflection is a function of the signal intensity.\n\n\nReference: I.R.E. (modified)\n\n\n\n\n\n\n\n\n\nurn:mrn:iala:dic:0401502e\n\n\nA
+    position estimate with respect to the geographic or geodetic co-ordinates of the
+    Earth"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

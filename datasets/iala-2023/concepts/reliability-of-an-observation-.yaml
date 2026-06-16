@@ -1,0 +1,35 @@
+---
+id: reliability-of-an-observation-
+termid: reliability-of-an-observation-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Reliability_(of_an_observation)
+---
+id: reliability-of-an-observation--eng
+termid: reliability-of-an-observation-
+language_code: eng
+terms:
+- type: expression
+  designation: Reliability (of an observation)
+  normative_status: preferred
+definition:
+- content: |-
+    A measure of the effectiveness with which gross errors may be detected.
+
+
+    This internal reliability is usually expressed in terms of marginally detectable bias (MDB).
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

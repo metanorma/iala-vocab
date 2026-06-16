@@ -1,0 +1,32 @@
+---
+id: world-wide-radio-navigation-system
+termid: world-wide-radio-navigation-system
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/World-Wide_Radio_Navigation_System
+---
+id: world-wide-radio-navigation-system-eng
+termid: world-wide-radio-navigation-system
+language_code: eng
+terms:
+- type: expression
+  designation: World-Wide Radio Navigation System
+  normative_status: preferred
+definition:
+- content: |-
+    An IMO process whereby navigation system providers submit their systems for recognition. The requirements and procedures for acceptance are set out in IMO Resolution A.953(23).
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

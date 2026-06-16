@@ -1,0 +1,31 @@
+---
+id: 4-2-050
+termid: 4-2-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Marker_beacon
+---
+id: 4-2-050-eng
+termid: 4-2-050
+language_code: eng
+terms:
+- type: expression
+  designation: Marker beacon
+  normative_status: preferred
+definition:
+- content: In marine navigation, a low powered radio beacon which provides a local
+    aid in approaching jetties or narrow channels.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

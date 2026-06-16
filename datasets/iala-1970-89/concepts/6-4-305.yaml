@@ -1,0 +1,32 @@
+---
+id: 6-4-305
+termid: 6-4-305
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Auto-transformer_starting_(of_an_a.c._motor)
+---
+id: 6-4-305-eng
+termid: 6-4-305
+language_code: eng
+terms:
+- type: expression
+  designation: Auto-transformer starting (of an a.c. motor)
+  normative_status: preferred
+definition:
+- content: The process of starting an alternating-current motor with the primary winding
+    initially connected to an auto-transformer, and then reconnected directly to the
+    supply for the normal running conditions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 4-2-155
+termid: 4-2-155
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sense_finding
+---
+id: 4-2-155-eng
+termid: 4-2-155
+language_code: eng
+terms:
+- type: expression
+  designation: Sense finding
+  normative_status: preferred
+definition:
+- content: |-
+    The operation of eliminating the 180 degrees  ambiguity from the bearing indication given by some types of direction finder.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

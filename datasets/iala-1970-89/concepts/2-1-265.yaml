@@ -1,0 +1,59 @@
+---
+id: 2-1-265
+termid: 2-1-265
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Allard's_Law
+---
+id: 2-1-265-eng
+termid: 2-1-265
+language_code: eng
+terms:
+- type: expression
+  designation: Allard's Law
+  normative_status: preferred
+definition:
+- content: |-
+    A formula relating the illuminance produced on a normal surface at a given distance from a point source of light, the intensity of the light and the degree of transparency of the atmosphere (assumed uniform).
+
+
+    The law may be expressed as follows
+
+
+
+
+
+    where E is the resulting illuminance on this surface
+
+
+    I is the intensity of the incident light in the direction of measurement.
+
+
+    T is the atmospheric transmission factor (assumed uniform) for the specified Unit: distance.
+
+
+    x is the distance of the surface from the light source, measured in the specified units of distance.
+
+
+
+    Note: Another form of Allard's Law is
+
+
+
+
+
+    where V = meteorological visibility (2-1-280 and 2-1-290, Note:).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

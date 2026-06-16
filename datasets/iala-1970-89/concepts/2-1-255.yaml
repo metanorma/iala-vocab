@@ -1,0 +1,34 @@
+---
+id: 2-1-255
+termid: 2-1-255
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Nominal_Range
+---
+id: 2-1-255-eng
+termid: 2-1-255
+language_code: eng
+terms:
+- type: expression
+  designation: Nominal Range
+  normative_status: preferred
+definition:
+- content: |-
+    Nominal Range (of a light)
+
+
+    The nominal range of a light used as an aid to marine navigation is its luminous range in a homogeneous atmosphere in which the meteorological visibility (2-1-280) is 10 sea-miles.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

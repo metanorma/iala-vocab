@@ -1,0 +1,32 @@
+---
+id: 1-2-255
+termid: 1-2-255
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Groin
+---
+id: 1-2-255-eng
+termid: 1-2-255
+language_code: eng
+terms:
+- type: expression
+  designation: Groin
+  normative_status: preferred
+definition:
+- content: A structure extending into the water approximately perpendicular to a bank
+    or a shoreline. These structures are usually arranged in groups for the protection
+    of the coast or for regulating the width and the depth of a channel.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

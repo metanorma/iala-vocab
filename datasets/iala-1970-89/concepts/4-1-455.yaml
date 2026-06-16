@@ -1,0 +1,32 @@
+---
+id: 4-1-455
+termid: 4-1-455
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Top_loaded_antenna
+---
+id: 4-1-455-eng
+termid: 4-1-455
+language_code: eng
+terms:
+- type: expression
+  designation: Top loaded antenna
+  normative_status: preferred
+definition:
+- content: A vertical antenna capacitively loaded at its upper end. The loading is
+    often achieved by the attachment of wires or of a metal plate to the top of the
+    antenna.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,37 @@
+---
+id: 4-1-095
+termid: 4-1-095
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Carrier_power
+---
+id: 4-1-095-eng
+termid: 4-1-095
+language_code: eng
+terms:
+- type: expression
+  designation: Carrier power
+  normative_status: preferred
+definition:
+- content: |-
+    Carrier power (of a radio transmitter)
+
+
+    The average power supplied to the antenna transmission line by a transmitter during one radio frequency cycle under conditions of no modulation. This definition does not apply to pulse modulated emissions.
+
+
+    Reference: I.T.U.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

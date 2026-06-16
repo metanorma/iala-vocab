@@ -1,0 +1,42 @@
+---
+id: 3-1-130
+termid: 3-1-130
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Directional_pattern
+---
+id: 3-1-130-eng
+termid: 3-1-130
+language_code: eng
+terms:
+- type: expression
+  designation: Directional pattern
+  normative_status: preferred
+definition:
+- content: |-
+    Directional pattern (for a sound source or receiver and for a specified frequency band)
+
+
+    A description, generally presented graphically, of a characteristic value of the emission of the source or of the response of the receiver as a function of the direction in a specified plane through a specified point (if possible the acoustic centre).
+
+
+
+    Note: 1 This definition includes the weighted sound level indicated by a sound level meter.
+
+
+
+    Note: 2 In the case of the sound source the term Directional radiation pattern is used. In the case of the sound receiver, the term Directional response pattern is used.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

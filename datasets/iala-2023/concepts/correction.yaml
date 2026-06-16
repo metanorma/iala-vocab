@@ -1,0 +1,30 @@
+---
+id: correction
+termid: correction
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Correction
+---
+id: correction-eng
+termid: correction
+language_code: eng
+terms:
+- type: expression
+  designation: Correction
+  normative_status: preferred
+definition:
+- content: The numerical value of a correction is the best estimate that can be made
+    of the difference between the true and the measured value of a parameter. The
+    sign is such that a correction that is to be added to an observed reading is taken
+    as positive.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

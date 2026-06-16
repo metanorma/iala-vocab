@@ -1,0 +1,38 @@
+---
+id: 4-4-230
+termid: 4-4-230
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hi-fix
+---
+id: 4-4-230-eng
+termid: 4-4-230
+language_code: eng
+terms:
+- type: expression
+  designation: Hi-fix
+  normative_status: preferred
+definition:
+- content: |-
+    A high precision phase comparison position fixing system operating in the region of 2 MHz comprising, on the hyperbolic layout, three transmitting stations (master and two slaves) sited ashore to generate two intersecting patterns of lines of position.
+
+
+    A common radio frequency is employed and the stations operate on a time sharing basis. The effective range is 100-200 miles.
+
+
+
+    Note: The Hi-fix system can also operate on the two range principle by mounting the master transmitter and the receiver on board ship, as in the Lambda system. Under this arrangement it is only possible for the ship equipped with the master station to use the service.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

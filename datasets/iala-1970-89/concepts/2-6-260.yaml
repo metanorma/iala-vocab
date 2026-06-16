@@ -1,0 +1,34 @@
+---
+id: 2-6-260
+termid: 2-6-260
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Chequers_(G.B.)
+---
+id: 2-6-260-eng
+termid: 2-6-260
+language_code: eng
+terms:
+- type: expression
+  designation: Chequers (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    An arrangement of different colours, usually black and white or red and white, arranged in alternate squares in the pattern of a chess-board.
+
+
+    This arrangement is used in some countries as an additional distinguishing character for buoys. (Fig.67a)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

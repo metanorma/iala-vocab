@@ -1,0 +1,31 @@
+---
+id: 7-6-530
+termid: 7-6-530
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/To_level_(surveying)
+---
+id: 7-6-530-eng
+termid: 7-6-530
+language_code: eng
+terms:
+- type: expression
+  designation: To level (surveying)
+  normative_status: preferred
+definition:
+- content: To determine differences in altitude using an optical instrument and a
+    calibrated levelling staff.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

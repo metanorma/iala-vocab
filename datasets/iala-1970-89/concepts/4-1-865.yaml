@@ -1,0 +1,33 @@
+---
+id: 4-1-865
+termid: 4-1-865
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Circularly_polarized_wave
+---
+id: 4-1-865-eng
+termid: 4-1-865
+language_code: eng
+terms:
+- type: expression
+  designation: Circularly polarized wave
+  normative_status: preferred
+definition:
+- content: |-
+    A wave which can be resolved into two plane polarized waves which are perpendicular to each other and propagate in the same direction.
+    The amplitudes of the waves are equal and in time-phase quadrature.
+    The tip of the component of the electric field vector in the plane normal to the direction of propagation describes a circle.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

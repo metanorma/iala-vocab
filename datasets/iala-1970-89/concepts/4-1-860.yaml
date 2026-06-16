@@ -1,0 +1,34 @@
+---
+id: 4-1-860
+termid: 4-1-860
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Elliptically_polarized_wave
+---
+id: 4-1-860-eng
+termid: 4-1-860
+language_code: eng
+terms:
+- type: expression
+  designation: Elliptically polarized wave
+  normative_status: preferred
+definition:
+- content: A wave which can be resolved into two plane polarized waves which are perpendicular
+    to each other and propagate in the same direction. The amplitudes of the waves
+    may be equal or un-equal and of arbitrary time-phase. The tip of the component
+    of the electric field vector in the plane normal to the direction of propagation
+    describes an ellipse.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

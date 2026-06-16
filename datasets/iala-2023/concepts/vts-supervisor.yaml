@@ -1,0 +1,29 @@
+---
+id: vts-supervisor
+termid: vts-supervisor
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/VTS_Supervisor
+---
+id: vts-supervisor-eng
+termid: vts-supervisor
+language_code: eng
+terms:
+- type: expression
+  designation: VTS Supervisor
+  normative_status: preferred
+definition:
+- content: "VTS-2012-51\n\n\nAn appropriately qualified VTSO carrying out supervisory
+    duties in a VTS Centre on behalf of a VTS authority.\t\n\n\n\n(VTS33/output/8
+    refers)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

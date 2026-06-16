@@ -1,0 +1,47 @@
+---
+id: 2-3-110
+termid: 2-3-110
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cap(G.B.)
+---
+id: 2-3-110-eng
+termid: 2-3-110
+language_code: eng
+terms:
+- type: expression
+  designation: Cap(G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Base (U.S.A.)
+
+
+    That part of a lamp which holds it in a lamp holder and usually provides a connection to the electric supply.
+
+
+
+
+
+
+    Note: The cap (base) of a lamp and its corresponding holder (socket) are generally identified by one or more letters followed by a number which indicates approximately the principal dimension (generally the diameter) of the cap in millimetres.
+
+
+    For more information, see I.E.C. Recommendations Publication No.61 "Lamp caps and holders together with gauges for the control of interchangeability and safety".
+
+
+    Reference: C.I.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

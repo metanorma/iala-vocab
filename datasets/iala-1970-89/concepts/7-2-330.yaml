@@ -1,0 +1,31 @@
+---
+id: 7-2-330
+termid: 7-2-330
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gusset_plate
+---
+id: 7-2-330-eng
+termid: 7-2-330
+language_code: eng
+terms:
+- type: expression
+  designation: Gusset plate
+  normative_status: preferred
+definition:
+- content: A steel plate, normally rectangular or triangular, used for making or reinforcing
+    the connections between the members of a truss.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,40 @@
+---
+id: 2-1-480
+termid: 2-1-480
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Chromaticity_Co-ordinates
+---
+id: 2-1-480-eng
+termid: 2-1-480
+language_code: eng
+terms:
+- type: expression
+  designation: Chromaticity Co-ordinates
+  normative_status: preferred
+definition:
+- content: |-
+    The ratio of each of the three tristimulus values to their sum.
+
+
+    Symbol: (Reference: C.I.E. 1931) x, y, z.
+
+
+    Reference: C.I.E. (extract)
+
+
+    Note: See the Note: to 2-1-475. For a field of vision of about 10 degrees the symbols are x10, y10, z10
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

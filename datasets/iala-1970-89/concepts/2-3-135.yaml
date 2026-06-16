@@ -1,0 +1,41 @@
+---
+id: 2-3-135
+termid: 2-3-135
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Goliath_Cap_(G.B.)
+---
+id: 2-3-135-eng
+termid: 2-3-135
+language_code: eng
+terms:
+- type: expression
+  designation: Goliath Cap (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Mogul Base (U.S.A.)
+
+
+    A large screw cap (type E.40)
+
+
+
+    Note: In U.S.A. the term "mogul" indicates the size only; it is not restricted to a screw cap.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

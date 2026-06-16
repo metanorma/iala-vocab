@@ -1,0 +1,31 @@
+---
+id: continuity
+termid: continuity
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Continuity
+---
+id: continuity-eng
+termid: continuity
+language_code: eng
+terms:
+- type: expression
+  designation: Continuity
+  normative_status: preferred
+definition:
+- content: |-
+    urn:mrn:iala:dic:0101304e
+
+
+    The probability that, assuming a fault-free receiver, a user will be able to determine position with specified accuracy and is able to monitor the integrity of the determined position over the (short) time interval applicable for a particular operation within a limited part of the coverage area.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

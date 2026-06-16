@@ -1,0 +1,44 @@
+---
+id: 4-4-380
+termid: 4-4-380
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lorac
+---
+id: 4-4-380-eng
+termid: 4-4-380
+language_code: eng
+terms:
+- type: expression
+  designation: Lorac
+  normative_status: preferred
+definition:
+- content: |-
+    A navigation system in which a position fix is obtained by phase comparison of continuous wave transmissions.
+
+
+    Two widely spaced transmitters are used, the beat note between their frequencies being derived on the vessel.
+
+
+    This is phase compared with a similar beat note, produced at a fixed shore location, and transmitted to the vessel on a different radio frequency, to produce a line of position.
+
+
+    A second line is produced by a similar system.
+
+
+
+    Note: This is similar to the Raydist system (4-4-270).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,47 @@
+---
+id: 2-2-160
+termid: 2-2-160
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Focal_Distance
+---
+id: 2-2-160-eng
+termid: 2-2-160
+language_code: eng
+terms:
+- type: expression
+  designation: Focal Distance
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Focal Length
+
+
+    1. (Of a lens, other than a fixed lens, or of a focusing reflector).
+
+
+    The distance measured along the optical axis of the lens or reflector between the focus and (in practice) the point where the optical axis intersects the nearer surface of the lens or reflector.
+
+
+
+
+
+
+    2. (Of a fixed lens).
+
+
+    The distance, measured along a straight line through the focus and normal to the axis (2-2-115), between the focus and (in practice) the point where the line intersects the inner surface of the lens. (Fig. 16b)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

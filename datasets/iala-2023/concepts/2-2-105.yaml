@@ -1,0 +1,35 @@
+---
+id: 2-2-105
+termid: 2-2-105
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Focus_(of_a_fixed_lens)
+---
+id: 2-2-105-eng
+termid: 2-2-105
+language_code: eng
+terms:
+- type: expression
+  designation: Focus (of a fixed lens)
+  normative_status: preferred
+definition:
+- content: |-
+    The point of intersection of the axis of the lens (2-2-115) and the median horizontal plane through the belt. A ray of light emitted by a point source situated at this point is re-directed by an element of the lens into a direction normal to the axis of the lens. (Figs. 16b and 18)
+
+
+
+    Note: The term "focus" in its more general and correct sense is given in 2-1-125.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

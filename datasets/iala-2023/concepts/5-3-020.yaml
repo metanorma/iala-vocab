@@ -1,0 +1,34 @@
+---
+id: 5-3-020
+termid: 5-3-020
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Amplitude_modulation_(AM)
+---
+id: 5-3-020-eng
+termid: 5-3-020
+language_code: eng
+terms:
+- type: expression
+  designation: Amplitude modulation (AM)
+  normative_status: preferred
+definition:
+- content: |-
+    Modulation in which the amplitude of a carrier is the characteristic varied.
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

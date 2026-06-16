@@ -1,0 +1,31 @@
+---
+id: 8-1-015
+termid: 8-1-015
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Inland_tender_(USA)
+---
+id: 8-1-015-eng
+termid: 8-1-015
+language_code: eng
+terms:
+- type: expression
+  designation: Inland tender (USA)
+  normative_status: preferred
+definition:
+- content: A vessel designed for servicing aids to navigation in enclosed waters.
+    Some inland tenders have limited ice-breaking capabilities.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

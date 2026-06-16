@@ -1,0 +1,35 @@
+---
+id: 6-5-225
+termid: 6-5-225
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Battery_charger
+---
+id: 6-5-225-eng
+termid: 6-5-225
+language_code: eng
+terms:
+- type: expression
+  designation: Battery charger
+  normative_status: preferred
+definition:
+- content: |-
+    An apparatus designed to charge a secondary battery.
+
+
+
+    Note: It is usually a converter from alternating current to direct or unidirectional current.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

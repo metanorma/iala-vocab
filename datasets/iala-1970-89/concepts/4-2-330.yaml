@@ -1,0 +1,41 @@
+---
+id: 4-2-330
+termid: 4-2-330
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Total_polarization_error
+---
+id: 4-2-330-eng
+termid: 4-2-330
+language_code: eng
+terms:
+- type: expression
+  designation: Total polarization error
+  normative_status: preferred
+definition:
+- content: |-
+    Total polarization error (in bearing)
+
+
+    For a specified direction of incidence and a specified ratio of the amplitudes of the vertically and horizontally polarized components of the incident wave, the maximum value of the polarization error with respect to variation of the phase difference between these components.
+
+
+
+    Note: The term is applicable only to direction finders designed for operation with either vertically polarized waves or horizontally polarized waves.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

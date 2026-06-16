@@ -1,0 +1,31 @@
+---
+id: 4-1-200
+termid: 4-1-200
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pulse
+---
+id: 4-1-200-eng
+termid: 4-1-200
+language_code: eng
+terms:
+- type: expression
+  designation: Pulse
+  normative_status: preferred
+definition:
+- content: An electrical disturbance whose duration is short in relation to the time
+    scale of interest and whose initial and final values are the same.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

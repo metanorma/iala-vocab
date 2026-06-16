@@ -1,0 +1,37 @@
+---
+id: 4-2-220
+termid: 4-2-220
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Spread_of_bearings
+---
+id: 4-2-220-eng
+termid: 4-2-220
+language_code: eng
+terms:
+- type: expression
+  designation: Spread of bearings
+  normative_status: preferred
+definition:
+- content: |-
+    Range of bearings
+
+
+    The angular range of all the corrected bearings given by a series of bearing observations of a given fixed transmitter.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 3-1-175
+termid: 3-1-175
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Timbre
+---
+id: 3-1-175-eng
+termid: 3-1-175
+language_code: eng
+terms:
+- type: expression
+  designation: Timbre
+  normative_status: preferred
+definition:
+- content: |-
+    That subjective quality of a sound which enables a listener to judge that two sounds having the same loudness and pitch are dissimilar.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

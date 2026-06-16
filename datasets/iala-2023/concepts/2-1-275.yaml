@@ -1,0 +1,37 @@
+---
+id: 2-1-275
+termid: 2-1-275
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Visibility
+---
+id: 2-1-275-eng
+termid: 2-1-275
+language_code: eng
+terms:
+- type: expression
+  designation: Visibility
+  normative_status: preferred
+definition:
+- content: |-
+    1. That property of the atmosphere which determines the ability of an observer to see and identify prominent objects by day, or lights or lighted objects by night.
+
+
+    2. A measure of this property of the atmosphere expressed in units of distance.
+
+
+    3. Commonly used for "meteorological visibility".
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

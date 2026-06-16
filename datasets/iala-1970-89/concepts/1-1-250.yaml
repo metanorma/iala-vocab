@@ -1,0 +1,38 @@
+---
+id: 1-1-250
+termid: 1-1-250
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stationary_wave
+---
+id: 1-1-250-eng
+termid: 1-1-250
+language_code: eng
+terms:
+- type: expression
+  designation: Stationary wave
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Standing wave
+
+
+    A state of vibration in which the oscillatory phenomena at all points are governed by the same time function, with the exception of a numerical factor, varying from one point to another.
+
+
+
+    Reference: I.E.C. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

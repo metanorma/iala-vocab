@@ -1,0 +1,38 @@
+---
+id: augmentation
+termid: augmentation
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Augmentation
+---
+id: augmentation-eng
+termid: augmentation
+language_code: eng
+terms:
+- type: expression
+  designation: Augmentation
+  normative_status: preferred
+definition:
+- content: |-
+    Any technique of providing enhancement to GNSS in order to provide improved navigation performance to the user.
+
+
+    – Satellite-based augmentation system (SBAS). A system providing additional satellite signals in order to enhance the performance of the GNSS service. (e.g. Wide Area Augmentation System (WAAS, US); European Geostationary Navigation Overlay Service (EGNOS); Multi-transport Satellite Augmentation System (Japan); GPS Aided Geo Augmented Navigation system (GAGAN, India)
+
+
+    – Ground-based augmentation system (GBAS). A system providing additional signals from a ground-based station in order to enhance the performance of the GNSS service. (e.g. IALA DGNSS beacon system)
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

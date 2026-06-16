@@ -1,0 +1,33 @@
+---
+id: 6-2-000
+termid: 6-2-000
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Internal_combustion_engine
+---
+id: 6-2-000-eng
+termid: 6-2-000
+language_code: eng
+terms:
+- type: expression
+  designation: Internal combustion engine
+  normative_status: preferred
+definition:
+- content: An engine in which the combustion of a fuel or fuel-air mixture takes place
+    in an enclosed chamber, producing the power stroke directly, and in which the
+    products of combustion form the working medium. Petrol, diesel and gas engines
+    are internal combustion engines.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

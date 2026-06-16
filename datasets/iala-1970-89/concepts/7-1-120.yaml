@@ -1,0 +1,35 @@
+---
+id: 7-1-120
+termid: 7-1-120
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Engine_room
+---
+id: 7-1-120-eng
+termid: 7-1-120
+language_code: eng
+terms:
+- type: expression
+  designation: Engine room
+  normative_status: preferred
+definition:
+- content: |-
+    A building or part of a building designed to house operational engines (alternator sets, motors, compressors, etc.).
+
+
+
+    Note: In German the term Maschinenhaus is used when a separate building is used for this purpose.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

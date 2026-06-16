@@ -1,0 +1,45 @@
+---
+id: 2-1-300
+termid: 2-1-300
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Contrast_Threshold
+---
+id: 2-1-300-eng
+termid: 2-1-300
+language_code: eng
+terms:
+- type: expression
+  designation: Contrast Threshold
+  normative_status: preferred
+definition:
+- content: |-
+    (Luminance) Contrast Threshold
+
+
+    The minimum contrast at the eye of a given observer at which an object can be detected.
+
+
+
+    Note: The contrast threshold is a property of the eye of the individual observer.
+    For most normal observers under ordinary daylight conditions there is good agreement between values for different individuals.
+
+
+    The average value has been taken to be 0.02 in most studies of visibility, and this value is correct for laboratory observation under daylight conditions.
+
+
+    For practical observation in the field, a value of 0.05 is more appropriate and has been adopted internationally.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

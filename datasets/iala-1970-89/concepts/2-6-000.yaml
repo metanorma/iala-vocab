@@ -1,0 +1,49 @@
+---
+id: 2-6-000
+termid: 2-6-000
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Navigation_Mark
+---
+id: 2-6-000-eng
+termid: 2-6-000
+language_code: eng
+terms:
+- type: expression
+  designation: Navigation Mark
+  normative_status: preferred
+definition:
+- content: |-
+    (Navigation) Mark
+
+
+    Alternative term: (Visual) Aid (to navigation), Seamark
+
+
+    An artificial or natural object of easily recognisable shape or colour, or both, situated in such a position that it may be identified on a chart or related to a known navigational instruction (e.g. taken from a List of Lights, etc.).
+
+
+
+    Note 1: This term includes buoys.
+
+
+
+    Note 2: A fixed artificial navigation mark is often called a Beacon. This may be lighted (2-5-005) or unlighted (2-6-030). The French term Balise is generally used to describe an unlighted beacon.
+
+
+
+    Note 3: In French, the term Amer Remarquable is applied to a navigation mark which is particularly easily seen, by virtue of its form, size or colour.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 2-1-305
+termid: 2-1-305
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Percentage_of_Visibility
+---
+id: 2-1-305-eng
+termid: 2-1-305
+language_code: eng
+terms:
+- type: expression
+  designation: Percentage of Visibility
+  normative_status: preferred
+definition:
+- content: The percentage of nights during which a light is seen from a given point
+    during a given period.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

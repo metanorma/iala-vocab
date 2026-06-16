@@ -1,0 +1,37 @@
+---
+id: 4-1-555
+termid: 4-1-555
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Corner_antenna
+---
+id: 4-1-555-eng
+termid: 4-1-555
+language_code: eng
+terms:
+- type: expression
+  designation: Corner antenna
+  normative_status: preferred
+definition:
+- content: |-
+    Corner reflector antenna (deprecated)
+
+
+    A directional antenna consisting of an element or an array of elements situated within the angle formed by two plane reflecting surfaces.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

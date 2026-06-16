@@ -1,0 +1,39 @@
+---
+id: 6-3-025
+termid: 6-3-025
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Solar_irradiance
+---
+id: 6-3-025-eng
+termid: 6-3-025
+language_code: eng
+terms:
+- type: expression
+  designation: Solar irradiance
+  normative_status: preferred
+definition:
+- content: |-
+    Radiant power incident from the sun upon unit area of a receptor (e.g. a solar cell).
+
+
+
+    Note: 1 Solar irradiance may be direct irradiance or diffuse irradiance.
+
+
+
+    Note: 2 The solar irradiance depends on the geographical latitude, the season of the year and the time of the day, also on the intensity of solar emission and the transmission properties of the atmosphere, the value of air-mass and the inclination of the surface of the receptor.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

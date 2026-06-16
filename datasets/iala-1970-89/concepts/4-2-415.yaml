@@ -1,0 +1,32 @@
+---
+id: 4-2-415
+termid: 4-2-415
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Matching_unit
+---
+id: 4-2-415-eng
+termid: 4-2-415
+language_code: eng
+terms:
+- type: expression
+  designation: Matching unit
+  normative_status: preferred
+definition:
+- content: A unit, comprising a reactive network, used to match the complex impedance
+    appearing at the feeder to the output impedance of a transmitter or the input
+    impedance of a receiver.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

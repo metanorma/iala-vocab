@@ -1,0 +1,31 @@
+---
+id: 8-4-015
+termid: 8-4-015
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gong_buoy_(USA)
+---
+id: 8-4-015-eng
+termid: 8-4-015
+language_code: eng
+terms:
+- type: expression
+  designation: Gong buoy (USA)
+  normative_status: preferred
+definition:
+- content: A buoy fitted with a group of saucer-shaped bells of different tones (see
+    Chapter 3)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

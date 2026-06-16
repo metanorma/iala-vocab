@@ -1,0 +1,36 @@
+---
+id: 5-2-370
+termid: 5-2-370
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Rise_time
+---
+id: 5-2-370-eng
+termid: 5-2-370
+language_code: eng
+terms:
+- type: expression
+  designation: Rise time
+  normative_status: preferred
+definition:
+- content: "The time required for the output of a system to make the change from a
+    small specified percentage (often 5 to 10%) to a large specified percentage (often
+    90 to 95%) of the steady-state value either before overshoot or in the absence
+    of overshoot.\n\n\n\nNote:: If the term is unqualified, response to a step change
+    is understood; otherwise the pattern and magnitude of the stimulus should be specified.
+    \n\n\n\n\n\nFigure 3 - Typical time response of a system to a step increase of
+    input.\n\n\nReference: ANSI (modified)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

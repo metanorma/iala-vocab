@@ -1,0 +1,27 @@
+---
+id: fog-light
+termid: fog-light
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-unknown
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fog_Light
+---
+id: fog-light-eng
+termid: fog-light
+language_code: eng
+terms:
+- type: expression
+  designation: Fog Light
+  normative_status: preferred
+definition:
+- content: Fog Light – is a light which is operational under low visibility conditions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

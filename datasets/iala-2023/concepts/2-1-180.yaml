@@ -1,0 +1,42 @@
+---
+id: 2-1-180
+termid: 2-1-180
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mixed_Transmission
+---
+id: 2-1-180-eng
+termid: 2-1-180
+language_code: eng
+terms:
+- type: expression
+  designation: Mixed Transmission
+  normative_status: preferred
+definition:
+- content: |-
+    Regular transmission and diffuse transmission occurring simultaneously. (Fig. 8c)
+
+
+
+    Note: The luminance received from a point source after regular transmission varies inversely as the square of the distance between the source and the point at which the illuminance is produced.
+    That received after diffuse transmission varies inversely as the square of the distance to the diffuser.
+
+
+
+
+
+    Reference: C.I.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

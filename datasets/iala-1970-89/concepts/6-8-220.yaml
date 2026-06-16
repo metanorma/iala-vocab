@@ -1,0 +1,35 @@
+---
+id: 6-8-220
+termid: 6-8-220
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Time_switch_(2)
+---
+id: 6-8-220-eng
+termid: 6-8-220
+language_code: eng
+terms:
+- type: expression
+  designation: Time switch (2)
+  normative_status: preferred
+definition:
+- content: |-
+    A timing device for opening or closing one or more electric circuits at predetermined times.
+
+
+
+    Note:  A time switch that operates at sunrise and sunset is called a solar switch.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

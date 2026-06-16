@@ -1,0 +1,38 @@
+---
+id: 2-6-115
+termid: 2-6-115
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Leading_Marks_(G.B.)
+---
+id: 2-6-115-eng
+termid: 2-6-115
+language_code: eng
+terms:
+- type: expression
+  designation: Leading Marks (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Range Marks (U.S.A.)
+
+
+    Navigation marks used as components of a leading-line or range.
+
+
+
+    Note: The German term Richtbaken applies only to unlighted  leading marks. Where lights are used, the term Richtfeuer (2-5-245) applies.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,40 @@
+---
+id: 4-3-210
+termid: 4-3-210
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radar_echo
+---
+id: 4-3-210-eng
+termid: 4-3-210
+language_code: eng
+terms:
+- type: expression
+  designation: Radar echo
+  normative_status: preferred
+definition:
+- content: |-
+    (Radar) Echo
+
+
+    1. The portion of energy of the transmitted pulse which is reflected to a receiver.
+
+
+    2. The effect of 1 on a radar display.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

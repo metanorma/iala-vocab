@@ -1,0 +1,41 @@
+---
+id: 8-5-085
+termid: 8-5-085
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Multi-point_mooring
+---
+id: 8-5-085-eng
+termid: 8-5-085
+language_code: eng
+terms:
+- type: expression
+  designation: Multi-point mooring
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Multi-leg mooring
+
+
+    A mooring in which lines are taken to a number of points (anchors or sinkers) at the sea bed.
+
+
+
+    Note:
+
+
+    Other related self-explanatory terms are single-point or single-leg mooring, three-point or three-leg mooring, etc...
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

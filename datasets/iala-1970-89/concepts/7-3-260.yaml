@@ -1,0 +1,30 @@
+---
+id: 7-3-260
+termid: 7-3-260
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Batch
+---
+id: 7-3-260-eng
+termid: 7-3-260
+language_code: eng
+terms:
+- type: expression
+  designation: Batch
+  normative_status: preferred
+definition:
+- content: The quantity of concrete or other material mixed in one operation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,32 @@
+---
+id: 2-4-115
+termid: 2-4-115
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Shutter
+---
+id: 2-4-115-eng
+termid: 2-4-115
+language_code: eng
+terms:
+- type: expression
+  designation: Shutter
+  normative_status: preferred
+definition:
+- content: "A device comprising opaque strips, usually mounted so that each may be
+    rotated through about 90 degrees on an axis. \n\n\nAll strips rotate simultaneously
+    so as alternately to exhibit or obscure a light."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

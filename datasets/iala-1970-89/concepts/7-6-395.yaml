@@ -1,0 +1,35 @@
+---
+id: 7-6-395
+termid: 7-6-395
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Jack
+---
+id: 7-6-395-eng
+termid: 7-6-395
+language_code: eng
+terms:
+- type: expression
+  designation: Jack
+  normative_status: preferred
+definition:
+- content: |-
+    A device used for exerting a force, operating either by a screw action or using a hydraulic ram.
+
+
+
+    Note: In French a distinction is made between cric, a screw jack, and verin, a hydraulic jack.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

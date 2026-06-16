@@ -1,0 +1,56 @@
+---
+id: 1-1-150
+termid: 1-1-150
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radiant_exitance
+---
+id: 1-1-150-eng
+termid: 1-1-150
+language_code: eng
+terms:
+- type: expression
+  designation: Radiant exitance
+  normative_status: preferred
+definition:
+- content: |-
+    Radiant exitance (at a point of a surface)
+
+
+    Quotient of the radiant flux(dFe) leaving an element of the surface containing the point, by the area of that element (dA). by ???
+
+
+    Symbol Me
+
+
+    Unit  watt per square metre (W/m2)
+
+
+
+    Reference: C.I.E. (modified)
+
+
+
+    Note: 1  If the radiant flux Fe may be considered uniformly emitted by a finite plane surface of area A, the radiant exitance of this surface is given by ??
+
+
+
+    Note: 2 Formerly known in English as radiant emittance and in French as emittance energetique.
+
+
+
+    Note: 3 For further definitions see C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

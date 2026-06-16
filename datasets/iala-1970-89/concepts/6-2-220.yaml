@@ -1,0 +1,33 @@
+---
+id: 6-2-220
+termid: 6-2-220
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pre-ignition
+---
+id: 6-2-220-eng
+termid: 6-2-220
+language_code: eng
+terms:
+- type: expression
+  designation: Pre-ignition
+  normative_status: preferred
+definition:
+- content: Undesirable self-ignition of the mixture inside the cylinder of an engine
+    before the occurrence of the spark. This may be due to excessive temperatures
+    of parts of the surface of the combustion chamber or the exhaust valve head, or
+    of carbon deposits within the chamber.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

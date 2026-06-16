@@ -1,0 +1,51 @@
+---
+id: 5-3-200
+termid: 5-3-200
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Detection_(2)
+---
+id: 5-3-200-eng
+termid: 5-3-200
+language_code: eng
+terms:
+- type: expression
+  designation: Detection (2)
+  normative_status: preferred
+definition:
+- content: |-
+    The process of extracting information from an electromagnetic wave.
+
+
+
+    Note: 1 Often an asymmetrical conducting device is used.
+
+
+
+    Note: 2 The use of the term for the action of a frequency changer is deprecated.
+
+
+
+    Note: 3 Where there was no original modulating signal the use of the term "demodulation "as an alternative for "detection" is deprecated.
+
+
+
+    Note: 4 In other languages there are more specific terms. There is no general French equival ent. The term "detection" is used when the electromagnetic wave is an amplitude modulated oscillation. The term "discrimination" is used when the electromagnetic wave is a frequency or phase modulated oscillation.
+
+
+
+    Reference: I.E.C. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

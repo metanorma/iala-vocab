@@ -1,0 +1,34 @@
+---
+id: 6-6-170
+termid: 6-6-170
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ring_main
+---
+id: 6-6-170-eng
+termid: 6-6-170
+language_code: eng
+terms:
+- type: expression
+  designation: Ring main
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Ring circuit
+
+
+    A circuit connected at both ends to a source of supply. The power points are so connected that the supply reaches them from both directions along the circuit.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

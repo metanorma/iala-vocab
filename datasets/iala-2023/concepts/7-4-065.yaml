@@ -1,0 +1,31 @@
+---
+id: 7-4-065
+termid: 7-4-065
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ground_swell
+---
+id: 7-4-065-eng
+termid: 7-4-065
+language_code: eng
+terms:
+- type: expression
+  designation: Ground swell
+  normative_status: preferred
+definition:
+- content: A motion of the sea surface, basically a swell of long period, that rises
+    to a prominent height in shallow water.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

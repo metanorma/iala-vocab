@@ -1,0 +1,37 @@
+---
+id: 4-1-520
+termid: 4-1-520
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Earth_system
+---
+id: 4-1-520-eng
+termid: 4-1-520
+language_code: eng
+terms:
+- type: expression
+  designation: Earth system
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Ground system (U.S.A.)
+
+
+    A conductor or system of conductors, often large compared with the dimensions of the antenna, laid on or in the ground and not normally insulated from it.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

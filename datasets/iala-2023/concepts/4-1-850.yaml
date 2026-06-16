@@ -1,0 +1,31 @@
+---
+id: 4-1-850
+termid: 4-1-850
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Horizontally_polarized_wave
+---
+id: 4-1-850-eng
+termid: 4-1-850
+language_code: eng
+terms:
+- type: expression
+  designation: Horizontally polarized wave
+  normative_status: preferred
+definition:
+- content: A plane polarized wave in which the electric field vector is in a horizontal
+    plane.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

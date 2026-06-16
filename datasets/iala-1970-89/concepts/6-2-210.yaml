@@ -1,0 +1,39 @@
+---
+id: 6-2-210
+termid: 6-2-210
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Compression_ratio
+---
+id: 6-2-210-eng
+termid: 6-2-210
+language_code: eng
+terms:
+- type: expression
+  designation: Compression ratio
+  normative_status: preferred
+definition:
+- content: |-
+    The ratio (greater than unity) of the volumes of the spaces within a cylinder enclosed by the extreme positions of the piston.
+
+
+
+    Note: 1 The closed extreme position of the piston is called top dead centre.
+
+
+
+    Note: 2 A higher compression ratio produces a larger power output for a given fuel consumption.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

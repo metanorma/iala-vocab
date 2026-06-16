@@ -1,0 +1,39 @@
+---
+id: 1-1-175
+termid: 1-1-175
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Refraction
+---
+id: 1-1-175-eng
+termid: 1-1-175
+language_code: eng
+terms:
+- type: expression
+  designation: Refraction
+  normative_status: preferred
+definition:
+- content: |-
+    Change in the direction of propagation of radiation determined by change in the velocity of propagation in passing through a non-homogeneous medium, or in passing from one medium to another.
+
+
+
+    Reference: C.I.E. (modified)
+
+
+
+    Note: This phenomenon appears only when the angle of incidence is different from 90 degrees.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

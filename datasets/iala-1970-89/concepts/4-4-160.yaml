@@ -1,0 +1,40 @@
+---
+id: 4-4-160
+termid: 4-4-160
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Secondary_phase_error
+---
+id: 4-4-160-eng
+termid: 4-4-160
+language_code: eng
+terms:
+- type: expression
+  designation: Secondary phase error
+  normative_status: preferred
+definition:
+- content: |-
+    Secondary phase error (in Loran C)
+
+
+    Alternative term: Fixed errors (in Decca)
+
+
+    Those errors in the lattice as charted, due to different phase velocities over regions of different earth conductivity and dielectric constant.
+
+
+    These errors are defined for a given site, and are listed for each system correction for the errors can therefore be made.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

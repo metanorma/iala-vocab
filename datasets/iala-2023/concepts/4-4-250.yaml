@@ -1,0 +1,37 @@
+---
+id: 4-4-250
+termid: 4-4-250
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Omega_Commutation
+---
+id: 4-4-250-eng
+termid: 4-4-250
+language_code: eng
+terms:
+- type: expression
+  designation: Omega Commutation
+  normative_status: preferred
+definition:
+- content: |-
+    Commutation (in Omega)
+
+
+    A method by means of which the transmissions from a number of stations are time shared on the same frequency.
+
+
+    The commutation may be carried out either mechanically or electronically.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

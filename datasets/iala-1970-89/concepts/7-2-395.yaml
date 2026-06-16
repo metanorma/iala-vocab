@@ -1,0 +1,32 @@
+---
+id: 7-2-395
+termid: 7-2-395
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dovetail
+---
+id: 7-2-395-eng
+termid: 7-2-395
+language_code: eng
+terms:
+- type: expression
+  designation: Dovetail
+  normative_status: preferred
+definition:
+- content: A joint used in masonry or joinery for connecting two members together,
+    one member having fan shaped tenons projecting from it which fit into a similar
+    shaped rebate in the other member.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

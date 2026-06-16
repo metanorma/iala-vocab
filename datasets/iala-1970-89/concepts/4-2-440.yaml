@@ -1,0 +1,31 @@
+---
+id: 4-2-440
+termid: 4-2-440
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Keying_relay
+---
+id: 4-2-440-eng
+termid: 4-2-440
+language_code: eng
+terms:
+- type: expression
+  designation: Keying relay
+  normative_status: preferred
+definition:
+- content: The relay, operated by the coder, which is directly connected to the transmitter
+    and keys the transmission.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

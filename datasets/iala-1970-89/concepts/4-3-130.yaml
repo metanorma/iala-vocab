@@ -1,0 +1,34 @@
+---
+id: 4-3-130
+termid: 4-3-130
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sector_display
+---
+id: 4-3-130-eng
+termid: 4-3-130
+language_code: eng
+terms:
+- type: expression
+  designation: Sector display
+  normative_status: preferred
+definition:
+- content: "A display used with a radar set, the aerial of which is continuously rotating.
+    \n\n\nThe screen, of the long persistence type, is excited only while the beam
+    of the aerial system is within a narrow sector which can be selected at will.\n\n\n\nNote:
+    A sector display can be used in conjunction with either an A-scan display or a
+    P.P.I."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

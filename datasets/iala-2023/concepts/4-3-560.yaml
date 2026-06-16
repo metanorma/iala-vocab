@@ -1,0 +1,31 @@
+---
+id: 4-3-560
+termid: 4-3-560
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radar_reflector_response_pattern
+---
+id: 4-3-560-eng
+termid: 4-3-560
+language_code: eng
+terms:
+- type: expression
+  designation: Radar reflector response pattern
+  normative_status: preferred
+definition:
+- content: A diagram relating the strength of the reflected energy to the direction
+    relative to the reflector.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

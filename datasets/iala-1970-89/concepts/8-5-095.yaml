@@ -1,0 +1,30 @@
+---
+id: 8-5-095
+termid: 8-5-095
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Link_(of_a_chain)
+---
+id: 8-5-095-eng
+termid: 8-5-095
+language_code: eng
+terms:
+- type: expression
+  designation: Link (of a chain)
+  normative_status: preferred
+definition:
+- content: A closed loop of round steel, forming the elementary unit of a chain.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

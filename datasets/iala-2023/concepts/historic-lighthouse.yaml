@@ -1,0 +1,36 @@
+---
+id: historic-lighthouse
+termid: historic-lighthouse
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-12
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Historic_Lighthouse
+---
+id: historic-lighthouse-eng
+termid: historic-lighthouse
+language_code: eng
+terms:
+- type: expression
+  designation: Historic Lighthouse
+  normative_status: preferred
+definition:
+- content: "To be considered as HISTORIC LIGHTHOUSE, the station must also satisfy
+    at least 3 of the following criteria:\n\n\n- Age\n\n\n- Engineering and technical
+    achievements related to the location and/or the building time\n\n\n- Architectural
+    interest ( design, use of material,...) \n\n\n- National or local interest ( history,
+    culture,...)\n\n\n- Archaeological importance\n\n\n\n(definition retained for
+    the purpose of the lighthouse book)\n\n\nThis definition was set out in 1998 and
+    references to the range of the light should be considered as the maximum range
+    during the history of the lighthouse. In a heritage definition a lighthouse station
+    includes all Aids to Navigation related to the site. \n\n\nSee also Lighthouse
+    (PHL)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

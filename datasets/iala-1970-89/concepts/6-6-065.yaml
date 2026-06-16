@@ -1,0 +1,42 @@
+---
+id: 6-6-065
+termid: 6-6-065
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Overhead_(power)_line
+---
+id: 6-6-065-eng
+termid: 6-6-065
+language_code: eng
+terms:
+- type: expression
+  designation: Overhead (power) line
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Overhead (power) cable
+
+
+    A power (line) (cable) supported high above the ground.
+
+
+
+    Note: 1 The term catenary aerial cable refers to an overhead cable suspended at short intervals from a supporting hawser.
+
+
+
+    Note: 2 The term transmission line generally refers to an overhead power line designed for high voltage.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

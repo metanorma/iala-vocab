@@ -1,0 +1,35 @@
+---
+id: 2-6-085
+termid: 2-6-085
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Junction_Mark_(or_Buoy)
+---
+id: 2-6-085-eng
+termid: 2-6-085
+language_code: eng
+terms:
+- type: expression
+  designation: Junction Mark (or Buoy)
+  normative_status: preferred
+definition:
+- content: A mark (or buoy) which, when viewed from a vessel approaching from the
+    open sea or in the same direction as the main stream of flood tide, or in the
+    direction established by the appropriate authority, indicates the place at which
+    two channels meet. The relative importance of the two channels is usually indicated
+    by the use of a mark (or buoy) having a definite character (shape, colour, light
+    character, shape of topmark, etc.).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

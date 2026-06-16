@@ -1,0 +1,29 @@
+---
+id: vts-area
+termid: vts-area
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/VTS_area
+---
+id: vts-area-eng
+termid: vts-area
+language_code: eng
+terms:
+- type: expression
+  designation: VTS area
+  normative_status: preferred
+definition:
+- content: "VTS-2012-39\n\n\nA VTS area is the delineated, formally declared service
+    area of the VTS.\n\n\nA VTS area may be subdivided in sub-areas or sectors.\t\n\n\n\n(VTS33/output/8
+    refers)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

@@ -1,0 +1,31 @@
+---
+id: 7-2-575
+termid: 7-2-575
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Skirting
+---
+id: 7-2-575-eng
+termid: 7-2-575
+language_code: eng
+terms:
+- type: expression
+  designation: Skirting
+  normative_status: preferred
+definition:
+- content: Finishing feature between a wall and floor, built from wood, tiles, metal
+    or plastic trim, etc...
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

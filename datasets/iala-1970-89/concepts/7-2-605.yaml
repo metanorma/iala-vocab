@@ -1,0 +1,30 @@
+---
+id: 7-2-605
+termid: 7-2-605
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gutter_(of_a_roof)
+---
+id: 7-2-605-eng
+termid: 7-2-605
+language_code: eng
+terms:
+- type: expression
+  designation: Gutter (of a roof)
+  normative_status: preferred
+definition:
+- content: A channel at the edge of a roof to receive rainwater and carry it away.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,37 @@
+---
+id: 4-1-775
+termid: 4-1-775
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Automatic_gain_control
+---
+id: 4-1-775-eng
+termid: 4-1-775
+language_code: eng
+terms:
+- type: expression
+  designation: Automatic gain control
+  normative_status: preferred
+definition:
+- content: |-
+    Acronym: A.G.C.
+
+
+    Automatic volume control (deprecated)
+
+
+    Circuits incorporated in the receiver and actuated by the received signal, which cause the gain of the receiver to vary substantially inversely as the magnitude of the radio-frequency input so as to maintain the output level substantially constant for a given modulation factor.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

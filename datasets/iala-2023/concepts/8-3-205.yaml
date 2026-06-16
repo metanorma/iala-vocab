@@ -1,0 +1,30 @@
+---
+id: 8-3-205
+termid: 8-3-205
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Grapnel
+---
+id: 8-3-205-eng
+termid: 8-3-205
+language_code: eng
+terms:
+- type: expression
+  designation: Grapnel
+  normative_status: preferred
+definition:
+- content: A multi-pronged grab used for dragging the bottom, to recover sunken objects.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

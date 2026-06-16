@@ -1,0 +1,41 @@
+---
+id: 2-1-290
+termid: 2-1-290
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Meteorological_Optical_Range
+---
+id: 2-1-290-eng
+termid: 2-1-290
+language_code: eng
+terms:
+- type: expression
+  designation: Meteorological Optical Range
+  normative_status: preferred
+definition:
+- content: |-
+    The length of path in the atmosphere required to reduce the luminous flux in a collimated beam from an incandescent lamp at a colour temperature of 2 700 K to 0.05 of its original value, the luminous flux being evaluated by means of the curve of spectral luminous efficiencies for photopic vision given by the International Commission on Illumination (C.I.E.) (2-1-015).
+
+
+    Symbol: MOR
+
+
+    Reference: W.M.O. (modified)
+
+
+
+    Note: The quantity so defined above approximately corresponds to the distance in the atmosphere required to reduce the contrast of an object against its background to five per cent of the value it would have at zero distance, for daytime observation. The evidence of most experimental results at present indicates that, for practical purposes, it is also the same as the "meteorological visibility", and that the earlier use of the "meteorological range" (2-1-280, Note 2:) was rather optimistic for practical applications.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

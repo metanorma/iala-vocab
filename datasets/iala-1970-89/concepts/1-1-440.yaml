@@ -1,0 +1,35 @@
+---
+id: 1-1-440
+termid: 1-1-440
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Perception
+---
+id: 1-1-440-eng
+termid: 1-1-440
+language_code: eng
+terms:
+- type: expression
+  designation: Perception
+  normative_status: preferred
+definition:
+- content: |-
+    Complex appearing in the field of consciousness and made of sense impressions supplemented by the memory. Visual perceptions, in particular, contribute towards the formation of our concepts of the existence, form and position of objects.
+
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,75 @@
+---
+id: 2-1-270
+termid: 2-1-270
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Atmospheric_Transmission_Factor
+---
+id: 2-1-270-eng
+termid: 2-1-270
+language_code: eng
+terms:
+- type: expression
+  designation: Atmospheric Transmission Factor
+  normative_status: preferred
+definition:
+- content: |-
+    Atmospheric Transmission Factor (for Unit: distance) (G.B.)
+
+
+    Alternative term: Atmospheric Transmissivity (U.S.A.)
+
+
+    A quantity characterising the transparency of the atmosphere. It is the ratio of the luminous flux transmitted without change of direction by the atmosphere over Unit: distance to the luminous flux which would be transmitted along the same path in a vacuum. The Unit: of distance chosen is usually the kilometre or the nautical mile (sea-mile).
+
+
+    Symbol: T
+
+
+
+    Note 1: In Germany, according to the DIN standard, in place of the "atmospheric transmission factor" T, two terms are used, Transmissionsfaktor q, used when the Unit: of distance chosen is the kilometre, and Sichtwert s (not to be confused with s used as Symbol: for "diffusion factor" 2-1-230), used when the Unit: of distance chosen is the sea-mile.
+
+
+
+    Note 2: It is also possible to use other related factors and practice in this respect has differed in various countries.
+
+
+    In Britain and the U.S.A. the most important factor is the Atmospheric Extinction Coefficient s (not to be confused with s as used in Note 1: nor with s as used in 2-1-230). It is related to the "atmospheric transmission factor" T by the formula
+
+
+    T = e XXXX s
+
+
+    where e is the base of natural logarithms.
+
+
+    In France, geophysicists use the Optical Density (for a thickness of 1 kilometre).
+
+
+    In Germany, according to the DIN standard, the factor Schwachungskoeffizient z is used. This is similar to the atmospheric extinction coefficient but is identical with it only if the Unit: of distance chosen is the kilometre. It is related to the 'Transmissionsfaktor" q and to the "Sichtwert" s by the formulae
+
+
+    q = e-z
+
+
+    = e-1.852s
+
+
+    where e is the base of natural logarithms.
+
+
+    Note 3: It is suggested that the various quantities described above T, q, s, z, etc. should not be used so widely in future and that the "meteorological visibility" V (2-1-280 and   2-1-290, Note:) should be used instead.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

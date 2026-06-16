@@ -1,0 +1,31 @@
+---
+id: 6-7-055
+termid: 6-7-055
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Frequency_converter
+---
+id: 6-7-055-eng
+termid: 6-7-055
+language_code: eng
+terms:
+- type: expression
+  designation: Frequency converter
+  normative_status: preferred
+definition:
+- content: A device that converts alternating current at one frequency into alternating
+    current at another frequency.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

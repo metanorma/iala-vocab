@@ -1,0 +1,33 @@
+---
+id: 3-1-225
+termid: 3-1-225
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Frequency_group
+---
+id: 3-1-225-eng
+termid: 3-1-225
+language_code: eng
+terms:
+- type: expression
+  designation: Frequency group
+  normative_status: preferred
+definition:
+- content: A frequency band, the bandwidth of which is the maximum bandwidth of a
+    sound for which its threshold of audibility (in the presence of a uniform masking
+    noise) and its equivalent loudness remain independent of the spectral distribution
+    of sound intensity within the frequency group.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

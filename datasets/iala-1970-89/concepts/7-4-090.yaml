@@ -1,0 +1,38 @@
+---
+id: 7-4-090
+termid: 7-4-090
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Tidal_cycle
+---
+id: 7-4-090-eng
+termid: 7-4-090
+language_code: eng
+terms:
+- type: expression
+  designation: Tidal cycle
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Tidal wave (USA)
+
+
+    Predictable variation in the height of the sea level due to the effects of the moon, and to a lesser extent the sun, influenced by the rotation of the earth.
+
+
+
+    Note: A rising tide is called a flood tide and a falling tide an ebb tide.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

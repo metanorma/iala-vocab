@@ -1,0 +1,34 @@
+---
+id: 4-1-920
+termid: 4-1-920
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Standard_propagation
+---
+id: 4-1-920-eng
+termid: 4-1-920
+language_code: eng
+terms:
+- type: expression
+  designation: Standard propagation
+  normative_status: preferred
+definition:
+- content: |-
+    The propagation of radio waves over a smooth spherical earth of uniform electrical characteristics, under conditions of standard refraction in the atmosphere.
+
+
+    Reference: C.C.I.R.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

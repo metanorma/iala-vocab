@@ -1,0 +1,31 @@
+---
+id: 6-6-135
+termid: 6-6-135
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Braided_conductor
+---
+id: 6-6-135-eng
+termid: 6-6-135
+language_code: eng
+terms:
+- type: expression
+  designation: Braided conductor
+  normative_status: preferred
+definition:
+- content: A conductor consisting of plaited wire and commonly used to provide a connection
+    to earth.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

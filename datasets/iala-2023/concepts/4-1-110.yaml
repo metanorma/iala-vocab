@@ -1,0 +1,37 @@
+---
+id: 4-1-110
+termid: 4-1-110
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Isotropic_or_absolute_gain_of_an_antenna
+---
+id: 4-1-110-eng
+termid: 4-1-110
+language_code: eng
+terms:
+- type: expression
+  designation: Isotropic or absolute gain of an antenna
+  normative_status: preferred
+definition:
+- content: |-
+    The gain of an antenna in a given direction when the reference antenna is an isotropic antenna isolated in space.
+
+
+    Symbol: Gis
+
+
+    Reference: I.T.U.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

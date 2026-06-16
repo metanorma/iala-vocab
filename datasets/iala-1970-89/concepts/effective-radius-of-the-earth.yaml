@@ -1,0 +1,37 @@
+---
+id: effective-radius-of-the-earth
+termid: effective-radius-of-the-earth
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Effective_radius_of_the_earth
+---
+id: effective-radius-of-the-earth-eng
+termid: effective-radius-of-the-earth
+language_code: eng
+terms:
+- type: expression
+  designation: Effective radius of the earth
+  normative_status: preferred
+definition:
+- content: |-
+    4-1 -940
+
+
+    The radius of a hypothetical earth for which the distance to the radio horizon, assuming rectilinear propagation, is the same as that for the actual earth with an assumed uniform vertical gradient of a refractive index. (For the standard atmosphere, the effective radius is 4/3 that of the actual earth.)
+
+
+    Reference: C.C.I.R.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

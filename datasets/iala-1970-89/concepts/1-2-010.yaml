@@ -1,0 +1,34 @@
+---
+id: 1-2-010
+termid: 1-2-010
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Piloting
+---
+id: 1-2-010-eng
+termid: 1-2-010
+language_code: eng
+terms:
+- type: expression
+  designation: Piloting
+  normative_status: preferred
+definition:
+- content: |-
+    1. The directing of ships in navigable water where knowledge of local landmarks, depths of water etc. is necessary to ensure safe navigation.
+
+
+    2. More generally, navigation involving frequent or continuous determination of position or a line of position relative to geographical points to a high order of accuracy.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

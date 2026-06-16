@@ -1,0 +1,34 @@
+---
+id: 6-4-035
+termid: 6-4-035
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Collector_ring
+---
+id: 6-4-035-eng
+termid: 6-4-035
+language_code: eng
+terms:
+- type: expression
+  designation: Collector ring
+  normative_status: preferred
+definition:
+- content: |-
+    A conducting ring that provides continuous electrical connection between the stationary and rotary parts of a machine by means of sliding contact through a brush.
+
+
+    Note: The term slip ring is also used with this meaning.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

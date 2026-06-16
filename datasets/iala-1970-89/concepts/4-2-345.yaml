@@ -1,0 +1,34 @@
+---
+id: 4-2-345
+termid: 4-2-345
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Residual_octantal_error
+---
+id: 4-2-345-eng
+termid: 4-2-345
+language_code: eng
+terms:
+- type: expression
+  designation: Residual octantal error
+  normative_status: preferred
+definition:
+- content: |-
+    The spacing error, for angles of elevation other than zero, after correcting for the spacing error at zero angle of elevation.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

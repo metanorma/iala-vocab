@@ -1,0 +1,38 @@
+---
+id: 8-5-120
+termid: 8-5-120
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Shackle
+---
+id: 8-5-120-eng
+termid: 8-5-120
+language_code: eng
+terms:
+- type: expression
+  designation: Shackle
+  normative_status: preferred
+definition:
+- content: |-
+    A connecting device for lengths of chain, usually of D or bow shape, having a removable pin through eyes at the open end.
+
+
+
+    Note:
+
+
+    The pin, called a shackle pin, may be screwed, clenched or secured by a forelock or split key. The terms screw shackle and clenched shackle apply to the corresponding cases.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

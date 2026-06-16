@@ -1,0 +1,34 @@
+---
+id: 8-1-040
+termid: 8-1-040
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Service_motor_boat
+---
+id: 8-1-040-eng
+termid: 8-1-040
+language_code: eng
+terms:
+- type: expression
+  designation: Service motor boat
+  normative_status: preferred
+definition:
+- content: |-
+    A launch carried by a lighthouse tender or buoy tender.
+
+
+    These boats are strongly built and are often certified as approved lifeboats, with a capacity to suit the crew of the tender. Their service duty is the transportation of personnel, stores or working equipment to and from the tender.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 4-1-465
+termid: 4-1-465
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/T_antenna
+---
+id: 4-1-465-eng
+termid: 4-1-465
+language_code: eng
+terms:
+- type: expression
+  designation: T antenna
+  normative_status: preferred
+definition:
+- content: An antenna comprising one or more horizontal parallel conductors insulated
+    at their ends and connected at their mid point(s) to the down lead.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

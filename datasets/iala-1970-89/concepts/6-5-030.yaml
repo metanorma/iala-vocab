@@ -1,0 +1,30 @@
+---
+id: 6-5-030
+termid: 6-5-030
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Leakproof_cell
+---
+id: 6-5-030-eng
+termid: 6-5-030
+language_code: eng
+terms:
+- type: expression
+  designation: Leakproof cell
+  normative_status: preferred
+definition:
+- content: An electrochemical cell constructed to prevent the egress of its contents.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

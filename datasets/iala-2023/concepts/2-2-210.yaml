@@ -1,0 +1,34 @@
+---
+id: 2-2-210
+termid: 2-2-210
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Diverting_Prism
+---
+id: 2-2-210-eng
+termid: 2-2-210
+language_code: eng
+terms:
+- type: expression
+  designation: Diverting Prism
+  normative_status: preferred
+definition:
+- content: |-
+    A transparent optical element of prismatic section, having plane or curved faces, placed in the path of light from an optic, to produce a converged, diverged or diverted beam.
+
+
+    (Figs. 17 and 18)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

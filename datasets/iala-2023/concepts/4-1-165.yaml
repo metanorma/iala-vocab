@@ -1,0 +1,34 @@
+---
+id: 4-1-165
+termid: 4-1-165
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Systematic_errors
+---
+id: 4-1-165-eng
+termid: 4-1-165
+language_code: eng
+terms:
+- type: expression
+  designation: Systematic errors
+  normative_status: preferred
+definition:
+- content: |-
+    Those errors having an orderly (non-random) character and which can be corrected by calibration.
+
+
+    Reference: I.R.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

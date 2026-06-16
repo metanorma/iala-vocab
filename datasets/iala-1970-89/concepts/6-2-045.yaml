@@ -1,0 +1,51 @@
+---
+id: 6-2-045
+termid: 6-2-045
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Two-stroke_engine
+---
+id: 6-2-045-eng
+termid: 6-2-045
+language_code: eng
+terms:
+- type: expression
+  designation: Two-stroke engine
+  normative_status: preferred
+definition:
+- content: |-
+    An internal combustion engine in which the working cycle is completed in two strokes of the piston (i.e. in one revolution of the crankshaft).
+
+
+
+    Note: 1 The downstroke of the piston corresponds to
+
+
+    - fuel injection, combustion and the beginning of exhaustion in diesel engines
+
+
+    - explosion and exhaustion in petrol engines
+
+
+
+    Note: 2 The upstroke of the piston corresponds to
+
+
+    - intake of air and compression in diesel engines
+
+
+    - admission of mixture and compression in petrol engines
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 2-6-025
+termid: 2-6-025
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Daytime_Character
+---
+id: 2-6-025-eng
+termid: 2-6-025
+language_code: eng
+terms:
+- type: expression
+  designation: Daytime Character
+  normative_status: preferred
+definition:
+- content: The daytime identifying visual characteristics of any aid to navigation,
+    e.g. shape, colour etc.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

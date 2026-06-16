@@ -1,0 +1,35 @@
+---
+id: 6-8-010
+termid: 6-8-010
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Energy_consumption
+---
+id: 6-8-010-eng
+termid: 6-8-010
+language_code: eng
+terms:
+- type: expression
+  designation: Energy consumption
+  normative_status: preferred
+definition:
+- content: |-
+    The total energy absorbed, including losses, by a device in a given time.
+
+
+
+    Note:  The term power consumption refers to the power taken, including losses, by a device.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

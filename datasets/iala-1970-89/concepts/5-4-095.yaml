@@ -1,0 +1,31 @@
+---
+id: 5-4-095
+termid: 5-4-095
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ripple-through_counter
+---
+id: 5-4-095-eng
+termid: 5-4-095
+language_code: eng
+terms:
+- type: expression
+  designation: Ripple-through counter
+  normative_status: preferred
+definition:
+- content: An asynchronous sequential counter in which the trigger signal is propagated
+    in sequence through each successive stage.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

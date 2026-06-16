@@ -1,0 +1,30 @@
+---
+id: 6-6-155
+termid: 6-6-155
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Distribution_box
+---
+id: 6-6-155-eng
+termid: 6-6-155
+language_code: eng
+terms:
+- type: expression
+  designation: Distribution box
+  normative_status: preferred
+definition:
+- content: A device, protected or enclosed, used for making one or more branch connections.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

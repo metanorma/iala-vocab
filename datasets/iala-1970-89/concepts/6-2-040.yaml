@@ -1,0 +1,56 @@
+---
+id: 6-2-040
+termid: 6-2-040
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Four-stroke_engine
+---
+id: 6-2-040-eng
+termid: 6-2-040
+language_code: eng
+terms:
+- type: expression
+  designation: Four-stroke engine
+  normative_status: preferred
+definition:
+- content: |-
+    An internal combustion engine in which the working cycle is completed in four strokes of the piston (i.e. in two revolutions of the crankshaft).
+
+
+
+    Note: The four strokes correspond to
+
+
+
+    1. Induction of the working fluid
+
+
+    air in diesel engines
+    fuel or fuel-air mixture in petrol engines
+
+
+    2. Compression of the working fluid
+
+
+
+    3. Fuel injection and combustion in diesel engines
+
+
+    fuel ignition and expansion of the ignited fluid in petrol engines, this stroke is the power stroke
+
+
+    4. Exhaustion of the waste gases
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

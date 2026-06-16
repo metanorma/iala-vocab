@@ -1,0 +1,31 @@
+---
+id: 7-1-150
+termid: 7-1-150
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Helideck
+---
+id: 7-1-150-eng
+termid: 7-1-150
+language_code: eng
+terms:
+- type: expression
+  designation: Helideck
+  normative_status: preferred
+definition:
+- content: An elevated helicopter landing platform of structural steel or aluminium
+    construction.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

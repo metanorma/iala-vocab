@@ -1,0 +1,34 @@
+---
+id: 7-1-145
+termid: 7-1-145
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lantern_deck
+---
+id: 7-1-145-eng
+termid: 7-1-145
+language_code: eng
+terms:
+- type: expression
+  designation: Lantern deck
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Lantern level
+
+
+    The level in a lighthouse at which the lantern is installed, and by which access may be gained to the optical system and to the inside and outside of the lantern glazing.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

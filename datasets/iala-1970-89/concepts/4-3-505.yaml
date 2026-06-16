@@ -1,0 +1,37 @@
+---
+id: 4-3-505
+termid: 4-3-505
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Side_lobe_suppression
+---
+id: 4-3-505-eng
+termid: 4-3-505
+language_code: eng
+terms:
+- type: expression
+  designation: Side lobe suppression
+  normative_status: preferred
+definition:
+- content: |-
+    Side lobe suppression (in a transponder)
+
+
+    A technique for suppressing the reply of a transponder to side-lobe interrogation.
+
+
+    Reference: I.C.A.O.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,38 @@
+---
+id: 2-6-030
+termid: 2-6-030
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Daymark
+---
+id: 2-6-030-eng
+termid: 2-6-030
+language_code: eng
+terms:
+- type: expression
+  designation: Daymark
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: (Unlighted) Beacon (G.B.) Daybeacon (U.S.A.)
+
+
+    An unlighted navigation mark.
+
+
+
+    Note: In the U.S.A. the word "Daymark" is also used for the daytime character of an aid to navigation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

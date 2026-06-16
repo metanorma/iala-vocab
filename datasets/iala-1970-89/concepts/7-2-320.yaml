@@ -1,0 +1,31 @@
+---
+id: 7-2-320
+termid: 7-2-320
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Flange_(of_a_tube_or_pipe)
+---
+id: 7-2-320-eng
+termid: 7-2-320
+language_code: eng
+terms:
+- type: expression
+  designation: Flange (of a tube or pipe)
+  normative_status: preferred
+definition:
+- content: A disc fitted to the end of a tube or pipe to permit its connection to
+    another tube or pipe.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

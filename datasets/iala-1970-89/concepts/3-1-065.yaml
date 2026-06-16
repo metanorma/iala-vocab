@@ -1,0 +1,41 @@
+---
+id: 3-1-065
+termid: 3-1-065
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sound_pressure_level
+---
+id: 3-1-065-eng
+termid: 3-1-065
+language_code: eng
+terms:
+- type: expression
+  designation: Sound pressure level
+  normative_status: preferred
+definition:
+- content: |-
+    Sound pressure level (in decibels)
+
+
+    Alternative term: S.P.L. (in decibels)
+
+
+    Twenty times the logarithm to the base 10 of the ratio of the sound pressure to the reference pressure (20 micronewtons per square metre or 2*10-4 microbar or 2*10-4 dyne per square centimetre).
+
+
+
+    Reference: I.E.C. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 4-1-815
+termid: 4-1-815
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cross_modulation
+---
+id: 4-1-815-eng
+termid: 4-1-815
+language_code: eng
+terms:
+- type: expression
+  designation: Cross modulation
+  normative_status: preferred
+definition:
+- content: |-
+    Cross modulation (in a receiver)
+
+
+    The modulation of a wanted signal by an unwanted signal on a different coexistent carrier frequency, arising from the interaction of the radio-frequency signals in non-linear circuits of the receiver preceding the detector.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,30 @@
+---
+id: 6-2-105
+termid: 6-2-105
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Connecting_rod
+---
+id: 6-2-105-eng
+termid: 6-2-105
+language_code: eng
+terms:
+- type: expression
+  designation: Connecting rod
+  normative_status: preferred
+definition:
+- content: In a reciprocating engine, the rod connecting the piston to the crank.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

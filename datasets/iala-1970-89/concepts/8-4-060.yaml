@@ -1,0 +1,59 @@
+---
+id: 8-4-060
+termid: 8-4-060
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/ODAS_buoy
+---
+id: 8-4-060-eng
+termid: 8-4-060
+language_code: eng
+terms:
+- type: expression
+  designation: ODAS buoy
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Ocean Data Acquisition Systems buoy
+
+
+    A buoy intended for the collection of data on properties of the ocean. It may be moored or free-floating. It is not an aid to navigation but is classified as a special buoy in the IALA Maritime Buoyage System.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)
+---
+id: 8-4-060-spa
+termid: 8-4-060
+language_code: spa
+terms:
+- type: expression
+  designation: ODAS buoy/es
+  normative_status: preferred
+definition:
+- content: |-
+    Boya ODAS
+
+
+
+    Término alternativo: boya de Sistema de Adquisición de Datos Oceánicos.
+
+
+    Boya  destinada a la recopilación de datos oceanográficos. Puede estar fondeada  o flotar libremente . No es una ayuda a la navegación, pero está clasificada como una boya  especial en el Sistema de Señalización Marítimo de IALA.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

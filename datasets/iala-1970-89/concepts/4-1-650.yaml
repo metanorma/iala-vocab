@@ -1,0 +1,34 @@
+---
+id: 4-1-650
+termid: 4-1-650
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Anode_efficiency_of_an_R.F._stage
+---
+id: 4-1-650-eng
+termid: 4-1-650
+language_code: eng
+terms:
+- type: expression
+  designation: Anode efficiency of an R.F. stage
+  normative_status: preferred
+definition:
+- content: |-
+    The ratio of the R.F. output power of the stage to the d.c. power input to the anode circuit.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

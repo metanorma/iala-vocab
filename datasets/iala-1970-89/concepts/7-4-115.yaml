@@ -1,0 +1,30 @@
+---
+id: 7-4-115
+termid: 7-4-115
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ice_ridge
+---
+id: 7-4-115-eng
+termid: 7-4-115
+language_code: eng
+terms:
+- type: expression
+  designation: Ice ridge
+  normative_status: preferred
+definition:
+- content: A line or wall of broken ice forced up by pressure.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

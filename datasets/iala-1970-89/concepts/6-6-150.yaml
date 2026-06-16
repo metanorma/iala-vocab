@@ -1,0 +1,30 @@
+---
+id: 6-6-150
+termid: 6-6-150
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Junction_box
+---
+id: 6-6-150-eng
+termid: 6-6-150
+language_code: eng
+terms:
+- type: expression
+  designation: Junction box
+  normative_status: preferred
+definition:
+- content: A protected or enclosed device which is used for making one or more junctions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

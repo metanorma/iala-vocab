@@ -1,0 +1,31 @@
+---
+id: 3-1-230
+termid: 3-1-230
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sound_absorption
+---
+id: 3-1-230-eng
+termid: 3-1-230
+language_code: eng
+terms:
+- type: expression
+  designation: Sound absorption
+  normative_status: preferred
+definition:
+- content: Reduction of sound power resulting from the passage of sound through a
+    medium or from its striking a surface of discontinuity between two media.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

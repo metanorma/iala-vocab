@@ -1,0 +1,63 @@
+---
+id: 6-3-350
+termid: 6-3-350
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Butane
+---
+id: 6-3-350-eng
+termid: 6-3-350
+language_code: eng
+terms:
+- type: expression
+  designation: Butane
+  normative_status: preferred
+definition:
+- content: |-
+    A hydrocarbon fuel, C4H10, which is a gas at ordinary temperatures and atmospheric pressure. It has a boiling point of 1 degree C at atmospheric pressure and may therefore not be used in colder climates as a gaseous fuel.
+
+
+
+    Note: Butane is commercially available under various names.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)
+---
+id: 6-3-350-spa
+termid: 6-3-350
+language_code: spa
+terms:
+- type: expression
+  designation: Butane/es
+  normative_status: preferred
+definition:
+- content: |-
+    Butano
+
+
+
+    Combustible de hidrocarburo, C4H10, gas a temperaturas  y presión atmosférica normales. Dado que posee un punto de ebullición de 1° grado Celsius a presión atmosférica no puede ser utilizado en climas fríos como combustible gaseoso.
+
+
+
+
+
+    Nota: El butano está disponible comercialmente bajo varios nombres.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

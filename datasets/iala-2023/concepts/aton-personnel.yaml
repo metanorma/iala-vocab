@@ -1,0 +1,34 @@
+---
+id: aton-personnel
+termid: aton-personnel
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/AtoN_Personnel
+---
+id: aton-personnel-eng
+termid: aton-personnel
+language_code: eng
+terms:
+- type: expression
+  designation: AtoN Personnel
+  normative_status: preferred
+definition:
+- content: |-
+    AtoN Personnel are persons trained in AtoN matters and holding appropriate qualifications issued by, or on behalf of, a Government or a Competent Authority.  Two levels of skills, knowledge and competence of AtoN Personnel are set out in Recommendation R0141.  These are described as Level 1 for managerial functions and Level 2 for technical functions respectively.
+
+
+
+
+
+    Source: ENG7, Recommendation R0141
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

@@ -1,0 +1,40 @@
+---
+id: 5-1-070
+termid: 5-1-070
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Constant-failure-rate_period
+---
+id: 5-1-070-eng
+termid: 5-1-070
+language_code: eng
+terms:
+- type: expression
+  designation: Constant-failure-rate period
+  normative_status: preferred
+definition:
+- content: |-
+    That possible period during which failures occur at an approximately uniform rate.
+
+
+
+
+
+    Figure 1 - Failure rate / time pattern.
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

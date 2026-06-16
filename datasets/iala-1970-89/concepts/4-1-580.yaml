@@ -1,0 +1,37 @@
+---
+id: 4-1-580
+termid: 4-1-580
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Horn_-_Antenna
+---
+id: 4-1-580-eng
+termid: 4-1-580
+language_code: eng
+terms:
+- type: expression
+  designation: Horn - Antenna
+  normative_status: preferred
+definition:
+- content: |-
+    Flare
+
+
+    An elementary antenna consisting of a waveguide in which one or more transverse dimensions increase towards the open end.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

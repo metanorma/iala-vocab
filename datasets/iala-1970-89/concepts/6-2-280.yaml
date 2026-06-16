@@ -1,0 +1,31 @@
+---
+id: 6-2-280
+termid: 6-2-280
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fusible_plug
+---
+id: 6-2-280-eng
+termid: 6-2-280
+language_code: eng
+terms:
+- type: expression
+  designation: Fusible plug
+  normative_status: preferred
+definition:
+- content: A plug, containing a core of metal of low melting-point, that is fitted
+    to a receiver to relieve the pressure in the event of a fire.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

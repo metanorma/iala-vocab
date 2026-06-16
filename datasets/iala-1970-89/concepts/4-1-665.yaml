@@ -1,0 +1,41 @@
+---
+id: 4-1-665
+termid: 4-1-665
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Transmitter_load
+---
+id: 4-1-665-eng
+termid: 4-1-665
+language_code: eng
+terms:
+- type: expression
+  designation: Transmitter load
+  normative_status: preferred
+definition:
+- content: |-
+    Load (of a radio transmitter)
+
+
+    Output load (of a radio transmitter)
+
+
+    The output termination into which the radio energy from the transmitter flows.
+
+
+
+    Note: This may be an antenna, a feeder system, or, for test purposes, an artificial antenna.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

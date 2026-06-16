@@ -1,0 +1,31 @@
+---
+id: 7-2-095
+termid: 7-2-095
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Facing_wall
+---
+id: 7-2-095-eng
+termid: 7-2-095
+language_code: eng
+terms:
+- type: expression
+  designation: Facing wall
+  normative_status: preferred
+definition:
+- content: A load-bearing or non-load-bearing wall constructed continuously around
+    the structural frame of a building to enclose the building to provide a good appearance.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

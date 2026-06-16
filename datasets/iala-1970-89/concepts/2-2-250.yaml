@@ -1,0 +1,34 @@
+---
+id: 2-2-250
+termid: 2-2-250
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Depolished_Glass
+---
+id: 2-2-250-eng
+termid: 2-2-250
+language_code: eng
+terms:
+- type: expression
+  designation: Depolished Glass
+  normative_status: preferred
+definition:
+- content: |-
+    Glass, the surface of which has been depolished by mechanical (sand-blasting) or chemical (acid-etching) treatment.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 7-3-010
+termid: 7-3-010
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Wrought_iron
+---
+id: 7-3-010-eng
+termid: 7-3-010
+language_code: eng
+terms:
+- type: expression
+  designation: Wrought iron
+  normative_status: preferred
+definition:
+- content: Malleable iron formed hot by forging. It has a lower carbon content than,
+    and is softer than, steel.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

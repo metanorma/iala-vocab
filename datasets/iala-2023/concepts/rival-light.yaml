@@ -1,0 +1,35 @@
+---
+id: rival-light
+termid: rival-light
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Rival_Light
+---
+id: rival-light-eng
+termid: rival-light
+language_code: eng
+terms:
+- type: expression
+  designation: Rival Light
+  normative_status: preferred
+definition:
+- content: |-
+    Rival lights can be considered as individual point sources of light that mask or obscure an AtoN light and prevent easy detection or recognition of the AtoN.
+
+
+
+
+
+
+    Source: ENG7, Guideline G1073
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

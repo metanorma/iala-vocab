@@ -1,0 +1,37 @@
+---
+id: 5-2-395
+termid: 5-2-395
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Servo_mechanism
+---
+id: 5-2-395-eng
+termid: 5-2-395
+language_code: eng
+terms:
+- type: expression
+  designation: Servo mechanism
+  normative_status: preferred
+definition:
+- content: |-
+    A feedback control system in which one or more of the system signals represent mechanical motion.
+
+
+    Note:: It should be noted that servomechanism and feedback regulator are not mutually exclusive terms. Their application to a particular system will depend upon the method of operation of that system.
+
+
+    Reference: I.R.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

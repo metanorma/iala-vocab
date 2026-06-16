@@ -1,0 +1,34 @@
+---
+id: 5-4-210
+termid: 5-4-210
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Metadyne
+---
+id: 5-4-210-eng
+termid: 5-4-210
+language_code: eng
+terms:
+- type: expression
+  designation: Metadyne
+  normative_status: preferred
+definition:
+- content: |-
+    The generic term covering the various forms of d.c. dynamo-electric machines excited by armature reaction. (See Amplidyne.)
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

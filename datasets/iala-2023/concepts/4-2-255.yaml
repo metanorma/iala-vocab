@@ -1,0 +1,38 @@
+---
+id: 4-2-255
+termid: 4-2-255
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Swing_-_angle
+---
+id: 4-2-255-eng
+termid: 4-2-255
+language_code: eng
+terms:
+- type: expression
+  designation: Swing - angle
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Null width
+
+
+    The angle containing the direction of a bearing observation and bounded by limits within which the variation of the intensity of the signal is too slight to be detected.
+
+
+
+    Note: The magnitude of the swing may alternatively be expressed as plus and minus half the angle defined above.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

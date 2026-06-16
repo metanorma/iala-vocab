@@ -1,0 +1,34 @@
+---
+id: 7-5-475
+termid: 7-5-475
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hyperstatic
+---
+id: 7-5-475-eng
+termid: 7-5-475
+language_code: eng
+terms:
+- type: expression
+  designation: Hyperstatic
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Indeterminate redundant
+
+
+    A term applied to a structure which is provided with a redundant number of nodes so that bending moments and reactions need to be determined not only from the laws of equilibrium but taking calculated deflection into account.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

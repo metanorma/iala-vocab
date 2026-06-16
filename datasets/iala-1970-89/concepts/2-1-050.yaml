@@ -1,0 +1,50 @@
+---
+id: 2-1-050
+termid: 2-1-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Candela_per_Square_Metre
+---
+id: 2-1-050-eng
+termid: 2-1-050
+language_code: eng
+terms:
+- type: expression
+  designation: Candela per Square Metre
+  normative_status: preferred
+definition:
+- content: |-
+    The SI Unit: of luminance.
+
+
+    Symbol: cd/m2
+
+
+
+    Note: This unit is sometimes called Nit. Symbol: nt
+
+
+    Other metric units stilb (sb), apostilb (asb), lambert (L)
+
+
+    Non-metric Unit: foot lambert (fL)
+
+
+    1 cd/m2 = 10-4 stilb = p apostilb = p.10-4 lambert = footlambert
+
+
+    Reference: C.I.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

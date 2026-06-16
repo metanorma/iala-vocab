@@ -1,0 +1,42 @@
+---
+id: 5-3-110
+termid: 5-3-110
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pulse_duty_factor
+---
+id: 5-3-110-eng
+termid: 5-3-110
+language_code: eng
+terms:
+- type: expression
+  designation: Pulse duty factor
+  normative_status: preferred
+definition:
+- content: |-
+    The ratio of the average pulse duration to the average pulse spacing.
+
+
+
+    Note: 1 This is equivalent to the product of the average pulse duration and the pulse repetition rate.
+
+
+
+    Note: 2 In French the definition of the term "facteur de duree" is more restrictive than the definition of pulse duty factor.
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

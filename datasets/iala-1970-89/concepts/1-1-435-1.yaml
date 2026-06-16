@@ -1,0 +1,31 @@
+---
+id: 1-1-435-1
+termid: 1-1-435-1
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pressure-reducing_valve
+---
+id: 1-1-435-1-eng
+termid: 1-1-435-1
+language_code: eng
+terms:
+- type: expression
+  designation: Pressure-reducing valve
+  normative_status: preferred
+definition:
+- content: A device used to reduce the pressure (or rate of flow) of a gas or vapour
+    drawn from a storage system.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

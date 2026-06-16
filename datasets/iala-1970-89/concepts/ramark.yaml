@@ -1,0 +1,34 @@
+---
+id: ramark
+termid: ramark
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ramark
+---
+id: ramark-eng
+termid: ramark
+language_code: eng
+terms:
+- type: expression
+  designation: Ramark
+  normative_status: preferred
+definition:
+- content: |-
+    4 3-450
+
+
+    A non-directional continuously transmitting radar beacon designed to give an indication of bearing only, the signal extending from own ship's position to the edge of the radar screen and passing through the ramark target.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,32 @@
+---
+id: 2-3-275
+termid: 2-3-275
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Incandescence_Time_(of_a_lamp)
+---
+id: 2-3-275-eng
+termid: 2-3-275
+language_code: eng
+terms:
+- type: expression
+  designation: Incandescence Time (of a lamp)
+  normative_status: preferred
+definition:
+- content: The time elapsing between the commencement of the supply of power to the
+    lamp and the attainment of a specified percentage of the nominal luminous intensity
+    or luminous flux of the lamp at the given power level.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

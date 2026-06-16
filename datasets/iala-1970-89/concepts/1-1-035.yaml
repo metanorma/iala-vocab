@@ -1,0 +1,37 @@
+---
+id: 1-1-035
+termid: 1-1-035
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lateral_system_of_marking
+---
+id: 1-1-035-eng
+termid: 1-1-035
+language_code: eng
+terms:
+- type: expression
+  designation: Lateral system of marking
+  normative_status: preferred
+definition:
+- content: |-
+    Lateral system of marking (or buoyage)
+
+
+    An agreed system of visual aids to navigation generally used to indicate the course of a navigable waterway.
+
+
+    Note: The sides of the navigable waterway are indicated by aids to navigation of defined shape, colour or light characteristic in relation to the direction taken by the mariner from seaward or to the direction determined by the competent authority.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

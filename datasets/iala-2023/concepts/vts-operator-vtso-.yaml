@@ -1,0 +1,38 @@
+---
+id: vts-operator-vtso-
+termid: vts-operator-vtso-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/VTS_Operator_(VTSO)
+---
+id: vts-operator-vtso--eng
+termid: vts-operator-vtso-
+language_code: eng
+terms:
+- type: expression
+  designation: VTS Operator (VTSO)
+  normative_status: preferred
+definition:
+- content: |-
+    VTS-2012-45
+
+
+    VTS Operator (VTSO) is an appropriately qualified person performing one or more tasks contributing to the services of the VTS.
+
+
+
+    Source: IMO A.857(20)
+
+
+    (VTS33/output/8 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

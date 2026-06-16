@@ -1,0 +1,34 @@
+---
+id: 7-5-380
+termid: 7-5-380
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Building_contractor
+---
+id: 7-5-380-eng
+termid: 7-5-380
+language_code: eng
+terms:
+- type: expression
+  designation: Building contractor
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Civil engineering contractor
+
+
+    A person or company that undertakes building or civil engineering works.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

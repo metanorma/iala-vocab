@@ -1,0 +1,35 @@
+---
+id: 7-6-400
+termid: 7-6-400
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Tremie_hopper
+---
+id: 7-6-400-eng
+termid: 7-6-400
+language_code: eng
+terms:
+- type: expression
+  designation: Tremie hopper
+  normative_status: preferred
+definition:
+- content: |-
+    The upper part of a system used to place concrete underwater without segregation.
+
+
+
+    Note: The lowest part of the hopper connects to a tremie pipe or spout leading beneath the water to the desired location. The complete system is called a tremie.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

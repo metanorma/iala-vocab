@@ -1,0 +1,28 @@
+---
+id: seafarer
+termid: seafarer
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-unknown
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Seafarer
+---
+id: seafarer-eng
+termid: seafarer
+language_code: eng
+terms:
+- type: expression
+  designation: Seafarer
+  normative_status: preferred
+definition:
+- content: Seafarer - means any person who is employed or engaged or works in any
+    capacity on board a ship.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

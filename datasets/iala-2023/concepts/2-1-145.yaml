@@ -1,0 +1,41 @@
+---
+id: 2-1-145
+termid: 2-1-145
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mixed_Reflection
+---
+id: 2-1-145-eng
+termid: 2-1-145
+language_code: eng
+terms:
+- type: expression
+  designation: Mixed Reflection
+  normative_status: preferred
+definition:
+- content: |-
+    The simultaneous occurrence of specular reflection and of diffuse reflection. (Fig. 7c)
+
+
+
+    Note: The illuminance received from a point source after specular reflection varies inversely as the square of the distance between the source and the point at which the illuminance is produced. That received after diffuse reflection varies inversely as the square of the distance to the diffuser.
+
+
+
+
+
+    Reference: C.I.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

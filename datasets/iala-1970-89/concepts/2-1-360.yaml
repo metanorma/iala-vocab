@@ -1,0 +1,41 @@
+---
+id: 2-1-360
+termid: 2-1-360
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Troland
+---
+id: 2-1-360-eng
+termid: 2-1-360
+language_code: eng
+terms:
+- type: expression
+  designation: Troland
+  normative_status: preferred
+definition:
+- content: |-
+    Unit: used for expressing the magnitude of the external light stimulus applied to the eye. When the eye is viewing a surface of uniform luminance, the number of trolands is equal to the product of the area in square millimetres of the limiting pupil, natural or artificial, and the luminance of the surface in candelas per square metre.
+
+
+    Usually, 1 troland produces a retinal illuminance of approximately 2 x 10-3 lumen per square metre.
+
+
+    Reference: C.I.E. (extract)
+
+
+
+    Note: For the correction factors which must be taken into account in computing the retinal illuminance, see Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

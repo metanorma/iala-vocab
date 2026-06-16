@@ -1,0 +1,41 @@
+---
+id: 4-1-545
+termid: 4-1-545
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Voltage_standing-wave_ratio
+---
+id: 4-1-545-eng
+termid: 4-1-545
+language_code: eng
+terms:
+- type: expression
+  designation: Voltage standing-wave ratio
+  normative_status: preferred
+definition:
+- content: |-
+    Acronym: V.S.W.R.
+
+
+    In a transmission line or waveguide, the ratio of the amplitude of the transverse electric field at a plane of minimum strength to the amplitude at a corresponding point in an adjacent plane of maximum field strength.
+
+
+
+    Note: In some countries other than Britain, the reciprocal of this ratio is preferred.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

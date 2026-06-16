@@ -1,0 +1,31 @@
+---
+id: 6-7-030
+termid: 6-7-030
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Auto-transformer
+---
+id: 6-7-030-eng
+termid: 6-7-030
+language_code: eng
+terms:
+- type: expression
+  designation: Auto-transformer
+  normative_status: preferred
+definition:
+- content: A transformer in which the primary and secondary circuits share part of
+    a continuous winding.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

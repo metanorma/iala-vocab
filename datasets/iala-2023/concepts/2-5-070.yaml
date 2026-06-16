@@ -1,0 +1,31 @@
+---
+id: 2-5-070
+termid: 2-5-070
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Temporary_Light
+---
+id: 2-5-070-eng
+termid: 2-5-070
+language_code: eng
+terms:
+- type: expression
+  designation: Temporary Light
+  normative_status: preferred
+definition:
+- content: A light put into service for a limited period (for example, during repair
+    work).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

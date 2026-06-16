@@ -1,0 +1,34 @@
+---
+id: 6-8-050
+termid: 6-8-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Overload
+---
+id: 6-8-050-eng
+termid: 6-8-050
+language_code: eng
+terms:
+- type: expression
+  designation: Overload
+  normative_status: preferred
+definition:
+- content: |-
+    1 - The power delivered in excess of the rated power output of a source.
+
+
+    2 - A condition in which power is delivered in excess of the rated power output of a source.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

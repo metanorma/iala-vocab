@@ -1,0 +1,32 @@
+---
+id: 1-1-085
+termid: 1-1-085
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Emergency_apparatus
+---
+id: 1-1-085-eng
+termid: 1-1-085
+language_code: eng
+terms:
+- type: expression
+  designation: Emergency apparatus
+  normative_status: preferred
+definition:
+- content: Apparatus brought into service in emergency when the normal service equipment
+    and possibly also the stand-by equipment has failed. It often provides a greatly
+    reduced service in comparison with the normal service equipment.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

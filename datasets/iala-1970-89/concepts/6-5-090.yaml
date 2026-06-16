@@ -1,0 +1,34 @@
+---
+id: 6-5-090
+termid: 6-5-090
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stationary_battery
+---
+id: 6-5-090-eng
+termid: 6-5-090
+language_code: eng
+terms:
+- type: expression
+  designation: Stationary battery
+  normative_status: preferred
+definition:
+- content: |-
+    A battery that is designed to be put at a fixed site and is not intended to be moved habitually from place to place during its life.
+
+
+    Note: It is usually of large size and capacity and so designed as to be economical in construction and maintenance, and to have a long life.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

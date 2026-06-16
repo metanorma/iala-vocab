@@ -1,0 +1,38 @@
+---
+id: 6-8-190
+termid: 6-8-190
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Socket_and_plug_connection
+---
+id: 6-8-190-eng
+termid: 6-8-190
+language_code: eng
+terms:
+- type: expression
+  designation: Socket and plug connection
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Power point
+
+
+    An arrangement of electrical connections that can be made between moveable conductors and permanent wiring.
+
+
+
+    Note:  The French term prise (de courant) is often used for either of the component parts (6-8-195 and 6-8-200).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

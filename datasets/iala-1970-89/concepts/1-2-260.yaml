@@ -1,0 +1,39 @@
+---
+id: 1-2-260
+termid: 1-2-260
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dike
+---
+id: 1-2-260-eng
+termid: 1-2-260
+language_code: eng
+terms:
+- type: expression
+  designation: Dike
+  normative_status: preferred
+definition:
+- content: |-
+    Construction along the coast or banks of a river or lake, for protection against flooding.
+
+
+
+    Note: 1 In Britain a dike on the sea is called a sea-wall.
+
+
+
+    Note: 2  In France, the word digue is sometimes used in place of the word "jetee" when the construction protects an area of water within a harbour.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

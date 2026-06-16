@@ -1,0 +1,58 @@
+---
+id: 8-4-095
+termid: 8-4-095
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Topmark
+---
+id: 8-4-095-eng
+termid: 8-4-095
+language_code: eng
+terms:
+- type: expression
+  designation: Topmark
+  normative_status: preferred
+definition:
+- content: |-
+    An object, or pair of objects, of characteristic shape and colour, that is carried on top of a buoy as a means of identification.
+
+
+
+    Note:
+
+
+    For details of topmarks used in the IALA Maritime Buoyage System, see Chapter 2 (Rev).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)
+---
+id: 8-4-095-spa
+termid: 8-4-095
+language_code: spa
+terms:
+- type: expression
+  designation: Topmark/es
+  normative_status: preferred
+definition:
+- content: "Marca de tope \n\n\nObjeto o par de objetos de forma y color característico
+    que se instalan en la parte superior de una boya como medio de identificación.\n\n\n\n\n\nNota:\n\n\nPara
+    obtener información sobre los topmarks utilizados en el Sistema de flotación marítima
+    de IALA, consulte el Capítulo 2 (Rev)."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

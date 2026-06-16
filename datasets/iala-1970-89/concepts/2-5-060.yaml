@@ -1,0 +1,35 @@
+---
+id: 2-5-060
+termid: 2-5-060
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Channel_Light
+---
+id: 2-5-060-eng
+termid: 2-5-060
+language_code: eng
+terms:
+- type: expression
+  designation: Channel Light
+  normative_status: preferred
+definition:
+- content: |-
+    A light either on a fixed support or on a buoy, marking the limit of a navigable channel.
+
+
+
+    Note: In French, the term Feu de Rive is commonly used for a channel light on a fixed support.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

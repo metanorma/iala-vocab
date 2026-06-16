@@ -1,0 +1,49 @@
+---
+id: 2-4-015
+termid: 2-4-015
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Astragals_(2)
+---
+id: 2-4-015-eng
+termid: 2-4-015
+language_code: eng
+terms:
+- type: expression
+  designation: Astragals (2)
+  normative_status: preferred
+definition:
+- content: |-
+    1. Bars used to support the glazing and the roof of a lantern.
+
+
+
+
+
+
+    2. In the U.S.A., loosely used for bars supporting the optical elements of a prismatic lens or of a fixed lens. (Fig. 16b)
+
+
+
+
+
+
+    Note 1: In Britain, the term is used in sense 2 only in respect of a fixed lens.
+
+
+
+    Note 2: The German term Verstrebungen is also used for bars supporting the optical elements of a prismatic lens or of a fixed lens.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

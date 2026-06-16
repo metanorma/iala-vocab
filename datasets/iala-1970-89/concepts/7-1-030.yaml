@@ -1,0 +1,46 @@
+---
+id: 7-1-030
+termid: 7-1-030
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dike_(2)
+---
+id: 7-1-030-eng
+termid: 7-1-030
+language_code: eng
+terms:
+- type: expression
+  designation: Dike (2)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Dyke levee (USA)
+
+
+    An embankment along a coast, river or lake, to provide low lying land with protection against flooding.
+
+
+
+    Note: 1 The term sea-wall refers to a dike on the sea coast.
+
+
+
+    Note: 2 A " dike " can also be a ditch or natural or artificial drainage channel.
+
+
+
+    Note: 3 The French term digue is also very often used for a mole, when this protects an area of water within a harbour.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

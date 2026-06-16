@@ -1,0 +1,30 @@
+---
+id: elevation-of-light
+termid: elevation-of-light
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-unknown
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Elevation_of_Light
+---
+id: elevation-of-light-eng
+termid: elevation-of-light
+language_code: eng
+terms:
+- type: expression
+  designation: Elevation of Light
+  normative_status: preferred
+definition:
+- content: Elevation of Light – is the vertical distance from the focal point of the
+    light and mean sea level (when the tide is not appreciable on the near shore)
+    or (elsewhere) MHW (Mean High Water) or other appropriate high water reference
+    level.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

@@ -1,0 +1,41 @@
+---
+id: 4-1-290
+termid: 4-1-290
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Electric_field_strength
+---
+id: 4-1-290-eng
+termid: 4-1-290
+language_code: eng
+terms:
+- type: expression
+  designation: Electric field strength
+  normative_status: preferred
+definition:
+- content: |-
+    Electric field intensity (deprecated)
+
+
+    The magnitude of the electric field vector. The term usually refers to the root-mean-square value of the field.
+
+
+
+    Note: This term is sometimes called Electric field intensity but such use of the word intensity is deprecated in favour of Field strength since intensity connotes power in optics and radiation.
+
+
+    Reference: I.R.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

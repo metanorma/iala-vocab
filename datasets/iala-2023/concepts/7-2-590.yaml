@@ -1,0 +1,35 @@
+---
+id: 7-2-590
+termid: 7-2-590
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Glazing
+---
+id: 7-2-590-eng
+termid: 7-2-590
+language_code: eng
+terms:
+- type: expression
+  designation: Glazing
+  normative_status: preferred
+definition:
+- content: |-
+    Collective description for the glass fitted to a window or lantern.
+
+
+
+    Note: The individual glass pieces, cut from sheet, are called panes.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

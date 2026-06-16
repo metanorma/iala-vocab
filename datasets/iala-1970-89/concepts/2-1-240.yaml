@@ -1,0 +1,44 @@
+---
+id: 2-1-240
+termid: 2-1-240
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Refractive_Index
+---
+id: 2-1-240-eng
+termid: 2-1-240
+language_code: eng
+terms:
+- type: expression
+  designation: Refractive Index
+  normative_status: preferred
+definition:
+- content: |-
+    Refractive Index (of a medium)
+
+
+    Ratio of the velocity of light in vacuum to the velocity of light in the medium.
+
+
+    Symbol: n
+
+
+
+    Note: This index is equal to the ratio of the sines of the angles of incidence (?1) and refraction (?2) when a ray crosses the surface separating vacuum and medium.
+
+
+    Reference: C.I.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

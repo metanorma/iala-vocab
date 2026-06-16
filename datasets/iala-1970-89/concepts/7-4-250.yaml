@@ -1,0 +1,37 @@
+---
+id: 7-4-250
+termid: 7-4-250
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Liquidity_index
+---
+id: 7-4-250-eng
+termid: 7-4-250
+language_code: eng
+terms:
+- type: expression
+  designation: Liquidity index
+  normative_status: preferred
+definition:
+- content: |-
+    The index that relates the plasticity of a soil to its natural moisture content.
+
+
+    Liquidity index = (natural moisture content - plastic limit) / plasticity index
+
+
+    Note: The complement to unity of the liquidity index is called in French indice de consistance, and in German Konsistenzzahl.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

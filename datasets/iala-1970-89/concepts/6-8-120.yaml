@@ -1,0 +1,31 @@
+---
+id: 6-8-120
+termid: 6-8-120
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Surge_absorber
+---
+id: 6-8-120-eng
+termid: 6-8-120
+language_code: eng
+terms:
+- type: expression
+  designation: Surge absorber
+  normative_status: preferred
+definition:
+- content: A device designed to provide protection against surges occurring in power
+    supplies.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 4-3-175
+termid: 4-3-175
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ring_time
+---
+id: 4-3-175-eng
+termid: 4-3-175
+language_code: eng
+terms:
+- type: expression
+  designation: Ring time
+  normative_status: preferred
+definition:
+- content: |-
+    The time, reckoned from the end of a pulse transmitted by a radar set, during which the energy being returned by an echo box remains above that value required to produce a visible signal on the display.
+
+
+    Reference: I.R.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

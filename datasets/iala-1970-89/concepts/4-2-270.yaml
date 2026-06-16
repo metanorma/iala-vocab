@@ -1,0 +1,31 @@
+---
+id: 4-2-270
+termid: 4-2-270
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Installation_error
+---
+id: 4-2-270-eng
+termid: 4-2-270
+language_code: eng
+terms:
+- type: expression
+  designation: Installation error
+  normative_status: preferred
+definition:
+- content: The algebraic total of the instrumental and site errors which frequently
+    cannot be separately distinguished.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

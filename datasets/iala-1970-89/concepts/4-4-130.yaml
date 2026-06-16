@@ -1,0 +1,43 @@
+---
+id: 4-4-130
+termid: 4-4-130
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Decca_navigator_system
+---
+id: 4-4-130-eng
+termid: 4-4-130
+language_code: eng
+terms:
+- type: expression
+  designation: Decca navigator system
+  normative_status: preferred
+definition:
+- content: |-
+    A distributed arrangement of fixed, phase locked, continuous wave transmitters operating on harmonically related frequencies and special receiving and display equipment carried on a mobile craft whereby the latter can determine its position.
+
+
+    The system depends for its operation on phase comparison of the signals from the transmitters brought to a common comparison frequency within the receiver.
+
+
+    The master station also initiates timed switching of transmissions when required for the purpose of lane resolution.
+
+
+    The operating frequencies are in the region of 100 kHz.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

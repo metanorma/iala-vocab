@@ -1,0 +1,32 @@
+---
+id: 8-4-165
+termid: 8-4-165
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Centre_of_gravity_(of_a_buoy)
+---
+id: 8-4-165-eng
+termid: 8-4-165
+language_code: eng
+terms:
+- type: expression
+  designation: Centre of gravity (of a buoy)
+  normative_status: preferred
+definition:
+- content: The point about which the net moment of all the gravitational forces acting
+    on the buoy is zero for all positions of the buoy. The total weight of the buoy
+    may be considered as a downward force through this point.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

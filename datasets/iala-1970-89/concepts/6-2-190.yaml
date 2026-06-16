@@ -1,0 +1,35 @@
+---
+id: 6-2-190
+termid: 6-2-190
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lubrication_system
+---
+id: 6-2-190-eng
+termid: 6-2-190
+language_code: eng
+terms:
+- type: expression
+  designation: Lubrication system
+  normative_status: preferred
+definition:
+- content: |-
+    System designed to lubricate the moving parts of an engine.
+
+
+
+    Note: It usually consists of a pump that draws oil from a reservoir called the sump and passes it through a filter before distributing it under pressure to the various working surfaces. The oil usually returns to the sump by gravity.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

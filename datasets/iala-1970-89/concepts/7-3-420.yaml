@@ -1,0 +1,32 @@
+---
+id: 7-3-420
+termid: 7-3-420
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Metal_spraying
+---
+id: 7-3-420-eng
+termid: 7-3-420
+language_code: eng
+terms:
+- type: expression
+  designation: Metal spraying
+  normative_status: preferred
+definition:
+- content: Application of a thin film of zinc, aluminium, or other suitable metal,
+    over a metal surface (usually steel) using a special spray gun to melt and apply
+    the coating metal to provide corrosion protection.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 3-2-075
+termid: 3-2-075
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sounding_valve
+---
+id: 3-2-075-eng
+termid: 3-2-075
+language_code: eng
+terms:
+- type: expression
+  designation: Sounding valve
+  normative_status: preferred
+definition:
+- content: |-
+    Sounding valve (in a compressed-air fog signal apparatus)
+
+
+    The valve controlling the admission of the compressed air which is modulated to provide the sound output.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

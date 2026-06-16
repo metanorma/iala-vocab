@@ -1,0 +1,30 @@
+---
+id: 4-3-225
+termid: 4-3-225
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Permanent_echo
+---
+id: 4-3-225-eng
+termid: 4-3-225
+language_code: eng
+terms:
+- type: expression
+  designation: Permanent echo
+  normative_status: preferred
+definition:
+- content: An echo from an object whose position relative to the radar set is fixed.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

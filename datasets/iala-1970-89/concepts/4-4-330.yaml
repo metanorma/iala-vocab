@@ -1,0 +1,38 @@
+---
+id: 4-4-330
+termid: 4-4-330
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Shoran_Variable_delay_network
+---
+id: 4-4-330-eng
+termid: 4-4-330
+language_code: eng
+terms:
+- type: expression
+  designation: Shoran Variable delay network
+  normative_status: preferred
+definition:
+- content: |-
+    Variable delay network (in Shoran)
+
+
+    A device, employed in the Shoran shore station, to adjust the overall delay between the time of reception of the signal from the vessel and the time at which the triggered pulse is transmitted, to a standard value. This figure is an integral part of the overall system calibration.
+
+
+
+    Note: The delay in the broadband receiver on the vessel is small and stable. It is measured by laboratory methods and therefore taken into account.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 8-5-115
+termid: 8-5-115
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stud-link_chain
+---
+id: 8-5-115-eng
+termid: 8-5-115
+language_code: eng
+terms:
+- type: expression
+  designation: Stud-link chain
+  normative_status: preferred
+definition:
+- content: Chain in which each link has a short cross-piece (stud) at its mid-length
+    to give the link more rigidity and thus to increase the fatigue life.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

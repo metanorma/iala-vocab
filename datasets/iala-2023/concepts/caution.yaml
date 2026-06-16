@@ -1,0 +1,31 @@
+---
+id: caution
+termid: caution
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Caution
+---
+id: caution-eng
+termid: caution
+language_code: eng
+terms:
+- type: expression
+  designation: Caution
+  normative_status: preferred
+definition:
+- content: "Lowest priority of an alert. \n\n\nAwareness of a condition which does
+    not warrant an alarm or warning condition, but still requires attention out of
+    the ordinary consideration of the situation or of given information.\n\n\n\nSee
+    also Codes on Alerts and Indicators\n\n\nSource: IMO Res. A1021(26)\n\n\n(VTS40,
+    IALA Guideline no. 1110 refers)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

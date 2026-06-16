@@ -1,0 +1,31 @@
+---
+id: 5-1-035
+termid: 5-1-035
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mean_life
+---
+id: 5-1-035-eng
+termid: 5-1-035
+language_code: eng
+terms:
+- type: expression
+  designation: Mean life
+  normative_status: preferred
+definition:
+- content: For a non-repairable item, the average time an item may be expected to
+    function before failure.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

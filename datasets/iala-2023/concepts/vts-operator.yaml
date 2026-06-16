@@ -1,0 +1,34 @@
+---
+id: vts-operator
+termid: vts-operator
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/VTS_Operator
+---
+id: vts-operator-eng
+termid: vts-operator
+language_code: eng
+terms:
+- type: expression
+  designation: VTS Operator
+  normative_status: preferred
+definition:
+- content: |-
+    urn:mrn:iala:dic:0901116e
+
+
+    VTS operators are responsible for establishing and maintaining a vessel traffic image and interacting with vessel traffic.
+
+
+    Source: IALA Guideline G1156 Recruitment, training and assessment of VTS Personnel, section 4.3.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

@@ -1,0 +1,38 @@
+---
+id: 2-4-135
+termid: 2-4-135
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cut_screen
+---
+id: 2-4-135-eng
+termid: 2-4-135
+language_code: eng
+terms:
+- type: expression
+  designation: Cut screen
+  normative_status: preferred
+definition:
+- content: |-
+    No English Term
+
+
+    An opaque screen located at the optic and intended to reduce the luminous intensity of the beam, and also, in the case of revolving optics, to reduce the angle of uncertainty
+
+
+
+    Note: In the second case, this is a form of "cut screen".
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

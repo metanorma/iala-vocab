@@ -1,0 +1,32 @@
+---
+id: 2-3-270
+termid: 2-3-270
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Simmering_Current
+---
+id: 2-3-270-eng
+termid: 2-3-270
+language_code: eng
+terms:
+- type: expression
+  designation: Simmering Current
+  normative_status: preferred
+definition:
+- content: Low current maintained in an electric lamp (of incandescence or discharge
+    type) when not required to emit light, usually in order to reduce the time taken
+    to reach full light output after the normal supply current is fed to the lamp.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

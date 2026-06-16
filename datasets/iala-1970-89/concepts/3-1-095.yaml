@@ -1,0 +1,38 @@
+---
+id: 3-1-095
+termid: 3-1-095
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Instantaneous_sound_power_per_unit_area
+---
+id: 3-1-095-eng
+termid: 3-1-095
+language_code: eng
+terms:
+- type: expression
+  designation: Instantaneous sound power per unit area
+  normative_status: preferred
+definition:
+- content: |-
+    Instantaneous sound energy flux per unit area
+
+
+    The quotient of the instantaneous sound power transmitted across a surface element and the area of the surface element.
+
+
+
+    Reference: I.E.C. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

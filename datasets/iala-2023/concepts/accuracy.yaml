@@ -1,0 +1,47 @@
+---
+id: accuracy
+termid: accuracy
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Accuracy
+---
+id: accuracy-eng
+termid: accuracy
+language_code: eng
+terms:
+- type: expression
+  designation: Accuracy
+  normative_status: preferred
+definition:
+- content: |-
+    The degree of conformance between the estimated or measured parameter of a craft at a given time and its true parameter at that time. (Parameters in this context may be position coordinates, velocity, time, angle, etc.)
+
+
+    – Absolute accuracy (Geodetic or Geographic accuracy). The accuracy of a position estimate with respect to the geographic or geodetic coordinates of the Earth.
+
+
+    – Geodetic or Geographic accuracy. See absolute accuracy.
+
+
+    – Predictable accuracy. The accuracy of the estimated position solution with respect to the charted solution.
+
+
+    – Relative accuracy. The accuracy with which a user can determine position relative to that of another user of the same navigation system at the same time.
+
+
+    – Repeatable accuracy. The accuracy with which a user can return to a position whose coordinates have been measured at a previous time using uncorrelated measurements from the same navigation system.
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

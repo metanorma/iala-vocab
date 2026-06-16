@@ -1,0 +1,34 @@
+---
+id: 2-3-265
+termid: 2-3-265
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ballast_Lamp
+---
+id: 2-3-265-eng
+termid: 2-3-265
+language_code: eng
+terms:
+- type: expression
+  designation: Ballast Lamp
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Loading Lamp
+
+
+    A lamp switched in series or shunt with a regular lamp in order to reduce the current in the regular lamp and to give an intermittent character to the light from it. Usually, two ballast lamps are used, one being switched in series and the other one in shunt with the regular lamp. By this means a simmering current is maintained, or a nearly constant load is presented to the power source, or both.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

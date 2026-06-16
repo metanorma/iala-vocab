@@ -1,0 +1,34 @@
+---
+id: risk
+termid: risk
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Risk
+---
+id: risk-eng
+termid: risk
+language_code: eng
+terms:
+- type: expression
+  designation: Risk
+  normative_status: preferred
+definition:
+- content: |-
+    The possibility that harm (death, injury or illness) might occur when exposed to a hazard.  The severity of the hazard, duration and frequency of exposure will determine the level of risk.
+
+
+
+
+
+    Source: ENG7, Guideline 1092 (2017)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

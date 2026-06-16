@@ -1,0 +1,50 @@
+---
+id: 5-4-050
+termid: 5-4-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gate
+---
+id: 5-4-050-eng
+termid: 5-4-050
+language_code: eng
+terms:
+- type: expression
+  designation: Gate
+  normative_status: preferred
+definition:
+- content: |-
+    A device having one output channel and one or more input channels, such that the output channel state is completely determined by the contemporaneous input channel states, except during switching transients.
+
+
+
+    Note: 1 An and gate is a device in which the output channel is in its one state if and only if each input channel is in a one state.
+
+
+    Note: 2 An exclusive or gate is a device in which the output channel is in a one state if one or the other, but not both, of the input channels is in the one state.
+
+
+    Note: 3 A nand gate, or not and gate, is a device in which the output channel is the logical complement of the and gate.
+
+
+    Note: 4 A nor gate is a device in which the output channel is the logical complement of the or gate.
+
+
+    Note: 5 An or gate is a device in which the output channel is in a one state if any one or more of the input channels is in a one state.
+
+
+    Reference: I.E.E.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

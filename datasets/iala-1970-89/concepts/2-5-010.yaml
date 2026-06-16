@@ -1,0 +1,46 @@
+---
+id: 2-5-010
+termid: 2-5-010
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lighting
+---
+id: 2-5-010-eng
+termid: 2-5-010
+language_code: eng
+terms:
+- type: expression
+  designation: Lighting
+  normative_status: preferred
+definition:
+- content: |-
+    1. The process of providing light (2-1-005), either to be.viewed directly or to illuminate objects and their surroundings so that they may be seen.
+
+
+
+    Note: In the latter case the term Illumination may also be applied.
+
+
+
+    2. An ensemble of lights.
+
+
+
+    Note: A distinction is made in German between the process of providing light to be viewed directly (Befeuern) and the process of illuminating objects and their surroundings to be viewed (Beleuchten, equivalent to English "illumination").
+
+
+    Similarly a distinction is made between an ensemble of lights to be viewed directly (Befeuerung) and an ensemble of lights illuminating objects and their surroundings to be viewed (Beleuchtung).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

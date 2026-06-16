@@ -1,0 +1,40 @@
+---
+id: 2-1-210
+termid: 2-1-210
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Internal_Absorptance
+---
+id: 2-1-210-eng
+termid: 2-1-210
+language_code: eng
+terms:
+- type: expression
+  designation: Internal Absorptance
+  normative_status: preferred
+definition:
+- content: |-
+    Internal Absorptance (of a homogeneous non-diffusing plate)
+
+
+    The ratio of the luminous flux absorbed between the entry and exit surfaces of the plate, to the flux which leaves the entry surface.
+
+
+    Symbol: ai ai + Ti = 1
+
+
+    Reference: C.I.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

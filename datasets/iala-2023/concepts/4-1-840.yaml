@@ -1,0 +1,34 @@
+---
+id: 4-1-840
+termid: 4-1-840
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Plane_polarized_wave
+---
+id: 4-1-840-eng
+termid: 4-1-840
+language_code: eng
+terms:
+- type: expression
+  designation: Plane polarized wave
+  normative_status: preferred
+definition:
+- content: |-
+    An electromagnetic wave whose electric field vector at all times lies in a fixed plane which contains the direction of propagation.
+
+
+    Reference: I.R.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

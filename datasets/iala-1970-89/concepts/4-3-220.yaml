@@ -1,0 +1,31 @@
+---
+id: 4-3-220
+termid: 4-3-220
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Echoing_volume
+---
+id: 4-3-220-eng
+termid: 4-3-220
+language_code: eng
+terms:
+- type: expression
+  designation: Echoing volume
+  normative_status: preferred
+definition:
+- content: The region in space within which the energy of a given pulse transmitted
+    by a radar set is distributed at a given instant.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 8-3-050
+termid: 8-3-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Slewing_guy
+---
+id: 8-3-050-eng
+termid: 8-3-050
+language_code: eng
+terms:
+- type: expression
+  designation: Slewing guy
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Vang (USA)
+
+
+    The tackle leading from each side of the top of a derrick for steadying purposes and for slewing.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

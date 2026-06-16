@@ -1,0 +1,41 @@
+---
+id: 8-5-155
+termid: 8-5-155
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Leg_(of_chain)
+---
+id: 8-5-155-eng
+termid: 8-5-155
+language_code: eng
+terms:
+- type: expression
+  designation: Leg (of chain)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative tem: Shot (of chain)
+
+
+    A length of chain between two shackles.
+
+
+
+    Note:
+
+
+    The term "shot" refers to a standard length of chain.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

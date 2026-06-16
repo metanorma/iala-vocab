@@ -1,0 +1,38 @@
+---
+id: 4-3-335
+termid: 4-3-335
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Strobe_pulse
+---
+id: 4-3-335-eng
+termid: 4-3-335
+language_code: eng
+terms:
+- type: expression
+  designation: Strobe pulse
+  normative_status: preferred
+definition:
+- content: |-
+    A pulse of duration less than the period of a recurrent phenomenon, used for scrutinizing a particular epoch of that phenomenon.
+
+
+
+    Note: In radar, a strobe pulse is sometimes made to follow automatically the echo from a moving object.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

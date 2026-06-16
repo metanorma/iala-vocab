@@ -1,0 +1,37 @@
+---
+id: 4-3-310
+termid: 4-3-310
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Anti-clutter_gain_control
+---
+id: 4-3-310-eng
+termid: 4-3-310
+language_code: eng
+terms:
+- type: expression
+  designation: Anti-clutter gain control
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Swept gain, Gain time control (G.T.C.) (deprecated), Anti-clutter sea, Sensitivity time control (S.T.C.) (U.S.A.)
+
+
+    A device which automatically, and in a predetermined manner, increases the gain of a radar set from a low level to the maximum, within a certain period after each transmitter pulse, so that short-range echoes which may be unwanted are amplified less than long-range echoes.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

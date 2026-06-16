@@ -1,0 +1,37 @@
+---
+id: 2-3-195
+termid: 2-3-195
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Grid_Filament
+---
+id: 2-3-195-eng
+termid: 2-3-195
+language_code: eng
+terms:
+- type: expression
+  designation: Grid Filament
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Uniplanar Filament (G.B.)
+
+
+    A filament in which the different sections or the axes of the coils are all in the same plane.
+
+
+    Reference: C.I.E. (modified) (Fig.27)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

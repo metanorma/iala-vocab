@@ -1,0 +1,38 @@
+---
+id: 4-3-445
+termid: 4-3-445
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Racon
+---
+id: 4-3-445-eng
+termid: 4-3-445
+language_code: eng
+terms:
+- type: expression
+  designation: Racon
+  normative_status: preferred
+definition:
+- content: |-
+    A transponder beacon designed to give an indication on the radar screen of both bearing and distance, its characteristic paint usually beginning at and extending outward from a point a few hundred yards beyond the echo of the object on which it is mounted.
+
+
+
+
+
+
+    Note: Although racon is an acronym, it is treated as a noun in normal usage. It is therefore written as racon except at the beginning of a sentence or in a title when Racon is used
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

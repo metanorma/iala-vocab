@@ -1,0 +1,34 @@
+---
+id: 4-3-365
+termid: 4-3-365
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ground_clutter
+---
+id: 4-3-365-eng
+termid: 4-3-365
+language_code: eng
+terms:
+- type: expression
+  designation: Ground clutter
+  normative_status: preferred
+definition:
+- content: |-
+    Clutter resulting from the ground or objects on the ground.
+
+
+    Reference: I.R.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

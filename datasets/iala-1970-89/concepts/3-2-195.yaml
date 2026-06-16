@@ -1,0 +1,33 @@
+---
+id: 3-2-195
+termid: 3-2-195
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Electrodynamic_emitter_-_Driver
+---
+id: 3-2-195-eng
+termid: 3-2-195
+language_code: eng
+terms:
+- type: expression
+  designation: Electrodynamic emitter - Driver
+  normative_status: preferred
+definition:
+- content: "Driver (in an electrodynamic emitter) (U.S.A.) \n\n\nAn assembly comprising
+    the active part of the electrodynamic emitter unit to which the horn is attached.\n\n\n\nNote:
+    The terms \"Moteur\" and \"Corps\" in French, and \"Antrieb\" in German apply
+    to any form of sound emitter."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

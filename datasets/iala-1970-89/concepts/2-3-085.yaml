@@ -1,0 +1,34 @@
+---
+id: 2-3-085
+termid: 2-3-085
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Luminous_Element
+---
+id: 2-3-085-eng
+termid: 2-3-085
+language_code: eng
+terms:
+- type: expression
+  designation: Luminous Element
+  normative_status: preferred
+definition:
+- content: |-
+    The part of a lamp which emits light.
+
+
+    Reference: C.I.E. (extract)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

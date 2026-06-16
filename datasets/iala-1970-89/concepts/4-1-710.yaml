@@ -1,0 +1,37 @@
+---
+id: 4-1-710
+termid: 4-1-710
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Local_oscillator
+---
+id: 4-1-710-eng
+termid: 4-1-710
+language_code: eng
+terms:
+- type: expression
+  designation: Local oscillator
+  normative_status: preferred
+definition:
+- content: |-
+    Local oscillator (L.O.)
+
+
+    Frequency-change oscillator (deprecated)
+
+
+    An oscillator used to derive an intermediate frequency by beating with the signal-carrying frequency in superheterodyne reception.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 7-6-420
+termid: 7-6-420
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Machining
+---
+id: 7-6-420-eng
+termid: 7-6-420
+language_code: eng
+terms:
+- type: expression
+  designation: Machining
+  normative_status: preferred
+definition:
+- content: The process of obtaining the desired shape of a metal object by the use
+    of power driven tools, e.g. a lathe, milling machine, etc.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,40 @@
+---
+id: 4-4-055
+termid: 4-4-055
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Loran_A
+---
+id: 4-4-055-eng
+termid: 4-4-055
+language_code: eng
+terms:
+- type: expression
+  designation: Loran A
+  normative_status: preferred
+definition:
+- content: |-
+    A system operating in the region of 2 MHz and providing a groundwave range of approximately 700-900 miles over sea water.
+
+
+    The time difference is measured by comparing pulse envelopes.
+
+
+    Greater range is obtained with reduced positional accuracy by employing skywave signals at maximum distances of approximately 1400 miles.
+
+
+    The occupied bandwidth is 35 kHz.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

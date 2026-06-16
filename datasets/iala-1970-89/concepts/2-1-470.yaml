@@ -1,0 +1,37 @@
+---
+id: 2-1-470
+termid: 2-1-470
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Trichromatic_System
+---
+id: 2-1-470-eng
+termid: 2-1-470
+language_code: eng
+terms:
+- type: expression
+  designation: Trichromatic System
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Colorimetric System
+
+
+    A system of colour specification based on the possibility of matching a colour stimulus by the additive mixture of three suitably chosen reference stimuli.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,30 @@
+---
+id: 2-4-080
+termid: 2-4-080
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Manifold_(U.S.A.)
+---
+id: 2-4-080-eng
+termid: 2-4-080
+language_code: eng
+terms:
+- type: expression
+  designation: Manifold (U.S.A.)
+  normative_status: preferred
+definition:
+- content: A pipe fitting used as a common junction for several gas supply pipes.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,38 @@
+---
+id: 2-4-050
+termid: 2-4-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Focusing_Device
+---
+id: 2-4-050-eng
+termid: 2-4-050
+language_code: eng
+terms:
+- type: expression
+  designation: Focusing Device
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Focuser (G.B.)
+
+
+    An optical device used for focusing (2-2-155), for example, a short telescope with cross-wire, fixed to the frame of the optic.
+
+
+
+    Note: In France and Germany, the type of focusing device mainly used projects, by means of lenses and prisms, an image of the luminous element of the light source on a screen fitted with a cross-wire and usually also with concentric rings.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

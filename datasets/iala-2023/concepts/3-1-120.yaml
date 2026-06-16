@@ -1,0 +1,32 @@
+---
+id: 3-1-120
+termid: 3-1-120
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Acoustic_impedance
+---
+id: 3-1-120-eng
+termid: 3-1-120
+language_code: eng
+terms:
+- type: expression
+  designation: Acoustic impedance
+  normative_status: preferred
+definition:
+- content: "The complex quotient of the sound pressure and the volume velocity through
+    the surface. \n\n\n\nNote: This definition is valid only for sinusoidal vibrations
+    in the steady state.\n\n\n\nReference: I.E.C. (modified)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

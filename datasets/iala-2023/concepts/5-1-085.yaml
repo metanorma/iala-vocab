@@ -1,0 +1,33 @@
+---
+id: 5-1-085
+termid: 5-1-085
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Redundancy
+---
+id: 5-1-085-eng
+termid: 5-1-085
+language_code: eng
+terms:
+- type: expression
+  designation: Redundancy
+  normative_status: preferred
+definition:
+- content: The existence of more than one means for accomplishing a given function.
+    The various means of accomplishing the function need not necessarily be identical.
+    The concept is such that a complete failure can occur only when all means have
+    failed.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

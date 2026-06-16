@@ -1,0 +1,38 @@
+---
+id: 2-3-425
+termid: 2-3-425
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Long-Arc_Lamp
+---
+id: 2-3-425-eng
+termid: 2-3-425
+language_code: eng
+terms:
+- type: expression
+  designation: Long-Arc Lamp
+  normative_status: preferred
+definition:
+- content: |-
+    A discharge lamp in which the distance between the electrodes is large.
+
+
+
+    Note: This type of lamp (xenon, for example) is generally of extra high pressure. The arc fills the discharge tube and is therefore stabilized.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

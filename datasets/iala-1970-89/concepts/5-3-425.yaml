@@ -1,0 +1,37 @@
+---
+id: 5-3-425
+termid: 5-3-425
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Binary_coded_decimal_(notation)
+---
+id: 5-3-425-eng
+termid: 5-3-425
+language_code: eng
+terms:
+- type: expression
+  designation: Binary coded decimal (notation)
+  normative_status: preferred
+definition:
+- content: |-
+    Acronym: BCD
+
+
+    A decimal notation in which the individual decimal digits are each represented by a code of binary digits.
+
+
+    Reference: ANSI (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

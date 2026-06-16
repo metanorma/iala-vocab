@@ -1,0 +1,43 @@
+---
+id: 2-2-180
+termid: 2-2-180
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Flashing_(Optical)_Apparatus
+---
+id: 2-2-180-eng
+termid: 2-2-180
+language_code: eng
+terms:
+- type: expression
+  designation: Flashing (Optical) Apparatus
+  normative_status: preferred
+definition:
+- content: |-
+    An optical apparatus which produces an intermittent light.
+
+
+
+    Note 1: An intermittent light may be produced by several methods, e.g.
+
+
+    a. by an optical system producing pencil beams which revolve about a vertical axis.
+    b. by alternately lighting and extinguishing the luminous source. (2-4-100)
+    c. by intermittently placing an opaque screen in the path of the light. (2-4-110, 2-4-115, 2-4-120)
+
+
+    Note 2: A "flashing (optical) apparatus" may produce any intermittent light character. The French term Appareil a Eclats is, however, restricted to apparatus producing a flashing light character. (2-5-145)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

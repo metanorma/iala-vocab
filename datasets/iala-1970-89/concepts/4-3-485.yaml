@@ -1,0 +1,37 @@
+---
+id: 4-3-485
+termid: 4-3-485
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ring_around
+---
+id: 4-3-485-eng
+termid: 4-3-485
+language_code: eng
+terms:
+- type: expression
+  designation: Ring around
+  normative_status: preferred
+definition:
+- content: |-
+    Ring around (in secondary radar)
+
+
+    1. The undesired triggering of a transponder by its own transmitter.
+
+
+    2. The triggering of a transponder at all bearings causing a ring presentation on a P.P.I.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

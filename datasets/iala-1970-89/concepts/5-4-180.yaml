@@ -1,0 +1,34 @@
+---
+id: 5-4-180
+termid: 5-4-180
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Two-step_relay
+---
+id: 5-4-180-eng
+termid: 5-4-180
+language_code: eng
+terms:
+- type: expression
+  designation: Two-step relay
+  normative_status: preferred
+definition:
+- content: |-
+    A relay with two groups of contact springs, one group only of which is operated by a specified magnetic flux and both groups by a greater magnetic flux.
+
+
+    Reference: I.E.C. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

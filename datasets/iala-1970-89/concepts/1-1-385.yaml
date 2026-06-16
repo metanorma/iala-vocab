@@ -1,0 +1,39 @@
+---
+id: 1-1-385
+termid: 1-1-385
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Recorder
+---
+id: 1-1-385-eng
+termid: 1-1-385
+language_code: eng
+terms:
+- type: expression
+  designation: Recorder
+  normative_status: preferred
+definition:
+- content: |-
+    The part of the recording equipment that places the information in the store.
+
+
+
+    Note: 1  In German the term Speicher is also used for the recorded material (record).
+
+
+
+    Note: 2  In French a recorder for sound signals is called a magnetophone and a recorder for visual signals is called a magnetoscope.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

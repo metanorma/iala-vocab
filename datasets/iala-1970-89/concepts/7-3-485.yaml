@@ -1,0 +1,34 @@
+---
+id: 7-3-485
+termid: 7-3-485
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Shot_blasting
+---
+id: 7-3-485-eng
+termid: 7-3-485
+language_code: eng
+terms:
+- type: expression
+  designation: Shot blasting
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: Grit blasting, Sand blasting
+
+
+    Method of cleaning a steel surface by projecting steel shot, grit, or sand on to it using a compressed air blast.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 7-6-365
+termid: 7-6-365
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gantry_crane
+---
+id: 7-6-365-eng
+termid: 7-6-365
+language_code: eng
+terms:
+- type: expression
+  designation: Gantry crane
+  normative_status: preferred
+definition:
+- content: A lifting device supported on a four-legged portal frame beneath which
+    vehicles can pass for unloading.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,41 @@
+---
+id: 6-8-020
+termid: 6-8-020
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Rated_power_output
+---
+id: 6-8-020-eng
+termid: 6-8-020
+language_code: eng
+terms:
+- type: expression
+  designation: Rated power output
+  normative_status: preferred
+definition:
+- content: |-
+    (rated) power output
+
+
+    Alternative term: Full load
+
+
+    The minimum power available from a source if the normal specified operating conditions are observed.
+
+
+
+    Note:  The term " power output " is sometimes used to mean output power, but this usage is deprecated.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,32 @@
+---
+id: 7-2-525
+termid: 7-2-525
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Open-mesh_flooring
+---
+id: 7-2-525-eng
+termid: 7-2-525
+language_code: eng
+terms:
+- type: expression
+  designation: Open-mesh flooring
+  normative_status: preferred
+definition:
+- content: Metal, or more recently GRP, flooring formed from bars on edge connected
+    to form a rectangular open pattern, particularly used to give a lightweight skid
+    resistant floor or decking to footbridges, catwalks, etc...
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

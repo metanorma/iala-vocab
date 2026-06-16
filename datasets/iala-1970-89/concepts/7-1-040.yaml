@@ -1,0 +1,35 @@
+---
+id: 7-1-040
+termid: 7-1-040
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Quay_(2)
+---
+id: 7-1-040-eng
+termid: 7-1-040
+language_code: eng
+terms:
+- type: expression
+  designation: Quay (2)
+  normative_status: preferred
+definition:
+- content: |-
+    A construction of earth faced with masonry or other material along a coast or bank, to permit berthing for vessels, usually with cargo-handling facilities.
+
+
+
+    Note: A jetty or quay with cargo handling facilities is called a wharf.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

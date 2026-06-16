@@ -1,0 +1,58 @@
+---
+id: 2-1-035
+termid: 2-1-035
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Luminous_Intensity
+---
+id: 2-1-035-eng
+termid: 2-1-035
+language_code: eng
+terms:
+- type: expression
+  designation: Luminous Intensity
+  normative_status: preferred
+definition:
+- content: |-
+    Luminous Intensity (of a source, in a given direction) - The quotient of the luminous flux (dF) leaving the source, propagated in an element of solid angle containing the given direction, by the element of solid angle (dO). Luminous intensity is expressed in candelas.
+
+
+
+
+
+
+    Symbol: I
+
+
+    Unit: candela(cd)
+
+
+    Reference: C.I.E. (modified)
+
+
+
+    Note 1: If within a cone of finite solid angle O the luminous flux may be considered uniformly distributed, then the luminous intensity is given by
+
+
+    (Equation)
+
+
+    where F is the total luminous flux emitted within the solid angle.
+
+
+
+    Note 2: The term Candlepower designates a luminous intensity expressed in candelas.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

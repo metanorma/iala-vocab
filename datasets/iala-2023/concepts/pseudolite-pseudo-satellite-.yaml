@@ -1,0 +1,32 @@
+---
+id: pseudolite-pseudo-satellite-
+termid: pseudolite-pseudo-satellite-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pseudolite_(pseudo-satellite)
+---
+id: pseudolite-pseudo-satellite--eng
+termid: pseudolite-pseudo-satellite-
+language_code: eng
+terms:
+- type: expression
+  designation: Pseudolite (pseudo-satellite)
+  normative_status: preferred
+definition:
+- content: |-
+    A ground-based augmentation station transmitting a GNSS-like signal providing additional navigation information to the user.
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

@@ -1,0 +1,32 @@
+---
+id: 4-3-325
+termid: 4-3-325
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Range_marker
+---
+id: 4-3-325-eng
+termid: 4-3-325
+language_code: eng
+terms:
+- type: expression
+  designation: Range marker
+  normative_status: preferred
+definition:
+- content: "A visual indication on a radar display for measuring the range or for
+    calibrating the time-base. \nNote: Range markers may be either fixed or continuously
+    variable.\n\n\nReference: B.S. (modified)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

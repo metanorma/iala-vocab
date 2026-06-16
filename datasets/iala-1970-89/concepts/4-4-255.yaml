@@ -1,0 +1,40 @@
+---
+id: 4-4-255
+termid: 4-4-255
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Omega_Lane_resolution
+---
+id: 4-4-255-eng
+termid: 4-4-255
+language_code: eng
+terms:
+- type: expression
+  designation: Omega Lane resolution
+  normative_status: preferred
+definition:
+- content: |-
+    Lane resolution (in Omega)
+
+
+    A method of resolving the lanes in the Omega system.
+
+
+    Additional frequencies are transmitted such that the spacing between equiphase lines is a convenient submultiple of the spacing between the equiphase lines of the basic frequency.
+
+
+    If this ratio is say 34, a coarse lane equal to three fine lanes is provided.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

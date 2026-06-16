@@ -1,0 +1,38 @@
+---
+id: 5-3-165
+termid: 5-3-165
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sideband_(2)
+---
+id: 5-3-165-eng
+termid: 5-3-165
+language_code: eng
+terms:
+- type: expression
+  designation: Sideband (2)
+  normative_status: preferred
+definition:
+- content: |-
+    The frequency band at either the upper or lower side of the carrier frequency within which fall the spectral components produced by the process of modulation.
+
+
+
+    Note: The terms upper sideband or lower sideband are used to denote the ranges higher than or lower than the carrier frequency, respectively.
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

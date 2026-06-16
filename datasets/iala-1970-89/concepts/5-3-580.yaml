@@ -1,0 +1,38 @@
+---
+id: 5-3-580
+termid: 5-3-580
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Computer_Programme_(G.B.)
+---
+id: 5-3-580-eng
+termid: 5-3-580
+language_code: eng
+terms:
+- type: expression
+  designation: Computer Programme (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    (Computer) Programme (G.B.)
+
+
+    A set of instructions in the proper form to cause a computer to perform any desired computation
+
+
+
+    Note: When the computation is a repetitive task, e.g., sine(x), it is called a routine.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,30 @@
+---
+id: conservation-area
+termid: conservation-area
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-12
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Conservation_Area
+---
+id: conservation-area-eng
+termid: conservation-area
+language_code: eng
+terms:
+- type: expression
+  designation: Conservation Area
+  normative_status: preferred
+definition:
+- content: "Area of special architectural or historic interest, the character or appearance
+    of which it is desirable to preserve or enhance.\n\n\n\nReference: Stirlingcharter
+    \n\n\n(This definition was noted at the IALA Seminar on the Practical Aspects
+    of Lighthouse Preservation in Gothenburg 2005)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

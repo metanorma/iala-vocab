@@ -1,0 +1,37 @@
+---
+id: 4-1-370
+termid: 4-1-370
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radiation_pattern
+---
+id: 4-1-370-eng
+termid: 4-1-370
+language_code: eng
+terms:
+- type: expression
+  designation: Radiation pattern
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: (Antenna) Power gain, (Antenna) Radiation pattern
+
+
+    A curve representing, in polar or cartesian co-ordinates, a quantity proportional to the gain of an antenna in the various directions in a particular plane or cone.
+
+
+    Reference: I.T.U.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

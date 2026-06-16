@@ -1,0 +1,34 @@
+---
+id: 2-1-415
+termid: 2-1-415
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Colour_Stimulus
+---
+id: 2-1-415-eng
+termid: 2-1-415
+language_code: eng
+terms:
+- type: expression
+  designation: Colour Stimulus
+  normative_status: preferred
+definition:
+- content: |-
+    Radiation, physically defined, entering the eye and producing a sensation of colour.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

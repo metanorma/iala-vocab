@@ -1,0 +1,34 @@
+---
+id: 6-4-275
+termid: 6-4-275
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Direct_on-line_starting_(of_a_motor)_(G.B.)
+---
+id: 6-4-275-eng
+termid: 6-4-275
+language_code: eng
+terms:
+- type: expression
+  designation: Direct on-line starting (of a motor) (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Across-the-line starting (of a motor) (U.S.A.)
+
+
+    The process of starting a motor at its rated voltage by connecting it directly to the supply.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

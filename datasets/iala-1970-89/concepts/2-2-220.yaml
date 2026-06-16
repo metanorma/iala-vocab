@@ -1,0 +1,33 @@
+---
+id: 2-2-220
+termid: 2-2-220
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Diverged_Beam
+---
+id: 2-2-220-eng
+termid: 2-2-220
+language_code: eng
+terms:
+- type: expression
+  designation: Diverged Beam
+  normative_status: preferred
+definition:
+- content: A form of fan beam (2-1-090) produced by diverging a pencil beam (2-1-095)
+    in a plane containing the axis of the beam (usually either horizontally or vertically)
+    so that the angle of divergence of the diverged beam is greater than that of the
+    original beam.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 4-4-035
+termid: 4-4-035
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Blinking
+---
+id: 4-4-035-eng
+termid: 4-4-035
+language_code: eng
+terms:
+- type: expression
+  designation: Blinking
+  normative_status: preferred
+definition:
+- content: |-
+    In pulse systems, a method of providing information by modifying the signal (at its source) so that the signal presentation on the display alternately appears and disappears or shifts along the time base, e.g. in Loran, a means for indicating that a transmitting station is not operating correctly.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

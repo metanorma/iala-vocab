@@ -1,0 +1,37 @@
+---
+id: 2-5-240
+termid: 2-5-240
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Direction_Light_(2)
+---
+id: 2-5-240-eng
+termid: 2-5-240
+language_code: eng
+terms:
+- type: expression
+  designation: Direction Light (2)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Single Station Range Light (U.S.A.)
+
+
+    A direction light (2-5-235) bounded by other sectors of different character which define its margins with small angles of uncertainty.
+
+
+    Most commonly the bounding sectors are of different colours (red and green). (Fig.46b)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

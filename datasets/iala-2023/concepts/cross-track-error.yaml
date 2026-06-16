@@ -1,0 +1,28 @@
+---
+id: cross-track-error
+termid: cross-track-error
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cross-track_error
+---
+id: cross-track-error-eng
+termid: cross-track-error
+language_code: eng
+terms:
+- type: expression
+  designation: Cross-track error
+  normative_status: preferred
+definition:
+- content: The component of the Vessel Technical Error perpendicular to the intended
+    track.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

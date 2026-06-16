@@ -1,0 +1,45 @@
+---
+id: 1-1-200
+termid: 1-1-200
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dispersion
+---
+id: 1-1-200-eng
+termid: 1-1-200
+language_code: eng
+terms:
+- type: expression
+  designation: Dispersion
+  normative_status: preferred
+definition:
+- content: |-
+    1. Phenomenon of the change in velocity of propagation of radiation as a function of its frequency, which causes a separation of the monochromatic components of a polychromatic radiation.
+
+
+
+    2. Property of an optical device, or medium, giving rise to this phenomenon.
+
+
+
+    3. Quantity characterising this property.
+
+
+
+
+
+    Reference: C.I.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

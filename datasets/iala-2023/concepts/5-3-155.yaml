@@ -1,0 +1,34 @@
+---
+id: 5-3-155
+termid: 5-3-155
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Baseband
+---
+id: 5-3-155-eng
+termid: 5-3-155
+language_code: eng
+terms:
+- type: expression
+  designation: Baseband
+  normative_status: preferred
+definition:
+- content: |-
+    The band of frequencies which is modulated onto or from the carrier in a wideband radio relay system and which is occupied by television, multichannel telephony, telegraphy, or similar signals and any pilot or other associated signals.
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

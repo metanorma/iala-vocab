@@ -1,0 +1,34 @@
+---
+id: 4-1-305
+termid: 4-1-305
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fraunhofer_region
+---
+id: 4-1-305-eng
+termid: 4-1-305
+language_code: eng
+terms:
+- type: expression
+  designation: Fraunhofer region
+  normative_status: preferred
+definition:
+- content: |-
+    For a transmitting antenna system, the region which is sufficiently remote from the antenna system for the wavelets arriving from the various parts of the system to be considered to follow parallel paths.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

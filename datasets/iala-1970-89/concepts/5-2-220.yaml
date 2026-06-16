@@ -1,0 +1,40 @@
+---
+id: 5-2-220
+termid: 5-2-220
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ideal_value
+---
+id: 5-2-220-eng
+termid: 5-2-220
+language_code: eng
+terms:
+- type: expression
+  designation: Ideal value
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Desired value
+
+
+    The value of the ultimately controlled variable of an idealized system.
+
+
+
+
+
+    Figure 2 - Block diagram of automatic control system (5-2-045) incorporating a closed loop (5-2-080)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

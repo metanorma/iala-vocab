@@ -1,0 +1,43 @@
+---
+id: 5-2-120
+termid: 5-2-120
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Command
+---
+id: 5-2-120-eng
+termid: 5-2-120
+language_code: eng
+terms:
+- type: expression
+  designation: Command
+  normative_status: preferred
+definition:
+- content: |-
+    An input variable established by means external to and independent of the automatic control system which is intended to determine the value of the controlled variable.
+
+
+
+
+
+    Figure 2 - Block diagram of automatic control system (5-2-045) incorporating a closed loop (5-2-080)
+
+
+    Reference: ANSI (modified)
+
+
+    Note:: The French word "commande" is generally used to mean control.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

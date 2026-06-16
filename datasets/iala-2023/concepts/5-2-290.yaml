@@ -1,0 +1,34 @@
+---
+id: 5-2-290
+termid: 5-2-290
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Derivative_action
+---
+id: 5-2-290-eng
+termid: 5-2-290
+language_code: eng
+terms:
+- type: expression
+  designation: Derivative action
+  normative_status: preferred
+definition:
+- content: |-
+    Control action for which the output is proportional to the rate of change of the input.
+
+
+    Reference: ANSI (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

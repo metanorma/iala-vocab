@@ -1,0 +1,32 @@
+---
+id: 3-1-245
+termid: 3-1-245
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Actual_range_of_a_sound_signal
+---
+id: 3-1-245-eng
+termid: 3-1-245
+language_code: eng
+terms:
+- type: expression
+  designation: Actual range of a sound signal
+  normative_status: preferred
+definition:
+- content: The maximum distance, measured from the point of emission, at which it
+    is possible to understand the information contained in the signal under the existing
+    conditions of propagation and listening.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

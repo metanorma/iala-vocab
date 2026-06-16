@@ -1,0 +1,35 @@
+---
+id: 6-8-140
+termid: 6-8-140
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Overload_relay
+---
+id: 6-8-140-eng
+termid: 6-8-140
+language_code: eng
+terms:
+- type: expression
+  designation: Overload relay
+  normative_status: preferred
+definition:
+- content: |-
+    A relay that operates at a preset value of overload.
+
+
+
+    Note:  An overload relay is usually made to respond to current, but the response may be to power, temperature, etc.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

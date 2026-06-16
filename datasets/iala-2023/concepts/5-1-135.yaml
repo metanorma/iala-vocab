@@ -1,0 +1,31 @@
+---
+id: 5-1-135
+termid: 5-1-135
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cannibalization
+---
+id: 5-1-135-eng
+termid: 5-1-135
+language_code: eng
+terms:
+- type: expression
+  designation: Cannibalization
+  normative_status: preferred
+definition:
+- content: A maintenance modification or repair method in which the required parts
+    are removed from a similar system or assembly for installation in another.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

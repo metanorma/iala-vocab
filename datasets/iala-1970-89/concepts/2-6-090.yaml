@@ -1,0 +1,30 @@
+---
+id: 2-6-090
+termid: 2-6-090
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mid-Channel_Mark_(or_Buoy)
+---
+id: 2-6-090-eng
+termid: 2-6-090
+language_code: eng
+terms:
+- type: expression
+  designation: Mid-Channel Mark (or Buoy)
+  normative_status: preferred
+definition:
+- content: A mark (or buoy) serving to indicate a deep-water channel (fairway).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

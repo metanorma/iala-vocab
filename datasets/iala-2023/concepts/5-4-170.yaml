@@ -1,0 +1,30 @@
+---
+id: 5-4-170
+termid: 5-4-170
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Current_(sensitive)_relay
+---
+id: 5-4-170-eng
+termid: 5-4-170
+language_code: eng
+terms:
+- type: expression
+  designation: Current (sensitive) relay
+  normative_status: preferred
+definition:
+- content: A relay the operation of which depends on the magnitude of the current.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

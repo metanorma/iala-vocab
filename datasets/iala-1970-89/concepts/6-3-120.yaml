@@ -1,0 +1,32 @@
+---
+id: 6-3-120
+termid: 6-3-120
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Turbulence
+---
+id: 6-3-120-eng
+termid: 6-3-120
+language_code: eng
+terms:
+- type: expression
+  designation: Turbulence
+  normative_status: preferred
+definition:
+- content: Disorderly air flow produced by obstructions (buildings, trees, etc) in
+    the path of wind, or by the increase in friction when winds pass over the coast
+    from sea to land.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

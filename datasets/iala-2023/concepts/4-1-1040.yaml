@@ -1,0 +1,34 @@
+---
+id: 4-1-1040
+termid: 4-1-1040
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Equiphase_zone
+---
+id: 4-1-1040-eng
+termid: 4-1-1040
+language_code: eng
+terms:
+- type: expression
+  designation: Equiphase zone
+  normative_status: preferred
+definition:
+- content: |-
+    The region in space within which there is no difference in phase between two radio signals.
+
+
+    Reference: I.R.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 8-4-105
+termid: 8-4-105
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gas_cylinder
+---
+id: 8-4-105-eng
+termid: 8-4-105
+language_code: eng
+terms:
+- type: expression
+  designation: Gas cylinder
+  normative_status: preferred
+definition:
+- content: A cylindrical container designed to store gas under pressure, for use as
+    a source of power on buoys.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

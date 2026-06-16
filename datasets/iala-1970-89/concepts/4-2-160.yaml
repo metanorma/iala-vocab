@@ -1,0 +1,38 @@
+---
+id: 4-2-160
+termid: 4-2-160
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radiogoniometer
+---
+id: 4-2-160-eng
+termid: 4-2-160
+language_code: eng
+terms:
+- type: expression
+  designation: Radiogoniometer
+  normative_status: preferred
+definition:
+- content: |-
+    An instrument which, when coupled to a suitable fixed antenna system, enables the bearing of incident waves to be determined by rotation of a movable part.
+
+
+
+    Note: Two types of radiogoniometer are used, either capacitive or inductive.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

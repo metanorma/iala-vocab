@@ -1,0 +1,34 @@
+---
+id: 4-2-370
+termid: 4-2-370
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Adcock_antenna
+---
+id: 4-2-370-eng
+termid: 4-2-370
+language_code: eng
+terms:
+- type: expression
+  designation: Adcock antenna
+  normative_status: preferred
+definition:
+- content: |-
+    An antenna consisting of a pair of horizontally spaced vertical elements connected, or coupled, differentially to a single output circuit and designed to minimise the response to the horizontally polarized electric component of the field, the response pattern having the shape of a figure of eight.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

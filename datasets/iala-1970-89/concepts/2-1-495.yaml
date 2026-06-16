@@ -1,0 +1,41 @@
+---
+id: 2-1-495
+termid: 2-1-495
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Distribution_Temperature
+---
+id: 2-1-495-eng
+termid: 2-1-495
+language_code: eng
+terms:
+- type: expression
+  designation: Distribution Temperature
+  normative_status: preferred
+definition:
+- content: |-
+    The temperature of the full radiator for which the ordinates of the spectral distribution curve of its radiance are proportional, or approximately so, in the visible region, to those of the distribution curve of the radiation considered.
+
+
+    Unit: kelvin (K)
+
+
+
+    Note: Both radiations will necessarily have the same, or nearly the same, chromaticity.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,51 @@
+---
+id: 2-1-295
+termid: 2-1-295
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Contrast
+---
+id: 2-1-295-eng
+termid: 2-1-295
+language_code: eng
+terms:
+- type: expression
+  designation: Contrast
+  normative_status: preferred
+definition:
+- content: |-
+    (Luminance) Contrast (of an object against its background)
+
+
+    1. Subjective assessment of the difference in luminance of an object and its background.
+
+
+    2. The quotient of the difference between the luminance of an object and the luminance of its background by the luminance of the background.
+
+
+    Symbol: C
+
+
+
+
+
+
+
+    where L1 is the luminance of the background
+
+
+    L2 is the luminance of the object seen against the background.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

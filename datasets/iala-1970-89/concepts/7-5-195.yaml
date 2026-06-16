@@ -1,0 +1,35 @@
+---
+id: 7-5-195
+termid: 7-5-195
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Buckling_(of_a_strut_or_column)
+---
+id: 7-5-195-eng
+termid: 7-5-195
+language_code: eng
+terms:
+- type: expression
+  designation: Buckling (of a strut or column)
+  normative_status: preferred
+definition:
+- content: |-
+    Horizontal deflection of a column or strut caused by an eccentric or excessive compressive vertical load.
+
+
+
+    Note: In French the phenomenon is called flambage and the resultant is called flambement.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

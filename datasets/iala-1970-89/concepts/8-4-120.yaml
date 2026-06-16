@@ -1,0 +1,31 @@
+---
+id: 8-4-120
+termid: 8-4-120
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Access_hatch
+---
+id: 8-4-120-eng
+termid: 8-4-120
+language_code: eng
+terms:
+- type: expression
+  designation: Access hatch
+  normative_status: preferred
+definition:
+- content: An opening in a vessel or Lanby permitting personnel to enter the interior.
+    It is closed by means of a watertight cover that can be easily opened.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

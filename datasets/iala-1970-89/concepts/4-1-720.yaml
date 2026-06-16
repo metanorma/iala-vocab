@@ -1,0 +1,37 @@
+---
+id: 4-1-720
+termid: 4-1-720
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Image_frequency
+---
+id: 4-1-720-eng
+termid: 4-1-720
+language_code: eng
+terms:
+- type: expression
+  designation: Image frequency
+  normative_status: preferred
+definition:
+- content: |-
+    Second-channel frequency
+
+
+    In heterodyne reception, a frequency, other than that to which the receiver is tuned, which    is such that the difference between this frequency and that of a local oscillator in the receiver is a frequency lying within the pass band of an intermediate-frequency amplifier in the receiver, in which it produces an unwanted response.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 5-4-360
+termid: 5-4-360
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Visibility_meter
+---
+id: 5-4-360-eng
+termid: 5-4-360
+language_code: eng
+terms:
+- type: expression
+  designation: Visibility meter
+  normative_status: preferred
+definition:
+- content: A device which assesses the visibility by measurement of a related function
+    of the properties of the atmosphere.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 4-3-570
+termid: 4-3-570
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ratan
+---
+id: 4-3-570-eng
+termid: 4-3-570
+language_code: eng
+terms:
+- type: expression
+  designation: Ratan
+  normative_status: preferred
+definition:
+- content: A navigational aid employing primary radar in which the radar picture,
+    and additional information, is transmitted to a vessel directly by means of television.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

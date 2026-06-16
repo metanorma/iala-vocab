@@ -1,0 +1,37 @@
+---
+id: 2-5-155
+termid: 2-5-155
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Group-Flashing_Light
+---
+id: 2-5-155-eng
+termid: 2-5-155
+language_code: eng
+terms:
+- type: expression
+  designation: Group-Flashing Light
+  normative_status: preferred
+definition:
+- content: |-
+    Flashing light in which the flashes are combined in groups, each group including the same number of flashes, and in which the groups are repeated at regular intervals. The eclipses separating the flashes within each group are of equal duration and this duration is clearly shorter than the duration of the eclipse between two successive groups. (Fig. 40c)
+
+
+
+
+
+    Reference: N.L.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

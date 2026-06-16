@@ -1,0 +1,32 @@
+---
+id: 6-4-285
+termid: 6-4-285
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Resistance-start_motor
+---
+id: 6-4-285-eng
+termid: 6-4-285
+language_code: eng
+terms:
+- type: expression
+  designation: Resistance-start motor
+  normative_status: preferred
+definition:
+- content: A split-phase motor in which the auxiliary winding is energised only during
+    the starting operation and either is connected in series with a resistor or has
+    sufficient inherent resistance not to require an additional resistor.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

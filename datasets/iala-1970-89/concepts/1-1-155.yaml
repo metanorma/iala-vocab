@@ -1,0 +1,38 @@
+---
+id: 1-1-155
+termid: 1-1-155
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Spectral_distribution_curve
+---
+id: 1-1-155-eng
+termid: 1-1-155
+language_code: eng
+terms:
+- type: expression
+  designation: Spectral distribution curve
+  normative_status: preferred
+definition:
+- content: |-
+    Spectral distribution curve (of a radiometric quantity radiant flux, radiant intensity, etc.)
+
+
+    Curve representing the spectral concentration of the quantity as a function of wavelength.
+
+
+
+    Reference: C.I.E. (extract)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

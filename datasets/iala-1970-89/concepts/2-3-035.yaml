@@ -1,0 +1,34 @@
+---
+id: 2-3-035
+termid: 2-3-035
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Paraffin_Vapour_Lamp
+---
+id: 2-3-035-eng
+termid: 2-3-035
+language_code: eng
+terms:
+- type: expression
+  designation: Paraffin Vapour Lamp
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Paraffin Vapour Burner
+
+
+    Mantle burner in which the combustible fuel is the vapour of paraffin in air.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

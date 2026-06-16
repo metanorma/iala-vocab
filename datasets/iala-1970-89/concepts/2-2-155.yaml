@@ -1,0 +1,34 @@
+---
+id: 2-2-155
+termid: 2-2-155
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Focusing
+---
+id: 2-2-155-eng
+termid: 2-2-155
+language_code: eng
+terms:
+- type: expression
+  designation: Focusing
+  normative_status: preferred
+definition:
+- content: |-
+    1. The operation of placing a point object at the focus of an optical apparatus.
+
+
+    2. The operation of placing a light source about or near the focus of an optical apparatus in such a way as to produce a desired light distribution.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

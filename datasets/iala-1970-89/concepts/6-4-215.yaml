@@ -1,0 +1,34 @@
+---
+id: 6-4-215
+termid: 6-4-215
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Parallelling
+---
+id: 6-4-215-eng
+termid: 6-4-215
+language_code: eng
+terms:
+- type: expression
+  designation: Parallelling
+  normative_status: preferred
+definition:
+- content: |-
+    The process of making a suitable electrical connection between the outputs of two generators, or between a generator and another power source.
+
+
+    Note: The use of the term with regard to synchronous generators is deprecated.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

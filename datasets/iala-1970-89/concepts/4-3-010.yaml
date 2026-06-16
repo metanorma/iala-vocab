@@ -1,0 +1,33 @@
+---
+id: 4-3-010
+termid: 4-3-010
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Secondary_radar
+---
+id: 4-3-010-eng
+termid: 4-3-010
+language_code: eng
+terms:
+- type: expression
+  designation: Secondary radar
+  normative_status: preferred
+definition:
+- content: Radar in which the target is fitted with a transponder (4-3-420) to re-transmit
+    automatically on the same frequency as the interrogating frequency, or a different
+    frequency. The response may be coded or delayed by a known duration (or both)
+    to provide identification, and to allow the range to be measured.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

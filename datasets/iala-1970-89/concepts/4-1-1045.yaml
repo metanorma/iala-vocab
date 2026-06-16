@@ -1,0 +1,34 @@
+---
+id: 4-1-1045
+termid: 4-1-1045
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Triad
+---
+id: 4-1-1045-eng
+termid: 4-1-1045
+language_code: eng
+terms:
+- type: expression
+  designation: Triad
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: Triad (in radionavigation), Triplet (in radionavigation)
+
+
+    Three radio stations operated as a group for the determination of positions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

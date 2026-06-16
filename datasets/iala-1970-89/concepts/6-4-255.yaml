@@ -1,0 +1,31 @@
+---
+id: 6-4-255
+termid: 6-4-255
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Slip-ring_motor
+---
+id: 6-4-255-eng
+termid: 6-4-255
+language_code: eng
+terms:
+- type: expression
+  designation: Slip-ring motor
+  normative_status: preferred
+definition:
+- content: An induction motor in which the terminal leads of the rotor winding are
+    connected to collector rings (slip rings).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

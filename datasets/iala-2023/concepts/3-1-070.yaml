@@ -1,0 +1,38 @@
+---
+id: 3-1-070
+termid: 3-1-070
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Band_pressure_level
+---
+id: 3-1-070-eng
+termid: 3-1-070
+language_code: eng
+terms:
+- type: expression
+  designation: Band pressure level
+  normative_status: preferred
+definition:
+- content: |-
+    Band pressure level (for a specified frequency band)
+
+
+    The effective sound pressure level corresponding to the sound energy contained within the band.
+
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

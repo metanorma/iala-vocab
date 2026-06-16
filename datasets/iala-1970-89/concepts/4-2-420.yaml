@@ -1,0 +1,34 @@
+---
+id: 4-2-420
+termid: 4-2-420
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Counterpoise
+---
+id: 4-2-420-eng
+termid: 4-2-420
+language_code: eng
+terms:
+- type: expression
+  designation: Counterpoise
+  normative_status: preferred
+definition:
+- content: |-
+    A conductor or group of conductors placed above the ground, used in association with an antenna system instead of, or supplementary to, an earth system.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

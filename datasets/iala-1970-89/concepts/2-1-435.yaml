@@ -1,0 +1,40 @@
+---
+id: 2-1-435
+termid: 2-1-435
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Colour_(G.B.)
+---
+id: 2-1-435-eng
+termid: 2-1-435
+language_code: eng
+terms:
+- type: expression
+  designation: Colour (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Color (U.S.A.)
+
+
+    1. Perceived colour Aspect of visual perception by which an observer may distinguish differences between two fields of view of the same size, shape and structure, such as may be caused by differences in the spectral composition of the radiation concerned in the observation.
+
+
+    2. Psychophysical colour Characteristic of a visible radiation by which an observer may distinguish differences between two fields of view of the same size, shape and structure, such as may be caused by differences in the spectral composition of the radiation concerned in the observation.
+
+
+    Reference: C.I.E. (extract)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 4-2-115
+termid: 4-2-115
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Wide_aperture_direction_finder
+---
+id: 4-2-115-eng
+termid: 4-2-115
+language_code: eng
+terms:
+- type: expression
+  designation: Wide aperture direction finder
+  normative_status: preferred
+definition:
+- content: |-
+    A direction finder in which the arriving wave front is received simultaneously (or nearly so) by an array of antennas, extending over a distance comparable to, or greater than, one wave length.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 4-4-065
+termid: 4-4-065
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Loran_chart
+---
+id: 4-4-065-eng
+termid: 4-4-065
+language_code: eng
+terms:
+- type: expression
+  designation: Loran chart
+  normative_status: preferred
+definition:
+- content: |-
+    A special navigational chart upon which are printed the Loran lines of position.
+
+
+    Two or more different sets of lines of position are included so that fixes may be obtained.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

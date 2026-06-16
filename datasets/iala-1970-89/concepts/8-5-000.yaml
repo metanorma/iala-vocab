@@ -1,0 +1,34 @@
+---
+id: 8-5-000
+termid: 8-5-000
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Anchor
+---
+id: 8-5-000-eng
+termid: 8-5-000
+language_code: eng
+terms:
+- type: expression
+  designation: Anchor
+  normative_status: preferred
+definition:
+- content: A heavy device of iron or steel used to secure a vessel or buoy at a desired
+    location. It comprises a shank with, at one end, a shackle or ring to which the
+    mooring line of the vessel or buoy is attached and, at the other end, flukes that
+    can grip the sea bottom. A crosspiece called the stock may be fitted transversely
+    to the shank, to cant the anchor when the mooring line is tensioned.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

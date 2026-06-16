@@ -1,0 +1,37 @@
+---
+id: 4-3-020
+termid: 4-3-020
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pulse-modulated_radar
+---
+id: 4-3-020-eng
+termid: 4-3-020
+language_code: eng
+terms:
+- type: expression
+  designation: Pulse-modulated radar
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Pulse radar
+
+
+    A form of radar in which the transmitted radiation consists of a series of discrete pulses. Usually the radio frequency is substantially the same in all the pulses.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

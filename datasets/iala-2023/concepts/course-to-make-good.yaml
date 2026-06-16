@@ -1,0 +1,39 @@
+---
+id: course-to-make-good
+termid: course-to-make-good
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Course_to_Make_Good
+---
+id: course-to-make-good-eng
+termid: course-to-make-good
+language_code: eng
+terms:
+- type: expression
+  designation: Course to Make Good
+  normative_status: preferred
+definition:
+- content: |-
+    VTS-2012-11
+    That course which a vessel intends to make good over ground, after allowing for the effect of currents, tidal streams, and leeway caused by wind and sea. (Be aware that this term does not equate to Course to Steer).
+
+
+    Source: IALA Guideline 1068 (2009)
+
+
+
+
+
+
+    (VTS33/output/8 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

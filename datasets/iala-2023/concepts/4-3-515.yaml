@@ -1,0 +1,34 @@
+---
+id: 4-3-515
+termid: 4-3-515
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gap_coding
+---
+id: 4-3-515-eng
+termid: 4-3-515
+language_code: eng
+terms:
+- type: expression
+  designation: Gap coding
+  normative_status: preferred
+definition:
+- content: |-
+    Gap coding (in a transponder)
+
+
+    A process of interrupting the response of a transponder into long and short pulses, like the morse code, for recognition purposes.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

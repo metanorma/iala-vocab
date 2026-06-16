@@ -1,0 +1,30 @@
+---
+id: conservation
+termid: conservation
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-12
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Conservation
+---
+id: conservation-eng
+termid: conservation
+language_code: eng
+terms:
+- type: expression
+  designation: Conservation
+  normative_status: preferred
+definition:
+- content: "Action to secure the survival or preservation of buildings, cultural artefacts,
+    natural resources, energy or anything of acknowledged value to the future.\n\n\n\nReference:
+    Stirlingcharter \n\n\n(This definition was noted at the IALA Seminar on the Practical
+    Aspects of Lighthouse Preservation in Gothenburg 2005)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

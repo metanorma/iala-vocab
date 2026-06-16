@@ -1,0 +1,35 @@
+---
+id: 1-1-260
+termid: 1-1-260
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Plane_wave
+---
+id: 1-1-260-eng
+termid: 1-1-260
+language_code: eng
+terms:
+- type: expression
+  designation: Plane wave
+  normative_status: preferred
+definition:
+- content: |-
+    A wave such that the corresponding physical quantities are uniform in any plane perpendicular to a fixed direction.
+
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

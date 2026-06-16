@@ -1,0 +1,34 @@
+---
+id: 2-3-325
+termid: 2-3-325
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Starter
+---
+id: 2-3-325-eng
+termid: 2-3-325
+language_code: eng
+terms:
+- type: expression
+  designation: Starter
+  normative_status: preferred
+definition:
+- content: |-
+    A device for starting a discharge lamp (in particular a fluorescent lamp) which provides for the necessary preheating of the electrodes, or causes a voltage surge in combination with the series ballast, or both.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

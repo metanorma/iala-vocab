@@ -1,0 +1,35 @@
+---
+id: 4-2-305
+termid: 4-2-305
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lateral_deviation
+---
+id: 4-2-305-eng
+termid: 4-2-305
+language_code: eng
+terms:
+- type: expression
+  designation: Lateral deviation
+  normative_status: preferred
+definition:
+- content: |-
+    The deviation of a ray from the great circle plane containing the point of observation and the transmitter.
+
+
+
+    Note: Such deviation can occur, for example, as a result of reflection from a tilted ionospheric layer, by reflection from a mountain or cliff or by coastal refraction.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

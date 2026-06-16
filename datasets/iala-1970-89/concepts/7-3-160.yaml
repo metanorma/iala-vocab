@@ -1,0 +1,35 @@
+---
+id: 7-3-160
+termid: 7-3-160
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Corrugated_sheet
+---
+id: 7-3-160-eng
+termid: 7-3-160
+language_code: eng
+terms:
+- type: expression
+  designation: Corrugated sheet
+  normative_status: preferred
+definition:
+- content: |-
+    A cladding material for buildings of steel, plastic, aluminium or asbestos-cement, which has a corrugated profile for rigidity.
+
+
+
+    Note: Corrugated iron is specifically a steel sheet which has been galvanised for corrosion resistance.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

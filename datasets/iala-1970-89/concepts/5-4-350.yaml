@@ -1,0 +1,31 @@
+---
+id: 5-4-350
+termid: 5-4-350
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fog_detector
+---
+id: 5-4-350-eng
+termid: 5-4-350
+language_code: eng
+terms:
+- type: expression
+  designation: Fog detector
+  normative_status: preferred
+definition:
+- content: A device which detects changes in visibility (2-1-275) and can be used
+    to control aids to navigation when the visibility falls below a defined threshold.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

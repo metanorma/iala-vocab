@@ -1,0 +1,37 @@
+---
+id: 5-3-100
+termid: 5-3-100
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Time_division_multiplex_(TDM)
+---
+id: 5-3-100-eng
+termid: 5-3-100
+language_code: eng
+terms:
+- type: expression
+  designation: Time division multiplex (TDM)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Time sharing
+
+
+    A device or process for the transmission of two or more signals over a common path by using successive time intervals for the different signals.
+
+
+    Reference: I.R.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

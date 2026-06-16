@@ -1,0 +1,33 @@
+---
+id: 5-1-050
+termid: 5-1-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Preventive_maintenance
+---
+id: 5-1-050-eng
+termid: 5-1-050
+language_code: eng
+terms:
+- type: expression
+  designation: Preventive maintenance
+  normative_status: preferred
+definition:
+- content: "A procedure of periodically checking or reconditioning a system to prevent
+    or reduce the probability of failure or deterioration while in service. \n\n\nPreventive
+    maintenance provides systematic inspection, detection and correction of incipient
+    failures before they occur or develop into major malfunctions."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

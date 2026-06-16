@@ -1,0 +1,31 @@
+---
+id: 6-7-045
+termid: 6-7-045
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Static_converter
+---
+id: 6-7-045-eng
+termid: 6-7-045
+language_code: eng
+terms:
+- type: expression
+  designation: Static converter
+  normative_status: preferred
+definition:
+- content: A converter that comprises only electronic, solid-state, magnetic or other
+    devices without mechanical motion.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

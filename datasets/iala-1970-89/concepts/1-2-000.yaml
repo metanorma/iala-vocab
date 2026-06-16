@@ -1,0 +1,34 @@
+---
+id: 1-2-000
+termid: 1-2-000
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Navigation
+---
+id: 1-2-000-eng
+termid: 1-2-000
+language_code: eng
+terms:
+- type: expression
+  designation: Navigation
+  normative_status: preferred
+definition:
+- content: |-
+    1. The art or science of determining position and course of a ship or aircraft by means of observations on board, whereby difficulties and dangers are avoided and a desired destination is reached as quickly and safely as possible.
+
+
+    2. The practice of passing on water of ships, whether inland or on the sea.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

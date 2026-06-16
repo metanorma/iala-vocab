@@ -1,0 +1,32 @@
+---
+id: 8-1-035
+termid: 8-1-035
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Depot_motor_launch
+---
+id: 8-1-035-eng
+termid: 8-1-035
+language_code: eng
+terms:
+- type: expression
+  designation: Depot motor launch
+  normative_status: preferred
+definition:
+- content: "A launch used for transporting personnel and stores between a depot and
+    vessels at harbour moorings. Also used as a general depot workboat.\n\n\n\nNote :
+    \n\n\nAlso sometimes called a tender."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 7-2-530
+termid: 7-2-530
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dog_step
+---
+id: 7-2-530-eng
+termid: 7-2-530
+language_code: eng
+terms:
+- type: expression
+  designation: Dog step
+  normative_status: preferred
+definition:
+- content: Shaped metal bar or casting, the ends of which are fixed into masonry or
+    concrete to form a combined step and handhold.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

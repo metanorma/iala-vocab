@@ -1,0 +1,33 @@
+---
+id: 4-1-505
+termid: 4-1-505
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/End_fire_array
+---
+id: 4-1-505-eng
+termid: 4-1-505
+language_code: eng
+terms:
+- type: expression
+  designation: End fire array
+  normative_status: preferred
+definition:
+- content: A linear array of elements whose centres lie on a straight line and whose
+    principal direction of radiation or reception is along this line. An end fire
+    array is often composed of a number of parallel dipoles or monopoles which are
+    coplanar and equally spaced.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

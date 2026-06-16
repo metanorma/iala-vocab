@@ -1,0 +1,32 @@
+---
+id: 6-4-300
+termid: 6-4-300
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Resistance_starting_(of_a_motor)
+---
+id: 6-4-300-eng
+termid: 6-4-300
+language_code: eng
+terms:
+- type: expression
+  designation: Resistance starting (of a motor)
+  normative_status: preferred
+definition:
+- content: The process of starting a motor with the primary or the secondary winding
+    in series with starting resistors that are short-circuited for the normal running
+    conditions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

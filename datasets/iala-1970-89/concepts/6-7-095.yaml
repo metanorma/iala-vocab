@@ -1,0 +1,35 @@
+---
+id: 6-7-095
+termid: 6-7-095
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stabilised_power_supply_(unit)
+---
+id: 6-7-095-eng
+termid: 6-7-095
+language_code: eng
+terms:
+- type: expression
+  designation: Stabilised power supply (unit)
+  normative_status: preferred
+definition:
+- content: |-
+    A converter that provides one or more voltages or currents, each of which is maintained within specific limits.
+
+
+
+    Note: The French term alimentation regulee refers to a stabilised power supply unit in which the stabilisation of voltage is made by feedback.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

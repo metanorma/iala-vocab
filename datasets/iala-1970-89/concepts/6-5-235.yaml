@@ -1,0 +1,35 @@
+---
+id: 6-5-235
+termid: 6-5-235
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Float_charge
+---
+id: 6-5-235-eng
+termid: 6-5-235
+language_code: eng
+terms:
+- type: expression
+  designation: Float charge
+  normative_status: preferred
+definition:
+- content: |-
+    A charge at constant voltage that is intended to maintain a battery in an approximately constant state of charge while it is supplying a load system.
+
+
+
+    Note: A battery used in this way is called in French batterie flottante.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

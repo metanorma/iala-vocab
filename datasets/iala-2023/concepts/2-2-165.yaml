@@ -1,0 +1,31 @@
+---
+id: 2-2-165
+termid: 2-2-165
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Focal_Plane_(of_a_lens_or_focusing_reflector)
+---
+id: 2-2-165-eng
+termid: 2-2-165
+language_code: eng
+terms:
+- type: expression
+  designation: Focal Plane (of a lens or focusing reflector)
+  normative_status: preferred
+definition:
+- content: The plane normal to the optical axis of the lens or reflector and containing
+    the focus.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

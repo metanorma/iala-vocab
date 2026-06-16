@@ -1,0 +1,37 @@
+---
+id: 4-2-015
+termid: 4-2-015
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Transmission_schedule
+---
+id: 4-2-015-eng
+termid: 4-2-015
+language_code: eng
+terms:
+- type: expression
+  designation: Transmission schedule
+  normative_status: preferred
+definition:
+- content: |-
+    Radio beacon schedule Sequence number
+
+
+    A term used in parts of the world where radio beacons are operated in groups. It indicates the position (or positions) in the group occupied by the transmissions of the radio beacon and is designated by the numbers) of the minute(s) in which transmission occurs.
+
+
+    Reference: A.L.R.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

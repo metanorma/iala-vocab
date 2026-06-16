@@ -1,0 +1,34 @@
+---
+id: 4-2-375
+termid: 4-2-375
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Bellini-Tosi_antenna
+---
+id: 4-2-375-eng
+termid: 4-2-375
+language_code: eng
+terms:
+- type: expression
+  designation: Bellini-Tosi antenna
+  normative_status: preferred
+definition:
+- content: |-
+    A form of directional receiving antenna consisting of two fixed independent crossed vertical loops at right angles to one another. The loops are coupled to a common output through the field coils of a radiogoniometer.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

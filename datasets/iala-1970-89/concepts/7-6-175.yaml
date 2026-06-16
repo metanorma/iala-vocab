@@ -1,0 +1,31 @@
+---
+id: 7-6-175
+termid: 7-6-175
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cast_in-situ_piling
+---
+id: 7-6-175-eng
+termid: 7-6-175
+language_code: eng
+terms:
+- type: expression
+  designation: Cast in-situ piling
+  normative_status: preferred
+definition:
+- content: The casting of a concrete pile within a borehole, usually cased, in the
+    ground.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

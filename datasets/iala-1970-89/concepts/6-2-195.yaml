@@ -1,0 +1,35 @@
+---
+id: 6-2-195
+termid: 6-2-195
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fuel_system
+---
+id: 6-2-195-eng
+termid: 6-2-195
+language_code: eng
+terms:
+- type: expression
+  designation: Fuel system
+  normative_status: preferred
+definition:
+- content: |-
+    System supplying liquid fuel from a tank to an engine, either by gravity feed or by pumping.
+
+
+
+    Note: In lighthouse practice the fuel may be supplied directly by gravity feed or via a day-tank that can be refilled by hand pumping or by an automatically-controlled electric pump.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

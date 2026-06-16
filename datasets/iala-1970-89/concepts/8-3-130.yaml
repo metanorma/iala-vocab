@@ -1,0 +1,34 @@
+---
+id: 8-3-130
+termid: 8-3-130
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cable_holder_(GB)
+---
+id: 8-3-130-eng
+termid: 8-3-130
+language_code: eng
+terms:
+- type: expression
+  designation: Cable holder (GB)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: Cable lifter (GB), Wildcat (USA)
+
+
+    A narrow drum deeply grooved circumferentially and shaped into snugs or sprockets to accommodate the links of a chain. One flange is extended to form a brake drum. The cable lifter is usually fitted with a clutch.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

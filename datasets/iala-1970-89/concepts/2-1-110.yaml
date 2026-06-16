@@ -1,0 +1,41 @@
+---
+id: 2-1-110
+termid: 2-1-110
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Isocandela_Curve_(G.B.)
+---
+id: 2-1-110-eng
+termid: 2-1-110
+language_code: eng
+terms:
+- type: expression
+  designation: Isocandela Curve (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    Isocandela Line (U.S.A.)
+
+
+    A curve traced on an imaginary sphere with the source at its centre and joining all the points corresponding to those directions in which the luminous intensity is the same, or a plane projection of this curve.
+
+
+    Reference: C.I.E.
+
+
+
+    Note: This type of diagram is sometimes used instead of the curve of luminous intensity distribution.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

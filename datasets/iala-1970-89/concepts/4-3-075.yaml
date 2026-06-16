@@ -1,0 +1,34 @@
+---
+id: 4-3-075
+termid: 4-3-075
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Target_trail
+---
+id: 4-3-075-eng
+termid: 4-3-075
+language_code: eng
+terms:
+- type: expression
+  designation: Target trail
+  normative_status: preferred
+definition:
+- content: |-
+    Target tail
+
+
+    The display of diminishing luminance seen to follow a target on a P.P.I. which results from afterglow and the progress of the target between successive scans of the radar.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,37 @@
+---
+id: 2-1-440
+termid: 2-1-440
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hue
+---
+id: 2-1-440-eng
+termid: 2-1-440
+language_code: eng
+terms:
+- type: expression
+  designation: Hue
+  normative_status: preferred
+definition:
+- content: |-
+    The attribute of visual sensation which has given rise to colour names, such as blue, green, yellow, red, purple etc.
+
+
+    Note: This attribute is the psychosensorial correlate, or nearly so, of the colorimetric quantity "dominant wavelength".
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

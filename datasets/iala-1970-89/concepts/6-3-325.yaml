@@ -1,0 +1,31 @@
+---
+id: 6-3-325
+termid: 6-3-325
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hydrocarbon
+---
+id: 6-3-325-eng
+termid: 6-3-325
+language_code: eng
+terms:
+- type: expression
+  designation: Hydrocarbon
+  normative_status: preferred
+definition:
+- content: One of a group of organic chemical compounds, composed of carbon, hydrogen
+    and oxygen atoms. Coal and fuel oils are hydrocarbons.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

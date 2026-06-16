@@ -1,0 +1,31 @@
+---
+id: 6-6-220
+termid: 6-6-220
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Auxiliary_contact
+---
+id: 6-6-220-eng
+termid: 6-6-220
+language_code: eng
+terms:
+- type: expression
+  designation: Auxiliary contact
+  normative_status: preferred
+definition:
+- content: A contact included in an auxiliary circuit and mechanically operated by
+    a switching device.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

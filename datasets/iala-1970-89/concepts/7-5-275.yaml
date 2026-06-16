@@ -1,0 +1,31 @@
+---
+id: 7-5-275
+termid: 7-5-275
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Simply_supported_beam
+---
+id: 7-5-275-eng
+termid: 7-5-275
+language_code: eng
+terms:
+- type: expression
+  designation: Simply supported beam
+  normative_status: preferred
+definition:
+- content: A beam which is freely supported between two points, neither end being
+    fixed.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

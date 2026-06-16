@@ -1,0 +1,32 @@
+---
+id: latency
+termid: latency
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Latency
+---
+id: latency-eng
+termid: latency
+language_code: eng
+terms:
+- type: expression
+  designation: Latency
+  normative_status: preferred
+definition:
+- content: |-
+    The time lag between the navigation observations and the presented navigation solution.
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

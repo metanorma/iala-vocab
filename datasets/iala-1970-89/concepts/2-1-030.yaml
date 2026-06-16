@@ -1,0 +1,47 @@
+---
+id: 2-1-030
+termid: 2-1-030
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Luminous_Efficacy
+---
+id: 2-1-030-eng
+termid: 2-1-030
+language_code: eng
+terms:
+- type: expression
+  designation: Luminous Efficacy
+  normative_status: preferred
+definition:
+- content: |-
+    Luminous Efficacy (of a source)
+
+
+    The quotient of the luminous flux emitted by the power consumed.
+
+
+    Symbol: ?
+
+
+    Unit: lumen per watt (Im/W)
+
+
+
+    Note: Formerly Luminous Efficiency
+
+
+    Reference: C.I.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

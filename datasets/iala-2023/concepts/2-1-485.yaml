@@ -1,0 +1,38 @@
+---
+id: 2-1-485
+termid: 2-1-485
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Chromaticity
+---
+id: 2-1-485-eng
+termid: 2-1-485
+language_code: eng
+terms:
+- type: expression
+  designation: Chromaticity
+  normative_status: preferred
+definition:
+- content: |-
+    The colour quality of a colour stimulus definable by its chromaticity co-ordinates, or by its dominant (or complementary) wavelength and its purity taken together.
+
+
+    Reference: C.I.E.
+
+
+
+    Note: For definitions relating to Purity see Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

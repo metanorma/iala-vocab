@@ -1,0 +1,31 @@
+---
+id: 5-2-050
+termid: 5-2-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Off-normal_(G.B.)
+---
+id: 5-2-050-eng
+termid: 5-2-050
+language_code: eng
+terms:
+- type: expression
+  designation: Off-normal (G.B.)
+  normative_status: preferred
+definition:
+- content: An indication extended to a control point from an apparatus to show that
+    control is inihibited.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

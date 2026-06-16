@@ -1,0 +1,34 @@
+---
+id: 5-1-145
+termid: 5-1-145
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Confidence_level
+---
+id: 5-1-145-eng
+termid: 5-1-145
+language_code: eng
+terms:
+- type: expression
+  designation: Confidence level
+  normative_status: preferred
+definition:
+- content: |-
+    The probability that a given statement is correct or the probability that a stated confidence interval (numerical range) includes an unknown.
+
+
+    Note:: When this probability is expressed as a percentage, it is called confidence factor.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,41 @@
+---
+id: 2-3-435
+termid: 2-3-435
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Flash_Tube
+---
+id: 2-3-435-eng
+termid: 2-3-435
+language_code: eng
+terms:
+- type: expression
+  designation: Flash Tube
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Electronic-Flash Lamp
+
+
+    A discharge lamp, operated with electronic equipment, giving a high light output for a very brief period, capable of repetition.
+
+
+    Reference: C.I.E. (modified)
+
+
+
+    Note: In lighthouse service, this type of lamp has been used for example for quick-flashing lights and in fog-detection apparatus.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

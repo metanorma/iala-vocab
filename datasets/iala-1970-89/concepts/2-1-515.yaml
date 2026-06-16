@@ -1,0 +1,34 @@
+---
+id: 2-1-515
+termid: 2-1-515
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Thermal_Radiator
+---
+id: 2-1-515-eng
+termid: 2-1-515
+language_code: eng
+terms:
+- type: expression
+  designation: Thermal Radiator
+  normative_status: preferred
+definition:
+- content: |-
+    A source emitting by thermal radiation.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

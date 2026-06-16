@@ -1,0 +1,34 @@
+---
+id: 4-4-355
+termid: 4-4-355
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Toran_Reference_transmitter
+---
+id: 4-4-355-eng
+termid: 4-4-355
+language_code: eng
+terms:
+- type: expression
+  designation: Toran Reference transmitter
+  normative_status: preferred
+definition:
+- content: |-
+    Reference transmitter (in Toran)
+
+
+    A fixed transmitter associated with a compensating receiver and modulated by the low frequency beat frequency output of the receiver, which is used to transmit to the mobile station the phase reference.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

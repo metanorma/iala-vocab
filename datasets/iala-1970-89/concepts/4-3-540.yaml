@@ -1,0 +1,34 @@
+---
+id: 4-3-540
+termid: 4-3-540
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dihedral_reflector
+---
+id: 4-3-540-eng
+termid: 4-3-540
+language_code: eng
+terms:
+- type: expression
+  designation: Dihedral reflector
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Right angle reflector
+
+
+    A reflector consisting of two flat surfaces intersecting mutually at right angles. Incident waves entering the aperture so formed with a direction of incidence perpendicular to the edge, are returned parallel to their direction of incidence.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

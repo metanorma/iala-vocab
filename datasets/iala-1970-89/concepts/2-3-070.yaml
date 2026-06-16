@@ -1,0 +1,37 @@
+---
+id: 2-3-070
+termid: 2-3-070
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Douglas_Lamp_(G.B.)
+---
+id: 2-3-070-eng
+termid: 2-3-070
+language_code: eng
+terms:
+- type: expression
+  designation: Douglas Lamp (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Douglas Burner (G.B.)
+
+
+    A form of oil lamp burning paraffin as fuel. A parabolic metal reflector with focus at the centre of the flame is provided as an integral part of the lamp.
+
+
+    The paraffin storage tank is housed behind the reflector.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

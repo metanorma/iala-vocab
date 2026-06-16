@@ -1,0 +1,48 @@
+---
+id: 4-1-760
+termid: 4-1-760
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Muting
+---
+id: 4-1-760-eng
+termid: 4-1-760
+language_code: eng
+terms:
+- type: expression
+  designation: Muting
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Squelch (U.S.A.)
+
+
+    1. The process of inhibiting, by an automatic device incorporated in a receiver, any response (usually acoustic) to an excitation of less than some predetermined magnitude or any response with a signal-to-noise ratio below some predetermined value.
+
+
+
+    Note: The term Noise suppression for this process is deprecated.
+
+
+    2. Automatically making a receiver insensitive when a neighbouring transmitter is working.
+
+
+
+    Note: This process is often termed Desensitising.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

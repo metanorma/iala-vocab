@@ -1,0 +1,38 @@
+---
+id: 2-1-385
+termid: 2-1-385
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Rods
+---
+id: 2-1-385-eng
+termid: 2-1-385
+language_code: eng
+terms:
+- type: expression
+  designation: Rods
+  normative_status: preferred
+definition:
+- content: |-
+    Special retinal receptor elements which are presumed to be primarily concerned with perception of light stimuli, when the eye is adapted to darkness.
+
+
+
+    Note: The rods probably play no part in colour stimulus discrimination (see "scotopic vision", 2-1-335).
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

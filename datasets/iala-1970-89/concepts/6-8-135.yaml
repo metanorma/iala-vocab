@@ -1,0 +1,31 @@
+---
+id: 6-8-135
+termid: 6-8-135
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Overload_protection
+---
+id: 6-8-135-eng
+termid: 6-8-135
+language_code: eng
+terms:
+- type: expression
+  designation: Overload protection
+  normative_status: preferred
+definition:
+- content: Protection designed to operate when a given value of overload is exceeded,
+    typically when the current in a circuit exceeds a given value.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

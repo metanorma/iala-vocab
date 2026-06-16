@@ -1,0 +1,31 @@
+---
+id: sustainable
+termid: sustainable
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-12
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sustainable
+---
+id: sustainable-eng
+termid: sustainable
+language_code: eng
+terms:
+- type: expression
+  designation: Sustainable
+  normative_status: preferred
+definition:
+- content: "Using the heritage in a way which meets the needs of today without compromising
+    the ability of future generations to understand, appreciate and benefit from the
+    historic environment.\n\n\n\nReference: Stirlingcharter \n\n\n(This definition
+    was noted at the IALA Seminar on the Practical Aspects of Lighthouse Preservation
+    in Gothenburg 2005)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

@@ -1,0 +1,44 @@
+---
+id: 5-3-600
+termid: 5-3-600
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Telemetry
+---
+id: 5-3-600-eng
+termid: 5-3-600
+language_code: eng
+terms:
+- type: expression
+  designation: Telemetry
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Telemetering
+
+
+    Measurement with the aid of intermediate means which permit the measurement to be interpreted at a distance from the primary detector.
+
+
+
+    Note: 1 The distinctive feature of telemetering is the nature of the translating means, which includes the provisions for converting the quantity to be measured into a representative quantity of another kind that can be transmitted conveniently for measurement at a distance.
+
+
+    Note: 2 In normal French usage "telemetrie" means remote measurement of length.
+
+
+    Reference: I.E.E.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

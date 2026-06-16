@@ -1,0 +1,34 @@
+---
+id: 2-3-455
+termid: 2-3-455
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Life_Test
+---
+id: 2-3-455-eng
+termid: 2-3-455
+language_code: eng
+terms:
+- type: expression
+  designation: Life Test
+  normative_status: preferred
+definition:
+- content: |-
+    A test in which lamps are operated under specified conditions for a specified time or to the end of life and during which photometric measurements may be made at specified intervals.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

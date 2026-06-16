@@ -1,0 +1,41 @@
+---
+id: 8-5-075
+termid: 8-5-075
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Drift_circle_radius
+---
+id: 8-5-075-eng
+termid: 8-5-075
+language_code: eng
+terms:
+- type: expression
+  designation: Drift circle radius
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Watch circle radius
+
+
+    Radius of the drift circle (watch circle) of a vessel or buoy.
+
+
+
+    Note:
+
+
+    The term scope is applied to the length of mooring line of a vessel or buoy paid out (from tail chain to anchor or sinker). In shallow waters it may approximate to the drift circle radius.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 7-2-440
+termid: 7-2-440
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Damp-proof_membrane
+---
+id: 7-2-440-eng
+termid: 7-2-440
+language_code: eng
+terms:
+- type: expression
+  designation: Damp-proof membrane
+  normative_status: preferred
+definition:
+- content: |-
+    Acronym: dpm
+
+
+    Impervious membrane of bituminous, plastic, or other material placed across the foundation slab of a building, or vertically on the face of a wall, to prevent damp penetration from the external ground. The membrane is connected to the damp-proof course.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

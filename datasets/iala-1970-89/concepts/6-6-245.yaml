@@ -1,0 +1,34 @@
+---
+id: 6-6-245
+termid: 6-6-245
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Disconnector
+---
+id: 6-6-245-eng
+termid: 6-6-245
+language_code: eng
+terms:
+- type: expression
+  designation: Disconnector
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Isolator
+
+
+    A mechanical switching device that provides, in the open position, an isolating distance between the contacts in accordance with specified requirements. It is also capable of carrying currents under normal circuit conditions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

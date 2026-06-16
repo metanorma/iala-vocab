@@ -1,0 +1,31 @@
+---
+id: differential-r-mode-dr-mode-
+termid: differential-r-mode-dr-mode-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Differential_R-Mode_(DR-Mode)
+---
+id: differential-r-mode-dr-mode--eng
+termid: differential-r-mode-dr-mode-
+language_code: eng
+terms:
+- type: expression
+  designation: Differential R-Mode (DR-Mode)
+  normative_status: preferred
+definition:
+- content: Differential R-Mode (DR-Mode) is a differential system for R-Mode. It is
+    an optional extension.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

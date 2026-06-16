@@ -1,0 +1,34 @@
+---
+id: 2-3-355
+termid: 2-3-355
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Low_Pressure_Sodium_(Vapour)_Lamp
+---
+id: 2-3-355-eng
+termid: 2-3-355
+language_code: eng
+terms:
+- type: expression
+  designation: Low Pressure Sodium (Vapour) Lamp
+  normative_status: preferred
+definition:
+- content: |-
+    A sodium vapour lamp in which the partial pressure of the vapour during operation is not above a few newtons per square metre.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

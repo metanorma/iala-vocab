@@ -1,0 +1,37 @@
+---
+id: 4-4-050
+termid: 4-4-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Loran_system
+---
+id: 4-4-050-eng
+termid: 4-4-050
+language_code: eng
+terms:
+- type: expression
+  designation: Loran system
+  normative_status: preferred
+definition:
+- content: |-
+    A long range pulsed radio aid to navigation whose hyperbolic lines of position are determined by the measurement of the difference in the time of arrival of synchronised pulses which are transmitted from two stations a finite distance apart.
+
+
+    Primary coverage is provided by ground-wave, secondary coverage by skywave.
+
+
+    Loran is derived from Long Range Navigation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

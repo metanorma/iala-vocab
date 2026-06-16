@@ -1,0 +1,40 @@
+---
+id: 6-4-095
+termid: 6-4-095
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Duty_(of_a_machine_or_apparatus)
+---
+id: 6-4-095-eng
+termid: 6-4-095
+language_code: eng
+terms:
+- type: expression
+  designation: Duty (of a machine or apparatus)
+  normative_status: preferred
+definition:
+- content: |-
+    duty cycle load cycle (deprecated)
+
+
+    1 - A sequence of operating conditions, to which a machine or apparatus is subjected.
+
+
+    2 - A statement or schedule of the loads on a machine or apparatus, including their
+
+
+    durations and sequence in time.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

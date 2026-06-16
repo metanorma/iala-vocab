@@ -1,0 +1,30 @@
+---
+id: 6-6-070
+termid: 6-6-070
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Underground_(power)_cable
+---
+id: 6-6-070-eng
+termid: 6-6-070
+language_code: eng
+terms:
+- type: expression
+  designation: Underground (power) cable
+  normative_status: preferred
+definition:
+- content: A power cable buried in the ground.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 8-4-080
+termid: 8-4-080
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Buoy_light
+---
+id: 8-4-080-eng
+termid: 8-4-080
+language_code: eng
+terms:
+- type: expression
+  designation: Buoy light
+  normative_status: preferred
+definition:
+- content: The assembly on a buoy comprising the light source, the optical apparatus
+    and the glazed protective enclosure.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

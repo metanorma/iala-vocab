@@ -1,0 +1,30 @@
+---
+id: 1-1-015
+termid: 1-1-015
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ensemble_of_aids_to_marine_navigation
+---
+id: 1-1-015-eng
+termid: 1-1-015
+language_code: eng
+terms:
+- type: expression
+  designation: Ensemble of aids to marine navigation
+  normative_status: preferred
+definition:
+- content: Ensemble of aids to marine navigation. (No English term)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

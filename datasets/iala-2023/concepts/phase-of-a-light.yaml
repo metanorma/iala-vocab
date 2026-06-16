@@ -1,0 +1,28 @@
+---
+id: phase-of-a-light
+termid: phase-of-a-light
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-unknown
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Phase_of_a_light
+---
+id: phase-of-a-light-eng
+termid: phase-of-a-light
+language_code: eng
+terms:
+- type: expression
+  designation: Phase of a light
+  normative_status: preferred
+definition:
+- content: Phase of a light – is each successive element of a rhythmic light’s cycle
+    (e.g. flash, eclipse).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

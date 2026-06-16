@@ -1,0 +1,28 @@
+---
+id: daytime-light
+termid: daytime-light
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-unknown
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Daytime_Light
+---
+id: daytime-light-eng
+termid: daytime-light
+language_code: eng
+terms:
+- type: expression
+  designation: Daytime Light
+  normative_status: preferred
+definition:
+- content: Daytime Light – is a light operating 24 hours a day without change of character.
+    The intensity may be increased by day.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

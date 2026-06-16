@@ -1,0 +1,38 @@
+---
+id: 2-3-160
+termid: 2-3-160
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Tungsten-Halogen_Lamp
+---
+id: 2-3-160-eng
+termid: 2-3-160
+language_code: eng
+terms:
+- type: expression
+  designation: Tungsten-Halogen Lamp
+  normative_status: preferred
+definition:
+- content: |-
+    An incandescent lamp with a gas filling to which a certain proportion of a halogen has been added in order to minimise blackening of the envelope by returning evaporated tungsten to the filament.
+
+
+    It is usually characterised by exceptionally small size in relation to the high luminous intensities which can be obtained.
+
+
+
+    Note: The Tungsten-Iodine Lamp or Quartz-Iodine Lamp belongs to this category.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

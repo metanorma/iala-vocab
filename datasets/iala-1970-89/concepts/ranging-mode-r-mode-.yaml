@@ -1,0 +1,32 @@
+---
+id: ranging-mode-r-mode-
+termid: ranging-mode-r-mode-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ranging_Mode_(R-Mode)
+---
+id: ranging-mode-r-mode--eng
+termid: ranging-mode-r-mode-
+language_code: eng
+terms:
+- type: expression
+  designation: Ranging Mode (R-Mode)
+  normative_status: preferred
+definition:
+- content: Ranging Mode (R-Mode) is a maritime positioning and timing system that
+    uses radio infrastructure to transmit synchronised radio signals in frequency
+    bands which are allocated to maritime usage.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,35 @@
+---
+id: 3-1-015
+termid: 3-1-015
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Warble_tone
+---
+id: 3-1-015-eng
+termid: 3-1-015
+language_code: eng
+terms:
+- type: expression
+  designation: Warble tone
+  normative_status: preferred
+definition:
+- content: |-
+    A tone whose frequency varies periodically about a mean value.
+
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

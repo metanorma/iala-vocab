@@ -1,0 +1,42 @@
+---
+id: 1-2-300
+termid: 1-2-300
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dry_Dock
+---
+id: 1-2-300-eng
+termid: 1-2-300
+language_code: eng
+terms:
+- type: expression
+  designation: Dry Dock
+  normative_status: preferred
+definition:
+- content: |-
+    (Dry) Dock
+
+
+    A structure providing support for a vessel and means for removing the water so that the bottom of the vessel can be exposed.
+
+
+
+    Note: 1 When the structure is floating it is usually called in English a floating dock and in German a Schwimmdock.
+
+
+
+    Note: 2 In French when the structure is fixed it is called a forme de radoub; when the structure is floating it is called a dock flottant.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

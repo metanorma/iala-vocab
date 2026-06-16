@@ -1,0 +1,34 @@
+---
+id: 4-1-285
+termid: 4-1-285
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Electric_field
+---
+id: 4-1-285-eng
+termid: 4-1-285
+language_code: eng
+terms:
+- type: expression
+  designation: Electric field
+  normative_status: preferred
+definition:
+- content: |-
+    A state of the medium in which stationary electrified bodies are subject to forces by virtue of their electrification.
+
+
+    Reference: I.R.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

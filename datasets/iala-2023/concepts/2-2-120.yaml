@@ -1,0 +1,31 @@
+---
+id: 2-2-120
+termid: 2-2-120
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Profile_(of_a_lens,_other_than_a_fixed_lens)
+---
+id: 2-2-120-eng
+termid: 2-2-120
+language_code: eng
+terms:
+- type: expression
+  designation: Profile (of a lens, other than a fixed lens)
+  normative_status: preferred
+definition:
+- content: The cross-section of the lens by a given plane containing the optical axis
+    (2-2-110).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

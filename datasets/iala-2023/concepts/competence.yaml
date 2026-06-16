@@ -1,0 +1,30 @@
+---
+id: competence
+termid: competence
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Competence
+---
+id: competence-eng
+termid: competence
+language_code: eng
+terms:
+- type: expression
+  designation: Competence
+  normative_status: preferred
+definition:
+- content: "urn:mrn:iala:dic:0901007e\n\n\nCompetence is having the knowledge, skills,
+    attitude and personal attributes necessary to safely, effectively and efficiently
+    carry out the functions or sub-functions assigned to a specific VTS position.\n\n\nSource:
+    \nIALA Guideline G1156 Recruitment, training and assessment of VTS Personnel"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

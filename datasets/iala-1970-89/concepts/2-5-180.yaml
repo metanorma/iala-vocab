@@ -1,0 +1,37 @@
+---
+id: 2-5-180
+termid: 2-5-180
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Group-Occulting_Light
+---
+id: 2-5-180-eng
+termid: 2-5-180
+language_code: eng
+terms:
+- type: expression
+  designation: Group-Occulting Light
+  normative_status: preferred
+definition:
+- content: |-
+    Occulting light in which the occultations are combined in groups, each group including the same number of occultations, and in which the groups are repeated at regular intervals.
+
+
+    The intervals of light separating the occultations within each group are of equal duration and this duration is clearly shorter than the duration of the interval of light between two successive groups. (Fig. 42b)
+
+
+    Reference: N.L.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

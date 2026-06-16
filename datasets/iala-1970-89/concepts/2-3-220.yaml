@@ -1,0 +1,38 @@
+---
+id: 2-3-220
+termid: 2-3-220
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Bunch_Filament_(G.B.)
+---
+id: 2-3-220-eng
+termid: 2-3-220
+language_code: eng
+terms:
+- type: expression
+  designation: Bunch Filament (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    A filament (usually of multi-vee formation) in the form of a segment of a hollow truncated cone or hollow cylinder, generated around the axis of the lamp and embracing an arc of a circle greater than 180 degrees but not fully closed.
+
+
+
+
+
+
+    Note: For the French and German terms applicable, see 2-3-210 and 2-3-215.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

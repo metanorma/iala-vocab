@@ -1,0 +1,50 @@
+---
+id: 8-4-190
+termid: 8-4-190
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cathodic_protection
+---
+id: 8-4-190-eng
+termid: 8-4-190
+language_code: eng
+terms:
+- type: expression
+  designation: Cathodic protection
+  normative_status: preferred
+definition:
+- content: Protection of submerged metal parts by the preferential corrosion of specially
+    located pieces of relatively electropositive metal forming a sacrificial anode.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)
+---
+id: 8-4-190-spa
+termid: 8-4-190
+language_code: spa
+terms:
+- type: expression
+  designation: Cathodic protection/es
+  normative_status: preferred
+definition:
+- content: "Protección catódica\n\n\n \nProtección de las partes metálicas sumergidas
+    mediante  la corrosión preferente de metales electropositivos especialmente ubicados
+    formando estos el ánodo de sacrificio."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

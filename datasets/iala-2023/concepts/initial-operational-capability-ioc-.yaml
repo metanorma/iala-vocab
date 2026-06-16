@@ -1,0 +1,32 @@
+---
+id: initial-operational-capability-ioc-
+termid: initial-operational-capability-ioc-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Initial_Operational_Capability_(IOC)
+---
+id: initial-operational-capability-ioc--eng
+termid: initial-operational-capability-ioc-
+language_code: eng
+terms:
+- type: expression
+  designation: Initial Operational Capability (IOC)
+  normative_status: preferred
+definition:
+- content: |-
+    Operational status of a GNSS or other radio-navigation system declared by the providing authority, when the system is considered usable, but before validation has been fully completed.
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

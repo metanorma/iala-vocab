@@ -1,0 +1,35 @@
+---
+id: 8-1-005
+termid: 8-1-005
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lighthouse_tender
+---
+id: 8-1-005-eng
+termid: 8-1-005
+language_code: eng
+terms:
+- type: expression
+  designation: Lighthouse tender
+  normative_status: preferred
+definition:
+- content: "Alternative term: Buoy tender\n\n\nA vessel specially designed to meet
+    the needs of a lighthouse authority for replenishment of fuel and water supplies,
+    relief of personnel of lighthouses and light vessels, towing of light vessels
+    and large navigation buoys, and the repair and replacement of buoys and fixed
+    aids to navigation.\n\n\n\nNote : \n\n\nThe term \"buoy tender\" is used when
+    the vessel is principally engaged in the laying or servicing of buoys."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

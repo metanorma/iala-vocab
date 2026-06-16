@@ -1,0 +1,32 @@
+---
+id: 4-1-1065
+termid: 4-1-1065
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Intensity_modulation
+---
+id: 4-1-1065-eng
+termid: 4-1-1065
+language_code: eng
+terms:
+- type: expression
+  designation: Intensity modulation
+  normative_status: preferred
+definition:
+- content: A presentation employed in certain types of cathode ray tube displays by
+    which the luminance of the trace is a function of the amplitude of the applied
+    signal.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

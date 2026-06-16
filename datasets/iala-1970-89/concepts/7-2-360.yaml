@@ -1,0 +1,35 @@
+---
+id: 7-2-360
+termid: 7-2-360
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Screw
+---
+id: 7-2-360-eng
+termid: 7-2-360
+language_code: eng
+terms:
+- type: expression
+  designation: Screw
+  normative_status: preferred
+definition:
+- content: |-
+    A tapered metal rod enlarged at one end to form a head and with an external helical projection. It is intended to be driven by rotation into a material in which it cuts a corresponding thread.
+
+
+
+    Note: The French term vis is also used for a bolt (7-2-340).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

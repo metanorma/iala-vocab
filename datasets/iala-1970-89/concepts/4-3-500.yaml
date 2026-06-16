@@ -1,0 +1,34 @@
+---
+id: 4-3-500
+termid: 4-3-500
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Random_triggering
+---
+id: 4-3-500-eng
+termid: 4-3-500
+language_code: eng
+terms:
+- type: expression
+  designation: Random triggering
+  normative_status: preferred
+definition:
+- content: |-
+    Random triggering (in a transponder)
+
+
+    Emission of spurious pulses from a transponder not resulting from valid interrogations.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

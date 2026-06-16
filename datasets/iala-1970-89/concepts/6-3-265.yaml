@@ -1,0 +1,34 @@
+---
+id: 6-3-265
+termid: 6-3-265
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Oscillating_water_column
+---
+id: 6-3-265-eng
+termid: 6-3-265
+language_code: eng
+terms:
+- type: expression
+  designation: Oscillating water column
+  normative_status: preferred
+definition:
+- content: |-
+    Acronym: OWC
+
+
+    A form of wave-actuated generator that can be used on buoys, consisting of an inverted tube open to the sea at its base, within which the water column can oscillate and act as a piston forcing air through overhead valves into a low-pressure air turbine.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

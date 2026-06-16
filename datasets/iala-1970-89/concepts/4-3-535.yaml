@@ -1,0 +1,31 @@
+---
+id: 4-3-535
+termid: 4-3-535
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dielectric_reflector
+---
+id: 4-3-535-eng
+termid: 4-3-535
+language_code: eng
+terms:
+- type: expression
+  designation: Dielectric reflector
+  normative_status: preferred
+definition:
+- content: A device composed of dielectric material which returns the greater part
+    of the incident waves parallel to the direction of incidence.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

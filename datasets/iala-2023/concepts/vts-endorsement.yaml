@@ -1,0 +1,33 @@
+---
+id: vts-endorsement
+termid: vts-endorsement
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/VTS_endorsement
+---
+id: vts-endorsement-eng
+termid: vts-endorsement
+language_code: eng
+terms:
+- type: expression
+  designation: VTS endorsement
+  normative_status: preferred
+definition:
+- content: "urn:mrn:iala:dic:0901114e\n\n\nVTS endorsement is a record in the certification
+    log entered by a competent authority, VTS authority or an accredited training
+    organization after the student has successfully completed any model course associated
+    with IALA Recommendation R0103, as well as meeting any specific requirements of
+    the competent authority. The VTS endorsement entitles the authorized holder to
+    perform the functions for which the endorsement(s) have been made.\n\n\nSource:
+    \nIALA Guideline G1156 Recruitment, training and assessment of VTS Personnel"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

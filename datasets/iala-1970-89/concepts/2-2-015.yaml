@@ -1,0 +1,35 @@
+---
+id: 2-2-015
+termid: 2-2-015
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Prism
+---
+id: 2-2-015-eng
+termid: 2-2-015
+language_code: eng
+terms:
+- type: expression
+  designation: Prism
+  normative_status: preferred
+definition:
+- content: "A transparent optical element, usually of glass or plastic, bounded by
+    at least two planes intersecting at a refracting edge. \n\n\nThe angle formed
+    at the refracting edge, and in a plane normal to it, constitutes the prism angle.\n\n\nIncident
+    light rays on a prism are deviated into new directions as the result of refraction
+    or total internal reflection or both.\n\n\n\nNote: In lighthouse practice, the
+    word \"prism\" is also loosely used for any dioptric or catadioptric ring."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

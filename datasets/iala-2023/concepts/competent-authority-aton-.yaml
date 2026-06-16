@@ -1,0 +1,34 @@
+---
+id: competent-authority-aton-
+termid: competent-authority-aton-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Competent_Authority_(AtoN)
+---
+id: competent-authority-aton--eng
+termid: competent-authority-aton-
+language_code: eng
+terms:
+- type: expression
+  designation: Competent Authority (AtoN)
+  normative_status: preferred
+definition:
+- content: |-
+    Competent Authority (AtoN) is an authority made responsible, in whole or in part, by the Government for the safety (including environmental safety) and efficiency of aids to navigation service provision and the protection of the environment.
+
+
+
+
+
+    Source: ENG7, Recommendation R0141
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

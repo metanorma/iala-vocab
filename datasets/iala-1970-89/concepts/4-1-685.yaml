@@ -1,0 +1,42 @@
+---
+id: 4-1-685
+termid: 4-1-685
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sideband
+---
+id: 4-1-685-eng
+termid: 4-1-685
+language_code: eng
+terms:
+- type: expression
+  designation: Sideband
+  normative_status: preferred
+definition:
+- content: |-
+    1. A range of frequencies occupied by the spectral components resulting from the modulation of a carrier wave by a signal.
+
+
+
+    Note: The terms upper sideband and lower sideband are used to denote the ranges higher than or lower than the carrier frequency respectively.
+
+
+
+    2. A discrete frequency in a sideband (properly called a side frequency).
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

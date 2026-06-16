@@ -1,0 +1,34 @@
+---
+id: 4-3-575
+termid: 4-3-575
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Storage_tube
+---
+id: 4-3-575-eng
+termid: 4-3-575
+language_code: eng
+terms:
+- type: expression
+  designation: Storage tube
+  normative_status: preferred
+definition:
+- content: |-
+    An electronic tube in which a signal conveying information can be stored by conversion into an electrostatic charge.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,40 @@
+---
+id: 4-4-275
+termid: 4-4-275
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Type_M_Raydist
+---
+id: 4-4-275-eng
+termid: 4-4-275
+language_code: eng
+terms:
+- type: expression
+  designation: Type M Raydist
+  normative_status: preferred
+definition:
+- content: |-
+    A hyperbolic co-ordinate Raydist system which uses a single reference transmitter ashore, a transmitter on the vessel, whose frequency is offset by a few hundred cycles from that of the reference transmitter, and nominally three receivers, suitably spaced from each other, ashore.
+
+
+    The audio heterodyne frequency produced is transmitted via cable or radio link from each receiver to a common location, where it is phase compared.
+
+
+    The position information derived from the two hyperbolae is transmitted to the vessel by radio link.
+
+
+    The system is limited to one vessel for each pair of radio frequencies employed.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

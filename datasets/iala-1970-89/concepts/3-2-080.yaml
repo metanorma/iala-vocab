@@ -1,0 +1,34 @@
+---
+id: 3-2-080
+termid: 3-2-080
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Inlet_chamber
+---
+id: 3-2-080-eng
+termid: 3-2-080
+language_code: eng
+terms:
+- type: expression
+  designation: Inlet chamber
+  normative_status: preferred
+definition:
+- content: |-
+    Inlet chamber (in a compressed-air fog signal apparatus)
+
+
+    The enclosed space that the compressed air enters after passing through the sounding valve.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

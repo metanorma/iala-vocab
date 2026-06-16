@@ -1,0 +1,34 @@
+---
+id: 5-2-315
+termid: 5-2-315
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Proportional_plus_integral_plus_derivative_action
+---
+id: 5-2-315-eng
+termid: 5-2-315
+language_code: eng
+terms:
+- type: expression
+  designation: Proportional plus integral plus derivative action
+  normative_status: preferred
+definition:
+- content: |-
+    Control action in which the output is proportional to a linear combination of the input, the time integral of input and the time rate of change of input.
+
+
+    Reference: ANSI
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

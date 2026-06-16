@@ -1,0 +1,35 @@
+---
+id: true-position
+termid: true-position
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/True_position
+---
+id: true-position-eng
+termid: true-position
+language_code: eng
+terms:
+- type: expression
+  designation: True position
+  normative_status: preferred
+definition:
+- content: |-
+    (2D). The error-free latitude and longitude co-ordinates in a specified geodetic datum.
+
+
+    (3D). The error-free latitude, longitude and height co-ordinates in a specified geodetic datum.
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

@@ -1,0 +1,30 @@
+---
+id: 1-1-270
+termid: 1-1-270
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cylindrical_wave
+---
+id: 1-1-270-eng
+termid: 1-1-270
+language_code: eng
+terms:
+- type: expression
+  designation: Cylindrical wave
+  normative_status: preferred
+definition:
+- content: Wave, of which the wave surfaces are cylindrical, either wholly or in part.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 3-1-135
+termid: 3-1-135
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Principal_axis
+---
+id: 3-1-135-eng
+termid: 3-1-135
+language_code: eng
+terms:
+- type: expression
+  designation: Principal axis
+  normative_status: preferred
+definition:
+- content: "Principal axis (of a sound source or receiver) \n\n\nGenerally the axis
+    of structural symmetry or the direction of maximum emission or response. \n\n\nReference
+    direction serving as an origin for angular co-ordinates used in describing the
+    directional characteristics of the sound source or receiver.\n\n\n\nReference:
+    I.E.C. (modified)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

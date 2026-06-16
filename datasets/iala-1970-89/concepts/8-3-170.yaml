@@ -1,0 +1,31 @@
+---
+id: 8-3-170
+termid: 8-3-170
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Block
+---
+id: 8-3-170-eng
+termid: 8-3-170
+language_code: eng
+terms:
+- type: expression
+  designation: Block
+  normative_status: preferred
+definition:
+- content: Mounting for one or more pulleys between parallel faces, intended to change
+    the direction of one or more lines. The mounting is fitted with an eye for attachment.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

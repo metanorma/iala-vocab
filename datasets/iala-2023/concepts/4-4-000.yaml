@@ -1,0 +1,34 @@
+---
+id: 4-4-000
+termid: 4-4-000
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Base_line
+---
+id: 4-4-000-eng
+termid: 4-4-000
+language_code: eng
+terms:
+- type: expression
+  designation: Base line
+  normative_status: preferred
+definition:
+- content: |-
+    The line joining the two points between which electrical phase or time is compared in determining navigational co-ordinates. (For two ground stations this will be the line joining the two stations.)
+
+
+    Reference: I.R.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

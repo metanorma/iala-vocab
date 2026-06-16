@@ -1,0 +1,38 @@
+---
+id: 4-1-965
+termid: 4-1-965
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ionosphere
+---
+id: 4-1-965-eng
+termid: 4-1-965
+language_code: eng
+terms:
+- type: expression
+  designation: Ionosphere
+  normative_status: preferred
+definition:
+- content: |-
+    The part of the earth's outer atmosphere where free electrons, arising from ionization, are normally present in quantities sufficient to modify the propagation characteristics of radio waves traversing it.
+
+
+
+    Note: For purposes of reference, the ionosphere is divided into three regions whose boundaries are approximately spherical and concentric with the surface of the earth.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

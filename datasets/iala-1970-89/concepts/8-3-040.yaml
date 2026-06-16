@@ -1,0 +1,31 @@
+---
+id: 8-3-040
+termid: 8-3-040
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Topping_lift
+---
+id: 8-3-040-eng
+termid: 8-3-040
+language_code: eng
+terms:
+- type: expression
+  designation: Topping lift
+  normative_status: preferred
+definition:
+- content: The tackle which takes the weight of a derrick and its load and controls
+    the angle of elevation of the derrick.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

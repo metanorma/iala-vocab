@@ -1,0 +1,31 @@
+---
+id: conspicuity
+termid: conspicuity
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Conspicuity
+---
+id: conspicuity-eng
+termid: conspicuity
+language_code: eng
+terms:
+- type: expression
+  designation: Conspicuity
+  normative_status: preferred
+definition:
+- content: |-
+    urn:mrn:iala:dic:0101303e
+
+
+    The ability of an object to stand out from its surroundings
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

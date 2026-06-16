@@ -1,0 +1,34 @@
+---
+id: 5-3-445
+termid: 5-3-445
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Character
+---
+id: 5-3-445-eng
+termid: 5-3-445
+language_code: eng
+terms:
+- type: expression
+  designation: Character
+  normative_status: preferred
+definition:
+- content: |-
+    An elementary mark or event that is used to represent data. A character is often in the form of a graphic spatial arrangement of connected or adjacent strokes.
+
+
+    Reference: ANSI
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

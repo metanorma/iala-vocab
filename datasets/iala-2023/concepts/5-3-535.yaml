@@ -1,0 +1,31 @@
+---
+id: 5-3-535
+termid: 5-3-535
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Quantization_error
+---
+id: 5-3-535-eng
+termid: 5-3-535
+language_code: eng
+terms:
+- type: expression
+  designation: Quantization error
+  normative_status: preferred
+definition:
+- content: The difference between the actual value of the variable and the corresponding
+    discrete value resulting from quantization.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

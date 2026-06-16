@@ -1,0 +1,32 @@
+---
+id: time-to-alarm
+termid: time-to-alarm
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Time_to_alarm
+---
+id: time-to-alarm-eng
+termid: time-to-alarm
+language_code: eng
+terms:
+- type: expression
+  designation: Time to alarm
+  normative_status: preferred
+definition:
+- content: |-
+    The time elapsed between the occurrence of a failure in the system and its presentation on the bridge.
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

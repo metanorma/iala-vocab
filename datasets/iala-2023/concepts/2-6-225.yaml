@@ -1,0 +1,41 @@
+---
+id: 2-6-225
+termid: 2-6-225
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Can_Buoy
+---
+id: 2-6-225-eng
+termid: 2-6-225
+language_code: eng
+terms:
+- type: expression
+  designation: Can Buoy
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Cylindrical Buoy
+
+
+    A buoy of which the upper part of the body (above the waterline), or the larger part of the superstructure, has the shape of a cylinder or nearly so.
+
+
+
+
+
+
+    Note: The German term Stumpftonne also includes buoys of truncated cone shape.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

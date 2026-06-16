@@ -1,0 +1,34 @@
+---
+id: 3-2-185
+termid: 3-2-185
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Electrodynamic_emitter_-_Diaphragm_suspension
+---
+id: 3-2-185-eng
+termid: 3-2-185
+language_code: eng
+terms:
+- type: expression
+  designation: Electrodynamic emitter - Diaphragm suspension
+  normative_status: preferred
+definition:
+- content: |-
+    Diaphragm suspension (in an electrodynamic emitter)
+
+
+    A support for the diaphragm which by virtue of its compliance permits a limited vibratory motion.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,38 @@
+---
+id: 6-8-180
+termid: 6-8-180
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Phase_meter
+---
+id: 6-8-180-eng
+termid: 6-8-180
+language_code: eng
+terms:
+- type: expression
+  designation: Phase meter
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Phase-angle meter
+
+
+    An instrument that measures the difference of phase between two alternating electric quantities of the same frequency.
+
+
+
+    Note:  The term power-factor meter refers to a phase meter for which the quantities are the voltage and current at a point of a circuit and in which the indication is of power factor.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

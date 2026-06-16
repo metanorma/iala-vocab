@@ -1,0 +1,31 @@
+---
+id: 6-2-205
+termid: 6-2-205
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Specific_fuel_consumption
+---
+id: 6-2-205-eng
+termid: 6-2-205
+language_code: eng
+terms:
+- type: expression
+  designation: Specific fuel consumption
+  normative_status: preferred
+definition:
+- content: The quantity of fuel, specified by mass or volume, consumed by an engine
+    per unit of energy delivered.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

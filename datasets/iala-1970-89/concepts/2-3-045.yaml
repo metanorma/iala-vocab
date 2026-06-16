@@ -1,0 +1,30 @@
+---
+id: 2-3-045
+termid: 2-3-045
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pricking_Out
+---
+id: 2-3-045-eng
+termid: 2-3-045
+language_code: eng
+terms:
+- type: expression
+  designation: Pricking Out
+  normative_status: preferred
+definition:
+- content: The operation of cleaning or clearing out the hole of a nipple.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

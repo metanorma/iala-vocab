@@ -1,0 +1,35 @@
+---
+id: 6-7-090
+termid: 6-7-090
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Voltage_stabiliser
+---
+id: 6-7-090-eng
+termid: 6-7-090
+language_code: eng
+terms:
+- type: expression
+  designation: Voltage stabiliser
+  normative_status: preferred
+definition:
+- content: |-
+    A device that automatically keeps a voltage within specified limits.
+
+
+
+    Note: The term automatic voltage regulator (AVR) is used for a device that automatically keeps the output voltage of a generator within specified limits.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

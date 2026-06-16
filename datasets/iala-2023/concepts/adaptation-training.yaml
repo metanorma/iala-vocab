@@ -1,0 +1,32 @@
+---
+id: adaptation-training
+termid: adaptation-training
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Adaptation_training
+---
+id: adaptation-training-eng
+termid: adaptation-training
+language_code: eng
+terms:
+- type: expression
+  designation: Adaptation training
+  normative_status: preferred
+definition:
+- content: "urn:mrn:iala:dic:0901102e\n\n\nAdaptation training is carried out whenever
+    significant changes are expected or when changes have been made, concerning equipment,
+    regulations, operational procedures or any other matter which is relevant to the
+    performance of VTS personnel.\n\n\nSource: \nIALA Guideline G1156 Recruitment,
+    training and assessment of VTS Personnel (20202022)\nIALA Model Course V‐103/5
+    - Revalidation Process for VTS Qualification and Certification"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

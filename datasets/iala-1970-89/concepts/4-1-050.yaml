@@ -1,0 +1,34 @@
+---
+id: 4-1-050
+termid: 4-1-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Frequency_tolerance
+---
+id: 4-1-050-eng
+termid: 4-1-050
+language_code: eng
+terms:
+- type: expression
+  designation: Frequency tolerance
+  normative_status: preferred
+definition:
+- content: |-
+    The maximum permissible departure by the centre frequency of the frequency band occupied by an emission from the assigned frequency, or by the characteristic frequency of an emission from the reference frequency. The frequency tolerance is expressed in parts in 106 or in hertz.
+
+
+    Reference: I.T.U. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

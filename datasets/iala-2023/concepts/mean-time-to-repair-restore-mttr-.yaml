@@ -1,0 +1,27 @@
+---
+id: mean-time-to-repair-restore-mttr-
+termid: mean-time-to-repair-restore-mttr-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mean_Time_To_Repair/Restore_(MTTR)
+---
+id: mean-time-to-repair-restore-mttr--eng
+termid: mean-time-to-repair-restore-mttr-
+language_code: eng
+terms:
+- type: expression
+  designation: Mean Time To Repair/Restore (MTTR)
+  normative_status: preferred
+definition:
+- content: The average time taken to repair or restore a system to correct operation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

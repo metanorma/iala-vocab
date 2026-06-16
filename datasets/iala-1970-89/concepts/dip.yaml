@@ -1,0 +1,40 @@
+---
+id: dip
+termid: dip
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dip
+---
+id: dip-eng
+termid: dip
+language_code: eng
+terms:
+- type: expression
+  designation: Dip
+  normative_status: preferred
+definition:
+- content: |-
+    1 -2-115
+
+
+    Dip (of the horizon)
+
+
+    Alternative term: Depression
+
+
+    The vertical angle between the horizontal through the eye of an observer and the line of sight to the visible horizon.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

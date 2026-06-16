@@ -1,0 +1,37 @@
+---
+id: optimum-load-impedance
+termid: optimum-load-impedance
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Optimum_load_impedance
+---
+id: optimum-load-impedance-eng
+termid: optimum-load-impedance
+language_code: eng
+terms:
+- type: expression
+  designation: Optimum load impedance
+  normative_status: preferred
+definition:
+- content: |-
+    4 -1-675
+
+
+    Optimum load impedance (of a radio transmitter)
+
+
+    The impedance presented by the load at which optimum performance is obtained under specified operating conditions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

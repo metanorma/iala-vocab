@@ -1,0 +1,34 @@
+---
+id: 5-3-330
+termid: 5-3-330
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Algorithm
+---
+id: 5-3-330-eng
+termid: 5-3-330
+language_code: eng
+terms:
+- type: expression
+  designation: Algorithm
+  normative_status: preferred
+definition:
+- content: |-
+    A prescribed set of well defined rules or processes for the solution of a problem in a finite number of successive steps.
+
+
+    For example, a full statement of an arithmetic procedure for evaluating sine(x) to a stated precision.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

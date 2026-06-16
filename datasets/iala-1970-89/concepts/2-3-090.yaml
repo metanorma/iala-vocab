@@ -1,0 +1,68 @@
+---
+id: 2-3-090
+termid: 2-3-090
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Filament
+---
+id: 2-3-090-eng
+termid: 2-3-090
+language_code: eng
+terms:
+- type: expression
+  designation: Filament
+  normative_status: preferred
+definition:
+- content: |-
+    A threadlike conductor, usually of tungsten (or of carbon), which is heated to incandescence by the passage of an electric current.
+
+
+
+
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)
+---
+id: 2-3-090-spa
+termid: 2-3-090
+language_code: spa
+terms:
+- type: expression
+  designation: Filament/es
+  normative_status: preferred
+definition:
+- content: |-
+    Filamento
+
+
+
+    Conductor similar a un hilo, generalmente de tungsteno (o de carbono), que se calienta hasta la incandescencia por el paso de una corriente eléctrica.
+
+
+
+
+
+
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

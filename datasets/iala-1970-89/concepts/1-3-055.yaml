@@ -1,0 +1,34 @@
+---
+id: 1-3-055
+termid: 1-3-055
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Wave
+---
+id: 1-3-055-eng
+termid: 1-3-055
+language_code: eng
+terms:
+- type: expression
+  designation: Wave
+  normative_status: preferred
+definition:
+- content: |-
+    Wave (of the sea)
+
+
+    Oscillation of the surface of the sea, caused by local winds and less extensive than the swell.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

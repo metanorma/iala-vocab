@@ -1,0 +1,32 @@
+---
+id: 2-2-040
+termid: 2-2-040
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Reinforcing_Mirror
+---
+id: 2-2-040-eng
+termid: 2-2-040
+language_code: eng
+terms:
+- type: expression
+  designation: Reinforcing Mirror
+  normative_status: preferred
+definition:
+- content: A mirror which directs on to an optical system light emitted by the light
+    source in directions other than that of the optical system, so as to increase
+    the luminous intensity or the angle of divergence (or both) of the beam.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,31 @@
+---
+id: 6-8-040
+termid: 6-8-040
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Off-peak_power
+---
+id: 6-8-040-eng
+termid: 6-8-040
+language_code: eng
+terms:
+- type: expression
+  designation: Off-peak power
+  normative_status: preferred
+definition:
+- content: The power delivered in a designated interval of time during which the load
+    is low.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

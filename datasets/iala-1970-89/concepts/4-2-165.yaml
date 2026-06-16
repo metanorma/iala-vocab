@@ -1,0 +1,37 @@
+---
+id: 4-2-165
+termid: 4-2-165
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Field_coils
+---
+id: 4-2-165-eng
+termid: 4-2-165
+language_code: eng
+terms:
+- type: expression
+  designation: Field coils
+  normative_status: preferred
+definition:
+- content: |-
+    Field coils (in an inductive radiogoniometer)
+
+
+    The fixed coils (usually at right angles) which are connected to the antenna system.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

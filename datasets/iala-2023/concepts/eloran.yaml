@@ -1,0 +1,29 @@
+---
+id: eloran
+termid: eloran
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/ELoran
+---
+id: eloran-eng
+termid: eloran
+language_code: eng
+terms:
+- type: expression
+  designation: ELoran
+  normative_status: preferred
+definition:
+- content: A development of Loran-C using solid-state transmitters, with Time of Emission
+    (TOE) control and a data channel providing corrections and integrity messages
+    for GNSS and corrections for the Loran signals.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

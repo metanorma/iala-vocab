@@ -1,0 +1,39 @@
+---
+id: 6-5-010
+termid: 6-5-010
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Electrode_(2)
+---
+id: 6-5-010-eng
+termid: 6-5-010
+language_code: eng
+terms:
+- type: expression
+  designation: Electrode (2)
+  normative_status: preferred
+definition:
+- content: |-
+    A conducting part that is contained in an electrochemical cell to create a potential difference with the electrolyte and provide the electrical connection between the electrolyte and an external circuit.
+
+
+
+    Note: 1 The two different electrodes in a cell provide the e.m.f. of the cell across them.
+
+
+
+    Note: 2 The terms anode and cathode refer respectively to the positive and negative electrodes.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

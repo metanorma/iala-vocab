@@ -1,0 +1,31 @@
+---
+id: 6-8-240
+termid: 6-8-240
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Screen-protected_enclosure_(or_machine)
+---
+id: 6-8-240-eng
+termid: 6-8-240
+language_code: eng
+terms:
+- type: expression
+  designation: Screen-protected enclosure (or machine)
+  normative_status: preferred
+definition:
+- content: An enclosure (or machine) protected with screens of wire mesh, expanded
+    metal, perforated metal, or similar materials.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

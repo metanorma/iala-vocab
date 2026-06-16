@@ -1,0 +1,30 @@
+---
+id: 2-3-225
+termid: 2-3-225
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pre-Focus_Lamp
+---
+id: 2-3-225-eng
+termid: 2-3-225
+language_code: eng
+terms:
+- type: expression
+  designation: Pre-Focus Lamp
+  normative_status: preferred
+definition:
+- content: A lamp having a pre-focus cap (2-3-130).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

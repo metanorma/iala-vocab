@@ -1,0 +1,32 @@
+---
+id: 1-1-210
+termid: 1-1-210
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Angle_of_reflection
+---
+id: 1-1-210-eng
+termid: 1-1-210
+language_code: eng
+terms:
+- type: expression
+  designation: Angle of reflection
+  normative_status: preferred
+definition:
+- content: The angle that the direction of reflected energy makes with the normal
+    to the reflecting surface. This angle is only well defined in the case of specular
+    reflection.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

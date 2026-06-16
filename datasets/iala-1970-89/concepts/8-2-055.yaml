@@ -1,0 +1,33 @@
+---
+id: 8-2-055
+termid: 8-2-055
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stabilizing_pendulum
+---
+id: 8-2-055-eng
+termid: 8-2-055
+language_code: eng
+terms:
+- type: expression
+  designation: Stabilizing pendulum
+  normative_status: preferred
+definition:
+- content: A device intended to reduce tilting of the optical system of a floating
+    body such as a light vessel, light float or large navigation buoy, when the body
+    moves under the action of waves or currents. The optical system is mounted on
+    a pendulum inside the lantern.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,47 @@
+---
+id: 4-1-790
+termid: 4-1-790
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Detection
+---
+id: 4-1-790-eng
+termid: 4-1-790
+language_code: eng
+terms:
+- type: expression
+  designation: Detection
+  normative_status: preferred
+definition:
+- content: |-
+    The process of extracting information from an electromagnetic wave.
+
+
+
+    Note: 1 Often a non-linear conducting device is used.
+
+
+
+    Note: 2 The use of the term for the action of a mixer is deprecated.
+
+
+
+    Note: 3 Where there was no original modulating signal the use of the term Demodulation as an alternative for "detection" is deprecated.
+
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

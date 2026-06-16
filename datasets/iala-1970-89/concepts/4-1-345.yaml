@@ -1,0 +1,34 @@
+---
+id: 4-1-345
+termid: 4-1-345
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Omnidirectional_antenna
+---
+id: 4-1-345-eng
+termid: 4-1-345
+language_code: eng
+terms:
+- type: expression
+  designation: Omnidirectional antenna
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Omniazimuthal antenna
+
+
+    An antenna whose radiating or receiving properties at any instant are the same on all bearings.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

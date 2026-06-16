@@ -1,0 +1,35 @@
+---
+id: 6-3-295
+termid: 6-3-295
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Tide-actuated_generator
+---
+id: 6-3-295-eng
+termid: 6-3-295
+language_code: eng
+terms:
+- type: expression
+  designation: Tide-actuated generator
+  normative_status: preferred
+definition:
+- content: |-
+    A generator that produces electric energy from the motion of the tidal current.
+
+
+
+    Note: Such generators may be actuated by the pressure of a head of water built up behind a barrage, or by direct conversion of the energy of tidal flow. In the latter case, the term tidal stream rotor is also used.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

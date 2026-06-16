@@ -1,0 +1,41 @@
+---
+id: channel
+termid: channel
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Channel
+---
+id: channel-eng
+termid: channel
+language_code: eng
+terms:
+- type: expression
+  designation: Channel
+  normative_status: preferred
+definition:
+- content: |-
+    urn:mrn:iala:dic:0102135e
+
+
+    A channel is a natural or dredged lane having sufficient depth, usually restricted on either side by shallow water and designated for customary use by vessels.  The borders of a channel may be defined by natural or artificial banks and is nearly always marked by AtoN
+
+
+    Part of an (otherwise shallow) water having sufficient depth for shipping and designated or customarily used for shipping. The borders of the channel may be defined by natural or artificial banks or by aids to navigation.
+
+
+
+    Reference: I.H.B. (supplemented)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

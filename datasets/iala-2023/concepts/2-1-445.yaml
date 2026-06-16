@@ -1,0 +1,48 @@
+---
+id: 2-1-445
+termid: 2-1-445
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dominant_Wavelength
+---
+id: 2-1-445-eng
+termid: 2-1-445
+language_code: eng
+terms:
+- type: expression
+  designation: Dominant Wavelength
+  normative_status: preferred
+definition:
+- content: |-
+    Dominant Wavelength (of a colour stimulus, not purple)
+
+
+    The wavelength of the monochromatic light stimulus that, when combined in suitable proportions with the specified achromatic light stimulus, yields a match with the colour stimulus considered.
+
+
+    Symbol: ?d
+
+
+
+    Note 1: When the dominant wavelength cannot be given (this applies to purples) its place is taken by the complementary wavelength.
+
+
+    Reference: C.I.E.
+
+
+
+    Note 2: For the definitions of Achromatic and Specified Achromatic Light Stimulus, see Reference: C.I.E. In particular, for surface colours, the light source serving as illuminant is taken as achromatic.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

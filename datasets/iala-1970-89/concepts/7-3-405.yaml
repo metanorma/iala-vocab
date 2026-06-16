@@ -1,0 +1,31 @@
+---
+id: 7-3-405
+termid: 7-3-405
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Electroplating
+---
+id: 7-3-405-eng
+termid: 7-3-405
+language_code: eng
+terms:
+- type: expression
+  designation: Electroplating
+  normative_status: preferred
+definition:
+- content: The deposition of a thin film of one metal on the surface of another material
+    by electrolysis.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

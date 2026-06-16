@@ -1,0 +1,27 @@
+---
+id: marginally-detectable-error-mde-
+termid: marginally-detectable-error-mde-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Marginally_detectable_error_(MDE)
+---
+id: marginally-detectable-error-mde--eng
+termid: marginally-detectable-error-mde-
+language_code: eng
+terms:
+- type: expression
+  designation: Marginally detectable error (MDE)
+  normative_status: preferred
+definition:
+- content: The maximum position offset caused by a MDB in one of the observations.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

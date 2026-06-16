@@ -1,0 +1,30 @@
+---
+id: 7-4-010
+termid: 7-4-010
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Foreshore
+---
+id: 7-4-010-eng
+termid: 7-4-010
+language_code: eng
+terms:
+- type: expression
+  designation: Foreshore
+  normative_status: preferred
+definition:
+- content: The area along the shore line between high water and low water levels.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,37 @@
+---
+id: 4-4-175
+termid: 4-4-175
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Decca_Line
+---
+id: 4-4-175-eng
+termid: 4-4-175
+language_code: eng
+terms:
+- type: expression
+  designation: Decca Line
+  normative_status: preferred
+definition:
+- content: |-
+    (Decca) Line
+
+
+    The line of position on a Decca chart which joins all the points corresponding to those positions on the earth where the phase relationship between the comparison frequencies derived from the master and one slave station is constant.
+
+
+    These correspond with a single reading on the appropriate Decometer.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

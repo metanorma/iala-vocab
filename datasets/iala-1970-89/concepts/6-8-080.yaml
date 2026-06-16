@@ -1,0 +1,35 @@
+---
+id: 6-8-080
+termid: 6-8-080
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Diversity_factor
+---
+id: 6-8-080-eng
+termid: 6-8-080
+language_code: eng
+terms:
+- type: expression
+  designation: Diversity factor
+  normative_status: preferred
+definition:
+- content: |-
+    The ratio of the sum of the loads of two or more devices simultaneously operated in a given interval of time to the peak load due to their operation in the same interval of time.
+
+
+
+    Note:  The diversity factor is the reciprocal of the coincidence factor.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

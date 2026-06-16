@@ -1,0 +1,31 @@
+---
+id: 7-3-235
+termid: 7-3-235
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ferro-cement
+---
+id: 7-3-235-eng
+termid: 7-3-235
+language_code: eng
+terms:
+- type: expression
+  designation: Ferro-cement
+  normative_status: preferred
+definition:
+- content: Concrete using fine aggregates and reinforced with a fine wire mesh used
+    for producing a thin strong shell.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

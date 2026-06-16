@@ -1,0 +1,32 @@
+---
+id: 8-1-050
+termid: 8-1-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Barge
+---
+id: 8-1-050-eng
+termid: 8-1-050
+language_code: eng
+terms:
+- type: expression
+  designation: Barge
+  normative_status: preferred
+definition:
+- content: A cargo transporter vessel with open or closed hold, with or without self-propulsion.
+    On lighthouse service, used to transport water, oil and other stores, or construction
+    materials.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

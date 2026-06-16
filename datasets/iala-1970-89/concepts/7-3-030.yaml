@@ -1,0 +1,31 @@
+---
+id: 7-3-030
+termid: 7-3-030
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stainless_steel
+---
+id: 7-3-030-eng
+termid: 7-3-030
+language_code: eng
+terms:
+- type: expression
+  designation: Stainless steel
+  normative_status: preferred
+definition:
+- content: An alloy of steel having a high chromium and nickel content, often with
+    molybdenum additives, to give it a high corrosion resistance.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,42 @@
+---
+id: 2-1-550
+termid: 2-1-550
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Integrating_Photometer
+---
+id: 2-1-550-eng
+termid: 2-1-550
+language_code: eng
+terms:
+- type: expression
+  designation: Integrating Photometer
+  normative_status: preferred
+definition:
+- content: |-
+    Apparatus which enables luminous flux to be determined by a single comparison.
+
+
+
+    Note 1: The most commonly used form of integrating photometer is the Ulbricht sphere with associated photometric equipment.
+
+
+    Reference: C.I.E.
+
+
+
+    Note 2: In Britain, the term Photometric Integrator is also sometimes employed with the same meaning.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 4-4-145
+termid: 4-4-145
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Decca_Fundamental_frequency
+---
+id: 4-4-145-eng
+termid: 4-4-145
+language_code: eng
+terms:
+- type: expression
+  designation: Decca Fundamental frequency
+  normative_status: preferred
+definition:
+- content: |-
+    Fundamental frequency (in Decca)
+
+
+    The frequency from which the other frequencies in a chain are derived by harmonic multiplication.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

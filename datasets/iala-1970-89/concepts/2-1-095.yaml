@@ -1,0 +1,34 @@
+---
+id: 2-1-095
+termid: 2-1-095
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Luminous_Pencil_Beam
+---
+id: 2-1-095-eng
+termid: 2-1-095
+language_code: eng
+terms:
+- type: expression
+  designation: Luminous Pencil Beam
+  normative_status: preferred
+definition:
+- content: |-
+    (Luminous) Pencil Beam
+
+
+    A beam in which the light is concentrated about a single line of direction.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

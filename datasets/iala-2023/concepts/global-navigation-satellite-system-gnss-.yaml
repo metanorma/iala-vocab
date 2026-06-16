@@ -1,0 +1,44 @@
+---
+id: global-navigation-satellite-system-gnss-
+termid: global-navigation-satellite-system-gnss-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Global_Navigation_Satellite_System_(GNSS)
+---
+id: global-navigation-satellite-system-gnss--eng
+termid: global-navigation-satellite-system-gnss-
+language_code: eng
+terms:
+- type: expression
+  designation: Global Navigation Satellite System (GNSS)
+  normative_status: preferred
+definition:
+- content: |-
+    A world-wide position, time and velocity radio determination system comprising space, ground and user segments.
+
+
+    Galileo. The planned European satellite positioning, navigation and timing system.
+
+
+    Global Positioning System (GPS). The space-based, radio positioning, navigation and time-transfer system operated by the United States Government.
+
+
+    GLONASS (Global Navigation Satellite System). The space-based radio positioning, navigation and time transfer system operated by the Government of the Russian Federation.
+
+
+    GNSS service. The service relates to the properties of the signal in space provided by the space and ground segments of the GNSS.
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

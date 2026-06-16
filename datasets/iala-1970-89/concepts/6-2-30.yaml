@@ -1,0 +1,34 @@
+---
+id: 6-2-30
+termid: 6-2-30
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stirling_engine
+---
+id: 6-2-30-eng
+termid: 6-2-30
+language_code: eng
+terms:
+- type: expression
+  designation: Stirling engine
+  normative_status: preferred
+definition:
+- content: An external combustion engine in which the working fluid expands when heated,
+    driving the working piston. An auxiliary piston transfers the fluid to a colder
+    region. It is then compressed by the working piston and transferred by the auxiliary
+    piston to the hot region to start the cycle again. Helium under pressure is often
+    used as the working medium.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

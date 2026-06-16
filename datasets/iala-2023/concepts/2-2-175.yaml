@@ -1,0 +1,37 @@
+---
+id: 2-2-175
+termid: 2-2-175
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Optical_Panel
+---
+id: 2-2-175-eng
+termid: 2-2-175
+language_code: eng
+terms:
+- type: expression
+  designation: Optical Panel
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Flash Panel (U.S.A.)
+
+
+    A prismatic lens which may be of dioptric elements only, or may include both dioptric and catadioptric elements, all mounted in one rigid supporting frame. Such a panel may be symmetrical or asymmetrical according to requirements. One or more panels form an optic.
+
+
+    (Figs. 10 and 17)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

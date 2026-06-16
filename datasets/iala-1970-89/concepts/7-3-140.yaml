@@ -1,0 +1,32 @@
+---
+id: 7-3-140
+termid: 7-3-140
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Slate
+---
+id: 7-3-140-eng
+termid: 7-3-140
+language_code: eng
+terms:
+- type: expression
+  designation: Slate
+  normative_status: preferred
+definition:
+- content: A roofing material which is obtained by quarrying a metamorphic stratified
+    rock of the same name. The quarried blocks may be cleaved along the joint planes
+    into individual slates of a desired thickness.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

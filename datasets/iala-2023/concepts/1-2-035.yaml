@@ -1,0 +1,46 @@
+---
+id: 1-2-035
+termid: 1-2-035
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Bearing
+---
+id: 1-2-035-eng
+termid: 1-2-035
+language_code: eng
+terms:
+- type: expression
+  designation: Bearing
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Azimuth
+
+
+    Angle measured between the plane of the meridian through the point of observation and the vertical plane passing through that point and an observed object. It is measured from true North in a clockwise sense from 0 to 360 degrees.
+
+
+
+    Note: 1  The term "azimuth" is generally used when the observed object is a heavenly body.
+
+
+
+    Note: 2  The term azimut in French is used when the point of observation is a fixed point and the position of the observed object is to be determined.
+
+
+
+    The term relevement in French is used mainly when the point of observation is on a floating or moored vessel, and the position of this is being determined in relation to a fixed observed object.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

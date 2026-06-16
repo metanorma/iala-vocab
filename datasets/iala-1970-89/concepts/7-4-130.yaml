@@ -1,0 +1,30 @@
+---
+id: 7-4-130
+termid: 7-4-130
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Trough_(of_a_wave)
+---
+id: 7-4-130-eng
+termid: 7-4-130
+language_code: eng
+terms:
+- type: expression
+  designation: Trough (of a wave)
+  normative_status: preferred
+definition:
+- content: The lowest part of a wave.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

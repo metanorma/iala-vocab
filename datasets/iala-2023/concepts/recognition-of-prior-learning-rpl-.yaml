@@ -1,0 +1,36 @@
+---
+id: recognition-of-prior-learning-rpl-
+termid: recognition-of-prior-learning-rpl-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Recognition_of_prior_learning_(RPL)
+---
+id: recognition-of-prior-learning-rpl--eng
+termid: recognition-of-prior-learning-rpl-
+language_code: eng
+terms:
+- type: expression
+  designation: Recognition of prior learning (RPL)
+  normative_status: preferred
+definition:
+- content: "urn:mrn:iala:dic:0901107e\n\n\nRecognition of prior learning (RPL) is
+    a process of assessing the experience, knowledge, skills, attitudes and\ncompetencies
+    acquired by an applicant (through formal or informal learning) against a given
+    set of learning\noutcomes, objectives, or standards to determine whether the required
+    learning and competency has been\nachieved.\n\n\nRPL is often described using
+    different terminologies such as Accreditation of Prior Learning (APL), Crediting
+    Current Competence (CCC), Accreditation of Prior Experiential Learning (APEL)
+    and Prior Learning Assessment and Recognition (PLAR).\n\n\nSource: \nIALA Guideline
+    G1017 (Ed 2.0) Assessment for Recognition of Prior Learning in VTS Training (2021),
+    section 1."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

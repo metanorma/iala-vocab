@@ -1,0 +1,38 @@
+---
+id: 4-2-180
+termid: 4-2-180
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Antenna_effect
+---
+id: 4-2-180-eng
+termid: 4-2-180
+language_code: eng
+terms:
+- type: expression
+  designation: Antenna effect
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: Vertical (deprecated), Vertical effect (deprecated)
+
+
+    The impairment in the definition of the observed bearings, or the error therein, or both, due to the imperfection of electrical symmetry in a receiving system which is designed to be electrically symmetrical (e.g. a loop antenna direction finder).
+
+
+
+    Note: The antenna effect is usually limited to the vertical antenna effect in loop antennas.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

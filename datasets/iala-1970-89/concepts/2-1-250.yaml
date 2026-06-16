@@ -1,0 +1,34 @@
+---
+id: 2-1-250
+termid: 2-1-250
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Luminous_Range
+---
+id: 2-1-250-eng
+termid: 2-1-250
+language_code: eng
+terms:
+- type: expression
+  designation: Luminous Range
+  normative_status: preferred
+definition:
+- content: |-
+    Luminous Range (of a light)
+
+
+    The maximum distance at which a light can be seen, as determined by the luminous intensity of the light, the atmospheric transmission factor and the threshold of illuminance on the eye of the observer (2-1-390).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

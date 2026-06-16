@@ -1,0 +1,37 @@
+---
+id: 5-2-090
+termid: 5-2-090
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Step_control_system
+---
+id: 5-2-090-eng
+termid: 5-2-090
+language_code: eng
+terms:
+- type: expression
+  designation: Step control system
+  normative_status: preferred
+definition:
+- content: |-
+    A system in which the manipulated variable assumes discrete predetermined values.
+
+
+    Note:: The condition for change from one predetermined value to another is often a function of the value of the actuating signal. When the number of values of the manipulated variable is two it is called a two-step control system, when more than two, a multi-step control system.
+
+
+    Reference: ANSI
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

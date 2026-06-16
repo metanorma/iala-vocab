@@ -1,0 +1,34 @@
+---
+id: 2-5-090
+termid: 2-5-090
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Winter_Light_(U.S.A.)
+---
+id: 2-5-090-eng
+termid: 2-5-090
+language_code: eng
+terms:
+- type: expression
+  designation: Winter Light (U.S.A.)
+  normative_status: preferred
+definition:
+- content: |-
+    A light which is in service during those winter months when the regular light is extinguished.
+
+
+    It is of lower intensity than the regular light but usually of the same character.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

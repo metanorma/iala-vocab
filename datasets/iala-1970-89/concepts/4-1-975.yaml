@@ -1,0 +1,31 @@
+---
+id: 4-1-975
+termid: 4-1-975
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Surface_wave
+---
+id: 4-1-975-eng
+termid: 4-1-975
+language_code: eng
+terms:
+- type: expression
+  designation: Surface wave
+  normative_status: preferred
+definition:
+- content: A wave which is propagated along the boundary between two media in a manner
+    determined by the properties of the two media in the vicinity of the boundary.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

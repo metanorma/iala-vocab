@@ -1,0 +1,35 @@
+---
+id: 7-4-170
+termid: 7-4-170
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stratification
+---
+id: 7-4-170-eng
+termid: 7-4-170
+language_code: eng
+terms:
+- type: expression
+  designation: Stratification
+  normative_status: preferred
+definition:
+- content: |-
+    The formation of identifiable layers of different composition within a sedimentary rock mass.
+
+
+
+    Note: The resulting layers are called strata.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 1-1-100
+termid: 1-1-100
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radiation
+---
+id: 1-1-100-eng
+termid: 1-1-100
+language_code: eng
+terms:
+- type: expression
+  designation: Radiation
+  normative_status: preferred
+definition:
+- content: |-
+    Emission of energy (e.g. radiation from an emitter) or transport of energy associated with the phenomena of electromagnetic waves or particles.
+
+
+    The propagated energy itself.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

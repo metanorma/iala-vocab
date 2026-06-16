@@ -1,0 +1,35 @@
+---
+id: 6-5-085
+termid: 6-5-085
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Emergency_battery
+---
+id: 6-5-085-eng
+termid: 6-5-085
+language_code: eng
+terms:
+- type: expression
+  designation: Emergency battery
+  normative_status: preferred
+definition:
+- content: |-
+    A battery used to maintain the essential services on the failure of principal power supply at a station.
+
+
+
+    Note: The term can also be used for a battery that provides power to emergency apparatus that has been brought into service.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

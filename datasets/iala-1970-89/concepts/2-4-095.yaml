@@ -1,0 +1,68 @@
+---
+id: 2-4-095
+termid: 2-4-095
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lamp_Changer
+---
+id: 2-4-095-eng
+termid: 2-4-095
+language_code: eng
+terms:
+- type: expression
+  designation: Lamp Changer
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Lamp Exchanger (G.B.)
+
+
+    A mechanism, usually operated automatically, which replaces one lamp by another in service in a light.
+
+
+    Most usually this is done when the first lamp has failed in service.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)
+---
+id: 2-4-095-spa
+termid: 2-4-095
+language_code: spa
+terms:
+- type: expression
+  designation: Lamp Changer/es
+  normative_status: preferred
+definition:
+- content: |-
+    Cambiador de lámpara
+
+
+
+    Término alternativo: Cambia-lámpara (G.B.)
+
+
+
+
+
+    Mecanismo generalmente automático que reemplaza una lámpara por otra en servicio en una luz.
+
+
+    Normalmente esto ocurre cuando falla la primera lámpara en servicio.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

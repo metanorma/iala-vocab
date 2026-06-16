@@ -1,0 +1,31 @@
+---
+id: 7-5-000
+termid: 7-5-000
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Force
+---
+id: 7-5-000-eng
+termid: 7-5-000
+language_code: eng
+terms:
+- type: expression
+  designation: Force
+  normative_status: preferred
+definition:
+- content: The action on a body tending to accelerate, or to change the direction
+    of, its motion,
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

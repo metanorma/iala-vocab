@@ -1,0 +1,38 @@
+---
+id: 2-3-290
+termid: 2-3-290
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Electroluminescence
+---
+id: 2-3-290-eng
+termid: 2-3-290
+language_code: eng
+terms:
+- type: expression
+  designation: Electroluminescence
+  normative_status: preferred
+definition:
+- content: |-
+    Luminescence of certain substances, generally solid, under the action of an electric field.
+
+
+
+    Note: Formerly this term has been used chiefly for the luminescence of a gas under the action of an electric discharge.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,32 @@
+---
+id: 6-3-250
+termid: 6-3-250
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Potential_annual_energy_output_(of_a_wind-power_generator)
+---
+id: 6-3-250-eng
+termid: 6-3-250
+language_code: eng
+terms:
+- type: expression
+  designation: Potential annual energy output (of a wind-power generator)
+  normative_status: preferred
+definition:
+- content: The calculated total energy that would be produced by a wind-power generator
+    during a one-year period, assuming a certain distribution of wind speed probability
+    density and assuming one hundred per cent availability.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

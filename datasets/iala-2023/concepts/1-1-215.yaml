@@ -1,0 +1,31 @@
+---
+id: 1-1-215
+termid: 1-1-215
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Angle_of_refraction
+---
+id: 1-1-215-eng
+termid: 1-1-215
+language_code: eng
+terms:
+- type: expression
+  designation: Angle of refraction
+  normative_status: preferred
+definition:
+- content: Angle between the direction of refracted energy and the normal to the refracting
+    surface.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

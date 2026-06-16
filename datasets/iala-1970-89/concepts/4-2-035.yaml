@@ -1,0 +1,34 @@
+---
+id: 4-2-035
+termid: 4-2-035
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_-_Non-Directional
+---
+id: 4-2-035-eng
+termid: 4-2-035
+language_code: eng
+terms:
+- type: expression
+  designation: Radio beacon - Non-Directional
+  normative_status: preferred
+definition:
+- content: |-
+    (Non-directional) Radio beacon
+
+
+    A radio beacon station with a fixed omni-directional antenna the bearing of which can only be determined by a craft equipped for direction finding.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

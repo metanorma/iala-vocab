@@ -1,0 +1,31 @@
+---
+id: 7-5-010
+termid: 7-5-010
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Load_(2)
+---
+id: 7-5-010-eng
+termid: 7-5-010
+language_code: eng
+terms:
+- type: expression
+  designation: Load (2)
+  normative_status: preferred
+definition:
+- content: The forces supported by a structure or structural member, including its
+    self-weight.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

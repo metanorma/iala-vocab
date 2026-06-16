@@ -1,0 +1,31 @@
+---
+id: 6-4-155
+termid: 6-4-155
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Direct_coupling
+---
+id: 6-4-155-eng
+termid: 6-4-155
+language_code: eng
+terms:
+- type: expression
+  designation: Direct coupling
+  normative_status: preferred
+definition:
+- content: A mechanical coupling, which may be flexible or rigid, between the aligned
+    shafts of two machines, with no intermediate shaft.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

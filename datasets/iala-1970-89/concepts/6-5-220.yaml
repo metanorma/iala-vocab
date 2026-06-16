@@ -1,0 +1,31 @@
+---
+id: 6-5-220
+termid: 6-5-220
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hydrometer
+---
+id: 6-5-220-eng
+termid: 6-5-220
+language_code: eng
+terms:
+- type: expression
+  designation: Hydrometer
+  normative_status: preferred
+definition:
+- content: An instrument by which the relative density of the electrolyte in a cell
+    may be measured for the purpose of determining the state of charge of the cell.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

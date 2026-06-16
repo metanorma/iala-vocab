@@ -1,0 +1,38 @@
+---
+id: 4-4-265
+termid: 4-4-265
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Omega_Antipodal_effects
+---
+id: 4-4-265-eng
+termid: 4-4-265
+language_code: eng
+terms:
+- type: expression
+  designation: Omega Antipodal effects
+  normative_status: preferred
+definition:
+- content: |-
+    Antipodal effects (in Omega)
+
+
+    Errors introduced due to the reception of a signal from both directions round the earth.
+
+
+
+    Note: Due to the long range characteristic of the system, however, signals from other stations, suitably paired, should be available.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

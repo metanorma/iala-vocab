@@ -1,0 +1,37 @@
+---
+id: 3-1-195
+termid: 3-1-195
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Loudness_level_contour
+---
+id: 3-1-195-eng
+termid: 3-1-195
+language_code: eng
+terms:
+- type: expression
+  designation: Loudness level contour
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Equivalent loudness contour
+
+
+    A contour on a graph, the co-ordinates of which are the frequency and the sound pressure level, joining all points of equal loudness level (equal equivalent loudness).
+
+
+    Reference: C.E.F.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

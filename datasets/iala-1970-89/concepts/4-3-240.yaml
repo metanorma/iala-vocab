@@ -1,0 +1,38 @@
+---
+id: 4-3-240
+termid: 4-3-240
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Phantom_target
+---
+id: 4-3-240-eng
+termid: 4-3-240
+language_code: eng
+terms:
+- type: expression
+  designation: Phantom target
+  normative_status: preferred
+definition:
+- content: |-
+    An indication of an object on a display that does not correspond to the presence of an actual object at the point indicated.
+
+
+
+    Note: This term is also used for "Echo box" in U.S.A. (4-3-170).
+
+
+    Reference: I.C.A.O.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

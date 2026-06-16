@@ -1,0 +1,35 @@
+---
+id: 6-4-175
+termid: 6-4-175
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/No-break_power_system
+---
+id: 6-4-175-eng
+termid: 6-4-175
+language_code: eng
+terms:
+- type: expression
+  designation: No-break power system
+  normative_status: preferred
+definition:
+- content: |-
+    A power system that ensures that there is no harmful fluctuation in the electric supply to equipment, in the event of any failure in the regular supply.
+
+
+
+    Note: Maintenance of the supply following an important failure may require subsequent change-over to an emergency supply; the no-break power system eliminates harmful fluctuations during change-over.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

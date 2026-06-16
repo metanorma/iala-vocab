@@ -1,0 +1,38 @@
+---
+id: 3-1-000
+termid: 3-1-000
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sound
+---
+id: 3-1-000-eng
+termid: 3-1-000
+language_code: eng
+terms:
+- type: expression
+  designation: Sound
+  normative_status: preferred
+definition:
+- content: |-
+    1. The sensation of hearing excited by an acoustic oscillation.
+
+
+    2. An acoustic oscillation of such a character as to be capable of exciting the sensation of hearing.
+
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

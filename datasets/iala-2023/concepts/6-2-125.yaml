@@ -1,0 +1,31 @@
+---
+id: 6-2-125
+termid: 6-2-125
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Bedplate
+---
+id: 6-2-125-eng
+termid: 6-2-125
+language_code: eng
+terms:
+- type: expression
+  designation: Bedplate
+  normative_status: preferred
+definition:
+- content: A plate or frame, usually of steel or cast iron, upon which an engine or
+    other machine rests and to which it is attached.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

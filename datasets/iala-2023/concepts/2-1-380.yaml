@@ -1,0 +1,34 @@
+---
+id: 2-1-380
+termid: 2-1-380
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cones
+---
+id: 2-1-380-eng
+termid: 2-1-380
+language_code: eng
+terms:
+- type: expression
+  designation: Cones
+  normative_status: preferred
+definition:
+- content: |-
+    Special retinal receptor elements which are presumed to be primarily concerned with perception of light and colour stimuli, when the eye is adapted to light (see "photopic vision", 2-1-330).
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

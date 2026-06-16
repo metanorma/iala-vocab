@@ -1,0 +1,37 @@
+---
+id: 2-1-020
+termid: 2-1-020
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lumen
+---
+id: 2-1-020-eng
+termid: 2-1-020
+language_code: eng
+terms:
+- type: expression
+  designation: Lumen
+  normative_status: preferred
+definition:
+- content: |-
+    The SI Unit: of luminous flux. It is the luminous flux emitted within Unit: solid angle (one steradian) by a point source having a uniform luminous intensity of one candela. Definition adopted by the 9th General Conference on Weights and Measures (1948).
+
+
+    Symbol: lm
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

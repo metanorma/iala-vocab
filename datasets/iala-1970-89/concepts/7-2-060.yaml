@@ -1,0 +1,38 @@
+---
+id: 7-2-060
+termid: 7-2-060
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Storey
+---
+id: 7-2-060-eng
+termid: 7-2-060
+language_code: eng
+terms:
+- type: expression
+  designation: Storey
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative tems: Floor, Story (USA)
+
+
+    The space between two successive floors of a building.
+
+
+
+    Note: The French term etage does not apply to the space between the ground floor and the first floor.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

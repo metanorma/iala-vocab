@@ -1,0 +1,34 @@
+---
+id: 4-3-165
+termid: 4-3-165
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radar_head
+---
+id: 4-3-165-eng
+termid: 4-3-165
+language_code: eng
+terms:
+- type: expression
+  designation: Radar head
+  normative_status: preferred
+definition:
+- content: |-
+    The R.F. head, together with the antenna and its feeder, when these are all in proximity.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

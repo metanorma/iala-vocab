@@ -1,0 +1,35 @@
+---
+id: wreck-2-
+termid: wreck-2-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Wreck_(2)
+---
+id: wreck-2--eng
+termid: wreck-2-
+language_code: eng
+terms:
+- type: expression
+  designation: Wreck (2)
+  normative_status: preferred
+definition:
+- content: "Wreck, following upon a maritime casualty, means: \n\n\na)\ta sunken or
+    stranded ship; or\nb)\tany part of a sunken or stranded ship, including any object
+    that is or has been on board such a ship; or\nc)\tany object that is lost at sea
+    from a ship and that is stranded, sunken or adrift at sea; or\nd)\ta ship that
+    is about, or may reasonably be expected, to sink or to strand, where effective
+    measures to assist the ship or any property in danger are not already being taken.
+    #\n\n\nSource: Nairobi Convention 2017, provided by the IALA ARM Committee in
+    paper ARM7-12.1.14 in 2017.\n\n\n\nThis supercedes definition number 1-2-205 in
+    the original IALA Dictionary edition (1970-1989)."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

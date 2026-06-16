@@ -1,0 +1,51 @@
+---
+id: 6-3-360
+termid: 6-3-360
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Acetylene
+---
+id: 6-3-360-eng
+termid: 6-3-360
+language_code: eng
+terms:
+- type: expression
+  designation: Acetylene
+  normative_status: preferred
+definition:
+- content: A hydrocarbon fuel, C2H2, which is a colourless, highly flammable gas at
+    ordinary temperatures and atmospheric pressure. It is principally used as an illuminant
+    for signal lights, either with or without a mantle.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)
+---
+id: 6-3-360-spa
+termid: 6-3-360
+language_code: spa
+terms:
+- type: expression
+  designation: Acetylene/es
+  normative_status: preferred
+definition:
+- content: "Acetileno\n\n\n \nCombustible de hidrocarburo, C2H2, gas incoloro y altamente
+    inflamable a temperaturas  y presión atmosférica normales. Se utilizaba  como
+    iluminante en señales luminosas con o sin capillo."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

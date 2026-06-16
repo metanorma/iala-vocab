@@ -1,0 +1,34 @@
+---
+id: 1-3-075
+termid: 1-3-075
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Scotch_mist
+---
+id: 1-3-075-eng
+termid: 1-3-075
+language_code: eng
+terms:
+- type: expression
+  designation: Scotch mist
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Fine drizzle
+
+
+    Fairly even precipitation of extremely numerous very small droplets of water, which almost appear to be suspended in the air, and which may reduce the meteorological visibility.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

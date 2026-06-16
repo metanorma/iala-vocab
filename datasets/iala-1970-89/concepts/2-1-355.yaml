@@ -1,0 +1,34 @@
+---
+id: 2-1-355
+termid: 2-1-355
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stiles-Crawford_Effect
+---
+id: 2-1-355-eng
+termid: 2-1-355
+language_code: eng
+terms:
+- type: expression
+  designation: Stiles-Crawford Effect
+  normative_status: preferred
+definition:
+- content: |-
+    Variation of the luminosity of a light stimulus with position of entry of the light pencil through the pupil.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

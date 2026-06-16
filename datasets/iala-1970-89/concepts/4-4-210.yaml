@@ -1,0 +1,34 @@
+---
+id: 4-4-210
+termid: 4-4-210
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Decca_Sector_pointer
+---
+id: 4-4-210-eng
+termid: 4-4-210
+language_code: eng
+terms:
+- type: expression
+  designation: Decca Sector pointer
+  normative_status: preferred
+definition:
+- content: |-
+    Sector pointer (in Decca)
+
+
+    The open pointer on the lane identification meter, which indicates which of the vernier pointers is to be read during lane identification.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

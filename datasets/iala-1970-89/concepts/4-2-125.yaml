@@ -1,0 +1,34 @@
+---
+id: 4-2-125
+termid: 4-2-125
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Direction_finding_network
+---
+id: 4-2-125-eng
+termid: 4-2-125
+language_code: eng
+terms:
+- type: expression
+  designation: Direction finding network
+  normative_status: preferred
+definition:
+- content: |-
+    Direction finding group
+
+
+    A number of direction finders separated from each other by distances sufficiently great to allow the position of a transmitter to be determined from simultaneous observations at each of the direction finders.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

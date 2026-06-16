@@ -1,0 +1,32 @@
+---
+id: 4-2-030
+termid: 4-2-030
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radio_leading_line
+---
+id: 4-2-030-eng
+termid: 4-2-030
+language_code: eng
+terms:
+- type: expression
+  designation: Radio leading line
+  normative_status: preferred
+definition:
+- content: A radio beacon station some or all of whose emissions are directional so
+    that the signal characteristic changes according to the ship's bearing from the
+    station.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,38 @@
+---
+id: 3-1-145
+termid: 3-1-145
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Directivity_factor
+---
+id: 3-1-145-eng
+termid: 3-1-145
+language_code: eng
+terms:
+- type: expression
+  designation: Directivity factor
+  normative_status: preferred
+definition:
+- content: |-
+    Directivity factor (of a sound source)
+
+
+    The ratio of the square of the radiated free field sound pressure at a fixed point on the principal axis to the mean square pressure averaged over the surface of a sphere passing through the fixed point and concentric with the source.
+
+
+
+    Reference: I.E.C. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 3-2-110
+termid: 3-2-110
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fog_signal_port
+---
+id: 3-2-110-eng
+termid: 3-2-110
+language_code: eng
+terms:
+- type: expression
+  designation: Fog signal port
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: Port, Slot
+
+
+    In some types of compressed air fog signal apparatus e.g. siren or diaphone, an aperture, generally narrow and elongated, on both the fixed and moving parts of the modulator of the compressed air.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

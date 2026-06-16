@@ -1,0 +1,30 @@
+---
+id: 5-1-100
+termid: 5-1-100
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Self-check
+---
+id: 5-1-100-eng
+termid: 5-1-100
+language_code: eng
+terms:
+- type: expression
+  designation: Self-check
+  normative_status: preferred
+definition:
+- content: An internally generated verification of the ability to operate satisfactorily.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 6-4-040
+termid: 6-4-040
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Brush
+---
+id: 6-4-040-eng
+termid: 6-4-040
+language_code: eng
+terms:
+- type: expression
+  designation: Brush
+  normative_status: preferred
+definition:
+- content: |-
+    A conducting element that provides electrical connection through sliding contact with another conducting element moving relative to it.
+
+
+    Note: The term carbon (brush) is commonly used if the brush is made of carbon.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,37 @@
+---
+id: 4-4-305
+termid: 4-4-305
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Shoran
+---
+id: 4-4-305-eng
+termid: 4-4-305
+language_code: eng
+terms:
+- type: expression
+  designation: Shoran
+  normative_status: preferred
+definition:
+- content: |-
+    A pulse transponder circular co-ordinate (range-range or rho-rho) system of high accuracy which is used principally in survey work. Operation is generally in the lower part of the UHF band and therefore in line-of-sight.
+
+
+    Two shore stations suitably separated from each other are interrogated by the vessel on two rapidly alternated frequencies in order to avoid interference between the responding pulses of the shore stations. The shore stations respond on a third frequency.
+
+
+    The instrumental readout is presented directly in miles or parts thereof. By employing slightly different pulse repetition rates as many as 20 vessels can be accommodated simultaneously.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

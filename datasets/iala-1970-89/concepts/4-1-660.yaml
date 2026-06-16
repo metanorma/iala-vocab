@@ -1,0 +1,34 @@
+---
+id: 4-1-660
+termid: 4-1-660
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Transmitter_power_gain
+---
+id: 4-1-660-eng
+termid: 4-1-660
+language_code: eng
+terms:
+- type: expression
+  designation: Transmitter power gain
+  normative_status: preferred
+definition:
+- content: |-
+    Power gain (of a radio transmitter)
+
+
+    The ratio of the output power delivered to a specified load by an amplifier to the power absorbed by its input circuit.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

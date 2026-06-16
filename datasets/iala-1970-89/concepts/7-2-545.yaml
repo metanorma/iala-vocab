@@ -1,0 +1,38 @@
+---
+id: 7-2-545
+termid: 7-2-545
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sill
+---
+id: 7-2-545-eng
+termid: 7-2-545
+language_code: eng
+terms:
+- type: expression
+  designation: Sill
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Cill
+
+
+    The lowest horizontal part of a frame, typically that of a frame to a door or window.
+
+
+
+    Note: The French term for a window sill is appui.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

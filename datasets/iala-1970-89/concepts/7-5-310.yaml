@@ -1,0 +1,31 @@
+---
+id: 7-5-310
+termid: 7-5-310
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/End_bearing_pile
+---
+id: 7-5-310-eng
+termid: 7-5-310
+language_code: eng
+terms:
+- type: expression
+  designation: End bearing pile
+  normative_status: preferred
+definition:
+- content: A pile which transmits its applied load to the ground, by bearing onto
+    a hard stratum at its lower end.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

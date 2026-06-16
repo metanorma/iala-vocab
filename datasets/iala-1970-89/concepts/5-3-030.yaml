@@ -1,0 +1,34 @@
+---
+id: 5-3-030
+termid: 5-3-030
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Frequency_modulation_(FM)
+---
+id: 5-3-030-eng
+termid: 5-3-030
+language_code: eng
+terms:
+- type: expression
+  designation: Frequency modulation (FM)
+  normative_status: preferred
+definition:
+- content: |-
+    Angle modulation of a sine-wave carrier in which the instantaneous frequency of the modulated wave differs from the carrier frequency by an amount proportional to the instantaneous value of the modulating wave.
+
+
+    Reference: I.E.C. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

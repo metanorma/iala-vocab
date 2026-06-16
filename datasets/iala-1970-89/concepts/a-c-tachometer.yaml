@@ -1,0 +1,40 @@
+---
+id: a-c-tachometer
+termid: a-c-tachometer
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/A.C._tachometer
+---
+id: a-c-tachometer-eng
+termid: a-c-tachometer
+language_code: eng
+terms:
+- type: expression
+  designation: A.C. tachometer
+  normative_status: preferred
+definition:
+- content: |-
+    .5-4-145
+
+
+    A.C. tacho-generator
+
+
+    An a.c. generator which generates an a.c. output voltage whose amplitude and frequency are proportional to the speed. It may have either a permanent magnet or a d.c. field winding.
+
+
+    Reference: I.E.C. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

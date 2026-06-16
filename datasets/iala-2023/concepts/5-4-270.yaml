@@ -1,0 +1,34 @@
+---
+id: 5-4-270
+termid: 5-4-270
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Crossbar_switch
+---
+id: 5-4-270-eng
+termid: 5-4-270
+language_code: eng
+terms:
+- type: expression
+  designation: Crossbar switch
+  normative_status: preferred
+definition:
+- content: |-
+    A switch having a plurality of vertical paths, a plurality of horizontal paths, and an electromagnetically operated means of interconnecting any one of the vertical paths with any one of the horizontal paths.
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

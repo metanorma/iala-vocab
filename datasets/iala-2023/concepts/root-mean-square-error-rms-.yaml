@@ -1,0 +1,32 @@
+---
+id: root-mean-square-error-rms-
+termid: root-mean-square-error-rms-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Root_mean_square_error_(RMS)
+---
+id: root-mean-square-error-rms--eng
+termid: root-mean-square-error-rms-
+language_code: eng
+terms:
+- type: expression
+  designation: Root mean square error (RMS)
+  normative_status: preferred
+definition:
+- content: |-
+    A means of expressing the variability of a measurement in one dimension – by summing the squares of the errors, dividing by the number of observations and taking the square root. In this one-dimensional case, the RMS error is also an estimate of the standard deviation of the errors.
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

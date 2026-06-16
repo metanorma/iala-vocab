@@ -1,0 +1,37 @@
+---
+id: 2-6-020
+termid: 2-6-020
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Coastal_Mark
+---
+id: 2-6-020-eng
+termid: 2-6-020
+language_code: eng
+terms:
+- type: expression
+  designation: Coastal Mark
+  normative_status: preferred
+definition:
+- content: |-
+    Coastal Aid
+
+
+    A mark placed on the coast to assist coastal navigation. Particularly used with reference to marks placed on a long straight coastline devoid of many natural landmarks.
+
+
+    Note: In French, a lighted coastal mark is called Feu de Jalonnement (2-5-055).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

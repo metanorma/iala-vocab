@@ -1,0 +1,35 @@
+---
+id: 1-1-430
+termid: 1-1-430
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Code_wheel
+---
+id: 1-1-430-eng
+termid: 1-1-430
+language_code: eng
+terms:
+- type: expression
+  designation: Code wheel
+  normative_status: preferred
+definition:
+- content: |-
+    A disc (forming part of a coder) on which a character is defined. This is transmitted by mechanical or other means to another apparatus (e.g. a light, radio emitter or sound signal).
+
+
+
+    Note: When the character is transmitted mechanically by action of a toothed or recessed disc on a lever, the term cam (properly applicable to the teeth) is sometimes used loosely for the code wheel.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

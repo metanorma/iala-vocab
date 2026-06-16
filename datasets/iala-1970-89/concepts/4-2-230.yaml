@@ -1,0 +1,35 @@
+---
+id: 4-2-230
+termid: 4-2-230
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Error_in_bearing
+---
+id: 4-2-230-eng
+termid: 4-2-230
+language_code: eng
+terms:
+- type: expression
+  designation: Error in bearing
+  normative_status: preferred
+definition:
+- content: |-
+    The angular difference, expressed algebraically, between the observed bearing and the corresponding true bearing.
+
+
+
+    Note: This error is in general the sum of two terms, an installation error that can be corrected and an unknown random error.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

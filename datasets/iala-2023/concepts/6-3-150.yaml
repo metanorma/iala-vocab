@@ -1,0 +1,30 @@
+---
+id: 6-3-150
+termid: 6-3-150
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fixed-pitch_blade
+---
+id: 6-3-150-eng
+termid: 6-3-150
+language_code: eng
+terms:
+- type: expression
+  designation: Fixed-pitch blade
+  normative_status: preferred
+definition:
+- content: A blade for which no variation of blade pitch is possible.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,38 @@
+---
+id: 4-1-980
+termid: 4-1-980
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ground_wave
+---
+id: 4-1-980-eng
+termid: 4-1-980
+language_code: eng
+terms:
+- type: expression
+  designation: Ground wave
+  normative_status: preferred
+definition:
+- content: |-
+    A wave that is propagated over the earth and is ordinarily affected by the presence of the ground and the troposphere. The ground wave includes all components of a radio wave over the earth except ionospheric and tropospheric waves.
+
+
+
+    Note: The ground wave is refracted because of variations in the dielectric constant of the troposphere including the condition known as the surface duct.
+
+
+    Reference: I.R.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

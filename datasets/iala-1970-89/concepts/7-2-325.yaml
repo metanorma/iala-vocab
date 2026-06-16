@@ -1,0 +1,34 @@
+---
+id: 7-2-325
+termid: 7-2-325
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fishplate
+---
+id: 7-2-325-eng
+termid: 7-2-325
+language_code: eng
+terms:
+- type: expression
+  designation: Fishplate
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Splice plate
+
+
+    Rectangular plates for joining stanchions or timbers end to end.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

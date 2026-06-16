@@ -1,0 +1,38 @@
+---
+id: 2-1-420
+termid: 2-1-420
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Glare
+---
+id: 2-1-420-eng
+termid: 2-1-420
+language_code: eng
+terms:
+- type: expression
+  designation: Glare
+  normative_status: preferred
+definition:
+- content: |-
+    A condition of vision in which there is discomfort or a reduction in the ability to see significant objects, or both, due to an unsuitable distribution or range of luminance or to extreme contrasts in space or time.
+
+
+    Reference: C.I.E.
+
+
+
+    Note: Glare may be direct or indirect and may sometimes be produced by specular reflection.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

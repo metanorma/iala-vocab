@@ -1,0 +1,31 @@
+---
+id: 2-3-205
+termid: 2-3-205
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cruciform_Filament
+---
+id: 2-3-205-eng
+termid: 2-3-205
+language_code: eng
+terms:
+- type: expression
+  designation: Cruciform Filament
+  normative_status: preferred
+definition:
+- content: A filament composed of two grid filaments at the same light-centre-length,
+    intersecting symmetrically at right angles along the axis of the lamp.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

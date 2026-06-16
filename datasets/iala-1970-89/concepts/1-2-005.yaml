@@ -1,0 +1,35 @@
+---
+id: 1-2-005
+termid: 1-2-005
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Coasting
+---
+id: 1-2-005-eng
+termid: 1-2-005
+language_code: eng
+terms:
+- type: expression
+  designation: Coasting
+  normative_status: preferred
+definition:
+- content: |-
+    The navigation of coastal shipping.
+
+
+
+    Note: In France the navigation of coastal shipping within a limited area is called bornage.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

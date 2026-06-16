@@ -1,0 +1,31 @@
+---
+id: 4-3-180
+termid: 4-3-180
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Performance_monitor
+---
+id: 4-3-180-eng
+termid: 4-3-180
+language_code: eng
+terms:
+- type: expression
+  designation: Performance monitor
+  normative_status: preferred
+definition:
+- content: A device, which can be local or remote, for checking at least those characteristics
+    of the interrogator performance which are operationally significant.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

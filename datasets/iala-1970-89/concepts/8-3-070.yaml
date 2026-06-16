@@ -1,0 +1,31 @@
+---
+id: 8-3-070
+termid: 8-3-070
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Davit
+---
+id: 8-3-070-eng
+termid: 8-3-070
+language_code: eng
+terms:
+- type: expression
+  designation: Davit
+  normative_status: preferred
+definition:
+- content: Device projecting over the side of a vessel, for lifting boats and sometimes
+    the anchor, etc.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

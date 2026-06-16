@@ -1,0 +1,38 @@
+---
+id: 6-8-185
+termid: 6-8-185
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hour_meter
+---
+id: 6-8-185-eng
+termid: 6-8-185
+language_code: eng
+terms:
+- type: expression
+  designation: Hour meter
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Run-hour meter, elapsed-time meter
+
+
+    An instrument that indicates the time during which a device or machine has been in operation.
+
+
+
+    Note:   If the device is used with a rotary machine, the term running-hours recorder is also used.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

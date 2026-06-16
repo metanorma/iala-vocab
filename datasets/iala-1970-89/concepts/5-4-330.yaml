@@ -1,0 +1,34 @@
+---
+id: 5-4-330
+termid: 5-4-330
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Rotation_monitor
+---
+id: 5-4-330-eng
+termid: 5-4-330
+language_code: eng
+terms:
+- type: expression
+  designation: Rotation monitor
+  normative_status: preferred
+definition:
+- content: |-
+    A device which will give an alarm condition if prescribed limits for rotation are exceeded.
+
+
+    Note: In the U.K. a pyropress switch is a type of rotation monitor.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,32 @@
+---
+id: 8-1-055
+termid: 8-1-055
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pontoon
+---
+id: 8-1-055-eng
+termid: 8-1-055
+language_code: eng
+terms:
+- type: expression
+  designation: Pontoon
+  normative_status: preferred
+definition:
+- content: A flat-bottomed boat or other floating structure that provides a platform
+    for lifting equipment and can be used for transporting construction materials
+    or to accommodate working plant of various sizes.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

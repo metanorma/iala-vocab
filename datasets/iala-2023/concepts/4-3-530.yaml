@@ -1,0 +1,34 @@
+---
+id: 4-3-530
+termid: 4-3-530
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Corner_reflector
+---
+id: 4-3-530-eng
+termid: 4-3-530
+language_code: eng
+terms:
+- type: expression
+  designation: Corner reflector
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Trihedral reflector
+
+
+    A reflector, consisting of three flat conducting surfaces intersecting mutually at right angles, which reflects the greater part of the incident waves parallel to their direction of incidence.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

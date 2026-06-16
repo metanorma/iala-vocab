@@ -1,0 +1,38 @@
+---
+id: 2-1-160
+termid: 2-1-160
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Coefficient_of_(Reflex)_Luminous_Intensity
+---
+id: 2-1-160-eng
+termid: 2-1-160
+language_code: eng
+terms:
+- type: expression
+  designation: Coefficient of (Reflex) Luminous Intensity
+  normative_status: preferred
+definition:
+- content: |-
+    Quotient of the luminous intensity reflected in the direction considered, divided by the illuminance at the retro-reflector for given angles of entrance, observation and rotation.
+
+
+
+    Note: In the photometry of retro-reflectors, this coefficient is designated by the abbreviation C.I.L. It is usually expressed in millicandelas per lux (mcd/lx).
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,32 @@
+---
+id: 7-2-655
+termid: 7-2-655
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lantern
+---
+id: 7-2-655-eng
+termid: 7-2-655
+language_code: eng
+terms:
+- type: expression
+  designation: Lantern
+  normative_status: preferred
+definition:
+- content: The glazed enclosure, usually of cylindrical or polygonal shape, at the
+    top of a lighthouse, light vessel or buoy, which surrounds and protects the optical
+    apparatus.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

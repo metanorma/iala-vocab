@@ -1,0 +1,34 @@
+---
+id: 5-2-245
+termid: 5-2-245
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Corrective_action
+---
+id: 5-2-245-eng
+termid: 5-2-245
+language_code: eng
+terms:
+- type: expression
+  designation: Corrective action
+  normative_status: preferred
+definition:
+- content: |-
+    The change in the correcting variable which is produced by the controlling equipment with a view to reducing the deviation resulting from a change in one or more actuating variables.
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

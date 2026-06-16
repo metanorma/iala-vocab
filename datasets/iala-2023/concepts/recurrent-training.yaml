@@ -1,0 +1,32 @@
+---
+id: recurrent-training
+termid: recurrent-training
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-9
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Recurrent_training
+---
+id: recurrent-training-eng
+termid: recurrent-training
+language_code: eng
+terms:
+- type: expression
+  designation: Recurrent training
+  normative_status: preferred
+definition:
+- content: "urn:mrn:iala:dic:0901108e\n\n\nRecurrent training is the training that
+    should be carried out at regular intervals and is part of a structured training
+    programme thereby enabling continual professional development and resulting in
+    the maintenance of the VTS qualification. \n\n\nSource: \nIALA Guideline G1156
+    Recruitment, training and assessment of VTS Personnel\nIALA Model Course V‐103/5
+    - Revalidation Process for VTS Qualification and Certification"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

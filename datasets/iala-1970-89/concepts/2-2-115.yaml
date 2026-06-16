@@ -1,0 +1,31 @@
+---
+id: 2-2-115
+termid: 2-2-115
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Axis_(of_a_fixed_lens)
+---
+id: 2-2-115-eng
+termid: 2-2-115
+language_code: eng
+terms:
+- type: expression
+  designation: Axis (of a fixed lens)
+  normative_status: preferred
+definition:
+- content: The vertical line comprising the axes of revolution of the belt and rings
+    composing the fixed lens. (Fig. 16b)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,39 @@
+---
+id: 1-1-330
+termid: 1-1-330
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Free_oscillation
+---
+id: 1-1-330-eng
+termid: 1-1-330
+language_code: eng
+terms:
+- type: expression
+  designation: Free oscillation
+  normative_status: preferred
+definition:
+- content: |-
+    The oscillation of a system in the absence of any exterior force.
+
+
+
+    Reference: I.E.C.
+
+
+
+    Note: Free oscillations of a mechanical system are usually called natural vibrations of the system.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

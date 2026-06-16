@@ -1,0 +1,38 @@
+---
+id: 4-1-265
+termid: 4-1-265
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Antenna_radiation_resistance
+---
+id: 4-1-265-eng
+termid: 4-1-265
+language_code: eng
+terms:
+- type: expression
+  designation: Antenna radiation resistance
+  normative_status: preferred
+definition:
+- content: |-
+    For any given reference point on the antenna, the power radiated by the antenna divided by the mean square value of the current at the reference point.
+
+
+
+    Note: The reference point is usually the feed point or a current antinode. It should always be specified.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

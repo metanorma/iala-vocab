@@ -1,0 +1,34 @@
+---
+id: 5-1-150
+termid: 5-1-150
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Confidence_limits
+---
+id: 5-1-150-eng
+termid: 5-1-150
+language_code: eng
+terms:
+- type: expression
+  designation: Confidence limits
+  normative_status: preferred
+definition:
+- content: |-
+    The extremes of a confidence interval.
+
+
+    Note: In reliability the upper limit is 100% and therefore only the lower limit of confidence is usually stated. For example a stated 90% reliabiltiy with confidence level 60% means there is a 60% probability that the actual reliability is at least 90%.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 4-2-005
+termid: 4-2-005
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_characteristic
+---
+id: 4-2-005-eng
+termid: 4-2-005
+language_code: eng
+terms:
+- type: expression
+  designation: Radio beacon characteristic
+  normative_status: preferred
+definition:
+- content: |-
+    The description of the complete cycle of transmission of a radio beacon in a given period of time, inclusive of any silent period.
+
+
+    Reference: A.L.R.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

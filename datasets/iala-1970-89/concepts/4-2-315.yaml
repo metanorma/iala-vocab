@@ -1,0 +1,34 @@
+---
+id: 4-2-315
+termid: 4-2-315
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Loop_alignment_error
+---
+id: 4-2-315-eng
+termid: 4-2-315
+language_code: eng
+terms:
+- type: expression
+  designation: Loop alignment error
+  normative_status: preferred
+definition:
+- content: |-
+    Inaccurate alignment of the loop antenna system with respect to the datum line. Usually in ships, inaccurate alignment with respect to fore and aft line.
+
+
+    Reference: B.S. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

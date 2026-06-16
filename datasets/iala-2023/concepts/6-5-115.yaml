@@ -1,0 +1,34 @@
+---
+id: 6-5-115
+termid: 6-5-115
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/End_point_voltage_(G.B.)
+---
+id: 6-5-115-eng
+termid: 6-5-115
+language_code: eng
+terms:
+- type: expression
+  designation: End point voltage (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Cut-off voltage (U.S.A.)
+
+
+    The prescribed voltage at which the discharge is considered complete for a particular capacity rating and discharge rate.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

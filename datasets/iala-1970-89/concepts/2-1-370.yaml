@@ -1,0 +1,38 @@
+---
+id: 2-1-370
+termid: 2-1-370
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Point_Vision
+---
+id: 2-1-370-eng
+termid: 2-1-370
+language_code: eng
+terms:
+- type: expression
+  designation: Point Vision
+  normative_status: preferred
+definition:
+- content: |-
+    Point Vision (of a light source);
+
+
+    A special mode of vision which takes place when the threshold of illuminance (2-1-390) at the eye of an observer is independent of the angular subtense of the light source.
+
+
+
+    Note: For a background luminance of less than about 0.1 candela per square metre, point vision takes place when the light source has an apparent angular diameter not more than about one minute of arc. For higher values of background luminance, point vision can also take place if the angular diameter of the light source is accordingly smaller.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

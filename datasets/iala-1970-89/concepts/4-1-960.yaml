@@ -1,0 +1,34 @@
+---
+id: 4-1-960
+termid: 4-1-960
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Troposphere
+---
+id: 4-1-960-eng
+termid: 4-1-960
+language_code: eng
+terms:
+- type: expression
+  designation: Troposphere
+  normative_status: preferred
+definition:
+- content: |-
+    The lower part of the earth's atmosphere extending upwards from the earth's surface, in which temperature decreases with height except in local layers of temperature inversion.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

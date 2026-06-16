@@ -1,0 +1,38 @@
+---
+id: 7-1-010
+termid: 7-1-010
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Shore_station
+---
+id: 7-1-010-eng
+termid: 7-1-010
+language_code: eng
+terms:
+- type: expression
+  designation: Shore station
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Land station
+
+
+    An aid to navigation station founded on or close to the coast, emitting signals that can provide navigational information to vessels in the vicinity.
+
+
+
+    Note: The station may also be defined in terms of its principal aid to navigation, e.g. light station, fog signal station.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

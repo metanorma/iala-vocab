@@ -1,0 +1,32 @@
+---
+id: 6-3-305
+termid: 6-3-305
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Thermocouple_(2)
+---
+id: 6-3-305-eng
+termid: 6-3-305
+language_code: eng
+terms:
+- type: expression
+  designation: Thermocouple (2)
+  normative_status: preferred
+definition:
+- content: A junction of dissimilar conductors arranged in a circuit so that a voltage
+    is developed by the thermoelectric effect when a temperature difference exists
+    between the junction and other parts of the circuit.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

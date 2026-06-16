@@ -1,0 +1,37 @@
+---
+id: 4-1-115
+termid: 4-1-115
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Relative_gain_of_an_antenna
+---
+id: 4-1-115-eng
+termid: 4-1-115
+language_code: eng
+terms:
+- type: expression
+  designation: Relative gain of an antenna
+  normative_status: preferred
+definition:
+- content: |-
+    The gain of an antenna in a given direction when the reference antenna is a half-wave loss-free dipole isolated in space, the equatorial plane of which contains the given direction.
+
+
+    Symbol: Gd
+
+
+    Reference: I.T.U.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

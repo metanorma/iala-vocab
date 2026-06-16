@@ -1,0 +1,46 @@
+---
+id: 4-4-280
+termid: 4-4-280
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Type_N_Raydist
+---
+id: 4-4-280-eng
+termid: 4-4-280
+language_code: eng
+terms:
+- type: expression
+  designation: Type N Raydist
+  normative_status: preferred
+definition:
+- content: |-
+    A hyperbolic co-ordinate Raydist system.
+
+
+    Three shore transmitters operate at radio frequencies very close to each other.
+
+
+    A fourth, or relay, station receives these transmissions and from them produces two audio beat tones. These are re-transmitted by this station on a different radio frequency.
+
+
+    The vessel receives the transmissions from all four stations in a dual frequency receiver.
+
+
+    This produces two similar beat notes from the three main transmitters as the relay station, and these are phase compared with the beat notes from the relay station, to produce hyperbolic lines.
+
+
+    The system is non-saturable as it requires no transmission from the vessel.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

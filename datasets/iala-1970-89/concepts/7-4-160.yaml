@@ -1,0 +1,31 @@
+---
+id: 7-4-160
+termid: 7-4-160
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Water_level
+---
+id: 7-4-160-eng
+termid: 7-4-160
+language_code: eng
+terms:
+- type: expression
+  designation: Water level
+  normative_status: preferred
+definition:
+- content: The height of the water surface in relation to the specific point with
+    which the level is being compared.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

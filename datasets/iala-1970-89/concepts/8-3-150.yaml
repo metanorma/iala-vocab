@@ -1,0 +1,40 @@
+---
+id: 8-3-150
+termid: 8-3-150
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Chain_stopper
+---
+id: 8-3-150-eng
+termid: 8-3-150
+language_code: eng
+terms:
+- type: expression
+  designation: Chain stopper
+  normative_status: preferred
+definition:
+- content: "Controller (USA)\n\n\nA device for securing or stopping off chain. It
+    may be of steel, wire, plastics or fibre cordage or of patent design.\n\n\nNote :
+    \n\n\nExamples are :\n\n\ncable stopper: a heavy steel fitting with locking bar,
+    (1) to relieve strain on the windlass when riding at anchor, or (2) on buoy tenders
+    in the area of the buoy working gangway, to stop off the buoy chain when it is
+    disconnected fromthe buoy.\n\ngate stopper: a cable stopper with a hinge plate
+    in place of the locking bar.\n\nslip stopper: a fibre rope used to secure an object,
+    arranged for quick release.\n\nrope stopper or rotten stop: a light lashing intended
+    to part under strain.  To check speed and violence of chain running off deck,
+    it is usual to lash the chain at many points with a corresponding number of rope
+    stoppers."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

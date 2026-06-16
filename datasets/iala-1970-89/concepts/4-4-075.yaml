@@ -1,0 +1,40 @@
+---
+id: 4-4-075
+termid: 4-4-075
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Loran_Cycle_match
+---
+id: 4-4-075-eng
+termid: 4-4-075
+language_code: eng
+terms:
+- type: expression
+  designation: Loran Cycle match
+  normative_status: preferred
+definition:
+- content: |-
+    Cycle match (in Loran)
+
+
+    The comparison in time difference between corresponding radio frequency carrier cycles contained in the rise times of a master and a slave pulse.
+
+
+    The comparison is refined to a determination of the phase difference between these two cycles.
+
+
+    At present used in Loran C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

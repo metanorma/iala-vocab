@@ -1,0 +1,34 @@
+---
+id: accredited-aton-training-organisation
+termid: accredited-aton-training-organisation
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Accredited_AtoN_Training_Organisation
+---
+id: accredited-aton-training-organisation-eng
+termid: accredited-aton-training-organisation
+language_code: eng
+terms:
+- type: expression
+  designation: Accredited AtoN Training Organisation
+  normative_status: preferred
+definition:
+- content: |-
+    An accredited AtoN Training Organisation is an organisation that the Competent Authority, or an authority designated and approved by the by the Competent Authority, grants recognition to a training organisation for demonstrated ability to meet predetermined criteria for established standards.
+
+
+
+
+
+    Source: ENG7, Recommendation R0141
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

@@ -1,0 +1,53 @@
+---
+id: 2-2-190
+termid: 2-2-190
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Subtense_Angle
+---
+id: 2-2-190-eng
+termid: 2-2-190
+language_code: eng
+terms:
+- type: expression
+  designation: Subtense Angle
+  normative_status: preferred
+definition:
+- content: |-
+    The angle, with vertex at the focus, subtended by the edges of a lens or reflector, usually measured in a horizontal or vertical plane. (Figs. 10 and 16b)
+
+
+
+
+
+
+
+
+    Note: In France, the subtense angle of an optical panel, measured in the horizontal plane, is called Ouverture.
+
+
+    In Germany, the subtense angle of a fixed lens or of an optical panel, measured in the horizontal plane, is called Spannwinkel.
+
+
+
+
+
+
+
+
+
+    See also Total Subtense
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

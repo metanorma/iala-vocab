@@ -1,0 +1,34 @@
+---
+id: 4-3-320
+termid: 4-3-320
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Differentiator
+---
+id: 4-3-320-eng
+termid: 4-3-320
+language_code: eng
+terms:
+- type: expression
+  designation: Differentiator
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Anti-clutter rain, Fast time constant (F.T.C.) (U.S.A.), Short time constant (S.T.C.) (G.B.)
+
+
+    A type of coupling circuit, with high pass frequency characteristics, used in radar receivers to permit discrimination against received pulses of duration longer than the transmitted pulse.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

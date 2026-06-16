@@ -1,0 +1,38 @@
+---
+id: 1-2-060
+termid: 1-2-060
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Magnetic_Dip
+---
+id: 1-2-060-eng
+termid: 1-2-060
+language_code: eng
+terms:
+- type: expression
+  designation: Magnetic Dip
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: (Magnetic) Inclination
+
+
+    The angle which a freely swinging magnetic needle makes with the horizontal.
+
+
+
+    Reference: I.H.B.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

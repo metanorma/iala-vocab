@@ -1,0 +1,31 @@
+---
+id: 8-2-020
+termid: 8-2-020
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Light_float
+---
+id: 8-2-020-eng
+termid: 8-2-020
+language_code: eng
+terms:
+- type: expression
+  designation: Light float
+  normative_status: preferred
+definition:
+- content: An unmanned floating mark that is boat-shaped and is fitted with a signal
+    light. It may carry various additional aids to navigation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

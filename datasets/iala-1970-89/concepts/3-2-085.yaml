@@ -1,0 +1,34 @@
+---
+id: 3-2-085
+termid: 3-2-085
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Volute_of_a_siren
+---
+id: 3-2-085-eng
+termid: 3-2-085
+language_code: eng
+terms:
+- type: expression
+  designation: Volute of a siren
+  normative_status: preferred
+definition:
+- content: |-
+    Volute (of a siren)
+
+
+    A component in the form of a spiral which distributes the compressed air evenly to the periphery of the stator.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

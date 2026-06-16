@@ -1,0 +1,37 @@
+---
+id: 2-1-125
+termid: 2-1-125
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Optical_Focus
+---
+id: 2-1-125-eng
+termid: 2-1-125
+language_code: eng
+terms:
+- type: expression
+  designation: Optical Focus
+  normative_status: preferred
+definition:
+- content: |-
+    (Optical) Focus
+
+
+    The point on the axis of an optical system such that rays parallel to the axis and incident on the system converge to this point or appear to emanate from this point after refraction or reflection by the system.
+
+
+    (Figs. 12, 13, 14, 15, 17 and 19)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

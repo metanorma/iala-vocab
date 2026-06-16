@@ -1,0 +1,34 @@
+---
+id: 5-2-325
+termid: 5-2-325
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Control_range
+---
+id: 5-2-325-eng
+termid: 5-2-325
+language_code: eng
+terms:
+- type: expression
+  designation: Control range
+  normative_status: preferred
+definition:
+- content: |-
+    The interval between the specified limits of the controlled variable under normal operating conditions.
+
+
+    Reference: I.E.C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 6-4-235
+termid: 6-4-235
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Universal_motor
+---
+id: 6-4-235-eng
+termid: 6-4-235
+language_code: eng
+terms:
+- type: expression
+  designation: Universal motor
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: a.c./d.c. motor
+
+
+    An electric motor designed to be operated by either single-phase alternating current or direct current.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

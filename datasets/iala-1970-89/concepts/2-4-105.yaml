@@ -1,0 +1,34 @@
+---
+id: 2-4-105
+termid: 2-4-105
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Screen_(2)
+---
+id: 2-4-105-eng
+termid: 2-4-105
+language_code: eng
+terms:
+- type: expression
+  designation: Screen (2)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: Shield (U.S.A.), Blanking Screen (G.B.)
+
+
+    Any opaque body used to obscure a light.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

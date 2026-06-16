@@ -1,0 +1,34 @@
+---
+id: 4-1-730
+termid: 4-1-730
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sensitivity
+---
+id: 4-1-730-eng
+termid: 4-1-730
+language_code: eng
+terms:
+- type: expression
+  designation: Sensitivity
+  normative_status: preferred
+definition:
+- content: |-
+    The characteristic of a receiver which determines the minimum usable input i.e. the least input which produces an output which satisfies certain specified requirements, including generally a specified output together with a specified signal-to-noise ratio.
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

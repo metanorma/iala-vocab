@@ -1,0 +1,30 @@
+---
+id: 5-2-015
+termid: 5-2-015
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Station_control
+---
+id: 5-2-015-eng
+termid: 5-2-015
+language_code: eng
+terms:
+- type: expression
+  designation: Station control
+  normative_status: preferred
+definition:
+- content: The controlling of more than one apparatus from a centralized point.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

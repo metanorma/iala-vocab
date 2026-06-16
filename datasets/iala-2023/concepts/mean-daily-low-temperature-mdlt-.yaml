@@ -1,0 +1,28 @@
+---
+id: mean-daily-low-temperature-mdlt-
+termid: mean-daily-low-temperature-mdlt-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-unknown
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mean_Daily_Low_Temperature_(MDLT)
+---
+id: mean-daily-low-temperature-mdlt--eng
+termid: mean-daily-low-temperature-mdlt-
+language_code: eng
+terms:
+- type: expression
+  designation: Mean Daily Low Temperature (MDLT)
+  normative_status: preferred
+definition:
+- content: Mean Daily Low Temperature (MDLT) – is the mean value of the daily low
+    temperature for each day of the year over a minimum 10-year period.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

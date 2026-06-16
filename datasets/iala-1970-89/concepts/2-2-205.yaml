@@ -1,0 +1,38 @@
+---
+id: 2-2-205
+termid: 2-2-205
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Neutral_Filter
+---
+id: 2-2-205-eng
+termid: 2-2-205
+language_code: eng
+terms:
+- type: expression
+  designation: Neutral Filter
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Neutral Density Filter, Neutral Grey Filter
+
+
+    A non-selective filter, usually of glass or plastic.
+
+
+
+    Note: Such filters produce no change (or very little change) in the colour of the transmitted light.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

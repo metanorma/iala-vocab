@@ -1,0 +1,65 @@
+---
+id: 2-6-255
+termid: 2-6-255
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Topmark_(2)
+---
+id: 2-6-255-eng
+termid: 2-6-255
+language_code: eng
+terms:
+- type: expression
+  designation: Topmark (2)
+  normative_status: preferred
+definition:
+- content: |-
+    One or more relatively small objects of characteristic shape or colour (or both), placed on top of a navigation mark (or buoy) to identify it. (Figs. 65 and 66)
+
+
+    Note 1: A topmark may be
+
+
+    a. Simple
+    b. Composite, viz. made up of two or three individual topmarks.
+
+    Note 2: The following characteristic apparent shapes of topmarks are internationally recognised for the lateral system of marking (or buoyage):
+
+
+    Cone
+    Can
+    Sphere
+    Diamond
+    St. George's Cross
+    "T"
+    Broom
+
+    A broom topmark has the appearance of a circular broomhead and has two forms "Broom, point upwards" (in German, "mit Besen abwarts") and "Broom, point downwards" (in German, "mit Besen aufwarts").
+
+
+    Note 3: The following characteristic apparent shapes of topmarks are internationally recognised for the cardinal system of marking (or buoyage):
+
+
+    Two cones, point upwards
+    Two cones, point downwards
+    Two cones, point to point
+    Two cones, base to base
+
+    Note 4: Other forms (e.g. St. Andrew's Cross) are used, for example, as landfall marks.
+
+
+    Note 5: In the U.S.A. the word Daymark is often used for a topmark.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

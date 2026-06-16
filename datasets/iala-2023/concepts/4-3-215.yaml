@@ -1,0 +1,34 @@
+---
+id: 4-3-215
+termid: 4-3-215
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Echoing_area
+---
+id: 4-3-215-eng
+termid: 4-3-215
+language_code: eng
+terms:
+- type: expression
+  designation: Echoing area
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: Equivalent echoing area, Radar cross section, Target area
+
+
+    The area of a plane element, situated at the position of an object and normal to the direction of the radar transmitter, which would be traversed by a power such that, if this power were re-radiated equally in all directions, with suitable polarization, it would give an echo of the same power as that given by the object itself.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

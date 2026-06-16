@@ -1,0 +1,32 @@
+---
+id: 4-1-475
+termid: 4-1-475
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Umbrella_antenna
+---
+id: 4-1-475-eng
+termid: 4-1-475
+language_code: eng
+terms:
+- type: expression
+  designation: Umbrella antenna
+  normative_status: preferred
+definition:
+- content: An antenna consisting of conductors in successive positions of the generator
+    of a vertical cone; the upper ends, which are at the apex of the cone, are connected
+    to a down lead which is often the supporting tower.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

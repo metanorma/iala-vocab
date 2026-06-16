@@ -1,0 +1,34 @@
+---
+id: 4-1-605
+termid: 4-1-605
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Designation_of_emissions
+---
+id: 4-1-605-eng
+termid: 4-1-605
+language_code: eng
+terms:
+- type: expression
+  designation: Designation of emissions
+  normative_status: preferred
+definition:
+- content: |-
+    The emissions of radio-frequency energy from a radio transmitter are designated according to their classification and their necessary bandwidth.
+
+
+    Reference: I.T.U.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

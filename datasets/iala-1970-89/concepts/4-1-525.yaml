@@ -1,0 +1,34 @@
+---
+id: 4-1-525
+termid: 4-1-525
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Feeder
+---
+id: 4-1-525-eng
+termid: 4-1-525
+language_code: eng
+terms:
+- type: expression
+  designation: Feeder
+  normative_status: preferred
+definition:
+- content: |-
+    That part of a radio system by means of which radio-frequency energy is carried from the transmitter to its antenna.
+
+
+    Examples Single wire, balanced multiwire, coaxial cable, coaxial line, waveguide etc.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

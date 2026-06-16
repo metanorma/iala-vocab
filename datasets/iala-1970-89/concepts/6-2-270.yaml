@@ -1,0 +1,31 @@
+---
+id: 6-2-270
+termid: 6-2-270
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Water_and_oil_separator
+---
+id: 6-2-270-eng
+termid: 6-2-270
+language_code: eng
+terms:
+- type: expression
+  designation: Water and oil separator
+  normative_status: preferred
+definition:
+- content: A device installed in the discharge pipeline from a compressor to remove
+    condensed moisture or lubricating oil from the compressed air.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

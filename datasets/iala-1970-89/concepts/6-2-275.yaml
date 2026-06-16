@@ -1,0 +1,34 @@
+---
+id: 6-2-275
+termid: 6-2-275
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Storage_(air)_cylinder
+---
+id: 6-2-275-eng
+termid: 6-2-275
+language_code: eng
+terms:
+- type: expression
+  designation: Storage (air) cylinder
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: (air) receiver
+
+
+    A vessel in which compressed air is stored until required.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

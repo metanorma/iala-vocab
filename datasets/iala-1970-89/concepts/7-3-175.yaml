@@ -1,0 +1,31 @@
+---
+id: 7-3-175
+termid: 7-3-175
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sieve
+---
+id: 7-3-175-eng
+termid: 7-3-175
+language_code: eng
+terms:
+- type: expression
+  designation: Sieve
+  normative_status: preferred
+definition:
+- content: Frame supporting a wire mesh, used for separating different sizes of sand
+    and gravel, the mesh size being appropriate to the grading required.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

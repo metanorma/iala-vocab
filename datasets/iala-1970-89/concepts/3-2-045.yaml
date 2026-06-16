@@ -1,0 +1,31 @@
+---
+id: 3-2-045
+termid: 3-2-045
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-3
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sound_emitter_array
+---
+id: 3-2-045-eng
+termid: 3-2-045
+language_code: eng
+terms:
+- type: expression
+  designation: Sound emitter array
+  normative_status: preferred
+definition:
+- content: An assembly of sound emitters so spaced and excited as to give the assembly
+    its required power and directional radiating properties.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

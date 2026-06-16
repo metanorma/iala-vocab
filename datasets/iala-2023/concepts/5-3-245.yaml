@@ -1,0 +1,34 @@
+---
+id: 5-3-245
+termid: 5-3-245
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Reduced_carrier
+---
+id: 5-3-245-eng
+termid: 5-3-245
+language_code: eng
+terms:
+- type: expression
+  designation: Reduced carrier
+  normative_status: preferred
+definition:
+- content: |-
+    Carrier emitted at a power level between 6 dB and 32 dB below the peak envelope power and preferably between 16 dB and 26 dB below the peak envelope power.
+
+
+    Reference: C.C.I.R.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

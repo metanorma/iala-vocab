@@ -1,0 +1,32 @@
+---
+id: automatic-identification-system-ais-
+termid: automatic-identification-system-ais-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-11
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Automatic_Identification_System_(AIS)
+---
+id: automatic-identification-system-ais--eng
+termid: automatic-identification-system-ais-
+language_code: eng
+terms:
+- type: expression
+  designation: Automatic Identification System (AIS)
+  normative_status: preferred
+definition:
+- content: |-
+    A ship and shore-based data broadcast system, operating in the VHF maritime band.
+
+
+
+    Source: Nick Ward, IALA e-Nav committee vicechair, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

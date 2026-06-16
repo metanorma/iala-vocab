@@ -1,0 +1,30 @@
+---
+id: 8-2-035
+termid: 8-2-035
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lantern_glazing_(GB)
+---
+id: 8-2-035-eng
+termid: 8-2-035
+language_code: eng
+terms:
+- type: expression
+  designation: Lantern glazing (GB)
+  normative_status: preferred
+definition:
+- content: A general term for the glass parts of a lantern.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

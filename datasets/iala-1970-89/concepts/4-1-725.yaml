@@ -1,0 +1,35 @@
+---
+id: 4-1-725
+termid: 4-1-725
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Diversity_reception
+---
+id: 4-1-725-eng
+termid: 4-1-725
+language_code: eng
+terms:
+- type: expression
+  designation: Diversity reception
+  normative_status: preferred
+definition:
+- content: |-
+    A method of reception in which a single output signal is derived from a combination of, or selection from, a plurality of transmission channels or paths.
+
+
+
+    Note: The methods of reception employed may include space diversity, polarization diversity, or frequency (channel) diversity.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

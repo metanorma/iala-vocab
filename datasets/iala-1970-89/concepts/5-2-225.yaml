@@ -1,0 +1,34 @@
+---
+id: 5-2-225
+termid: 5-2-225
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Set_value
+---
+id: 5-2-225-eng
+termid: 5-2-225
+language_code: eng
+terms:
+- type: expression
+  designation: Set value
+  normative_status: preferred
+definition:
+- content: "Alternative term: Set point (U.S.A.)\n\n\nThe value chosen under prescribed
+    conditions for the purpose of adjusting the controller. If the system has no offset,
+    the set value is identical with the desired value. \n\n\n\n\n\nFigure 3 - Typical
+    time response of a system to a step increase of input.\n\n\nReference: I.E.C.
+    (modified)"
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

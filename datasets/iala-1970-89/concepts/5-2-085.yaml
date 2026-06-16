@@ -1,0 +1,34 @@
+---
+id: 5-2-085
+termid: 5-2-085
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Position_control_system
+---
+id: 5-2-085-eng
+termid: 5-2-085
+language_code: eng
+terms:
+- type: expression
+  designation: Position control system
+  normative_status: preferred
+definition:
+- content: |-
+    A control system that attempts to establish and/or maintain an exact correspondence between the reference input and the directly controlled variable which are physical positions.
+
+
+    Reference: I.E.E.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

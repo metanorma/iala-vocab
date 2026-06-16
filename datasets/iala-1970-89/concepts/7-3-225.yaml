@@ -1,0 +1,34 @@
+---
+id: 7-3-225
+termid: 7-3-225
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Concrete
+---
+id: 7-3-225-eng
+termid: 7-3-225
+language_code: eng
+terms:
+- type: expression
+  designation: Concrete
+  normative_status: preferred
+definition:
+- content: |-
+    A mixture of cement, aggregate, sand and water which hardens to a solid material with a high crushing strength.
+
+
+    The proportions of cement, aggregate, sand and water may be adjusted to impart specific properties to the concrete.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

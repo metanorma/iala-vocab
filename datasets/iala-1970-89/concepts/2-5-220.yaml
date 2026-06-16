@@ -1,0 +1,32 @@
+---
+id: 2-5-220
+termid: 2-5-220
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sector_(of_a_sector_light)
+---
+id: 2-5-220-eng
+termid: 2-5-220
+language_code: eng
+terms:
+- type: expression
+  designation: Sector (of a sector light)
+  normative_status: preferred
+definition:
+- content: The space bounded by two vertical planes passing through the luminous source
+    of the sector light and within which a light of a given character is visible.
+    (Fig.45)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

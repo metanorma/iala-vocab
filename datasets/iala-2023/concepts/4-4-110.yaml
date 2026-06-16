@@ -1,0 +1,34 @@
+---
+id: 4-4-110
+termid: 4-4-110
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Loran_Fixed_slave_time_delay
+---
+id: 4-4-110-eng
+termid: 4-4-110
+language_code: eng
+terms:
+- type: expression
+  designation: Loran Fixed slave time delay
+  normative_status: preferred
+definition:
+- content: |-
+    Fixed slave time delay (in Loran)
+
+
+    A time delay in the transmission of pulse signals from the slave station to permit the resolution of ambiguity and to provide identification.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

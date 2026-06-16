@@ -1,0 +1,31 @@
+---
+id: resilient-pnt
+termid: resilient-pnt
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Resilient_PNT
+---
+id: resilient-pnt-eng
+termid: resilient-pnt
+language_code: eng
+terms:
+- type: expression
+  designation: Resilient PNT
+  normative_status: preferred
+definition:
+- content: |-
+    urn:mrn:iala:dic:0401505e
+
+
+    PNT (Position, Navigation and Timing) services made resilient by building-in, or otherwise providing, standby capacity or by switching to alternative means.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

@@ -1,0 +1,30 @@
+---
+id: 6-5-110
+termid: 6-5-110
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Nominal_voltage
+---
+id: 6-5-110-eng
+termid: 6-5-110
+language_code: eng
+terms:
+- type: expression
+  designation: Nominal voltage
+  normative_status: preferred
+definition:
+- content: The open-circuit voltage of the cell or battery as specified by the manufacturer.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

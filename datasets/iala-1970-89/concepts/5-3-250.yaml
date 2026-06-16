@@ -1,0 +1,34 @@
+---
+id: 5-3-250
+termid: 5-3-250
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Suppressed_carrier
+---
+id: 5-3-250-eng
+termid: 5-3-250
+language_code: eng
+terms:
+- type: expression
+  designation: Suppressed carrier
+  normative_status: preferred
+definition:
+- content: |-
+    Carrier restricted to a power level more than 32 dB below the peak envelope power and preferably 40 dB or more below the peak envelope power.
+
+
+    Reference: C.C.I.R.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

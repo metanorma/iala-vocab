@@ -1,0 +1,31 @@
+---
+id: 4-3-330
+termid: 4-3-330
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Range_rings
+---
+id: 4-3-330-eng
+termid: 4-3-330
+language_code: eng
+terms:
+- type: expression
+  designation: Range rings
+  normative_status: preferred
+definition:
+- content: A visual presentation on a radar display, appearing as a set of concentric
+    circles, centred on own ship's position and spaced by equal increments in range.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

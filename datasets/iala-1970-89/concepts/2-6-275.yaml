@@ -1,0 +1,37 @@
+---
+id: 2-6-275
+termid: 2-6-275
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Retro-Reflecting_Material
+---
+id: 2-6-275-eng
+termid: 2-6-275
+language_code: eng
+terms:
+- type: expression
+  designation: Retro-Reflecting Material
+  normative_status: preferred
+definition:
+- content: |-
+    A material which produces reflex reflection (2-1-155) over a wide range of angles of incidence of a light beam, by the use of a large number of very small reflecting and refracting elements, usually very small beads.
+
+
+    The applications are the same as those of retro-reflectors (2-6-270).
+
+
+    (Fig. 7d)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

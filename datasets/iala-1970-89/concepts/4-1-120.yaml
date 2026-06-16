@@ -1,0 +1,37 @@
+---
+id: 4-1-120
+termid: 4-1-120
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gain_referred_to_a_short_vertical_antenna
+---
+id: 4-1-120-eng
+termid: 4-1-120
+language_code: eng
+terms:
+- type: expression
+  designation: Gain referred to a short vertical antenna
+  normative_status: preferred
+definition:
+- content: |-
+    The gain of an antenna in a given direction when the reference antenna is a perfect vertical antenna, much shorter than one quarter of the wavelength, placed on the surface of a perfectly conducting plane earth.
+
+
+    Symbol: Gv
+
+
+    Reference: I.T.U.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

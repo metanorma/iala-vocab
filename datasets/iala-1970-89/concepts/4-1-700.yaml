@@ -1,0 +1,38 @@
+---
+id: 4-1-700
+termid: 4-1-700
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Superheterodyne_reception
+---
+id: 4-1-700-eng
+termid: 4-1-700
+language_code: eng
+terms:
+- type: expression
+  designation: Superheterodyne reception
+  normative_status: preferred
+definition:
+- content: |-
+    A method of reception in which the signal carrier-frequency is changed to another, generally lower, radio frequency by a heterodyne process. There may be more than one such change of radio frequency.
+
+
+
+    Note: This method was originally called "supersonic heterodyne reception".
+
+
+    Reference: B.S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

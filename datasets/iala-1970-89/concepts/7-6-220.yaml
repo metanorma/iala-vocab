@@ -1,0 +1,31 @@
+---
+id: 7-6-220
+termid: 7-6-220
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Diaphragm_wall
+---
+id: 7-6-220-eng
+termid: 7-6-220
+language_code: eng
+terms:
+- type: expression
+  designation: Diaphragm wall
+  normative_status: preferred
+definition:
+- content: An underground retaining wall built prior to general excavation within
+    a site, by pouring concrete into a trench under bentonite.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

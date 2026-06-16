@@ -1,0 +1,31 @@
+---
+id: 7-3-000
+termid: 7-3-000
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Iron
+---
+id: 7-3-000-eng
+termid: 7-3-000
+language_code: eng
+terms:
+- type: expression
+  designation: Iron
+  normative_status: preferred
+definition:
+- content: A very common metal, found naturally as iron oxide. It is little used now
+    in its pure form, but is the principle constituent of cast iron and steel.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

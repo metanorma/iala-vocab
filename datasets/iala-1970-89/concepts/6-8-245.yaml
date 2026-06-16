@@ -1,0 +1,34 @@
+---
+id: 6-8-245
+termid: 6-8-245
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Drip-protected_enclosure_(or_machine)
+---
+id: 6-8-245-eng
+termid: 6-8-245
+language_code: eng
+terms:
+- type: expression
+  designation: Drip-protected enclosure (or machine)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Drip-proof enclosure (or machine)
+
+
+    An enclosure (or machine) designed to prevent the ingress of liquids and solid particles falling on it vertically or nearly vertically.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

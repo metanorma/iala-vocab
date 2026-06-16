@@ -1,0 +1,31 @@
+---
+id: 7-5-235
+termid: 7-5-235
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Deformation
+---
+id: 7-5-235-eng
+termid: 7-5-235
+language_code: eng
+terms:
+- type: expression
+  designation: Deformation
+  normative_status: preferred
+definition:
+- content: Movement of a loaded structure including deflection and plastic (non-recoverable)
+    movement.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

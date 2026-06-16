@@ -1,0 +1,38 @@
+---
+id: 8-5-050
+termid: 8-5-050
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-8
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mooring_line
+---
+id: 8-5-050-eng
+termid: 8-5-050
+language_code: eng
+terms:
+- type: expression
+  designation: Mooring line
+  normative_status: preferred
+definition:
+- content: |-
+    Chain, cable, hawser, etc..by which a vessel or buoy is secured to an anchor, sinker, or mooring.
+
+
+
+    Note:
+
+
+    When chain is used, the term mooring chain applies.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,34 @@
+---
+id: 1-2-949
+termid: 1-2-949
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-1
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Bearing_-_Relative
+---
+id: 1-2-949-eng
+termid: 1-2-949
+language_code: eng
+terms:
+- type: expression
+  designation: Bearing - Relative
+  normative_status: preferred
+definition:
+- content: |-
+    (Relative) Bearing (of an object from a ship)
+
+
+    The angle, measured clockwise, between the ship's head and the line joining observer and object.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

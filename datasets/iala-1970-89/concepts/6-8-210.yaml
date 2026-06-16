@@ -1,0 +1,31 @@
+---
+id: 6-8-210
+termid: 6-8-210
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Time_delay_switch
+---
+id: 6-8-210-eng
+termid: 6-8-210
+language_code: eng
+terms:
+- type: expression
+  designation: Time delay switch
+  normative_status: preferred
+definition:
+- content: An electric device that closes contacts in one circuit at a predetermined
+    time after the closure of contacts in another circuit.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

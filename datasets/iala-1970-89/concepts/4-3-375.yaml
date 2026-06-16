@@ -1,0 +1,37 @@
+---
+id: 4-3-375
+termid: 4-3-375
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Leakage_power
+---
+id: 4-3-375-eng
+termid: 4-3-375
+language_code: eng
+terms:
+- type: expression
+  designation: Leakage power
+  normative_status: preferred
+definition:
+- content: |-
+    Leakage power (U.S.A.)
+
+
+    The radio frequency power transmitted through a fired TR tube.
+
+
+    Reference: I.R.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

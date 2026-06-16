@@ -1,0 +1,37 @@
+---
+id: 5-2-100
+termid: 5-2-100
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sampled-data_control_system
+---
+id: 5-2-100-eng
+termid: 5-2-100
+language_code: eng
+terms:
+- type: expression
+  designation: Sampled-data control system
+  normative_status: preferred
+definition:
+- content: |-
+    A system that operates with sampled data.
+
+
+    Note:: Sampling control, as a part of the system, uses intermittently observed values of the feedback signal or the actuating signal.
+
+
+    Reference: I.E.E.E. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

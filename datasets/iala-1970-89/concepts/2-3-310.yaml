@@ -1,0 +1,60 @@
+---
+id: 2-3-310
+termid: 2-3-310
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Discharge_Lamp
+---
+id: 2-3-310-eng
+termid: 2-3-310
+language_code: eng
+terms:
+- type: expression
+  designation: Discharge Lamp
+  normative_status: preferred
+definition:
+- content: |-
+    A lamp in which the light is produced by an electric discharge through a gas, a metal vapour, or a mixture of several gases or vapours.
+
+
+    Reference: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)
+---
+id: 2-3-310-spa
+termid: 2-3-310
+language_code: spa
+terms:
+- type: expression
+  designation: Discharge Lamp/es
+  normative_status: preferred
+definition:
+- content: |-
+    Lámpara de descarga
+
+
+
+    Lámpara en la que la luz se produce mediante una descarga eléctrica a través de un gas, un vapor de metal o una mezcla de varios gases o vapores.
+
+
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

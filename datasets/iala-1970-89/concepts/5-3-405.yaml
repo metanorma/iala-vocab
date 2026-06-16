@@ -1,0 +1,31 @@
+---
+id: 5-3-405
+termid: 5-3-405
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-5
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Parity_bit
+---
+id: 5-3-405-eng
+termid: 5-3-405
+language_code: eng
+terms:
+- type: expression
+  designation: Parity bit
+  normative_status: preferred
+definition:
+- content: When using a parity code, a bit appended to an array of information bits
+    to make the sum of all the bits either always odd or always even.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,35 @@
+---
+id: 6-3-155
+termid: 6-3-155
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Variable-pitch_blade
+---
+id: 6-3-155-eng
+termid: 6-3-155
+language_code: eng
+terms:
+- type: expression
+  designation: Variable-pitch blade
+  normative_status: preferred
+definition:
+- content: |-
+    A blade for which the blade pitch can be varied within limits while the rotor is turning, in order to control the speed of the rotor.
+
+
+
+    Note: This action is called blade pitch control.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

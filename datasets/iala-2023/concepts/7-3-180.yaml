@@ -1,0 +1,30 @@
+---
+id: 7-3-180
+termid: 7-3-180
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Grading
+---
+id: 7-3-180-eng
+termid: 7-3-180
+language_code: eng
+terms:
+- type: expression
+  designation: Grading
+  normative_status: preferred
+definition:
+- content: The percentage by weight of different grain sizes in a sample of aggregate.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

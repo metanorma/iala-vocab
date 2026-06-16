@@ -1,0 +1,31 @@
+---
+id: 4-3-120
+termid: 4-3-120
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Off-centre_plan_display
+---
+id: 4-3-120-eng
+termid: 4-3-120
+language_code: eng
+terms:
+- type: expression
+  designation: Off-centre plan display
+  normative_status: preferred
+definition:
+- content: A P.P.I. display in which the position of the radar set is represented
+    by a point other than the centre of the screen.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

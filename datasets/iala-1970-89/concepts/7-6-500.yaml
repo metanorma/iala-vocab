@@ -1,0 +1,34 @@
+---
+id: 7-6-500
+termid: 7-6-500
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Spreader_beam
+---
+id: 7-6-500-eng
+termid: 7-6-500
+language_code: eng
+terms:
+- type: expression
+  designation: Spreader beam
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Yoke
+
+
+    Steel beam or frame used when lifting large objects to spread the lifting strops attached to a single-point lifting device.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

@@ -1,0 +1,32 @@
+---
+id: 2-6-065
+termid: 2-6-065
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Port_Hand_Mark_(or_Buoy)
+---
+id: 2-6-065-eng
+termid: 2-6-065
+language_code: eng
+terms:
+- type: expression
+  designation: Port Hand Mark (or Buoy)
+  normative_status: preferred
+definition:
+- content: A mark (or buoy) which is to be left to the port hand when approaching
+    from the open sea or in general proceeding in the direction of the main stream
+    of flood tide, or in the direction established by the appropriate authority.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

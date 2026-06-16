@@ -1,0 +1,34 @@
+---
+id: 4-1-035
+termid: 4-1-035
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Characteristic_frequency
+---
+id: 4-1-035-eng
+termid: 4-1-035
+language_code: eng
+terms:
+- type: expression
+  designation: Characteristic frequency
+  normative_status: preferred
+definition:
+- content: |-
+    A frequency which can be easily identified and measured in a given emission.
+
+
+    Reference: I.T.U.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

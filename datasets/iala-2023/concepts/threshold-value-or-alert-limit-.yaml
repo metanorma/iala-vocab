@@ -1,0 +1,32 @@
+---
+id: threshold-value-or-alert-limit-
+termid: threshold-value-or-alert-limit-
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-10
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Threshold_value_(or_alert_limit)
+---
+id: threshold-value-or-alert-limit--eng
+termid: threshold-value-or-alert-limit-
+language_code: eng
+terms:
+- type: expression
+  designation: Threshold value (or alert limit)
+  normative_status: preferred
+definition:
+- content: |-
+    The maximum allowable error in the measured position – during integrity monitoring – before an alarm is triggered.
+
+
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

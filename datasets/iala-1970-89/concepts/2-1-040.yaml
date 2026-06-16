@@ -1,0 +1,39 @@
+---
+id: 2-1-040
+termid: 2-1-040
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Candela
+---
+id: 2-1-040-eng
+termid: 2-1-040
+language_code: eng
+terms:
+- type: expression
+  designation: Candela
+  normative_status: preferred
+definition:
+- content: "The SI unit of luminous intensity. \n\n\nIt is the luminous intensity,
+    in the perpendicular direction, of a surface of 1/600.000 square metre of a black
+    body at the temperature of freezing platinum, under a pressure of 101 325 newtons
+    per square metre.\n\n\nDefinition adopted by the 13th General Conference on Weights
+    and Measures (1967).\n\n\nSymbol: cd 1 cd = 1 lumen per steradian (lm/sr)\n\n\nReference:
+    C.I.E.\n\n\n\nNote: Candle, English Candle, Decimal Candle, Hefner Candel, Carcel-other
+    units of luminous intensity now superseded by the candela.\nIt is recommended
+    that these terms should not in future be used. For reference, these units (other
+    than the carcel) are approximately the same as the candela (within +/- 20%).\n\n\nA
+    carcel is approximately 10 candelas."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

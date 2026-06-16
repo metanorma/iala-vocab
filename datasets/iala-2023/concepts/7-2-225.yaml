@@ -1,0 +1,46 @@
+---
+id: 7-2-225
+termid: 7-2-225
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-7
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Column
+---
+id: 7-2-225-eng
+termid: 7-2-225
+language_code: eng
+terms:
+- type: expression
+  designation: Column
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Stanchion pillar
+
+
+    A vertical load-bearing member designed to resist compression and buckling.
+
+
+
+    Note: 1 A column is made of concrete or masonry.
+
+
+
+    Note: 2 A stanchion is made of iron or steel.
+
+
+
+    Note: 3 A pillar is made of stone or cast iron, and is usually of circular cross section.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

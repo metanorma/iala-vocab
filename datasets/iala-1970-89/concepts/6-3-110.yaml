@@ -1,0 +1,31 @@
+---
+id: 6-3-110
+termid: 6-3-110
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Wind_speed_duration_curve
+---
+id: 6-3-110-eng
+termid: 6-3-110
+language_code: eng
+terms:
+- type: expression
+  designation: Wind speed duration curve
+  normative_status: preferred
+definition:
+- content: A characteristic depicting the cumulative hours the wind speed exceeds
+    a specified wind speed in a year as a function of these specified speeds.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

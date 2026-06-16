@@ -1,0 +1,37 @@
+---
+id: 4-3-495
+termid: 4-3-495
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-4
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Reply_hits
+---
+id: 4-3-495-eng
+termid: 4-3-495
+language_code: eng
+terms:
+- type: expression
+  designation: Reply hits
+  normative_status: preferred
+definition:
+- content: |-
+    Reply hits (in a transponder)
+
+
+    The number of transponder replies received from each interrogation.
+
+
+    Reference: I.C.A.O. (modified)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

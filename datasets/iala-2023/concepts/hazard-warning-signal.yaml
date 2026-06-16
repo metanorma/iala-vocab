@@ -1,0 +1,28 @@
+---
+id: hazard-warning-signal
+termid: hazard-warning-signal
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-2023
+  concept_id: section-unknown
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hazard_warning_signal
+---
+id: hazard-warning-signal-eng
+termid: hazard-warning-signal
+language_code: eng
+terms:
+- type: expression
+  designation: Hazard warning signal
+  normative_status: preferred
+definition:
+- content: Hazard warning signal – is an audible signal intended to warn ships in
+    low visibility conditions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary

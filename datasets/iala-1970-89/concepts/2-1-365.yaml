@@ -1,0 +1,41 @@
+---
+id: 2-1-365
+termid: 2-1-365
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-2
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Luminosity
+---
+id: 2-1-365-eng
+termid: 2-1-365
+language_code: eng
+terms:
+- type: expression
+  designation: Luminosity
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative term: Brightness (U.S.A.)
+
+
+    The attribute of visual sensation according to which an area appears to emit more or less light.
+
+
+
+    Note: This attribute is the psychosensorial correlate (or nearly so) of the photometric quantity "luminance".
+
+
+    Reference: C.I.E. (extract)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)

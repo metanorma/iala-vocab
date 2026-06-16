@@ -1,0 +1,34 @@
+---
+id: 6-4-100
+termid: 6-4-100
+status: valid
+domains:
+- source: urn:iala:dictionary:iala-1970-89
+  concept_id: section-6
+  ref_type: section
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Duty_factor_(of_a_machine_or_apparatus)
+---
+id: 6-4-100-eng
+termid: 6-4-100
+language_code: eng
+terms:
+- type: expression
+  designation: Duty factor (of a machine or apparatus)
+  normative_status: preferred
+definition:
+- content: |-
+    The ratio or percentage of the duration of working under load to the duration of the complete cycle of operations specified.
+
+
+    Note: The term " duty cycle " is sometimes used in Great Britain with this meaning, but this usage is deprecated.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- Please note that this is the term as it stands in the original IALA Dictionary edition
+  (1970-1989)
