@@ -1,251 +1,251 @@
 [
   {
-    "english_title": "Acetylene/es",
+    "english_title": "Acetylene",
     "title": "Acetylene/es",
     "lang": "spa",
     "definition_preview": "6-3-360\n Acetileno\n  \nCombustible de hidrocarburo, C2H2, gas incoloro y altamente inflamable a temperaturas  y presión atmosférica normales. Se utilizaba  como iluminante en señales luminosas con o sin",
     "page_file": "spa/acetylene-es.json"
   },
   {
-    "english_title": "Anti-fouling paint/es",
+    "english_title": "Anti-fouling paint",
     "title": "Anti-fouling paint/es",
     "lang": "spa",
     "definition_preview": "8-4-195\n Pintura anti-incrustante\n  \nPintura utilizada en  embarcaciones y boyas que tiene la propiedad de reducir la tasa de crecimiento de la fauna marina en la superficie del casco o cuerpo protegid",
     "page_file": "spa/anti-fouling-paint-es.json"
   },
   {
-    "english_title": "Audible Signal/es",
+    "english_title": "Audible Signal",
     "title": "Audible Signal/es",
     "lang": "spa",
     "definition_preview": "Señal audible\n (Señal Sonora)\n \nSeñal audible destinada a advertir o guiar a los buques en situaciones de baja visibilidad. \n También llamada Señal de Niebla o Señal Sonora.\n \nSource: IALA Guideline G1",
     "page_file": "spa/audible-signal-es.json"
   },
   {
-    "english_title": "Ballast/es",
+    "english_title": "Ballast",
     "title": "Ballast/es",
     "lang": "spa",
     "definition_preview": "2-3-330\n Balasto\n \nDispositivo utilizado en lámparas de descarga para estabilizar la descarga.\n \nNota 1: El balasto puede ser resistivo, inductivo o capacitivo, o una combinación de estos.\n \nNota 2: El",
     "page_file": "spa/ballast-es.json"
   },
   {
-    "english_title": "Bayonet Cap/es",
+    "english_title": "Bayonet Cap",
     "title": "Bayonet Cap/es",
     "lang": "spa",
     "definition_preview": "2-3-120\n Casquillo de bayoneta\n \nCasquillo (tipo B) con pequeños pasadores en su carcasa que encajan en las ranuras de un portalámparas.\n \n\n \nReferencia: C.I.E.\n \n\n\nPlease note that this is the term as",
     "page_file": "spa/bayonet-cap-es.json"
   },
   {
-    "english_title": "Blocking diode/es",
+    "english_title": "Blocking diode",
     "title": "Blocking diode/es",
     "lang": "spa",
     "definition_preview": "6-3-075\n Diodo de bloqueo\n \nDiodo conectado en serie al módulo o panel solar para evitar daños por inversión de corriente. \n \n\n\nPlease note that this is the term as it stands in the original IALA Dicti",
     "page_file": "spa/blocking-diode-es.json"
   },
   {
-    "english_title": "Bulb/es",
+    "english_title": "Bulb",
     "title": "Bulb/es",
     "lang": "spa",
     "definition_preview": "2-3-100\n Bulbo\n \nRecubrimiento transparente o translúcido, hermético al gas que encierra el elemento luminoso de una lámpara.\n \nReferencia: C.I.E. (modificado)\n \n \n \n\nPlease note that this is the term ",
     "page_file": "spa/bulb-es.json"
   },
   {
-    "english_title": "Buoy lantern/es",
+    "english_title": "Buoy lantern",
     "title": "Buoy lantern/es",
     "lang": "spa",
     "definition_preview": "8-4-085\n Linterna de boya\n \nEnvolvente acristalada cerca de la parte superior de la boya generalmente de forma cilíndrica que rodea y protege el aparato óptico-luminoso.\n \n Nota:\n El término se usa a v",
     "page_file": "spa/buoy-lantern-es.json"
   },
   {
-    "english_title": "Buoy light/es",
+    "english_title": "Buoy light",
     "title": "Buoy light/es",
     "lang": "spa",
     "definition_preview": "8-4-080\n Equipo luminoso de la boya (linterna)\n Equipamiento instalado en una boya que comprende la fuente luminosa, la óptica y el  contenedor con cubrelentes.\n \n\n\nPlease note that this is the term as",
     "page_file": "spa/buoy-light-es.json"
   },
   {
-    "english_title": "Butane/es",
+    "english_title": "Butane",
     "title": "Butane/es",
     "lang": "spa",
     "definition_preview": "6-3-350\n Butano\n \nCombustible de hidrocarburo, C4H10, gas a temperaturas  y presión atmosférica normales. Dado que posee un punto de ebullición de 1° grado Celsius a presión atmosférica no puede ser ut",
     "page_file": "spa/butane-es.json"
   },
   {
-    "english_title": "Cathodic protection/es",
+    "english_title": "Cathodic protection",
     "title": "Cathodic protection/es",
     "lang": "spa",
     "definition_preview": "8-4-190\n Protección catódica\n  \nProtección de las partes metálicas sumergidas mediante  la corrosión preferente de metales electropositivos especialmente ubicados formando estos el ánodo de sacrificio.",
     "page_file": "spa/cathodic-protection-es.json"
   },
   {
-    "english_title": "Cut-in wind speed (of a wind-power genearator)/es",
+    "english_title": "Cut-in wind speed (of a wind-power genearator)",
     "title": "Cut-in wind speed (of a wind-power genearator)/es",
     "lang": "spa",
     "definition_preview": "6-3-220\n Velocidad de arranque del viento (de un generador eólico)\n \nVelocidad del viento a partir de la cual el generador comienza a producir energía utilizable.\n \n \n\nPlease note that this is the term",
     "page_file": "spa/cut-in-wind-speed-of-a-wind-power-genearator-es.json"
   },
   {
-    "english_title": "Cut-out wind speed (of a wind-power generator)/es",
+    "english_title": "Cut-out wind speed (of a wind-power generator)",
     "title": "Cut-out wind speed (of a wind-power generator)/es",
     "lang": "spa",
     "definition_preview": "6-3-225\n Velocidad de corte del viento (de un generador eólico)\n \nVelocidad máxima del viento a la cual el generador está diseñado para producir energía utilizable\n \n Nota: A una velocidad más alta, el",
     "page_file": "spa/cut-out-wind-speed-of-a-wind-power-generator-es.json"
   },
   {
-    "english_title": "Discharge Lamp/es",
+    "english_title": "Discharge Lamp",
     "title": "Discharge Lamp/es",
     "lang": "spa",
     "definition_preview": "2-3-310\n Lámpara de descarga\n \nLámpara en la que la luz se produce mediante una descarga eléctrica a través de un gas, un vapor de metal o una mezcla de varios gases o vapores.\n \nReferencia: C.I.E.\n \n ",
     "page_file": "spa/discharge-lamp-es.json"
   },
   {
-    "english_title": "Electroluminescence/es",
+    "english_title": "Electroluminescence",
     "title": "Electroluminescence/es",
     "lang": "spa",
     "definition_preview": "2-3-290\n Electroluminiscencia\n \nLuminiscencia  de ciertas sustancias, generalmente sólidas, bajo la acción de un campo eléctrico.\n \nNota: Anteriormente, este término se ha utilizado principalmente para",
     "page_file": "spa/electroluminescence-es.json"
   },
   {
-    "english_title": "Fenders/es",
+    "english_title": "Fenders",
     "title": "Fenders/es",
     "lang": "spa",
     "definition_preview": "8-4-145\n Defensas\n Término alternativo: Fendering\n  \nDispositivos  de absorción de impactos  que rodean un cuerpo flotante  para  limitar los efectos del impacto.\n \n \n\nPlease note that this is the term",
     "page_file": "spa/fenders-es.json"
   },
   {
-    "english_title": "Filament Support/es",
+    "english_title": "Filament Support",
     "title": "Filament Support/es",
     "lang": "spa",
     "definition_preview": "2-3-095\n Soporte del filamento\n \n Alambre de metal utilizado como soporte del filamento de una lámpara.\n \n Referencia: C.I.E. (modified)\n \n\n\nPlease note that this is the term as it stands in the origin",
     "page_file": "spa/filament-support-es.json"
   },
   {
-    "english_title": "Filament/es",
+    "english_title": "Filament",
     "title": "Filament/es",
     "lang": "spa",
     "definition_preview": "2-3-090\n Filamento\n \nConductor similar a un hilo, generalmente de tungsteno (o de carbono), que se calienta hasta la incandescencia por el paso de una corriente eléctrica.\n \n\n \nReferencia: C.I.E.\n \n\n\nP",
     "page_file": "spa/filament-es.json"
   },
   {
-    "english_title": "Flasher/es",
+    "english_title": "Flasher",
     "title": "Flasher/es",
     "lang": "spa",
     "definition_preview": "2-4-100\n Destellador\n \nDispositivo que en una luz rítmica, interrumpe el suministro de energía (en forma de combustible o corriente eléctrica) de la fuente luminosa de acuerdo con su característica.\n \n",
     "page_file": "spa/flasher-es.json"
   },
   {
-    "english_title": "Fog signal/es",
+    "english_title": "Fog signal",
     "title": "Fog signal/es",
     "lang": "spa",
     "definition_preview": "3-1 -030\n Señal de niebla\n (Señal sonora)\n Señal audible destinada a advertir o guiar a los buques en situaciones de baja visibilidad. \n También llamada Señal Audible o Señal Sonora.\n \n \nSource: IALA G",
     "page_file": "spa/fog-signal-es.json"
   },
   {
-    "english_title": "Hazard (2)/es",
+    "english_title": "Hazard (2)",
     "title": "Hazard (2)/es",
     "lang": "spa",
     "definition_preview": "Peligro\n Peligro significa cualquier condición o amenaza que:\n presente un peligro o impedimento para la navegación;\no puede esperarse razonablemente que produzca importantes consecuencias perjudiciale",
     "page_file": "spa/hazard-2-es.json"
   },
   {
-    "english_title": "Lamp Changer/es",
+    "english_title": "Lamp Changer",
     "title": "Lamp Changer/es",
     "lang": "spa",
     "definition_preview": "2-4-095\n Cambiador de lámpara\n \nTérmino alternativo: Cambia-lámpara (G.B.)\n \n Mecanismo generalmente automático que reemplaza una lámpara por otra en servicio en una luz.\n Normalmente esto ocurre cuand",
     "page_file": "spa/lamp-changer-es.json"
   },
   {
-    "english_title": "Light float (2)/es",
+    "english_title": "Light float (2)",
     "title": "Light float (2)/es",
     "lang": "spa",
     "definition_preview": "Luz Flotante\n Estructura similar a un barco que se utiliza en lugar de una boya luminosa en aguas donde se experimentan corrientes fuertes o cuando se necesita una elevación mayor que la de una boya lu",
     "page_file": "spa/light-float-2-es.json"
   },
   {
-    "english_title": "Miniature Cap/es",
+    "english_title": "Miniature Cap",
     "title": "Miniature Cap/es",
     "lang": "spa",
     "definition_preview": "2-3-140\n Casquillo miniatura\n \nCasquillo de lámpara de pequeñas dimensiones, por ejemplo uno de rosca Edison en miniatura (tipo E14), pigmeo (tipo E10), etc. C.I.E\n \n \n\nPlease note that this is the ter",
     "page_file": "spa/miniature-cap-es.json"
   },
   {
-    "english_title": "Mooring buoy/es",
+    "english_title": "Mooring buoy",
     "title": "Mooring buoy/es",
     "lang": "spa",
     "definition_preview": "8-4-055\n Boya de amarre \n Boya a la cual  pueden amarrarse embarcaciones u otras estructuras flotantes.\n \n \n\nPlease note that this is the term as it stands in the original IALA Dictionary edition (1970",
     "page_file": "spa/mooring-buoy-es.json"
   },
   {
-    "english_title": "ODAS buoy/es",
+    "english_title": "ODAS buoy",
     "title": "ODAS buoy/es",
     "lang": "spa",
     "definition_preview": "8-4-060\n Boya ODAS\n \nTérmino alternativo: boya de Sistema de Adquisición de Datos Oceánicos.\n Boya  destinada a la recopilación de datos oceanográficos. Puede estar fondeada  o flotar libremente . No e",
     "page_file": "spa/odas-buoy-es.json"
   },
   {
-    "english_title": "Oil Lamp/es",
+    "english_title": "Oil Lamp",
     "title": "Oil Lamp/es",
     "lang": "spa",
     "definition_preview": "2-3-055\n Lámpara de aceite\n \nConjunto que consiste en un depósito que contiene combustible líquido (generalmente aceite de parafina) y una mecha que produce una llama.\n \n \n \n \n\nPlease note that this is",
     "page_file": "spa/oil-lamp-es.json"
   },
   {
-    "english_title": "Reserve buoyancy/es",
+    "english_title": "Reserve buoyancy",
     "title": "Reserve buoyancy/es",
     "lang": "spa",
     "definition_preview": "8-4-185\n Reserva de flotabilidad \n \nVolumen hermético de un barco por encima de la línea de flotación diseñada , expresado como un porcentaje de la flotabilidad total (volumen). Es una indicación de la",
     "page_file": "spa/reserve-buoyancy-es.json"
   },
   {
-    "english_title": "Safety hand-hold/es",
+    "english_title": "Safety hand-hold",
     "title": "Safety hand-hold/es",
     "lang": "spa",
     "definition_preview": "8-4-160\n Asa de seguridad\n \nParte de la superestructura A la que se sujeta el personal  de servicio para evitar caer. \n.\n \n\n\nPlease note that this is the term as it stands in the original IALA Dictiona",
     "page_file": "spa/safety-hand-hold-es.json"
   },
   {
-    "english_title": "Superstructure (of a buoy)/es",
+    "english_title": "Superstructure (of a buoy)",
     "title": "Superstructure (of a buoy)/es",
     "lang": "spa",
     "definition_preview": "8-4-075\n Superestructura (de una boya)\n \n Armazón o construcción considerable que se realiza sobre el cuerpo de una boya. Puede servir como marca diurna y puede llevar una señal luminosa, marca de tope",
     "page_file": "spa/superstructure-of-a-buoy-es.json"
   },
   {
-    "english_title": "Tail tube (of a buoy)/es",
+    "english_title": "Tail tube (of a buoy)",
     "title": "Tail tube (of a buoy)/es",
     "lang": "spa",
     "definition_preview": "8-4-140\n Cola de la boya\n \n Tubo central bajo del cuerpo de la boya.\n \n \n\nPlease note that this is the term as it stands in the original IALA Dictionary edition (1970-1989)\n\n English\n\n\n • español\n\n Int",
     "page_file": "spa/tail-tube-of-a-buoy-es.json"
   },
   {
-    "english_title": "Topmark/es",
+    "english_title": "Topmark",
     "title": "Topmark/es",
     "lang": "spa",
     "definition_preview": "8-4-095\n Marca de tope \n Objeto o par de objetos de forma y color característico que se instalan en la parte superior de una boya como medio de identificación.\n \n Nota:\n Para obtener información sobre ",
     "page_file": "spa/topmark-es.json"
   },
   {
-    "english_title": "Useful Life (of a lamp)/es",
+    "english_title": "Useful Life (of a lamp)",
     "title": "Useful Life (of a lamp)/es",
     "lang": "spa",
     "definition_preview": "2-3-445\n Vida útil (de una lámpara)\n \nEl tiempo durante el cual el flujo luminoso emitido por la lámpara excede una proporción especificada de su valor inicial.\n \n \n\nPlease note that this is the term a",
     "page_file": "spa/useful-life-of-a-lamp-es.json"
   },
   {
-    "english_title": "Vacuum Lamp/es",
+    "english_title": "Vacuum Lamp",
     "title": "Vacuum Lamp/es",
     "lang": "spa",
     "definition_preview": "2-3-150\n Lámpara de vacío\n \nLámpara incandescente en la que el elemento luminoso (filamento) funciona en un bulbo al vacío.\n \n Referencia: C.I.E.\n \n\n\nPlease note that this is the term as it stands in t",
     "page_file": "spa/vacuum-lamp-es.json"
   },
   {
-    "english_title": "Winter buoy/es",
+    "english_title": "Winter buoy",
     "title": "Winter buoy/es",
     "lang": "spa",
     "definition_preview": "8-4-050\n Boya de invierno \n \nBoya en general ciega utilizada como sustitución de una boya luminosa o una boya ciega grande  en ciertas áreas durante los meses de invierno cuando se retiran temporalment",
     "page_file": "spa/winter-buoy-es.json"
   },
   {
-    "english_title": "Wreck (2)/es",
+    "english_title": "Wreck (2)",
     "title": "Wreck (2)/es",
     "lang": "spa",
     "definition_preview": "Naufragio\n \nNaufragio, tras un siniestro marítimo, significa:\n a)\tun barco hundido o varado; o\nb)\tcualquier parte de un barco hundido o varado, incluido cualquier objeto que esté o haya estado a bordo ",

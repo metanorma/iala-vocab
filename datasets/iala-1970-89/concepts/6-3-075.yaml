@@ -50,3 +50,23 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Blocking_diode/es
+---
+id: 6-3-075-spa
+termid: 6-3-075
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 6-3-075
+  normative_status: preferred
+definition:
+- content: |-
+    Diodo de bloqueo
+
+    Diodo conectado en serie al módulo o panel solar para evitar daños por inversión de corriente.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Blocking_diode/es

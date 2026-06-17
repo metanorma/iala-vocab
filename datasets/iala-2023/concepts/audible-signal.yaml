@@ -34,3 +34,47 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Audible_Signal
+---
+id: audible-signal-fra
+termid: audible-signal
+data:
+  language_code: fra
+terms:
+- type: expression
+  designation: Signal sonore
+  normative_status: preferred
+definition:
+- content: |-
+    Un signal sonore destiné à avertir ou à guider les navires par visibilité réduite. Egalement appelé signal de brume.
+
+    Source: IALA Guideline G1090 on The Use of Audible Signals Edition 1 December 2012.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Audible_Signal/fr
+---
+id: audible-signal-spa
+termid: audible-signal
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Señal audible
+  normative_status: preferred
+definition:
+- content: |-
+    (Señal Sonora)
+
+    Señal audible destinada a advertir o guiar a los buques en situaciones de baja visibilidad.
+
+    También llamada Señal de Niebla o Señal Sonora.
+
+    Source: IALA Guideline G1090 on The Use of Audible Signals Edition 1 December 2012.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Audible_Signal/es

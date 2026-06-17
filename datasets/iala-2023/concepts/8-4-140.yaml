@@ -34,3 +34,23 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tail_tube_(of_a_buoy)
+---
+id: 8-4-140-spa
+termid: 8-4-140
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 8-4-140
+  normative_status: preferred
+definition:
+- content: |-
+    Cola de la boya
+
+    Tubo central bajo del cuerpo de la boya.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tail_tube_(of_a_buoy)/es

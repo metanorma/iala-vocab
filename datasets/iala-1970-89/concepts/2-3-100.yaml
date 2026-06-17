@@ -60,3 +60,27 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bulb/es
+---
+id: 2-3-100-spa
+termid: 2-3-100
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 2-3-100
+  normative_status: preferred
+definition:
+- content: |-
+    Bulbo
+
+    Recubrimiento transparente o translúcido, hermético al gas que encierra el elemento luminoso de una lámpara.
+
+    Referencia: C.I.E. (modificado)
+
+    ![Ch2_Fig22.jpg](/iala-vocab/images/iala/Ch2_Fig22.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bulb/es

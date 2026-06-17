@@ -36,3 +36,55 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fog_signal
+---
+id: fog-signal-fra
+termid: fog-signal
+data:
+  language_code: fra
+terms:
+- type: expression
+  designation: 3-1 -030
+  normative_status: preferred
+definition:
+- content: |-
+    Signal de brume
+
+    (Signal sonore)
+
+    Un signal sonore destiné à avertir ou guider les navires par visibilité réduite.
+
+    Egalement appelé signal sonore.
+
+    Source: IALA Guideline G1090 on The Use of Audible Signals Edition 1 December 2012.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fog_signal/fr
+---
+id: fog-signal-spa
+termid: fog-signal
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 3-1 -030
+  normative_status: preferred
+definition:
+- content: |-
+    Señal de niebla
+
+    (Señal sonora)
+
+    Señal audible destinada a advertir o guiar a los buques en situaciones de baja visibilidad.
+
+    También llamada Señal Audible o Señal Sonora.
+
+    Source: IALA Guideline G1090 on The Use of Audible Signals Edition 1 December 2012.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fog_signal/es

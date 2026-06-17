@@ -1,34 +1,34 @@
 [
   {
-    "english_title": "Audible Signal/fr",
+    "english_title": "Audible Signal",
     "title": "Audible Signal/fr",
     "lang": "fra",
     "definition_preview": "Signal sonore\n \nUn signal sonore destiné à avertir ou à guider les navires par visibilité réduite. Egalement appelé signal de brume.\n \nSource: IALA Guideline G1090 on The Use of Audible Signals Edition",
     "page_file": "fra/audible-signal-fr.json"
   },
   {
-    "english_title": "Fog signal/fr",
+    "english_title": "Fog signal",
     "title": "Fog signal/fr",
     "lang": "fra",
     "definition_preview": "3-1 -030\n Signal de brume\n (Signal sonore)\n \nUn signal sonore destiné à avertir ou guider les navires par visibilité réduite. \n Egalement appelé signal sonore.\n \n Source: IALA Guideline G1090 on The Us",
     "page_file": "fra/fog-signal-fr.json"
   },
   {
-    "english_title": "Hazard (2)/fr",
+    "english_title": "Hazard (2)",
     "title": "Hazard (2)/fr",
     "lang": "fra",
     "definition_preview": "Danger\n \n Danger signifie toute situation ou menace qui:\n a) représente un danger ou une entrave à la navigation; ou\nb) peut raisonnablemet être susceptible d’entraîner des conséquence majeurs dommagea",
     "page_file": "fra/hazard-2-fr.json"
   },
   {
-    "english_title": "Light float (2)/fr",
+    "english_title": "Light float (2)",
     "title": "Light float (2)/fr",
     "lang": "fra",
     "definition_preview": "Bateau-feu\n Une structure en forme de navire utilisée à la place d’une bouée lumineuse dans les eaux où il existe de forts courants, ou lorsqu’une élévation plus grande que celle d’une bouée lumineuse ",
     "page_file": "fra/light-float-2-fr.json"
   },
   {
-    "english_title": "Wreck (2)/fr",
+    "english_title": "Wreck (2)",
     "title": "Wreck (2)/fr",
     "lang": "fra",
     "definition_preview": "Épave\n Épave, à la suite d’un sinistre maritime, signifie:\n a) un navire coulé ou échoué; ou\nb) toute partie d’un navire coulé ou échoué, y compris les objets qui se trouvent ou se trouvaient à bord d’",

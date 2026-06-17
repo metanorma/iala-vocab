@@ -41,3 +41,27 @@ notes:
     under the action of an electric discharge.
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Electroluminescence
+---
+id: 2-3-290-spa
+termid: 2-3-290
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 2-3-290
+  normative_status: preferred
+definition:
+- content: |-
+    Electroluminiscencia
+
+    Luminiscencia  de ciertas sustancias, generalmente sólidas, bajo la acción de un campo eléctrico.
+
+    Nota: Anteriormente, este término se ha utilizado principalmente para la luminiscencia de un gas bajo la acción de una descarga eléctrica.
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Electroluminescence/es

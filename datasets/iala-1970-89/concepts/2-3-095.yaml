@@ -62,3 +62,27 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Filament_Support/es
+---
+id: 2-3-095-spa
+termid: 2-3-095
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 2-3-095
+  normative_status: preferred
+definition:
+- content: |-
+    Soporte del filamento
+
+    Alambre de metal utilizado como soporte del filamento de una lámpara.
+
+    ![Ch2_Fig22.jpg](/iala-vocab/images/iala/Ch2_Fig22.jpg)
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Filament_Support/es

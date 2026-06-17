@@ -68,3 +68,29 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ballast/es
+---
+id: 2-3-330-spa
+termid: 2-3-330
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 2-3-330
+  normative_status: preferred
+definition:
+- content: |-
+    Balasto
+
+    Dispositivo utilizado en lámparas de descarga para estabilizar la descarga.
+
+    Nota 1: El balasto puede ser resistivo, inductivo o capacitivo, o una combinación de estos.
+
+    Nota 2: El balasto también se puede usar solo o en combinación con un arrancador para encender la lámpara. El arrancador puede estar incorporado en el balasto.
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ballast/es

@@ -49,3 +49,23 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mooring_buoy/es
+---
+id: 8-4-055-spa
+termid: 8-4-055
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 8-4-055
+  normative_status: preferred
+definition:
+- content: |-
+    Boya de amarre
+
+    Boya a la cual  pueden amarrarse embarcaciones u otras estructuras flotantes.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mooring_buoy/es

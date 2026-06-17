@@ -39,3 +39,27 @@ notes:
 - content: 'Note:'
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Topmark
+---
+id: 8-4-095-spa
+termid: 8-4-095
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 8-4-095
+  normative_status: preferred
+definition:
+- content: |-
+    Marca de tope
+
+    Objeto o par de objetos de forma y color característico que se instalan en la parte superior de una boya como medio de identificación.
+
+    Nota:
+
+    Para obtener información sobre los topmarks utilizados en el Sistema de flotación marítima de IALA, consulte el Capítulo 2 (Rev).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Topmark/es

@@ -60,3 +60,25 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Vacuum_Lamp/es
+---
+id: 2-3-150-spa
+termid: 2-3-150
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 2-3-150
+  normative_status: preferred
+definition:
+- content: |-
+    Lámpara de vacío
+
+    Lámpara incandescente en la que el elemento luminoso (filamento) funciona en un bulbo al vacío.
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Vacuum_Lamp/es

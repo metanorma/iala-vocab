@@ -22,7 +22,7 @@ LANGS.each do |suffix, config|
   index = []
   main_pages.each_with_index do |member, idx|
     full_title = member["title"]
-    english_title = full_title.sub("/#{suffix}$", "")
+    english_title = full_title.sub(/\/#{suffix}$/, "")
     
     print "[#{idx+1}/#{main_pages.size}] #{full_title}"
     

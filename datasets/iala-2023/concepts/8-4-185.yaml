@@ -36,3 +36,24 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Reserve_buoyancy
+---
+id: 8-4-185-spa
+termid: 8-4-185
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 8-4-185
+  normative_status: preferred
+definition:
+- content: |-
+    Reserva de flotabilidad
+
+    Volumen hermético de un barco por encima de la línea de flotación diseñada , expresado como un porcentaje de la flotabilidad total (volumen). Es una indicación de la navegabilidad de la embarcación
+    .
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Reserve_buoyancy/es

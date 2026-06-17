@@ -55,3 +55,25 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fenders/es
+---
+id: 8-4-145-spa
+termid: 8-4-145
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 8-4-145
+  normative_status: preferred
+definition:
+- content: |-
+    Defensas
+
+    Término alternativo: Fendering
+
+    Dispositivos  de absorción de impactos  que rodean un cuerpo flotante  para  limitar los efectos del impacto.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fenders/es

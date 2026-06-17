@@ -38,3 +38,25 @@ notes:
     damage.
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Cut-out_wind_speed_(of_a_wind-power_generator)
+---
+id: 6-3-225-spa
+termid: 6-3-225
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 6-3-225
+  normative_status: preferred
+definition:
+- content: |-
+    Velocidad de corte del viento (de un generador eólico)
+
+    Velocidad máxima del viento a la cual el generador está diseñado para producir energía utilizable
+
+    Nota: A una velocidad más alta, el funcionamiento del sistema se interrumpe para evitar daños.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Cut-out_wind_speed_(of_a_wind-power_generator)/es

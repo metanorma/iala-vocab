@@ -56,6 +56,28 @@ index.each do |it|
   designation_index[code] = title
 end
 
+# Load translations cache (produced by scrape_translations.rb). IALA wiki
+# doesn't use MediaWiki interlanguage links — French (`/fr`) and Spanish
+# (`/es`) variants live at separate URLs, indexed by their own categories.
+# Map: english_title → { "fra" => page_data, "spa" => page_data }.
+translations = Hash.new { |h, k| h[k] = {} }
+{
+  "fra" => "reference-docs/translations/fra/index.json",
+  "spa" => "reference-docs/translations/spa/index.json",
+}.each do |lang, path|
+  next unless File.exist?(path)
+  entries = JSON.parse(File.read(path))
+  entries.each do |e|
+    en_title = e["english_title"]
+    page_rel = e["page_file"]
+    next if en_title.nil? || en_title.empty? || page_rel.nil?
+    # page_file is like "fra/audible-signal-fr.json"; resolve relative to translations dir
+    page_path = File.join("reference-docs/translations", page_rel)
+    translations[en_title][lang] = page_path if File.exist?(page_path)
+  end
+end
+puts "Loaded translations: #{translations.count { |_, v| v.key?('fra') }} fr, #{translations.count { |_, v| v.key?('spa') }} es"
+
 # Collect bibliographic references across all concepts; written at end.
 bibliography = {}
 
@@ -556,9 +578,140 @@ index.each do |item|
     lc_ll["notes"] = ll_extracted_notes unless ll_extracted_notes.empty?
     lc_ll["annotations"] = ll_all_annotations unless ll_all_annotations.empty?
     docs << lc_ll
-    
+
     # Mark as processed so we don't duplicate it later when iterating index.json
     processed_pages[ll[:title]] = true
+  end
+
+  # Inject translations from the standalone /fr and /es caches. IALA wiki
+  # stores these at separate URLs (e.g. /wiki/Audible_Signal/fr) and indexes
+  # them in their own categories, not via interlanguage links on the English
+  # page. Match by English title.
+  if translations.key?(title)
+    translations[title].each do |lang, page_path|
+      tr_page = JSON.parse(File.read(page_path))
+      tr_html = tr_page.dig("parse", "text") || ""
+      tr_doc = Nokogiri::HTML(tr_html)
+      tr_doc.css("i").each { |i| i.remove if i.text.include?("Please note that this is the term") }
+      tr_doc.css(".LanguageLinks").remove
+      tr_doc.css(".mw-lingo-tooltip").remove
+      tr_doc.css("#toc").remove
+
+      tr_elements = tr_doc.css(".mw-parser-output p, .mw-parser-output ul, .mw-parser-output ol").reject do |el|
+        el.ancestors.any? { |a| %w[catlinks LanguageLinks mw-lingo-tooltip].any? { |c| a["class"].to_s.include?(c) } } ||
+        el.inner_html.include?("editsection")
+      end
+      tr_fragments = split_to_fragments(tr_elements)
+
+      tr_definition_paragraphs = []
+      tr_extracted_notes = []
+      tr_extracted_refs = []
+      tr_extracted_symbols = []
+      tr_annotations = []
+      tr_alt_terms = []
+      tr_modified_any = false
+      tr_last_kind = nil
+      tr_designation = title
+      tr_fragments.each do |frag|
+        next if frag.empty? || frag =~ /\A\s*No\s+English\s+term\s*\z/i
+        case classify_paragraph(frag)
+        when :note
+          note_text = frag.sub(/\A\s*(?:<br\s*\/?>[\s\n]*)*Note(?:\s*\d+)?\s*:?\s/i, '').strip
+          note_text = strip_note_leading_number(note_text)
+          note_text = inject_all_refs(note_text, designation_index)
+          tr_extracted_notes << { "content" => note_text }
+          tr_last_kind = nil
+        when :reference
+          ref_text = frag.sub(/\A\s*(?:<br\s*\/?>[\s\n]*)*Reference:\s*/i, '')
+          ref, mod = normalize_ref(ref_text)
+          tr_modified_any ||= mod
+          tr_extracted_refs << [ref, mod]
+          tr_last_kind = nil
+        when :symbol
+          rest = frag.sub(/\A\s*Symbol\s*:?\s+/i, '')
+          parts = rest.split(/\s+/, 2)
+          tr_extracted_symbols << "stem:[#{parts[0]}]" if parts[0] && !parts[0].empty?
+          tr_definition_paragraphs << parts[1] if parts[1] && !parts[1].empty?
+          tr_last_kind = nil
+        when :unit
+          tr_annotations << { "content" => "Unit #{frag.sub(/\A\s*Unit\s*:?\s+/i, '')}" }
+          tr_last_kind = :unit
+        when :alt_term
+          tr_alt_terms << frag.sub(ALT_TERM_RE, '').strip
+          tr_last_kind = nil
+        else
+          if tr_last_kind == :unit && frag =~ /\A\s*\d+\s*[A-Za-z]+\s*=/
+            tr_annotations.last["content"] += "\n#{frag.strip}"
+          else
+            tr_definition_paragraphs << frag
+            tr_last_kind = nil
+          end
+        end
+      end
+
+      # First non-empty definition paragraph is typically the localized
+      # designation; the rest form the definition body.
+      if tr_definition_paragraphs.any? && tr_designation == title
+        first = tr_definition_paragraphs.first.strip
+        # Heuristic: short first paragraph (≤ 60 chars, no terminal period)
+        # is the localized term, not part of the definition.
+        if first.length <= 60 && !first.end_with?('.')
+          tr_designation = first
+          tr_definition_paragraphs.shift
+        end
+      end
+
+      if tr_definition_paragraphs.any? { |p| p =~ MODIFIED_RE }
+        tr_modified_any = true
+        tr_definition_paragraphs = tr_definition_paragraphs.map { |p| p.sub(/\s*\(modified\)\s*/i, '').strip }
+      end
+
+      tr_numbered = tr_definition_paragraphs.size > 1 && tr_definition_paragraphs.all? { |p| p =~ /\A\s*\d+\.\s+/ }
+      if tr_numbered
+        tr_definition_entries = tr_definition_paragraphs.map do |p|
+          inject_all_refs(p.sub(/\A\s*\d+\.\s+/, '').strip, designation_index)
+        end.reject(&:empty?)
+      else
+        joined = tr_definition_paragraphs.map { |p| inject_all_refs(p, designation_index) }.reject(&:empty?).join("\n\n")
+        tr_definition_entries = joined.empty? ? [] : [joined]
+      end
+
+      tr_terms = [{
+        "type" => "expression",
+        "designation" => tr_designation,
+        "normative_status" => "preferred"
+      }]
+      tr_alt_terms.each do |alt|
+        tr_terms << { "type" => "expression", "designation" => alt, "normative_status" => "admitted" }
+      end
+      tr_extracted_symbols.each do |sym|
+        tr_terms << { "type" => "symbol", "designation" => sym, "normative_status" => "preferred" }
+      end
+
+      tr_sources = [{ "type" => "authoritative", "origin" => { "ref" => "IALA Dictionary" } }]
+      tr_extracted_refs.each do |ref, ref_mod|
+        src = { "type" => "authoritative", "origin" => { "ref" => ref } }
+        src["modification"] = "modified from source" if ref_mod || tr_modified_any
+        tr_sources << src
+        slug = sanitize(ref)
+        bibliography[slug] ||= { "reference" => ref }
+      end
+
+      tr_source_url = "https://www.iala.int/wiki/dictionary/index.php/#{title.gsub(' ', '_')}/#{lang == 'fra' ? 'fr' : 'es'}"
+      tr_annotations << { "content" => "Sourced from #{tr_source_url}" }
+
+      lc_tr = {
+        "id" => "#{termid}-#{lang}",
+        "termid" => termid,
+        "data" => { "language_code" => lang },
+        "terms" => tr_terms,
+        "definition" => tr_definition_entries.map { |e| { "content" => e } },
+        "sources" => tr_sources
+      }
+      lc_tr["notes"] = tr_extracted_notes unless tr_extracted_notes.empty?
+      lc_tr["annotations"] = tr_annotations unless tr_annotations.empty?
+      docs << lc_tr
+    end
   end
   
   # Write YAML

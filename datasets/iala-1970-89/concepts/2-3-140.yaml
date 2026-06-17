@@ -50,3 +50,23 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Miniature_Cap/es
+---
+id: 2-3-140-spa
+termid: 2-3-140
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 2-3-140
+  normative_status: preferred
+definition:
+- content: |-
+    Casquillo miniatura
+
+    Casquillo de lámpara de pequeñas dimensiones, por ejemplo uno de rosca Edison en miniatura (tipo E14), pigmeo (tipo E10), etc. C.I.E
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Miniature_Cap/es

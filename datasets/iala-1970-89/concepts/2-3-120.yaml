@@ -64,3 +64,27 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bayonet_Cap/es
+---
+id: 2-3-120-spa
+termid: 2-3-120
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 2-3-120
+  normative_status: preferred
+definition:
+- content: |-
+    Casquillo de bayoneta
+
+    Casquillo (tipo B) con pequeños pasadores en su carcasa que encajan en las ranuras de un portalámparas.
+
+    ![Ch2_Fig24.jpg](/iala-vocab/images/iala/Ch2_Fig24.jpg)
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bayonet_Cap/es
