@@ -8,7 +8,7 @@
     "preview": "NODE_PATH=node_modules/@glossarist/concept-browser/node_modules node_modules/@glossarist/concept-browser/node_modules/.bin/vite preview --config node_modules/@glossarist/concept-browser/vite.config.ts"
   },
   "dependencies": {
-    "@glossarist/concept-browser": "^0.7.44",
+    "@glossarist/concept-browser": "^0.7.46",
     "glossarist": "^0.3.7"
   }
 }
