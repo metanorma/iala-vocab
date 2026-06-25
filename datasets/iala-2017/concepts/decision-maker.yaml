@@ -1,0 +1,53 @@
+---
+id: decision-maker
+data:
+  identifier: decision-maker
+  domains:
+  - source: urn:iala:dictionary:iala-2016
+    concept_id: section-9
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Decision_Maker
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: decision-maker
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: decision-maker
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: decision-maker
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: decision-maker
+---
+id: decision-maker-eng
+termid: decision-maker
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Decision Maker
+  normative_status: preferred
+definition:
+- content: |-
+    A person or group authorised to make decisions.
+
+    Source: IMO Res. A1021(26)
+
+    (VTS40, IALA Guideline no. 1110 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Decision_Maker

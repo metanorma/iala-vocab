@@ -1,0 +1,68 @@
+---
+id: 5-2-020
+data:
+  identifier: 5-2-020
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Automatic_control
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-2-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-2-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-2-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-2-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-2-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-2-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-2-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-2-020
+---
+id: 5-2-020-eng
+termid: 5-2-020
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Automatic control
+  normative_status: preferred
+definition:
+- content: A method of control in which operations are carried out by a self-acting
+    system under predetermined conditions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Automatic_control

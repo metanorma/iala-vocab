@@ -1,0 +1,245 @@
+---
+schema_type: glossarist
+schema_version: '3'
+languages:
+- eng
+languageOrder:
+- eng
+ordering: systematic
+sections:
+- id: '0'
+  names:
+    eng: Overview
+  children: []
+- id: '1'
+  names:
+    eng: General Terms
+  children:
+  - id: '1.1'
+    names:
+      eng: Basic Terms
+    children: []
+  - id: '1.2'
+    names:
+      eng: Navigation
+    children: []
+  - id: '1.3'
+    names:
+      eng: State of Sea and Weather
+    children: []
+  - id: '1.4'
+    names:
+      eng: Training and Competence
+    children: []
+  - id: '1.5'
+    names:
+      eng: Safety
+    children: []
+- id: '2'
+  names:
+    eng: Visual Aids
+  children:
+  - id: '2.1'
+    names:
+      eng: Optics and Vision
+    children: []
+  - id: '2.2'
+    names:
+      eng: Optical Apparatus
+    children: []
+  - id: '2.3'
+    names:
+      eng: Light Sources
+    children: []
+  - id: '2.4'
+    names:
+      eng: Equipment for Lights
+    children: []
+  - id: '2.5'
+    names:
+      eng: Types and Characteristics of Lights
+    children: []
+  - id: '2.6'
+    names:
+      eng: 'Visual Aids in general: Buoyage and Beaconage'
+    children: []
+- id: '3'
+  names:
+    eng: Audible Aids
+  children:
+  - id: '3.1'
+    names:
+      eng: Acoustics and hearing
+    children: []
+  - id: '3.2'
+    names:
+      eng: Fog signal apparatus
+    children: []
+- id: '4'
+  names:
+    eng: Radio Aids
+  children:
+  - id: '4.1'
+    names:
+      eng: General Terms
+    children: []
+  - id: '4.2'
+    names:
+      eng: Radio Beacons and Direction Finding Equipment
+    children: []
+  - id: '4.3'
+    names:
+      eng: Radar, Radar Beacons and Radar Reflectors
+    children: []
+  - id: '4.4'
+    names:
+      eng: Other Radio Navigation Systems
+    children: []
+- id: '5'
+  names:
+    eng: RCM & Reliability
+  children:
+  - id: '5.1'
+    names:
+      eng: Reliability
+    children: []
+  - id: '5.2'
+    names:
+      eng: Control Systems
+    children: []
+  - id: '5.3'
+    names:
+      eng: Information Processing and Transmission
+    children: []
+  - id: '5.4'
+    names:
+      eng: Devices; Miscellaneous Terms
+    children: []
+- id: '6'
+  names:
+    eng: Power Supplies
+  children:
+  - id: '6.1'
+    names:
+      eng: General Terms
+    children: []
+  - id: '6.2'
+    names:
+      eng: Combustion Engines and Air Compressors
+    children: []
+  - id: '6.3'
+    names:
+      eng: Natural Energy Sources
+    children: []
+  - id: '6.4'
+    names:
+      eng: 'Rotary Electric Machines: Generators and Motors'
+    children: []
+  - id: '6.5'
+    names:
+      eng: Electrochemical Cells and Batteries
+    children: []
+  - id: '6.6'
+    names:
+      eng: Transmission of Electric Energy
+    children: []
+  - id: '6.7'
+    names:
+      eng: Conversion of Electric Energy
+    children: []
+  - id: '6.8'
+    names:
+      eng: Utilisation of Electric Energy; Control and Protection
+    children: []
+- id: '7'
+  names:
+    eng: Civil Engineering
+  children:
+  - id: '7.1'
+    names:
+      eng: Types and Functions of Structures
+    children: []
+  - id: '7.2'
+    names:
+      eng: Structural Components
+    children: []
+  - id: '7.3'
+    names:
+      eng: Materials and their uses
+    children: []
+  - id: '7.4'
+    names:
+      eng: Environmental Data
+    children: []
+  - id: '7.5'
+    names:
+      eng: Design
+    children: []
+  - id: '7.6'
+    names:
+      eng: Construction Methods
+    children: []
+- id: '8'
+  names:
+    eng: Floating Equipment
+  children:
+  - id: '8.1'
+    names:
+      eng: Service Vessels
+    children: []
+  - id: '8.2'
+    names:
+      eng: Light Vessels and Light Floats
+    children: []
+  - id: '8.3'
+    names:
+      eng: Equipment
+    children: []
+  - id: '8.4'
+    names:
+      eng: Buoys
+    children: []
+  - id: '8.5'
+    names:
+      eng: Moorings
+    children: []
+- id: '9'
+  names:
+    eng: VTS
+  children:
+  - id: '9.1'
+    names:
+      eng: VTS terms
+    children: []
+- id: '10'
+  names:
+    eng: e-Navigation
+  children:
+  - id: '10.1'
+    names:
+      eng: General e-Navigation terms
+    children: []
+- id: '11'
+  names:
+    eng: AIS
+  children:
+  - id: '11.1'
+    names:
+      eng: General AIS terms
+    children: []
+- id: '12'
+  names:
+    eng: Heritage
+  children:
+  - id: '12.1'
+    names:
+      eng: PHL Advisory Panel Definitions
+    children: []
+  - id: '12.2'
+    names:
+      eng: Conservation terms
+    children: []
+:id: iala-2017
+:year: 2017
+:urn: urn:iala:dictionary:2017
+:status: retired

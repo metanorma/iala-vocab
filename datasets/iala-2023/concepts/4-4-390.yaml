@@ -1,0 +1,71 @@
+---
+id: 4-4-390
+data:
+  identifier: 4-4-390
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Rana_system
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-4-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-4-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-4-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-4-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-390
+---
+id: 4-4-390-eng
+termid: 4-4-390
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Rana system
+  normative_status: preferred
+definition:
+- content: |-
+    A continuous wave phase comparison system which is used to determine the distances between a mobile receiving station and several fixed transmitting stations.
+
+    A Rana chain comprises three stations forming three couples of fixed transmitters. Each station acts as a master for one frequency and as a slave for the other two frequencies.
+
+    The slave station synchronises the waves resulting from the beating of the two waves transmitted simultaneously by the two transmitters.
+
+    The frequency of the waves transmitted are chosen so that comparison of the phases of each pair of frequencies provides three hyperbolic networks which enable the receiving station to establish its position without ambiguity and with great precision.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Rana_system

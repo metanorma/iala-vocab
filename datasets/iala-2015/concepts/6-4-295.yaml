@@ -1,0 +1,68 @@
+---
+id: 6-4-295
+data:
+  identifier: 6-4-295
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Capacitor_motor
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-4-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-4-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-4-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-4-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-4-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-4-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-4-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-4-295
+---
+id: 6-4-295-eng
+termid: 6-4-295
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Capacitor motor
+  normative_status: preferred
+definition:
+- content: A split-phase motor in which a capacitor is connected in series with the
+    auxiliary primary winding.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The term capacitor-start motor refers to a capacitor motor in which the
+    auxiliary primary winding is energised only during the starting operation.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Capacitor_motor

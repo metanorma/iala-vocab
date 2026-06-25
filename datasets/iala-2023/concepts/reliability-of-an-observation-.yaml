@@ -12,6 +12,35 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Reliability_(of_an_observation)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: reliability-of-an-observation-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: reliability-of-an-observation-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: reliability-of-an-observation-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: reliability-of-an-observation-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: reliability-of-an-observation-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: reliability-of-an-observation-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: reliability-of-an-observation-
 ---
 id: reliability-of-an-observation--eng
 termid: reliability-of-an-observation-

@@ -1,0 +1,65 @@
+---
+id: 1-1-415
+data:
+  identifier: 1-1-415
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mercury_switch
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-1-415
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-1-415
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-1-415
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-1-415
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-1-415
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-1-415
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-1-415
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-1-415
+---
+id: 1-1-415-eng
+termid: 1-1-415
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Mercury switch
+  normative_status: preferred
+definition:
+- content: A switch which makes an electrical contact by causing the immersion of
+    one or both electrodes in mercury.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mercury_switch

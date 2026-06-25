@@ -12,6 +12,31 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/VTS_Centre
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: vts-centre
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: vts-centre
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: vts-centre
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: vts-centre
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: vts-centre
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: vts-centre
 ---
 id: vts-centre-eng
 termid: vts-centre

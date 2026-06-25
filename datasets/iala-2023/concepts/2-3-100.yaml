@@ -1,0 +1,71 @@
+---
+id: 2-3-100
+data:
+  identifier: 2-3-100
+  domains:
+  - source: urn:iala:dictionary:iala-2018
+    concept_id: section-unknown
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Bulb/es
+related:
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-100
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-100
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-100
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-100
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-100
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-3-100
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-100
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-3-100
+---
+id: 2-3-100-spa
+termid: 2-3-100
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Bulb/es
+  normative_status: preferred
+definition:
+- content: |-
+    Bulbo
+
+    Recubrimiento transparente o translúcido, hermético al gas que encierra el elemento luminoso de una lámpara.
+
+    Referencia: C.I.E. (modificado)
+
+    ![Ch2_Fig22.jpg](/iala-vocab/images/iala/Ch2_Fig22.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bulb/es

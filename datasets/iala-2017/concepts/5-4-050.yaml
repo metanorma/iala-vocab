@@ -1,0 +1,81 @@
+---
+id: 5-4-050
+data:
+  identifier: 5-4-050
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gate
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-4-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-4-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-4-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-4-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-4-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-4-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-4-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-050
+---
+id: 5-4-050-eng
+termid: 5-4-050
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Gate
+  normative_status: preferred
+definition:
+- content: A device having one output channel and one or more input channels, such
+    that the output channel state is completely determined by the contemporaneous
+    input channel states, except during switching transients.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.E.E
+  modification: modified from source
+notes:
+- content: An and gate is a device in which the output channel is in its one state
+    if and only if each input channel is in a one state.
+- content: An exclusive or gate is a device in which the output channel is in a one
+    state if one or the other, but not both, of the input channels is in the one state.
+- content: A nand gate, or not and gate, is a device in which the output channel is
+    the logical complement of the and gate.
+- content: A nor gate is a device in which the output channel is the logical complement
+    of the or gate.
+- content: An or gate is a device in which the output channel is in a one state if
+    any one or more of the input channels is in a one state.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Gate

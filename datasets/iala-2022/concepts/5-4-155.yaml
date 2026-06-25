@@ -1,0 +1,72 @@
+---
+id: 5-4-155
+data:
+  identifier: 5-4-155
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Synchro
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-4-155
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-4-155
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-4-155
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-4-155
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-4-155
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-4-155
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-4-155
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-155
+---
+id: 5-4-155-eng
+termid: 5-4-155
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Synchro
+  normative_status: preferred
+definition:
+- content: A transforming apparatus in the form of an induction voltage regulator.
+    Its stator has one or more windings, either primary or secondary. Its rotor has
+    one or more windings, either secondary or primary. A synchro is used either as
+    a direct transmitter or as a signal receiver (which defines an angular position)
+    or as a comparator for two signals each of which represents an angular position.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.C
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Synchro

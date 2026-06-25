@@ -1,0 +1,76 @@
+---
+id: 4-2-340
+data:
+  identifier: 4-2-340
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Semicircular_component_of_error
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-2-340
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-2-340
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-2-340
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-2-340
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-2-340
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-2-340
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-2-340
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-2-340
+---
+id: 4-2-340-eng
+termid: 4-2-340
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Semicircular component of error
+  normative_status: preferred
+definition:
+- content: |-
+    Quadrantal component of error
+
+    Octantal component of error
+
+    That sinusoidal component of the error versus true bearing curve taken over the full 360 degrees  range of bearings which shows 2, 4 or 8 zeros respectively.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+  modification: modified from source
+notes:
+- content: These errors are a form of site error and are of particular importance
+    on vessels and aircraft.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Semicircular_component_of_error

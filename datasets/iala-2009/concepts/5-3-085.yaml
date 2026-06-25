@@ -1,0 +1,70 @@
+---
+id: 5-3-085
+data:
+  identifier: 5-3-085
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pulse_frequency_modulation
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-3-085
+---
+id: 5-3-085-eng
+termid: 5-3-085
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Pulse frequency modulation
+  normative_status: preferred
+definition:
+- content: A form of pulse time modulation in which the pulse repetition rate is the
+    characteristic varied. A precise term for pulse frequency modulation would be
+    pulse repetition rate modulation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.R.E
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pulse_frequency_modulation

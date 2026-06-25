@@ -1,0 +1,65 @@
+---
+id: 8-3-085
+data:
+  identifier: 8-3-085
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Deck_crane
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-3-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-3-085
+---
+id: 8-3-085-eng
+termid: 8-3-085
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Deck crane
+  normative_status: preferred
+definition:
+- content: A self-contained lifting device fitted on the working deck as an alternative
+    to the main derrick.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Deck_crane

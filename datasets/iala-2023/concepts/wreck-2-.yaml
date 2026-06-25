@@ -12,6 +12,15 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Wreck_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: wreck-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: wreck-2-
 ---
 id: wreck-2--eng
 termid: wreck-2-

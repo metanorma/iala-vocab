@@ -1,0 +1,66 @@
+---
+id: 6-3-205
+data:
+  identifier: 6-3-205
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Tail_vane
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-3-205
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-3-205
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-3-205
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-3-205
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-3-205
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-3-205
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-3-205
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-3-205
+---
+id: 6-3-205-eng
+termid: 6-3-205
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Tail vane
+  normative_status: preferred
+definition:
+- content: A device of rigid construction, sometimes a flat plate, which is attached
+    at the rear of the movable body of a wind-power generator as the means of making
+    the wind turn the rotor into the wind.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tail_vane

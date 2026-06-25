@@ -12,6 +12,39 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Type_N_Raydist
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-4-280
 ---
 id: 4-4-280-eng
 termid: 4-4-280

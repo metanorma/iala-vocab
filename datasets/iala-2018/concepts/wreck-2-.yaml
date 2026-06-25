@@ -1,0 +1,156 @@
+---
+id: wreck-2-
+data:
+  identifier: wreck-2-
+  domains:
+  - source: urn:iala:dictionary:iala-2018
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Wreck_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: wreck-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: wreck-2-
+---
+id: wreck-2--eng
+termid: wreck-2-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Wreck (2)
+  normative_status: preferred
+definition:
+- content: "Wreck, following upon a maritime casualty, means:\n\na)\ta sunken or stranded
+    ship; or\nb)\tany part of a sunken or stranded ship, including any object that
+    is or has been on board such a ship; or\nc)\tany object that is lost at sea from
+    a ship and that is stranded, sunken or adrift at sea; or\nd)\ta ship that is about,
+    or may reasonably be expected, to sink or to strand, where effective measures
+    to assist the ship or any property in danger are not already being taken. #\n\nSource:
+    Nairobi Convention 2017, provided by the IALA ARM Committee in paper ARM7-12.1.14
+    in 2017.\n\nThis supercedes definition number 1-2-205 in the original IALA Dictionary
+    edition (1970-1989)."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wreck_(2)
+---
+id: wreck-2--fra
+termid: wreck-2-
+data:
+  language_code: fra
+terms:
+- type: expression
+  designation: Wreck (2)/fr
+  normative_status: preferred
+definition:
+- content: |-
+    Épave
+
+    Épave, à la suite d’un sinistre maritime, signifie:
+
+    a) un navire coulé ou échoué; ou
+    b) toute partie d’un navire coulé ou échoué, y compris les objets qui se trouvent ou se trouvaient à bord d’un tel navire; ou
+    c) tout objet perdu en mer, coulé, échoué ou à la dérive, provenant d’un navire; ou
+    d) un navire qui est en train, ou raisonnablement susceptible de, couler ou s’échouer, lorsque des mesures efficaces d’assistance au navire ou aux biens en danger n’ont pas encore été prises.
+
+    La source: Convention de Nairobi 2017, fourni par le comité IALA ARM dans le document ARM7-12.1.14 en 2017.
+
+    Ce numéro de définition remplace 1-2-205 dans l'édition originale du dictionnaire IALA (1970-1989).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wreck_(2)/fr
+---
+id: wreck-2--spa
+termid: wreck-2-
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Wreck (2)/es
+  normative_status: preferred
+definition:
+- content: "Naufragio\n\nNaufragio, tras un siniestro marítimo, significa:\n\na)\tun
+    barco hundido o varado; o\nb)\tcualquier parte de un barco hundido o varado, incluido
+    cualquier objeto que esté o haya estado a bordo de dicho barco; o\nc)\tcualquier
+    objeto perdido en el mar por un barco y que esté varado, hundido o a la deriva
+    en el mar; o\nd)\tun barco que esté a punto, o pueda esperarse razonablemente
+    que se hunda o vare, donde todavía no se estén tomando medidas efectivas  para
+    ayudar al barco o cualquier propiedad en peligro.\n\nFuente: Convenio de Nairobi
+    2017, proporcionado por el Comité ARM de IALA en el documento ARM7-12.1.14 en
+    2017.\n\nEsto reemplaza la definición número 1-2-205 en la edición original del
+    Diccionario IALA (1970-1989)."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wreck_(2)/es
+---
+id: wreck-2--fra
+termid: wreck-2-
+data:
+  language_code: fra
+terms:
+- type: expression
+  designation: Épave
+  normative_status: preferred
+definition:
+- content: |-
+    Épave, à la suite d’un sinistre maritime, signifie:
+
+    a) un navire coulé ou échoué; ou
+    b) toute partie d’un navire coulé ou échoué, y compris les objets qui se trouvent ou se trouvaient à bord d’un tel navire; ou
+    c) tout objet perdu en mer, coulé, échoué ou à la dérive, provenant d’un navire; ou
+    d) un navire qui est en train, ou raisonnablement susceptible de, couler ou s’échouer, lorsque des mesures efficaces d’assistance au navire ou aux biens en danger n’ont pas encore été prises.
+
+    La source: Convention de Nairobi 2017, fourni par le comité IALA ARM dans le document ARM7-12.1.14 en 2017.
+
+    Ce numéro de définition remplace 1-2-205 dans l'édition originale du dictionnaire IALA (1970-1989).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wreck_(2)/fr
+---
+id: wreck-2--spa
+termid: wreck-2-
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Naufragio
+  normative_status: preferred
+definition:
+- content: "Naufragio, tras un siniestro marítimo, significa:\n\na)\tun barco hundido
+    o varado; o\nb)\tcualquier parte de un barco hundido o varado, incluido cualquier
+    objeto que esté o haya estado a bordo de dicho barco; o\nc)\tcualquier objeto
+    perdido en el mar por un barco y que esté varado, hundido o a la deriva en el
+    mar; o\nd)\tun barco que esté a punto, o pueda esperarse razonablemente que se
+    hunda o vare, donde todavía no se estén tomando medidas efectivas  para ayudar
+    al barco o cualquier propiedad en peligro.\n\nFuente: Convenio de Nairobi 2017,
+    proporcionado por el Comité ARM de IALA en el documento ARM7-12.1.14 en 2017.\n\nEsto
+    reemplaza la definición número 1-2-205 en la edición original del Diccionario
+    IALA (1970-1989)."
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wreck_(2)/es

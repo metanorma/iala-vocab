@@ -1,0 +1,71 @@
+---
+id: 2-3-105
+data:
+  identifier: 2-3-105
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lead-in_Wire
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-3-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-105
+---
+id: 2-3-105-eng
+termid: 2-3-105
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Lead-in Wire
+  normative_status: preferred
+definition:
+- content: |-
+    A metal conductor which carries the current from the cap of a lamp to the luminous element or to the electrodes.
+
+    ![Ch2_Fig22.jpg](/iala-vocab/images/iala/Ch2_Fig22.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lead-in_Wire

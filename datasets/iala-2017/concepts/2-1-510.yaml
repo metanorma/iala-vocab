@@ -1,0 +1,71 @@
+---
+id: 2-1-510
+data:
+  identifier: 2-1-510
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Thermal_Radiation
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-510
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-510
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-510
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-510
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-510
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-510
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-510
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-510
+---
+id: 2-1-510-eng
+termid: 2-1-510
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Thermal Radiation
+  normative_status: preferred
+definition:
+- content: Process of emission in which the radiant energy originates in the thermal
+    agitation of the particles of matter (atoms, molecules, ions).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+notes:
+- content: The terms "thermal radiation" and, in German Temperaturstrahlung apply
+    not only to the process of emission, but also to the radiation itself.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Thermal_Radiation

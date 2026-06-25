@@ -1,0 +1,112 @@
+---
+id: 2-4-100
+data:
+  identifier: 2-4-100
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Flasher
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-4-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-4-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-4-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-4-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-4-100
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-4-100
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-4-100
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-4-100
+---
+id: 2-4-100-eng
+termid: 2-4-100
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Flasher
+  normative_status: preferred
+definition:
+- content: A device which, in a rhythmic light, interrupts the supply of energy (in
+    the form of fuel or electric current) to a light source, according to the character
+    of the light.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: A flasher is a form of coder.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Flasher
+---
+id: 2-4-100-spa
+termid: 2-4-100
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Flasher/es
+  normative_status: preferred
+definition:
+- content: |-
+    Destellador
+
+    Dispositivo que en una luz rítmica, interrumpe el suministro de energía (en forma de combustible o corriente eléctrica) de la fuente luminosa de acuerdo con su característica.
+
+    Nota: Un destellador es en cierto modo un codificador.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Flasher/es
+---
+id: 2-4-100-spa
+termid: 2-4-100
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 2-4-100
+  normative_status: preferred
+definition:
+- content: |-
+    Destellador
+
+    Dispositivo que en una luz rítmica, interrumpe el suministro de energía (en forma de combustible o corriente eléctrica) de la fuente luminosa de acuerdo con su característica.
+
+    Nota: Un destellador es en cierto modo un codificador.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Flasher/es

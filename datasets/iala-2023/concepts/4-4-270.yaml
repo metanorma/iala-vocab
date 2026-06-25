@@ -1,0 +1,75 @@
+---
+id: 4-4-270
+data:
+  identifier: 4-4-270
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Raydist
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-4-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-4-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-4-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-4-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-270
+---
+id: 4-4-270-eng
+termid: 4-4-270
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Raydist
+  normative_status: preferred
+definition:
+- content: |-
+    A continuous wave phase comparison system which is used principally for precision locating of a vessel in survey operations. Radio frequency operation is generally between 1.7 and 5 MHz.
+
+    The several Raydist system configurations have a general principle of operation in common.
+
+    Two stations are used, each emitting a radio frequency, the separation between the frequencies being narrow. These are received at several locations.
+
+    The audio frequencies, produced by heterodyning the two radio frequencies at each station, are brought to a common location where they are phase compared automatically and continuously in special meters.
+
+    Because the heterodyne changes in the same way at each receiver in the event of changes of frequency or phase in either of the radio frequencies, synchronisation between the transmitters is not required. (See also Lorac 4-4-380).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: 'Note:'
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Raydist

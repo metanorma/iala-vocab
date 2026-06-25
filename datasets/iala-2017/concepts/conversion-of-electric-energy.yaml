@@ -1,0 +1,67 @@
+---
+id: conversion-of-electric-energy
+data:
+  identifier: conversion-of-electric-energy
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Conversion_of_electric_energy
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: conversion-of-electric-energy
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: conversion-of-electric-energy
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: conversion-of-electric-energy
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: conversion-of-electric-energy
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: conversion-of-electric-energy
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: conversion-of-electric-energy
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: conversion-of-electric-energy
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: conversion-of-electric-energy
+---
+id: conversion-of-electric-energy-eng
+termid: conversion-of-electric-energy
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Conversion of electric energy
+  normative_status: preferred
+definition:
+- content: |-
+    6-7-000
+
+    Change of input electric energy of one kind into output electric energy of another kind (e.g. change of voltage, frequency, waveform or number of phases ; change of alternating current into direct current or vice versa).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Conversion_of_electric_energy

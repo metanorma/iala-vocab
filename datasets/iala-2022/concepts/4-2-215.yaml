@@ -1,0 +1,76 @@
+---
+id: 4-2-215
+data:
+  identifier: 4-2-215
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Classification_of_bearings
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-2-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-2-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-2-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-2-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-2-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-2-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-2-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-2-215
+---
+id: 4-2-215-eng
+termid: 4-2-215
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Classification of bearings
+  normative_status: preferred
+definition:
+- content: |-
+    An arbitrary system for the grouping of bearings according to their accuracy. The bearings are grouped into one or other of the four following classes
+
+    Class A bearings in which there is a probability of less than 1 in 20 that the bearing error would exceed +/-2 degrees
+
+    Class B bearings in which there is a probability of less than 1 in 20 that the bearing error would exceed +/-5 degrees
+
+    Class C bearings in which there is a probability of less than 1 in 20 that the bearing error would exceed +/-10 degrees
+
+    Class D bearings in which the error would exceed +/-10 degrees
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.T.U
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Classification_of_bearings

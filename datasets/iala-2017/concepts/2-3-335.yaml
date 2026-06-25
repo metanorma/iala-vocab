@@ -1,0 +1,70 @@
+---
+id: 2-3-335
+data:
+  identifier: 2-3-335
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Tubular_Discharge_Lamp
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-335
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-335
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-335
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-335
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-335
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-335
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-3-335
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-335
+---
+id: 2-3-335-eng
+termid: 2-3-335
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Tubular Discharge Lamp
+  normative_status: preferred
+definition:
+- content: A discharge lamp of tubular form either straight or curved.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+notes:
+- content: In German usage, such a discharge lamp is called Leuchtroehre if it contains
+    no luminescent material and operates at high voltage (up to about 6,000 volts).
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tubular_Discharge_Lamp

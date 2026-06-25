@@ -1,0 +1,71 @@
+---
+id: 4-4-075
+data:
+  identifier: 4-4-075
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Loran_Cycle_match
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-4-075
+---
+id: 4-4-075-eng
+termid: 4-4-075
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Loran Cycle match
+  normative_status: preferred
+definition:
+- content: |-
+    Cycle match (in Loran)
+
+    The comparison in time difference between corresponding radio frequency carrier cycles contained in the rise times of a master and a slave pulse.
+
+    The comparison is refined to a determination of the phase difference between these two cycles.
+
+    At present used in Loran C.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Loran_Cycle_match

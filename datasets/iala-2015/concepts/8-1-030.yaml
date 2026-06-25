@@ -1,0 +1,75 @@
+---
+id: 8-1-030
+data:
+  identifier: 8-1-030
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Work_barge
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-1-030
+---
+id: 8-1-030-eng
+termid: 8-1-030
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Work barge
+  normative_status: preferred
+definition:
+- content: |-
+    A boat used for :
+
+    carrying out repairs and maintenance to fixed aids to navigation
+
+    handling smaller buoys
+
+    relief of personnel and fuelling and provisioning of lighthouses and light vessels.
+
+    Note :
+
+    No special term exists for this in German, but the general term Seezeichenfahrzeug includes work barges used by the lighthouse services (See note to 8-1-000).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Work_barge

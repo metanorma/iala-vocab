@@ -1,0 +1,81 @@
+---
+id: 2-1-125
+data:
+  identifier: 2-1-125
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Optical_Focus
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-125
+---
+id: 2-1-125-eng
+termid: 2-1-125
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Optical Focus
+  normative_status: preferred
+definition:
+- content: |-
+    (Optical) Focus
+
+    The point on the axis of an optical system such that rays parallel to the axis and incident on the system converge to this point or appear to emanate from this point after refraction or reflection by the system.
+
+    (Figs. 12, 13, 14, 15, 17 and 19)
+
+    ![Ch2_Fig12.jpg](/iala-vocab/images/iala/Ch2_Fig12.jpg)
+
+    ![Ch2_Fig13.jpg](/iala-vocab/images/iala/Ch2_Fig13.jpg)
+
+    ![Ch2_Fig14.jpg](/iala-vocab/images/iala/Ch2_Fig14.jpg)
+
+    ![Ch2_Fig15.jpg](/iala-vocab/images/iala/Ch2_Fig15.jpg)
+
+    ![Ch2_Fig17.jpg](/iala-vocab/images/iala/Ch2_Fig17.jpg)
+
+    ![Ch2_Fig19.jpg](/iala-vocab/images/iala/Ch2_Fig19.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Optical_Focus

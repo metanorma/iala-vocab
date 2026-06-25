@@ -1,0 +1,67 @@
+---
+id: 4-1-690
+data:
+  identifier: 4-1-690
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Beat_reception
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-690
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-1-690
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-1-690
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-1-690
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-1-690
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-1-690
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-1-690
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-1-690
+---
+id: 4-1-690-eng
+termid: 4-1-690
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Beat reception
+  normative_status: preferred
+definition:
+- content: |-
+    Heterodyne reception
+
+    Reception in which an audio frequency is derived by beating the signal frequency with that produced by a local oscillator, followed by detection.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Beat_reception

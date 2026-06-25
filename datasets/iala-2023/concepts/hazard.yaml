@@ -1,0 +1,45 @@
+---
+id: hazard
+data:
+  identifier: hazard
+  domains:
+  - source: urn:iala:dictionary:iala-2018
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hazard
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: hazard
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: hazard
+---
+id: hazard-eng
+termid: hazard
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Hazard
+  normative_status: preferred
+definition:
+- content: |-
+    The potential for harm, or adverse effect on anyone’s health at or near a workplace.
+
+    Hazards vary greatly depending on the scope of activities, but in the context of AtoN may include: noisy machinery, sea state, chemicals, electricity and working at heights..
+
+    Source: ENG7, Guideline 1092 (2017)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazard

@@ -1,0 +1,75 @@
+---
+id: 4-1-080
+data:
+  identifier: 4-1-080
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Power
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-1-080
+---
+id: 4-1-080-eng
+termid: 4-1-080
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Power
+  normative_status: preferred
+definition:
+- content: |-
+    Whenever the power of a radio transmitter, etc. is referred to, it is expressed in one of the following forms
+
+    Peak Envelope Power (Pp);
+    Mean Power (Pm);
+    Carrier Power (Pc).
+
+    For different classes of emissions, the relationships between peak envelope power, mean power and carrier power, under the conditions of normal operation and of no modulation, are contained in Recommendations of the C.C.I.R., which may be used as a guide.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.T.U
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Power

@@ -1,0 +1,82 @@
+---
+id: 2-1-050
+data:
+  identifier: 2-1-050
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Candela_per_Square_Metre
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-050
+---
+id: 2-1-050-eng
+termid: 2-1-050
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Candela per Square Metre
+  normative_status: preferred
+- type: symbol
+  designation: stem:[cd/m2]
+  normative_status: preferred
+definition:
+- content: |-
+    The SI
+
+    Other metric units stilb (sb), apostilb (asb), lambert (L)
+
+    Non-metric
+
+    1 cd/m2 = 10-4 stilb = p apostilb = p.10-4 lambert = footlambert
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+notes:
+- content: 'This unit is sometimes called Nit. Symbol: nt'
+annotations:
+- content: Unit of luminance.
+- content: Unit foot lambert (fL)
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Candela_per_Square_Metre

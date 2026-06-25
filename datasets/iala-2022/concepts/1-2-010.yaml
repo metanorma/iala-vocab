@@ -1,0 +1,68 @@
+---
+id: 1-2-010
+data:
+  identifier: 1-2-010
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Piloting
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-2-010
+---
+id: 1-2-010-eng
+termid: 1-2-010
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Piloting
+  normative_status: preferred
+definition:
+- content: The directing of ships in navigable water where knowledge of local landmarks,
+    depths of water etc. is necessary to ensure safe navigation.
+- content: More generally, navigation involving frequent or continuous determination
+    of position or a line of position relative to geographical points to a high order
+    of accuracy.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Piloting

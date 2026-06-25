@@ -1,0 +1,71 @@
+---
+id: hazardous-cargoes
+data:
+  identifier: hazardous-cargoes
+  domains:
+  - source: urn:iala:dictionary:iala-2012
+    concept_id: section-9
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hazardous_Cargoes
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: hazardous-cargoes
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: hazardous-cargoes
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: hazardous-cargoes
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: hazardous-cargoes
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: hazardous-cargoes
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: hazardous-cargoes
+---
+id: hazardous-cargoes-eng
+termid: hazardous-cargoes
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Hazardous Cargoes
+  normative_status: preferred
+definition:
+- content: |-
+    VTS-2012-15
+
+    Hazardous Cargoes include:
+
+    Goods classified in the International Maritime Dangerous Goods (IMDG) Code;
+    Substances classified in Chapter 17 of the IMO International Code for Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (IBC) Code, and in Chapter 19 of the IMO International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk (IGC) Code;
+    Oils as defined in MARPOL Annex I;
+    Noxious liquid substances as defined in MARPOL Annex II;
+    Harmful substances as defined in MARPOL Annex III; and
+    Radioactive materials specified in the Code for the Safe Carriage of Irradiated Nuclear Fuel, Plutonium and High Level Radioactive Wastes in Flasks on Board Ships (INF)
+    Cargoes specified in Part B of the International Maritime Solid Bulk Cargoes Code (IMSBC)
+
+    Source: IMO A.857(20) and IMSBC
+
+    (VTS33/output/8 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazardous_Cargoes

@@ -1,0 +1,22 @@
+{
+  "title": "Audible Signal/es",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p><big><big><big>Señal audible</big></big></big>\n</p><p>(Señal Sonora)\n</p><p><br>\nSeñal audible destinada a advertir o guiar a los buques en situaciones de baja visibilidad. \n</p><p>También llamada Señal de Niebla o Señal Sonora.\n</p><p><br>\nSource: <span class=\"mw-lingo-term\" data-lingo-term-id=\"0a1217bfe27a54fc7e55b72fc62c2371\">IALA</span> Guideline G1090 on The Use of Audible Signals Edition 1 December 2012.\n</p><p><br>\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a href=\"/wiki/dictionary/index.php/Audible_Signal\" title=\"Audible Signal\">English</a></b>\n<span></span>\n • <span lang=\"fr\"><a href=\"/wiki/dictionary/index.php/Audible_Signal/fr\" title=\"Audible Signal/fr\">français</a></span>\n • <span lang=\"es\"><a class=\"mw-selflink selflink\">español</a></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"0a1217bfe27a54fc7e55b72fc62c2371\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>International Association of Marine Aids to Navigation and Lighthouse Authorities - AISM\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260615182320\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.036 seconds\nReal time usage: 0.043 seconds\nPreprocessor visited node count: 76/1000000\nPost‐expand include size: 1082/2097152 bytes\nTemplate argument size: 258/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 3/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   10.459      1 Template:Languages\n100.00%   10.459      1 -total\n 63.46%    6.637      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:3023-0!canonical and timestamp 20260615182320 and revision id 8517. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "Indice_alfabeto_Español"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2018_Revision"
+      },
+      {
+        "sortkey": "",
+        "*": "Approved_by_Council_through_approval_of_source_document"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "<big><big><big>Señal audible</big></big></big>\n\n(Señal Sonora)\n\n\nSeñal audible destinada a advertir o guiar a los buques en situaciones de baja visibilidad. \n\nTambién llamada Señal de Niebla o Señal Sonora.\n\n\nSource: IALA Guideline G1090 on The Use of Audible Signals Edition 1 December 2012.\n\n\n\n{{languages|Audible Signal}}\n[[Category: Indice alfabeto Español]]\n[[Category:IALA Dictionary 2018 Revision]]\n[[Category:Approved by Council through approval of source document]]"
+}

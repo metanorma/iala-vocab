@@ -1,0 +1,43 @@
+---
+id: detection-of-an-aton-light
+data:
+  identifier: detection-of-an-aton-light
+  domains:
+  - source: urn:iala:dictionary:iala-2018
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Detection_of_an_AtoN_light
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: detection-of-an-aton-light
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: detection-of-an-aton-light
+---
+id: detection-of-an-aton-light-eng
+termid: detection-of-an-aton-light
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Detection of an AtoN light
+  normative_status: preferred
+definition:
+- content: |-
+    The following terms are used when considering the conspicuity of AtoN lights at night.
+
+    Source: ENG7, Guideline G1073
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Detection_of_an_AtoN_light

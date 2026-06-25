@@ -1,0 +1,71 @@
+---
+id: 7-4-225
+data:
+  identifier: 7-4-225
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Angle_of_internal_friction
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-4-225
+---
+id: 7-4-225-eng
+termid: 7-4-225
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Angle of internal friction
+  normative_status: preferred
+- type: expression
+  designation: Angle of shearing resistance
+  normative_status: admitted
+definition:
+- content: The limiting value of the angle between the reaction on a plane within
+    a soil mass at which shearing may occur and the normal to that plane.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The tangent of the angle of internal friction is the coefficient of friction
+    for the soil.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Angle_of_internal_friction

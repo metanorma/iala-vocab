@@ -1,0 +1,72 @@
+---
+id: 5-2-255
+data:
+  identifier: 5-2-255
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dead_time_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-2-255
+---
+id: 5-2-255-eng
+termid: 5-2-255
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Dead time (2)
+  normative_status: preferred
+definition:
+- content: |-
+    The time interval between a change in the input variable and the initiation of the corresponding change in the output variable.
+
+    ![Ch5_Fig3.jpg](/iala-vocab/images/iala/Ch5_Fig3.jpg)
+
+    Figure 3 - Typical time response of a system to a step increase of input.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.C
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Dead_time_(2)

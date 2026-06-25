@@ -12,6 +12,39 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Spare_light_vessel_(GB)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-2-010
 ---
 id: 8-2-010-eng
 termid: 8-2-010

@@ -12,6 +12,31 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Course_Made_Good
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: course-made-good
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: course-made-good
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: course-made-good
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: course-made-good
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: course-made-good
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: course-made-good
 ---
 id: course-made-good-eng
 termid: course-made-good

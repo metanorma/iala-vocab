@@ -1,0 +1,72 @@
+---
+id: 4-1-685
+data:
+  identifier: 4-1-685
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sideband
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-685
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-1-685
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-1-685
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-1-685
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-1-685
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-1-685
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-1-685
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-1-685
+---
+id: 4-1-685-eng
+termid: 4-1-685
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Sideband
+  normative_status: preferred
+definition:
+- content: A range of frequencies occupied by the spectral components resulting from
+    the modulation of a carrier wave by a signal.
+- content: A discrete frequency in a sideband (properly called a side frequency).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+notes:
+- content: The terms upper sideband and lower sideband are used to denote the ranges
+    higher than or lower than the carrier frequency respectively.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sideband

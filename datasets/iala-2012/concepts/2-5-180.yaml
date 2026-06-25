@@ -1,0 +1,72 @@
+---
+id: 2-5-180
+data:
+  identifier: 2-5-180
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Group-Occulting_Light
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-5-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-5-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-5-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-5-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-5-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-5-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-5-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-5-180
+---
+id: 2-5-180-eng
+termid: 2-5-180
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Group-Occulting Light
+  normative_status: preferred
+definition:
+- content: |-
+    Occulting light in which the occultations are combined in groups, each group including the same number of occultations, and in which the groups are repeated at regular intervals.
+
+    The intervals of light separating the occultations within each group are of equal duration and this duration is clearly shorter than the duration of the interval of light between two successive groups. (Fig. 42b)
+
+    ![Ch2_Fig42.jpg](/iala-vocab/images/iala/Ch2_Fig42.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: N.L
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Group-Occulting_Light

@@ -1,0 +1,75 @@
+---
+id: 5-1-065
+data:
+  identifier: 5-1-065
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Infant-mortality_period
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-1-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-1-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-1-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-1-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-1-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-1-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-1-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-1-065
+---
+id: 5-1-065-eng
+termid: 5-1-065
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Infant-mortality period
+  normative_status: preferred
+definition:
+- content: |-
+    Early-failure period.
+
+    That possible early period, beginning at some stated time, during which the failure rate is decreasing rapidly.
+
+    ![Ch5_Fig1.jpg](/iala-vocab/images/iala/Ch5_Fig1.jpg)
+
+    Figure 1 - Failure rate / time pattern.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.C
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Infant-mortality_period

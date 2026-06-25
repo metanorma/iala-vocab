@@ -1,0 +1,67 @@
+---
+id: 7-6-040
+data:
+  identifier: 7-6-040
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Setting_(of_concrete)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-6-040
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-6-040
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-6-040
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-6-040
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-6-040
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-6-040
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-6-040
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-6-040
+---
+id: 7-6-040-eng
+termid: 7-6-040
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Setting (of concrete)
+  normative_status: preferred
+definition:
+- content: The initial hardening phase of concrete when the material is firm but still
+    low in strength.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: Before the initial set occurs, concrete is called wet concrete.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Setting_(of_concrete)

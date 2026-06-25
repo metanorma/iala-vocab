@@ -1,0 +1,74 @@
+---
+id: 5-4-290
+data:
+  identifier: 5-4-290
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hybrid_transformer
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-4-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-4-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-4-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-4-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-4-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-4-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-4-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-4-290
+---
+id: 5-4-290-eng
+termid: 5-4-290
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Hybrid transformer
+  normative_status: preferred
+- type: expression
+  designation: Hybrid coil
+  normative_status: admitted
+definition:
+- content: A differential transformer having effectively three windings and four pairs
+    of terminals so arranged that, provided the impedances connected to two of the
+    pairs of the terminals fulfil certain conditions, the application of a voltage
+    to the third pair of terminals produces no potential difference between the fourth
+    pair of terminals.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.C
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hybrid_transformer

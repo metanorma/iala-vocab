@@ -1,0 +1,68 @@
+---
+id: 1-1-220
+data:
+  identifier: 1-1-220
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Periodic_quantity
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-1-220
+---
+id: 1-1-220-eng
+termid: 1-1-220
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Periodic quantity
+  normative_status: preferred
+definition:
+- content: A quantity that is reproduced identically at equal intervals of the independent
+    variable (time, space, etc...).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.C
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Periodic_quantity

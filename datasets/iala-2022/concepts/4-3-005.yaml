@@ -1,0 +1,70 @@
+---
+id: 4-3-005
+data:
+  identifier: 4-3-005
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Primary_radar
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-3-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-3-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-3-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-3-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-3-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-3-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-3-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-3-005
+---
+id: 4-3-005-eng
+termid: 4-3-005
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Primary radar
+  normative_status: preferred
+definition:
+- content: The detection of objects and the determination of their distance and speed
+    by measuring the transit time, phase or frequency of the re-radiated electromagnetic
+    waves. In most cases also the horizontal angle of radiation is measured.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: N.T.G
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Primary_radar

@@ -1,0 +1,63 @@
+---
+id: global-maritime-distress-and-safety-system-gmdss-
+data:
+  identifier: global-maritime-distress-and-safety-system-gmdss-
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Global_Maritime_Distress_and_Safety_System_(GMDSS)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: global-maritime-distress-and-safety-system-gmdss-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: global-maritime-distress-and-safety-system-gmdss-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: global-maritime-distress-and-safety-system-gmdss-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: global-maritime-distress-and-safety-system-gmdss-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: global-maritime-distress-and-safety-system-gmdss-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: global-maritime-distress-and-safety-system-gmdss-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: global-maritime-distress-and-safety-system-gmdss-
+---
+id: global-maritime-distress-and-safety-system-gmdss--eng
+termid: global-maritime-distress-and-safety-system-gmdss-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Global Maritime Distress and Safety System (GMDSS)
+  normative_status: preferred
+definition:
+- content: |-
+    An internationally agreed system for automatically alerting ships and authorities ashore to a distress situation and enabling coordination of Search and Rescue operations.
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Global_Maritime_Distress_and_Safety_System_(GMDSS)

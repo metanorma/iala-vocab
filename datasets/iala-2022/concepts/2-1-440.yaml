@@ -1,0 +1,71 @@
+---
+id: 2-1-440
+data:
+  identifier: 2-1-440
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hue
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-440
+---
+id: 2-1-440-eng
+termid: 2-1-440
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Hue
+  normative_status: preferred
+definition:
+- content: The attribute of visual sensation which has given rise to colour names,
+    such as blue, green, yellow, red, purple etc.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+notes:
+- content: This attribute is the psychosensorial correlate, or nearly so, of the colorimetric
+    quantity "dominant wavelength".
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hue

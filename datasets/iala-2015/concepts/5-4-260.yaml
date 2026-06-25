@@ -1,0 +1,72 @@
+---
+id: 5-4-260
+data:
+  identifier: 5-4-260
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/KeySender
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-260
+---
+id: 5-4-260-eng
+termid: 5-4-260
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: KeySender
+  normative_status: preferred
+definition:
+- content: |-
+    5-4-260
+    (Key) Sender
+
+    In automatic telephony, a device which accepts and stores groups of coded pulses and which thereafter controls the setting up of a call. For a key sender, the pulses are produced by the depression of digit keys.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/KeySender

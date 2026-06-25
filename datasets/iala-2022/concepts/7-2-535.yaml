@@ -1,0 +1,71 @@
+---
+id: 7-2-535
+data:
+  identifier: 7-2-535
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lintel
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-2-535
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-2-535
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-2-535
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-2-535
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-2-535
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-2-535
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-2-535
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-2-535
+---
+id: 7-2-535-eng
+termid: 7-2-535
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Lintel
+  normative_status: preferred
+- type: expression
+  designation: Lintol
+  normative_status: admitted
+definition:
+- content: A beam over a wall opening, typically over a door or window, to carry the
+    wall load.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The German term Sturz and the French term linteau can also apply to a brick
+    arch construction used instead of a lintel.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lintel

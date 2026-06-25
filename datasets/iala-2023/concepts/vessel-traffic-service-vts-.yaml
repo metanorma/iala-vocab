@@ -12,6 +12,31 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Vessel_Traffic_Service_(VTS)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: vessel-traffic-service-vts-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: vessel-traffic-service-vts-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: vessel-traffic-service-vts-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: vessel-traffic-service-vts-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: vessel-traffic-service-vts-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: vessel-traffic-service-vts-
 ---
 id: vessel-traffic-service-vts--eng
 termid: vessel-traffic-service-vts-

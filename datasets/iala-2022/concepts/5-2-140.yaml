@@ -1,0 +1,78 @@
+---
+id: 5-2-140
+data:
+  identifier: 5-2-140
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Feedback_signal
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-2-140
+---
+id: 5-2-140-eng
+termid: 5-2-140
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Feedback signal
+  normative_status: preferred
+- type: expression
+  designation: Return signal
+  normative_status: admitted
+definition:
+- content: |-
+    In a closed loop, the signal resulting from an input signal and transmitted by the loop and
+
+    intended to be algebraically added to the input signal.
+
+    ![Ch5_Fig2.jpg](/iala-vocab/images/iala/Ch5_Fig2.jpg)
+
+    Figure 2 - Block diagram of automatic control system (5-2-045) incorporating a closed loop {{5-2-080, Closed Loop}}
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: ANSI
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Feedback_signal

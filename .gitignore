@@ -14,3 +14,4 @@ public/logos/
 public/favicon-links.html
 *.log
 Gemfile.lock
+datasets_raw/

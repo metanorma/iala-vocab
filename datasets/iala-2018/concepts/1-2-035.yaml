@@ -1,0 +1,75 @@
+---
+id: 1-2-035
+data:
+  identifier: 1-2-035
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Bearing
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-2-035
+---
+id: 1-2-035-eng
+termid: 1-2-035
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Bearing
+  normative_status: preferred
+- type: expression
+  designation: Azimuth
+  normative_status: admitted
+definition:
+- content: |-
+    Angle measured between the plane of the meridian through the point of observation and the vertical plane passing through that point and an observed object. It is measured from true North in a clockwise sense from 0 to 360 degrees.
+
+    The term relevement in French is used mainly when the point of observation is on a floating or moored vessel, and the position of this is being determined in relation to a fixed observed object.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The term "azimuth" is generally used when the observed object is a heavenly
+    body.
+- content: The term azimut in French is used when the point of observation is a fixed
+    point and the position of the observed object is to be determined.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bearing

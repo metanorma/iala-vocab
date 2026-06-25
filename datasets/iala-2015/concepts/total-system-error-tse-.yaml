@@ -1,0 +1,63 @@
+---
+id: total-system-error-tse-
+data:
+  identifier: total-system-error-tse-
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Total_System_Error_(TSE)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: total-system-error-tse-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: total-system-error-tse-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: total-system-error-tse-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: total-system-error-tse-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: total-system-error-tse-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: total-system-error-tse-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: total-system-error-tse-
+---
+id: total-system-error-tse--eng
+termid: total-system-error-tse-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Total System Error (TSE)
+  normative_status: preferred
+definition:
+- content: |-
+    The overall navigation performance can be described by the TSE. Assuming the contributions to TSE from NSE and VTE are random, the TSE can be described as: TSE2 = NSE2 + VTE2
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Total_System_Error_(TSE)

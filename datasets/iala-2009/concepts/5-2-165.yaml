@@ -1,0 +1,72 @@
+---
+id: 5-2-165
+data:
+  identifier: 5-2-165
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Final_controlled_variable
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-2-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-2-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-2-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-2-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-2-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-2-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-2-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-2-165
+---
+id: 5-2-165-eng
+termid: 5-2-165
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Final controlled variable
+  normative_status: preferred
+- type: expression
+  designation: Ultimately controlled variable (U.S.A.)
+  normative_status: admitted
+definition:
+- content: For a controlled system, a variable, the control of which is the ultimate
+    purpose of the system.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.C
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Final_controlled_variable

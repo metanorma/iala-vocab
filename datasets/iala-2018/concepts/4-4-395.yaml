@@ -1,0 +1,67 @@
+---
+id: 4-4-395
+data:
+  identifier: 4-4-395
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Interlocking_equisignal_system
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-4-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-4-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-4-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-4-395
+---
+id: 4-4-395-eng
+termid: 4-4-395
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Interlocking equisignal system
+  normative_status: preferred
+definition:
+- content: |-
+    A system of radio navigation by a comparison method in which two alternating transmissions are used which produce, in the region of the required track, signals which are operationally complementary.
+
+    On the defined track the resultant composite signal has a constant intensity.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Interlocking_equisignal_system

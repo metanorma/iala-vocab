@@ -1,0 +1,72 @@
+---
+id: 8-3-035
+data:
+  identifier: 8-3-035
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Derrick
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-3-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-3-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-3-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-3-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-3-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-3-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-3-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-3-035
+---
+id: 8-3-035-eng
+termid: 8-3-035
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Derrick
+  normative_status: preferred
+- type: expression
+  designation: "(Cargo) boom"
+  normative_status: admitted
+definition:
+- content: |-
+    A spar projecting from a mast, gantry, tripod or other supporting structure, and fitted with topping lift, slewing guys and lifting tackle.
+
+    Note :
+
+    In Germany, the term Schwergutbaum is used for derricks of more than 10 tons load.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Derrick

@@ -1,0 +1,71 @@
+---
+id: 4-1-130
+data:
+  identifier: 4-1-130
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Minimum_distance
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-1-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-1-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-1-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-1-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-1-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-1-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-1-130
+---
+id: 4-1-130-eng
+termid: 4-1-130
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Minimum distance
+  normative_status: preferred
+- type: expression
+  designation: Minimum distance (of a navigational system)
+  normative_status: admitted
+definition:
+- content: The shortest distance at which a navigational system will function within
+    its prescribed tolerances.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.R.E
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Minimum_distance

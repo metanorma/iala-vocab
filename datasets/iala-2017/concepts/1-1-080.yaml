@@ -1,0 +1,67 @@
+---
+id: 1-1-080
+data:
+  identifier: 1-1-080
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stand-by_apparatus
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-1-080
+---
+id: 1-1-080-eng
+termid: 1-1-080
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Stand-by apparatus
+  normative_status: preferred
+definition:
+- content: Permanently available apparatus specially designed to be brought easily
+    into service if the normal equipment fails. It may often be brought into service
+    automatically. It usually provides an adequate replacement for the normal service
+    equipment.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Stand-by_apparatus

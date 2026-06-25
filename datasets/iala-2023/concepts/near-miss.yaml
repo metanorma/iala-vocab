@@ -12,6 +12,31 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Near_Miss
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: near-miss
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: near-miss
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: near-miss
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: near-miss
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: near-miss
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: near-miss
 ---
 id: near-miss-eng
 termid: near-miss

@@ -1,0 +1,68 @@
+---
+id: 4-3-575
+data:
+  identifier: 4-3-575
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Storage_tube
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-3-575
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-3-575
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-3-575
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-3-575
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-3-575
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-3-575
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-3-575
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-3-575
+---
+id: 4-3-575-eng
+termid: 4-3-575
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Storage tube
+  normative_status: preferred
+definition:
+- content: An electronic tube in which a signal conveying information can be stored
+    by conversion into an electrostatic charge.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Storage_tube

@@ -1,0 +1,79 @@
+---
+id: 2-3-080
+data:
+  identifier: 2-3-080
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Incandescent_(Electric)_Lamp
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-3-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-3-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-080
+---
+id: 2-3-080-eng
+termid: 2-3-080
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Incandescent (Electric) Lamp
+  normative_status: preferred
+definition:
+- content: |-
+    A lamp in which light is produced by means of a body heated to incandescence by the passage of an electric current. (Figs. 10 and 22)
+
+    ![Ch2_Fig10.jpg](/iala-vocab/images/iala/Ch2_Fig10.jpg)
+
+    ![Ch2_Fig22.jpg](/iala-vocab/images/iala/Ch2_Fig22.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+notes:
+- content: According as the luminous element is a filament of carbon or metal, the
+    lamp is called a Carbon Filament Lamp or a Metal Filament Lamp. The latter may
+    be a Straight-Filament Lamp {{2-3-175, Straight-Filament Lamp}}, a Single-Coil
+    Lamp {{2-3-180, Single-Coil Lamp}} or a Coiled-Coil Lamp {{2-3-185, Coiled-Coil
+    Lamp}}.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Incandescent_(Electric)_Lamp

@@ -1,0 +1,68 @@
+---
+id: 1-1-030
+data:
+  identifier: 1-1-030
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Coast_guard_station
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-1-030
+---
+id: 1-1-030-eng
+termid: 1-1-030
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Coast guard station
+  normative_status: preferred
+- type: expression
+  designation: Coast guard station (U.S.A.)
+  normative_status: admitted
+definition:
+- content: Building(s) on the coast for housing personnel and equipment for saving
+    life at sea. Also called life-saving station.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Coast_guard_station

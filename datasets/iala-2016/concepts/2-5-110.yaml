@@ -1,0 +1,69 @@
+---
+id: 2-5-110
+data:
+  identifier: 2-5-110
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Rhythmic_Light
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-5-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-5-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-5-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-5-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-5-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-5-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-5-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-5-110
+---
+id: 2-5-110-eng
+termid: 2-5-110
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Rhythmic Light
+  normative_status: preferred
+definition:
+- content: Rhythmic light is a light exhibiting its character in recurring regular
+    cycles (flashes, group flashes, alternating).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Rhythmic_Light

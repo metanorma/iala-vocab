@@ -1,0 +1,78 @@
+---
+id: 8-4-075
+data:
+  identifier: 8-4-075
+  domains:
+  - source: urn:iala:dictionary:iala-2018
+    concept_id: section-unknown
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Superstructure_(of_a_buoy)/es
+related:
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-4-075
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-4-075
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-4-075
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-4-075
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-4-075
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-4-075
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-4-075
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-4-075
+---
+id: 8-4-075-spa
+termid: 8-4-075
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Superstructure (of a buoy)/es
+  normative_status: preferred
+definition:
+- content: |-
+    Superestructura (de una boya)
+
+    Armazón o construcción considerable que se realiza sobre el cuerpo de una boya. Puede servir como marca diurna y puede llevar una señal luminosa, marca de tope y otras ayudas a la navegación.
+    .
+
+    Nota 1:
+
+    El término jaula se refiere a una parte de una superestructura que es un marco externo de listones o costillas muy separadas. El propósito de una jaula es proporcionar una forma característica como un cilindro, cono o esfera.
+
+    Nota 2:
+
+    Los términos soporte de linterna y poste de linterna (EE. UU.) Se refieren a la parte de la superestructura de la boya que proporciona soporte directo a la luz de la boya y, posiblemente, también al topmark y al reflector de radar.
+
+    El término francés support de lanterne tiene el mismo significado.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Superstructure_(of_a_buoy)/es

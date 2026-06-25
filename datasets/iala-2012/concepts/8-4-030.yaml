@@ -1,0 +1,82 @@
+---
+id: 8-4-030
+data:
+  identifier: 8-4-030
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Large_navigation(al)_buoy
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-4-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-4-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-4-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-4-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-4-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-4-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-4-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-4-030
+---
+id: 8-4-030-eng
+termid: 8-4-030
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Large navigation(al) buoy
+  normative_status: preferred
+definition:
+- content: |-
+    Lanby
+
+    LNB (USA)
+
+    A buoy, commonly a discus buoy, designed to carry a light, usually of high luminous intensity and at a height in excess of 10 metres above the water level, as an aid to navigation. The principal dimension of the buoy in the water plane is more than 8 metres and usually more than 10 metres. Such buoys may also carry radio equipment and power generation equipment such as diesel-alternator sets.
+
+    The term "Lanby" is derived from Large Automatic Navigation Buoy.
+
+    The term superbuoy is applied to buoys of similarly large dimensions that are not principally used as aids to navigation, such as super mooring buoys and the largest ODAS buoys. Hydrographic authorities may incude Lanbys in the general class of superbuoy for the purpose of symbolic notation on charts.
+
+    Another form of large navigational buoy is the semi-submersible buoy, usually in the shape of a platform, partially submerged and anchored to the sea-bed by tensioned chains.
+
+    The French term bouee-phare is sometimes used but it is not recommended.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: " :"
+- content: " :"
+- content: " :"
+- content: " :"
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Large_navigation(al)_buoy

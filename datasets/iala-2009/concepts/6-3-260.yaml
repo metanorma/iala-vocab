@@ -1,0 +1,66 @@
+---
+id: 6-3-260
+data:
+  identifier: 6-3-260
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Wave-actuated_generator
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-3-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-3-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-3-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-3-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-3-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-3-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-3-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-3-260
+---
+id: 6-3-260-eng
+termid: 6-3-260
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Wave-actuated generator
+  normative_status: preferred
+definition:
+- content: A generator that produces electric energy from the energy of wave motion.
+    Usually the wave motion is used to compress a fluid to supply a turbine coupled
+    to an electrical generator.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wave-actuated_generator

@@ -1,0 +1,65 @@
+---
+id: 7-6-030
+data:
+  identifier: 7-6-030
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hardening_(of_concrete)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-6-030
+---
+id: 7-6-030-eng
+termid: 7-6-030
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Hardening (of concrete)
+  normative_status: preferred
+definition:
+- content: The process which occurs after concrete has been mixed, in which the crystalline
+    structure is developed, resulting in increased hardness with time.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hardening_(of_concrete)

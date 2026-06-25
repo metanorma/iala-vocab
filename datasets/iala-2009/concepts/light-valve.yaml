@@ -1,0 +1,70 @@
+---
+id: light-valve
+data:
+  identifier: light-valve
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Light_Valve
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: light-valve
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: light-valve
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: light-valve
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: light-valve
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: light-valve
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: light-valve
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: light-valve
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: light-valve
+---
+id: light-valve-eng
+termid: light-valve
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Light Valve
+  normative_status: preferred
+- type: expression
+  designation: Sun Valve
+  normative_status: admitted
+definition:
+- content: |-
+    2-4 155
+
+    A device, operated by daylight, that automatically lights and extinguishes a gas light, usually lighting it at or about sunset and extinguishing it at or about sunrise.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light_Valve

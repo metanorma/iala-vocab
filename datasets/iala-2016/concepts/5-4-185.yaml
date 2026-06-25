@@ -1,0 +1,69 @@
+---
+id: 5-4-185
+data:
+  identifier: 5-4-185
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Latching_relay
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-4-185
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-4-185
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-4-185
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-4-185
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-4-185
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-4-185
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-4-185
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-185
+---
+id: 5-4-185-eng
+termid: 5-4-185
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Latching relay
+  normative_status: preferred
+definition:
+- content: A relay which locks mechanically when operated and remains operated although
+    the control current is removed. A separate operation is required to release the
+    relay.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.C
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Latching_relay

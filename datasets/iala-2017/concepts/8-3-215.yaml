@@ -1,0 +1,65 @@
+---
+id: 8-3-215
+data:
+  identifier: 8-3-215
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sling
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-3-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-3-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-3-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-3-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-3-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-3-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-3-215
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-3-215
+---
+id: 8-3-215-eng
+termid: 8-3-215
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Sling
+  normative_status: preferred
+definition:
+- content: A fibre or wire rope used for encircling a load to hold it securely for
+    lifting.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sling

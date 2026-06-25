@@ -1,0 +1,67 @@
+---
+id: 4-4-400
+data:
+  identifier: 4-4-400
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/A-N_Radio_range
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-400
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-400
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-4-400
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-4-400
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-400
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-4-400
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-400
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-4-400
+---
+id: 4-4-400-eng
+termid: 4-4-400
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: A-N Radio range
+  normative_status: preferred
+definition:
+- content: |-
+    A Radio Range providing four radial lines of position identified aurally as a continuous tone resulting from the interlocking of equal amplitude A and N International Morse Code letters.
+
+    The sense of deviation from these lines is indicated by a deterioration of the steady tone into audible A or N code signals.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/A-N_Radio_range

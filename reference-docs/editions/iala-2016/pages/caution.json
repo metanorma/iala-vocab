@@ -1,0 +1,30 @@
+{
+  "title": "Caution",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p>Lowest priority of an alert. \n</p><p>Awareness of a condition which does not warrant an alarm or warning condition, but still requires attention out of the ordinary consideration of the situation or of given information.\n</p><p><br>\nSee also <a href=\"/wiki/dictionary/index.php/Codes_on_Alerts_and_Indicators\" title=\"Codes on Alerts and Indicators\">Codes on Alerts and Indicators</a>\n</p><p>Source: <span class=\"mw-lingo-term\" data-lingo-term-id=\"b6f60f2f331c5ad04e19a91d0ba388f4\">IMO</span> Res. A1021(26)\n</p><p>(VTS40, <span class=\"mw-lingo-term\" data-lingo-term-id=\"0a1217bfe27a54fc7e55b72fc62c2371\">IALA</span> Guideline no. 1110 refers)\n</p><p><br>\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a href=\"/wiki/dictionary/index.php/Codes_on_Alerts_and_Indicators\" title=\"Codes on Alerts and Indicators\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"b6f60f2f331c5ad04e19a91d0ba388f4\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>International Maritime Organization\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"0a1217bfe27a54fc7e55b72fc62c2371\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>International Association of Marine Aids to Navigation and Lighthouse Authorities - AISM\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260615172128\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.030 seconds\nReal time usage: 0.040 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 733/2097152 bytes\nTemplate argument size: 398/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   12.646      1 Template:Languages\n100.00%   12.646      1 -total\n 67.84%    8.579      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:2962-0!canonical and timestamp 20260615172128 and revision id 9073. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "9.1_VTS_terms"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2016_Revision"
+      },
+      {
+        "sortkey": "",
+        "*": "Approved_by_DWG"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\nLowest priority of an alert. \n\nAwareness of a condition which does not warrant an alarm or warning condition, but still requires attention out of the ordinary consideration of the situation or of given information.\n\n\nSee also [[Codes on Alerts and Indicators]]\n\nSource: IMO Res. A1021(26)\n\n(VTS40, IALA Guideline no. 1110 refers)\n\n\n{{languages|Codes on Alerts and Indicators}}\n[[Category:9.1 VTS terms]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2016 Revision]]\n[[Category:Approved by DWG]]\n[[Category:IALA Dictionary 2023 Revision]]"
+}

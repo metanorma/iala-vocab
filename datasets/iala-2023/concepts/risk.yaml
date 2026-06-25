@@ -12,6 +12,15 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Risk
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: risk
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: risk
 ---
 id: risk-eng
 termid: risk

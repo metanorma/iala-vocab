@@ -1,0 +1,94 @@
+---
+id: 4-2-010
+data:
+  identifier: 4-2-010
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_range
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-2-010
+---
+id: 4-2-010-eng
+termid: 4-2-010
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Radio beacon range
+  normative_status: preferred
+- type: expression
+  designation: Nominal range (of a radio beacon)
+  normative_status: admitted
+definition:
+- content: |-
+    The nominal daytime range for maritime applications at which the field strength expressed in microvoltter metre reaches the value laid down for the particular region in which the radio beacon is operating.
+
+    When two values are given, thus 100/70 miles, the first is the range by day, the second is by night.
+
+    Region 1
+
+    50 microvolts per metre for radio beacons North of 43 degrees N.
+    75 microvolts per metre for radio beacons between 43 degrees N and 30 degrees N.
+    100 microvolts per metre for radio beacons between 30 degrees N and 30 degrees S.
+    75 microvolts per metre for radio beacons between 30 degrees S and 43 degrees S.
+    50 microvolts per metre for radio beacons South of 43 degrees S.
+
+    Region 2
+
+    50 microvolts per metre for radio beacons North of 40 degrees N.
+    75 microvolts per metre for radio beacons between 40 degrees N and 31 degrees N.
+    100 microvolts per metre for radio beacons between 31 degrees N and 30 degrees S.
+    75 microvolts per metre for radio beacons between 30 degrees S and 43 degrees S.
+    50 microvolts per metre for radio beacons South of 43 degrees S.
+
+    Region 3
+
+    75 microvolts per metre for radio beacons North of 40 degrees N.
+    100 microvolts per metre for radio beacons between 40 degrees N and 50 degrees S.
+    75 microvolts per metre for radio beacons South of 50 degrees S.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: 'The values as laid down by the Reference: I.T.U. Regulations are'
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_range

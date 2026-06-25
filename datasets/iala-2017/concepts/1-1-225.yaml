@@ -1,0 +1,71 @@
+---
+id: 1-1-225
+data:
+  identifier: 1-1-225
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Wavelength
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-1-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-1-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-1-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-1-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-1-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-1-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-1-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-1-225
+---
+id: 1-1-225-eng
+termid: 1-1-225
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Wavelength
+  normative_status: preferred
+definition:
+- content: |-
+    Distance in the direction of propagation of a periodic wave between two successive points at which the phase is the same (at the same time).
+
+    Symbol ??
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E. (extract)
+annotations:
+- content: Unit metre (m)
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wavelength

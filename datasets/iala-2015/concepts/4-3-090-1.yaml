@@ -1,0 +1,79 @@
+---
+id: 4-3-090-1
+data:
+  identifier: 4-3-090-1
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sandbox
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-3-090-1
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-3-090-1
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-3-090-1
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-3-090-1
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-3-090-1
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-3-090-1
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-3-090-1
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-3-090-1
+---
+id: 4-3-090-1-eng
+termid: 4-3-090-1
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Sandbox
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: A-scan, A-scope, Range amplitude display (G.B.)
+
+    A display in which the targets appear as vertical deflections from a line representing a time base.
+
+    The target range is indicated by the horizontal distance of the deflection from one end of the time base.
+
+    The amplitude of the vertical deflection is a function of the signal intensity.
+
+    urn:mrn:iala:dic:0401502e
+
+    A position estimate with respect to the geographic or geodetic co-ordinates of the Earth
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.R.E
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sandbox

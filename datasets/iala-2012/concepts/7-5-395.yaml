@@ -1,0 +1,66 @@
+---
+id: 7-5-395
+data:
+  identifier: 7-5-395
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Conditions_of_contract
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-5-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-5-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-5-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-5-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-5-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-5-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-5-395
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-5-395
+---
+id: 7-5-395-eng
+termid: 7-5-395
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Conditions of contract
+  normative_status: preferred
+definition:
+- content: Those conditions, including agreement on rates of payment and time for
+    completion, detailed by the client under which the contract for undertaking certain
+    works is to be performed, forming a legally binding document.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Conditions_of_contract

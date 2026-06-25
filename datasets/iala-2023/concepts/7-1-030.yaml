@@ -1,0 +1,73 @@
+---
+id: 7-1-030
+data:
+  identifier: 7-1-030
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dike_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-1-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-1-030
+---
+id: 7-1-030-eng
+termid: 7-1-030
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Dike (2)
+  normative_status: preferred
+- type: expression
+  designation: Dyke levee (USA)
+  normative_status: admitted
+definition:
+- content: An embankment along a coast, river or lake, to provide low lying land with
+    protection against flooding.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The term sea-wall refers to a dike on the sea coast.
+- content: A " dike " can also be a ditch or natural or artificial drainage channel.
+- content: The French term digue is also very often used for a mole, when this protects
+    an area of water within a harbour.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Dike_(2)

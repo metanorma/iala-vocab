@@ -1,0 +1,75 @@
+---
+id: 2-5-105
+data:
+  identifier: 2-5-105
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fixed_Light
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-5-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-5-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-5-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-5-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-5-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-5-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-5-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-5-105
+---
+id: 2-5-105-eng
+termid: 2-5-105
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Fixed Light
+  normative_status: preferred
+definition:
+- content: |-
+    A light which appears continuous and steady and of constant colour to an observer whose position remains unchanged in relation to it. (Fig. 40a)
+
+    (Compare "Fixed mark", 2-6-005).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+notes:
+- content: In Britain and U.S.A., the term "Fixed light" is also loosely used for
+    a light sup-ported on a fixed structure, as distinct from a light on a floating
+    support.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fixed_Light

@@ -1,0 +1,69 @@
+---
+id: chart-error
+data:
+  identifier: chart-error
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Chart_error
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: chart-error
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: chart-error
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: chart-error
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: chart-error
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: chart-error
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: chart-error
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: chart-error
+---
+id: chart-error-eng
+termid: chart-error
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Chart error
+  normative_status: preferred
+definition:
+- content: |-
+    Position errors in the chart caused by inaccuracies in surveying and by errors in the reference geodetic system.
+
+    - Circular error probable (CEP). The radius of a circle, centred on the measured position, inside which the true position lies with 50% confidence.
+
+    - Confidence interval. The numerical range within which an unknown is estimated to be with a given confidence.
+
+    - Confidence level. The percentage of confidence that a given statement is correct, or the percentage of confidence that a stated interval (numerical range) includes an unknown.
+
+    - Confidence limits. The extremes of a confidence interval.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Chart_error

@@ -1,0 +1,105 @@
+---
+id: 8-4-195
+data:
+  identifier: 8-4-195
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Anti-fouling_paint
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-4-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-4-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-4-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-4-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-4-195
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-4-195
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-4-195
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-4-195
+---
+id: 8-4-195-eng
+termid: 8-4-195
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Anti-fouling paint
+  normative_status: preferred
+definition:
+- content: Paint used on vessels and buoys that has the property of reducing the rate
+    of marine growth on the hull or body.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Anti-fouling_paint
+---
+id: 8-4-195-spa
+termid: 8-4-195
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Anti-fouling paint/es
+  normative_status: preferred
+definition:
+- content: |-
+    Pintura anti-incrustante
+
+    Pintura utilizada en  embarcaciones y boyas que tiene la propiedad de reducir la tasa de crecimiento de la fauna marina en la superficie del casco o cuerpo protegido.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Anti-fouling_paint/es
+---
+id: 8-4-195-spa
+termid: 8-4-195
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 8-4-195
+  normative_status: preferred
+definition:
+- content: |-
+    Pintura anti-incrustante
+
+    Pintura utilizada en  embarcaciones y boyas que tiene la propiedad de reducir la tasa de crecimiento de la fauna marina en la superficie del casco o cuerpo protegido.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Anti-fouling_paint/es

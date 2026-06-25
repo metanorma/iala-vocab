@@ -1,0 +1,72 @@
+---
+id: 2-4-005
+data:
+  identifier: 2-4-005
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lantern_Glazing_(G.B.)_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-4-005
+---
+id: 2-4-005-eng
+termid: 2-4-005
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Lantern Glazing (G.B.) (2)
+  normative_status: preferred
+- type: expression
+  designation: "(Lantern) Panes (U.S.A.)"
+  normative_status: admitted
+definition:
+- content: |-
+    (Lantern) Glazing (G.B.)
+
+    A general term for the glass parts of a lantern.
+
+    ![Ch2_Fig33.jpg](/iala-vocab/images/iala/Ch2_Fig33.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lantern_Glazing_(G.B.)_(2)

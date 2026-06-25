@@ -1,0 +1,66 @@
+---
+id: protection
+data:
+  identifier: protection
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-12
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Protection
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: protection
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: protection
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: protection
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: protection
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: protection
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: protection
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: protection
+---
+id: protection-eng
+termid: protection
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Protection
+  normative_status: preferred
+definition:
+- content: |-
+    The provision of legal restraints or controls on the destruction or damaging of buildings or artefacts, natural features, systems, sites, areas or other things of acknowledged value, with a view to their survival or preservation for the future.
+
+    (This definition was noted at the IALA Seminar on the Practical Aspects of Lighthouse Preservation in Gothenburg 2005)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: Stirlingcharter
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Protection

@@ -1,0 +1,74 @@
+---
+id: 1-1-315
+data:
+  identifier: 1-1-315
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Total_amplitude_of_oscillation
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-1-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-1-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-1-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-1-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-1-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-1-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-1-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-1-315
+---
+id: 1-1-315-eng
+termid: 1-1-315
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Total amplitude of oscillation
+  normative_status: preferred
+- type: expression
+  designation: Total amplitude of oscillation (of a periodic quantity)
+  normative_status: admitted
+definition:
+- content: The difference between the maximum and the minimum value of the quantity
+    during one period.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.C
+  modification: modified from source
+notes:
+- content: In the case of sinusoidal oscillation usually called double amplitude.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Total_amplitude_of_oscillation

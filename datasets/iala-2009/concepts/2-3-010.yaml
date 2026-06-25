@@ -1,0 +1,67 @@
+---
+id: 2-3-010
+data:
+  identifier: 2-3-010
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lamp
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-3-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-3-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-010
+---
+id: 2-3-010-eng
+termid: 2-3-010
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Lamp
+  normative_status: preferred
+definition:
+- content: A source made in order to produce light.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lamp

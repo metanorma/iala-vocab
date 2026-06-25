@@ -1,0 +1,68 @@
+---
+id: 7-6-380
+data:
+  identifier: 7-6-380
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Bosun's_chair
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-6-380
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-6-380
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-6-380
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-6-380
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-6-380
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-6-380
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-6-380
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-6-380
+---
+id: 7-6-380-eng
+termid: 7-6-380
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Bosun's chair
+  normative_status: preferred
+definition:
+- content: A lightly built seat suspended from a cable with tackle attached to permit
+    access to the exterior faces of structures for painting or other maintenance work.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: A similar system can be employed for the transfer of personnel or material
+    between a vessel and an otherwise inaccessible lighthouse.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bosun's_chair

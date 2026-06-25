@@ -12,6 +12,39 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Wind_speed_duration_curve
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-3-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-3-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-3-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-3-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-3-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-3-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-3-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-3-110
 ---
 id: 6-3-110-eng
 termid: 6-3-110

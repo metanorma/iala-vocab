@@ -1,0 +1,78 @@
+---
+id: 2-1-295
+data:
+  identifier: 2-1-295
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Contrast
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-295
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-295
+---
+id: 2-1-295-eng
+termid: 2-1-295
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Contrast
+  normative_status: preferred
+- type: symbol
+  designation: stem:[C]
+  normative_status: preferred
+definition:
+- content: |-
+    (Luminance) Contrast (of an object against its background)
+
+    1. Subjective assessment of the difference in luminance of an object and its background.
+
+    2. The quotient of the difference between the luminance of an object and the luminance of its background by the luminance of the background.
+
+    ![2-1-295_Contrast_Equation.png](/iala-vocab/images/iala/2-1-295_Contrast_Equation.png)
+
+    where L1 is the luminance of the background
+
+    L2 is the luminance of the object seen against the background.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Contrast

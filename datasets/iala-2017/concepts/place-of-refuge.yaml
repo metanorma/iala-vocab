@@ -1,0 +1,63 @@
+---
+id: place-of-refuge
+data:
+  identifier: place-of-refuge
+  domains:
+  - source: urn:iala:dictionary:iala-2012
+    concept_id: section-9
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Place_of_Refuge
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: place-of-refuge
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: place-of-refuge
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: place-of-refuge
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: place-of-refuge
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: place-of-refuge
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: place-of-refuge
+---
+id: place-of-refuge-eng
+termid: place-of-refuge
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Place of Refuge
+  normative_status: preferred
+definition:
+- content: |-
+    VTS-2012-25
+
+    A place where a ship in need of assistance can take action to enable it to stabilize its condition and reduce hazards to navigation, and to protect human life and the environment.
+
+    Source: IMO A.949(23)
+
+    (VTS33/output/8 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Place_of_Refuge

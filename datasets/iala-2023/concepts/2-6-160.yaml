@@ -1,0 +1,68 @@
+---
+id: 2-6-160
+data:
+  identifier: 2-6-160
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Tide_Signals
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-6-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-6-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-6-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-6-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-6-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-6-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-6-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-6-160
+---
+id: 2-6-160-eng
+termid: 2-6-160
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Tide Signals
+  normative_status: preferred
+definition:
+- content: Signals showing to navigators the state or change of the tide according
+    to a prearranged code, or by direct display on a scale.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The German term Wasserstandanzeiger is also used for similar signals in
+    non-tidal waters.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tide_Signals

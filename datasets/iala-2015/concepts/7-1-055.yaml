@@ -1,0 +1,68 @@
+---
+id: 7-1-055
+data:
+  identifier: 7-1-055
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Landing
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-1-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-1-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-1-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-1-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-1-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-1-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-1-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-1-055
+---
+id: 7-1-055-eng
+termid: 7-1-055
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Landing
+  normative_status: preferred
+definition:
+- content: Any area, structure or part of a structure designated for the transfer
+    of personnel or materials between a vessel and the shore or structure.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The French term cale denotes a gently sloping area on which a landing can
+    be made.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Landing

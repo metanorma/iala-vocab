@@ -1,0 +1,68 @@
+---
+id: 5-4-005
+data:
+  identifier: 5-4-005
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Digital_computer
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-4-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-005
+---
+id: 5-4-005-eng
+termid: 5-4-005
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Digital computer
+  normative_status: preferred
+definition:
+- content: A computer that operates on discrete data by performing arithmetic and
+    logic processes on these data.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: ANSI
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Digital_computer

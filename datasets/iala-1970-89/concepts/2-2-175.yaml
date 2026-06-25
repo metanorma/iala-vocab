@@ -15,6 +15,34 @@ sources:
 related:
 - type: equivalent
   ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-2-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-2-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-2-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-2-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-2-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-2-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-2-175
+- type: equivalent
+  ref:
     source: urn:iala:dictionary:2023
     concept_id: 2-2-175
 ---

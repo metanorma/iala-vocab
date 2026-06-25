@@ -1,0 +1,69 @@
+---
+id: 5-3-195
+data:
+  identifier: 5-3-195
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Modulation_envelope
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-3-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-3-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-3-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-3-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-3-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-3-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-3-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-3-195
+---
+id: 5-3-195-eng
+termid: 5-3-195
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Modulation envelope
+  normative_status: preferred
+definition:
+- content: The two curves on which are approximately situated the extremes of the
+    curves representing as a function of time an oscillation modulated in amplitude.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.E.F
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Modulation_envelope

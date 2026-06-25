@@ -1,0 +1,72 @@
+---
+id: 4-2-360
+data:
+  identifier: 4-2-360
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Standard_wave_error
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-2-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-2-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-2-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-2-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-2-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-2-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-2-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-2-360
+---
+id: 4-2-360-eng
+termid: 4-2-360
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Standard wave error
+  normative_status: preferred
+definition:
+- content: The total polarization error produced by a plane wave incident at an angle
+    of elevation of 45 degrees  and having equal vertically and horizontally polarized
+    components.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+notes:
+- content: As a criterion of performance the term is not appropriate to direction
+    finders employing elevated antenna systems.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Standard_wave_error

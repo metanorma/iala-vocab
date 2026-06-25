@@ -1,0 +1,63 @@
+---
+id: vts-operator-course-certificate
+data:
+  identifier: vts-operator-course-certificate
+  domains:
+  - source: urn:iala:dictionary:iala-2012
+    concept_id: section-9
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/VTS_Operator_Course_Certificate
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: vts-operator-course-certificate
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: vts-operator-course-certificate
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: vts-operator-course-certificate
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: vts-operator-course-certificate
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: vts-operator-course-certificate
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: vts-operator-course-certificate
+---
+id: vts-operator-course-certificate-eng
+termid: vts-operator-course-certificate
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: VTS Operator Course Certificate
+  normative_status: preferred
+definition:
+- content: |-
+    VTS-2012-47
+
+    VTS Operator Course Certificate is a document awarded by the training organisation, to indicate that a trainee has achieved successful completion of an accredited IALA Model Course i.e. V-103/1 VTS Operator Training, V-103/2 VTS Supervisor Training, V-103/3 VTS On-the-Job Training and V-103/4 On-the-Job Training Instructor.  This course certificate alone should not be an authorisation to operate.
+
+    Source: IALA Recommendation V-103 (2009)
+
+    (VTS33/output/8 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/VTS_Operator_Course_Certificate

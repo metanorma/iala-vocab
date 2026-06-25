@@ -1,0 +1,77 @@
+---
+id: historic-lighthouse
+data:
+  identifier: historic-lighthouse
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-12
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Historic_Lighthouse
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: historic-lighthouse
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: historic-lighthouse
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: historic-lighthouse
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: historic-lighthouse
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: historic-lighthouse
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: historic-lighthouse
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: historic-lighthouse
+---
+id: historic-lighthouse-eng
+termid: historic-lighthouse
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Historic Lighthouse
+  normative_status: preferred
+definition:
+- content: |-
+    To be considered as HISTORIC LIGHTHOUSE, the station must also satisfy at least 3 of the following criteria:
+
+    - Age
+
+    - Engineering and technical achievements related to the location and/or the building time
+
+    - Architectural interest ( design, use of material,...)
+
+    - National or local interest ( history, culture,...)
+
+    - Archaeological importance
+
+    (definition retained for the purpose of the lighthouse book)
+
+    This definition was set out in 1998 and references to the range of the light should be considered as the maximum range during the history of the lighthouse. In a heritage definition a lighthouse station includes all Aids to Navigation related to the site.
+
+    See also Lighthouse (PHL)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Historic_Lighthouse

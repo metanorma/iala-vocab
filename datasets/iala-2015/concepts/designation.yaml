@@ -1,0 +1,63 @@
+---
+id: designation
+data:
+  identifier: designation
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-12
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Designation
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: designation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: designation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: designation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: designation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: designation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: designation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: designation
+---
+id: designation-eng
+termid: designation
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Designation
+  normative_status: preferred
+definition:
+- content: |-
+    Historic importance recognised at International, National or Local level by statutory authority.
+
+    (This definition was noted at the IALA Seminar on the Practical Aspects of Lighthouse Preservation in Gothenburg 2005)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Designation

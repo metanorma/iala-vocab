@@ -1,0 +1,27 @@
+{
+  "title": "Hazard (2)/fr",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p><big><big><big>Danger</big></big></big>\n</p><p><br>\n</p><p>Danger signifie toute situation ou menace qui:\n</p>\n<ol><li>a) représente un danger ou une entrave à la navigation; ou</li>\n<li>b) peut raisonnablemet être susceptible d’entraîner des conséquence majeurs dommageables au milieu marin, ou des dommages au littoral ou relevant d’intérêts connexes à un ou plusieurs États.</li></ol>\n<p><br>\n</p><p>La source: Convention de Nairobi 2017, fourni par le comité <span class=\"mw-lingo-term\" data-lingo-term-id=\"0a1217bfe27a54fc7e55b72fc62c2371\">IALA</span> <span class=\"mw-lingo-term\" data-lingo-term-id=\"47f45e65244c17ec9fa8771a5c6d60e1\">ARM</span> dans le document ARM7-12.1.14 en 2017.\n</p><p><br>\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a href=\"/wiki/dictionary/index.php/Hazard_(2)\" title=\"Hazard (2)\">English</a></b>\n<span></span>\n • <span lang=\"fr\"><a class=\"mw-selflink selflink\">français</a></span>\n • <span lang=\"es\"><a href=\"/wiki/dictionary/index.php/Hazard_(2)/es\" title=\"Hazard (2)/es\">español</a></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"0a1217bfe27a54fc7e55b72fc62c2371\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>International Association of Marine Aids to Navigation and Lighthouse Authorities - AISM\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"47f45e65244c17ec9fa8771a5c6d60e1\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>Aids to Navigation Requirements and Management Committee (IALA)\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260615220122\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.047 seconds\nReal time usage: 0.054 seconds\nPreprocessor visited node count: 76/1000000\nPost‐expand include size: 1030/2097152 bytes\nTemplate argument size: 190/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 3/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   13.342      1 Template:Languages\n100.00%   13.342      1 -total\n 59.71%    7.967      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:3038-0!canonical and timestamp 20260615220122 and revision id 8533. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "1.2_Navigation"
+      },
+      {
+        "sortkey": "",
+        "*": "Classement_alphabétique"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2018_Revision"
+      },
+      {
+        "sortkey": "",
+        "missing": "",
+        "*": "French"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "<big><big><big>Danger</big></big></big>\n\n\n\nDanger signifie toute situation ou menace qui:\n# a) représente un danger ou une entrave à la navigation; ou \n# b) peut raisonnablemet être susceptible d’entraîner des conséquence majeurs dommageables au milieu marin, ou des dommages au littoral ou relevant d’intérêts connexes à un ou plusieurs États.\n\n\n\nLa source: Convention de Nairobi 2017, fourni par le comité IALA ARM dans le document ARM7-12.1.14 en 2017.\n\n\n{{languages|Hazard (2)}}\n[[Category:1.2 Navigation]]\n[[Category: Classement alphabétique]]\n[[Category:IALA Dictionary 2018 Revision]]\n[[Category:French]]"
+}

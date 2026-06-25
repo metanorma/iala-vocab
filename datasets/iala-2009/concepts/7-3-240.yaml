@@ -1,0 +1,71 @@
+---
+id: 7-3-240
+data:
+  identifier: 7-3-240
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Prestressing
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-3-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-3-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-3-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-3-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-3-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-3-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-3-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-3-240
+---
+id: 7-3-240-eng
+termid: 7-3-240
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Prestressing
+  normative_status: preferred
+definition:
+- content: A construction method for reinforced concrete in which a tension is imparted
+    to the main longitudinal reinforcement to help reduce tensile forces in the concrete.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: Prestressing may be effected by tensioning the reinforcement before pouring
+    the concrete, the resultant being called prestressed concrete. Alternatively prestressing
+    may be effected by tensioning the reinforcement within ducts in precast components
+    and subsequently pressure grouting to form an integral structure, the resultant
+    being called post-tensioned concrete.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Prestressing

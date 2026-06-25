@@ -1,0 +1,68 @@
+---
+id: 4-1-735
+data:
+  identifier: 4-1-735
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Selectivity
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-735
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-1-735
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-1-735
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-1-735
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-1-735
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-1-735
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-1-735
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-1-735
+---
+id: 4-1-735-eng
+termid: 4-1-735
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Selectivity
+  normative_status: preferred
+definition:
+- content: The ability of a receiver to discriminate, by frequency dependent selection,
+    between a desired signal and co-existent undesired signals at other frequencies.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Selectivity

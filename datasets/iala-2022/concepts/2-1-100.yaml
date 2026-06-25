@@ -1,0 +1,75 @@
+---
+id: 2-1-100
+data:
+  identifier: 2-1-100
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Angle_of_Divergence
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-100
+---
+id: 2-1-100-eng
+termid: 2-1-100
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Angle of Divergence
+  normative_status: preferred
+definition:
+- content: |-
+    The angle formed by two rays of a luminous beam in a given plane, the intensity within the angle being at least equal to an assigned percentage of the maximum of the curve of the intensity distribution in that plane.
+
+    Most often the plane is either vertical (vertical divergence) or horizontal (horizontal divergence).
+
+    The value of the assigned percentage has differed widely, the most common values being 10%, 15% or 50%.
+
+    For an optical apparatus which does not produce a converged beam {{2-2-215, Converged Beam}} or a diverged beam {{2-2-220, Diverged Beam}}, the angle of divergence is also defined approximately by radians or degrees, where f is the focal distance of an optical apparatus and d is the maximum dimension of a light source placed at its focus, measured in the same plane as the angle of divergence.
+
+    ![Ch2_Fig5.jpg](/iala-vocab/images/iala/Ch2_Fig5.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The word Divergence is also used as an abbreviation for "angle of divergence".
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Angle_of_Divergence

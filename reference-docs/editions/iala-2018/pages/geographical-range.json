@@ -1,0 +1,30 @@
+{
+  "title": "Geographical Range",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><p>The greatest distance at which an object or a light source can be seen under conditions of perfect visibility, as limited only by the curvature of the earth, by refraction of the atmosphere, and by the elevation of the observer and the object or light.\n</p><p><span class=\"mw-image-border\" typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:Ch2_Fig9.jpg\" class=\"mw-file-description\"><img src=\"/wiki/dictionary/images/thumb/9/9d/Ch2_Fig9.jpg/400px-Ch2_Fig9.jpg\" decoding=\"async\" width=\"400\" height=\"143\" class=\"mw-file-element\" srcset=\"/wiki/dictionary/images/thumb/9/9d/Ch2_Fig9.jpg/600px-Ch2_Fig9.jpg 1.5x, /wiki/dictionary/images/thumb/9/9d/Ch2_Fig9.jpg/800px-Ch2_Fig9.jpg 2x\" /></a></span>\n</p><p><br />\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\" /></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a href=\"/wiki/dictionary/index.php/Codes_on_Alerts_and_Indicators\" title=\"Codes on Alerts and Indicators\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div>\n<!-- \nNewPP limit report\nCached time: 20260616011756\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.034 seconds\nReal time usage: 0.042 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 733/2097152 bytes\nTemplate argument size: 398/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   10.791      1 Template:Languages\n100.00%   10.791      1 -total\n 64.45%    6.955      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:435-0!canonical and timestamp 20260616011756 and revision id 9547. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "2.1_Optics_and_Vision"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2018_Revision"
+      },
+      {
+        "sortkey": "",
+        "*": "Approved_by_Council_through_approval_of_source_document"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\nThe greatest distance at which an object or a light source can be seen under conditions of perfect visibility, as limited only by the curvature of the earth, by refraction of the atmosphere, and by the elevation of the observer and the object or light.\n\n[[Image:Ch2_Fig9.jpg|400px|border]]\n\n\n{{languages|Codes on Alerts and Indicators}}\n[[Category:2.1 Optics and Vision]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2018 Revision]]\n[[Category:Approved by Council through approval of source document]]\n[[Category:IALA Dictionary 2023 Revision]]"
+}

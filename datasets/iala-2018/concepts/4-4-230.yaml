@@ -1,0 +1,72 @@
+---
+id: 4-4-230
+data:
+  identifier: 4-4-230
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Hi-fix
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-4-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-4-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-4-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-4-230
+---
+id: 4-4-230-eng
+termid: 4-4-230
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Hi-fix
+  normative_status: preferred
+definition:
+- content: |-
+    A high precision phase comparison position fixing system operating in the region of 2 MHz comprising, on the hyperbolic layout, three transmitting stations (master and two slaves) sited ashore to generate two intersecting patterns of lines of position.
+
+    A common radio frequency is employed and the stations operate on a time sharing basis. The effective range is 100-200 miles.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The Hi-fix system can also operate on the two range principle by mounting
+    the master transmitter and the receiver on board ship, as in the Lambda system.
+    Under this arrangement it is only possible for the ship equipped with the master
+    station to use the service.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hi-fix

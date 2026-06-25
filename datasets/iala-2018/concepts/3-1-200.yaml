@@ -1,0 +1,77 @@
+---
+id: 3-1-200
+data:
+  identifier: 3-1-200
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-3
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Threshold_of_hearing
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 3-1-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 3-1-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 3-1-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 3-1-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 3-1-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 3-1-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 3-1-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 3-1-200
+---
+id: 3-1-200-eng
+termid: 3-1-200
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Threshold of hearing
+  normative_status: preferred
+- type: expression
+  designation: Threshold of audibility
+  normative_status: admitted
+definition:
+- content: The minimum r.m.s. sound pressure level of a pure sound which excites the
+    sensation of hearing under specified conditions and at a specified frequency.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.E.F
+notes:
+- content: 'The term "Threshold of hearing" is also used to deNote: the level of the
+    least r.m.s. value of the sound pressure of a complex sound which excites the
+    sensation of hearing.'
+- content: This threshold is usually determined under conditions of negligible ambient
+    noise, but may be determined under other specified conditions.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Threshold_of_hearing

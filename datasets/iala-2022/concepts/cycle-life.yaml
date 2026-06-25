@@ -1,0 +1,39 @@
+---
+id: cycle-life
+data:
+  identifier: cycle-life
+  domains:
+  - source: urn:iala:dictionary:iala-2022
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Cycle_life
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: cycle-life
+---
+id: cycle-life-eng
+termid: cycle-life
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Cycle life
+  normative_status: preferred
+definition:
+- content: |-
+    urn:mrn:iala:dic:0605170e
+
+    The cycle life is normally given for cycles with a fixed depth of discharge (DOD) and with the battery fully charged in each cycle.  Batteries are normally characterised by the number of cycles that can be achieved before the capacity has declined to the value specified in the relevant standards (e.g. 80 % of the rated capacity).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Cycle_life

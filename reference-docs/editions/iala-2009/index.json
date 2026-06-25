@@ -1,0 +1,950 @@
+[
+  {
+    "title": "Accuracy",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/accuracy.json"
+  },
+  {
+    "title": "Additional Secondary Factors (ASF)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/additional-secondary-factors-asf.json"
+  },
+  {
+    "title": "Alert limit (or threshold value)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/alert-limit-or-threshold-value.json"
+  },
+  {
+    "title": "Along-track error",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/along-track-error.json"
+  },
+  {
+    "title": "Alteration",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/alteration.json"
+  },
+  {
+    "title": "Archaeology",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/archaeology.json"
+  },
+  {
+    "title": "Augmentation",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/augmentation.json"
+  },
+  {
+    "title": "Automatic Identification System (AIS)",
+    "numeric_code": null,
+    "categories": [
+      "11.1 General AIS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/automatic-identification-system-ais.json"
+  },
+  {
+    "title": "Automatic Identification System (AIS) (3)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/automatic-identification-system-ais-3.json"
+  },
+  {
+    "title": "Chart error",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/chart-error.json"
+  },
+  {
+    "title": "Chayka",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/chayka.json"
+  },
+  {
+    "title": "Conservation",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/conservation.json"
+  },
+  {
+    "title": "Conservation Area",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/conservation-area.json"
+  },
+  {
+    "title": "Conversion",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/conversion.json"
+  },
+  {
+    "title": "Correction",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/correction.json"
+  },
+  {
+    "title": "Coverage",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/coverage.json"
+  },
+  {
+    "title": "Craft autonomous integrity monitoring (CAIM)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/craft-autonomous-integrity-monitoring-caim.json"
+  },
+  {
+    "title": "Cross-track error",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/cross-track-error.json"
+  },
+  {
+    "title": "Decca Navigator",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/decca-navigator.json"
+  },
+  {
+    "title": "Design",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/design.json"
+  },
+  {
+    "title": "Designation",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/designation.json"
+  },
+  {
+    "title": "Difference in Time Of Arrival (DTOA)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/difference-in-time-of-arrival-dtoa.json"
+  },
+  {
+    "title": "Differential system",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/differential-system.json"
+  },
+  {
+    "title": "Dilution of precision (DOP)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/dilution-of-precision-dop.json"
+  },
+  {
+    "title": "Distance root mean square (dRMS)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/distance-root-mean-square-drms.json"
+  },
+  {
+    "title": "E-Navigation",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/e-navigation.json"
+  },
+  {
+    "title": "ELoran",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/eloran.json"
+  },
+  {
+    "title": "Fabric",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/fabric.json"
+  },
+  {
+    "title": "Fix",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/fix.json"
+  },
+  {
+    "title": "Full Operational Capability (FOC)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/full-operational-capability-foc.json"
+  },
+  {
+    "title": "Global Maritime Distress and Safety System (GMDSS)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/global-maritime-distress-and-safety-system-gmdss.json"
+  },
+  {
+    "title": "Global Navigation Satellite System (GNSS)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/global-navigation-satellite-system-gnss.json"
+  },
+  {
+    "title": "Gross errors",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/gross-errors.json"
+  },
+  {
+    "title": "Historic Lighthouse",
+    "numeric_code": null,
+    "categories": [
+      "12.1 PHL Advisory Panel Definitions",
+      "12.1 Heritage terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/historic-lighthouse.json"
+  },
+  {
+    "title": "Initial Operational Capability (IOC)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/initial-operational-capability-ioc.json"
+  },
+  {
+    "title": "Integrated navigation system",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/integrated-navigation-system.json"
+  },
+  {
+    "title": "Integrity",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/integrity.json"
+  },
+  {
+    "title": "International Terrestrial Reference Frame (ITRF)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/international-terrestrial-reference-frame-itrf.json"
+  },
+  {
+    "title": "Intervention",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/intervention.json"
+  },
+  {
+    "title": "Latency",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/latency.json"
+  },
+  {
+    "title": "Lighthouse (PHL)",
+    "numeric_code": null,
+    "categories": [
+      "12.1 PHL Advisory Panel Definitions",
+      "12.1 Heritage terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/lighthouse-phl.json"
+  },
+  {
+    "title": "Loran C (2)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/loran-c-2.json"
+  },
+  {
+    "title": "Maintenance",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/maintenance.json"
+  },
+  {
+    "title": "Management",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/management.json"
+  },
+  {
+    "title": "Marginally detectable bias (MDB)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/marginally-detectable-bias-mdb.json"
+  },
+  {
+    "title": "Marginally detectable error (MDE)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/marginally-detectable-error-mde.json"
+  },
+  {
+    "title": "Mean time between failures (MTBF)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/mean-time-between-failures-mtbf.json"
+  },
+  {
+    "title": "Mean Time To Repair/Restore (MTTR)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/mean-time-to-repair-restore-mttr.json"
+  },
+  {
+    "title": "Navigation (2)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/navigation-2.json"
+  },
+  {
+    "title": "Precision",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/precision.json"
+  },
+  {
+    "title": "Preservation",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/preservation.json"
+  },
+  {
+    "title": "Protection",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/protection.json"
+  },
+  {
+    "title": "Pseudolite (pseudo-satellite)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/pseudolite-pseudo-satellite.json"
+  },
+  {
+    "title": "PZ-90 geodetic system",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/pz-90-geodetic-system.json"
+  },
+  {
+    "title": "Radio determination",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/radio-determination.json"
+  },
+  {
+    "title": "Random error (2)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/random-error-2.json"
+  },
+  {
+    "title": "Rebuilding",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/rebuilding.json"
+  },
+  {
+    "title": "Reconstruction",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/reconstruction.json"
+  },
+  {
+    "title": "Record (2)",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/record-2.json"
+  },
+  {
+    "title": "Redundancy (2)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/redundancy-2.json"
+  },
+  {
+    "title": "Refurbishment",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/refurbishment.json"
+  },
+  {
+    "title": "Reliability (of a position fix)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/reliability-of-a-position-fix.json"
+  },
+  {
+    "title": "Reliability (of an observation)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/reliability-of-an-observation.json"
+  },
+  {
+    "title": "Renovation",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/renovation.json"
+  },
+  {
+    "title": "Repair",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/repair.json"
+  },
+  {
+    "title": "Repeatability",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/repeatability.json"
+  },
+  {
+    "title": "Replication",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/replication.json"
+  },
+  {
+    "title": "Restoration",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/restoration.json"
+  },
+  {
+    "title": "Reversibility",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/reversibility.json"
+  },
+  {
+    "title": "Root mean square error (RMS)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/root-mean-square-error-rms.json"
+  },
+  {
+    "title": "Service capacity",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/service-capacity.json"
+  },
+  {
+    "title": "Single point of failure",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/single-point-of-failure.json"
+  },
+  {
+    "title": "Sustainable",
+    "numeric_code": null,
+    "categories": [
+      "12.2 Conservation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/sustainable.json"
+  },
+  {
+    "title": "Systematic error",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/systematic-error.json"
+  },
+  {
+    "title": "Threshold value (or alert limit)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/threshold-value-or-alert-limit.json"
+  },
+  {
+    "title": "Time to alarm",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/time-to-alarm.json"
+  },
+  {
+    "title": "Total System Error (TSE)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/total-system-error-tse.json"
+  },
+  {
+    "title": "True position",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/true-position.json"
+  },
+  {
+    "title": "Vessel Technical Error (VTE)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vessel-technical-error-vte.json"
+  },
+  {
+    "title": "World geodetic system (WGS)",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/world-geodetic-system-wgs.json"
+  },
+  {
+    "title": "World-Wide Radio Navigation System",
+    "numeric_code": null,
+    "categories": [
+      "10.1 General e-Navigation terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2009 Edition",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/world-wide-radio-navigation-system.json"
+  }
+]

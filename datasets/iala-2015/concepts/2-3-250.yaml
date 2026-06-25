@@ -1,0 +1,75 @@
+---
+id: 2-3-250
+data:
+  identifier: 2-3-250
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Projector_Lamp_(G.B.)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-3-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-3-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-250
+---
+id: 2-3-250-eng
+termid: 2-3-250
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Projector Lamp (G.B.)
+  normative_status: preferred
+- type: expression
+  designation: Projection Lamp (U.S.A.)
+  normative_status: admitted
+definition:
+- content: A lamp in which the luminous element is so mounted that the lamp may be
+    used with an optical system projecting the light in chosen directions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+notes:
+- content: The terms Lampe de Projection in French and Projection Lamp (U.S.A.) refer
+    more specifically to a lamp intended for use in equipment for the projection of
+    either still or motion pictures on a screen.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Projector_Lamp_(G.B.)

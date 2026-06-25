@@ -1,10 +1,6 @@
 ---
 schema_type: glossarist
 schema_version: '3'
-id: iala-2023
-year: 2023
-urn: urn:iala:dictionary:2023
-status: current
 languages:
 - eng
 languageOrder:
@@ -243,3 +239,7 @@ sections:
     names:
       eng: Conservation terms
     children: []
+:id: iala-2023
+:year: 2023
+:urn: urn:iala:dictionary:2023
+:status: current

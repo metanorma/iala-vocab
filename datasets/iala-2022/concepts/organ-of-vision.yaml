@@ -1,0 +1,73 @@
+---
+id: organ-of-vision
+data:
+  identifier: organ-of-vision
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Organ_of_Vision
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: organ-of-vision
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: organ-of-vision
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: organ-of-vision
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: organ-of-vision
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: organ-of-vision
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: organ-of-vision
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: organ-of-vision
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: organ-of-vision
+---
+id: organ-of-vision-eng
+termid: organ-of-vision
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Organ of Vision
+  normative_status: preferred
+- type: expression
+  designation: Visual Organ
+  normative_status: admitted
+definition:
+- content: |-
+    2-1 -320
+
+    The group of structures comprising the eye, the optic nerve and certain parts of the brain, which transforms the light stimulus into a complex of nerve excitations, whose subjective correlate is visual perception.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Organ_of_Vision

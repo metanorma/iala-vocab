@@ -1,0 +1,64 @@
+---
+id: 2-3-050
+data:
+  identifier: 2-3-050
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gas_Jet
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-050
+---
+id: 2-3-050-eng
+termid: 2-3-050
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Gas Jet
+  normative_status: preferred
+definition:
+- content: A burner in which gas burns as a naked flame.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Gas_Jet

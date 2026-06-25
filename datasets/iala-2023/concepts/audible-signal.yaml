@@ -12,6 +12,19 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Audible_Signal
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: audible-signal
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: audible-signal
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: audible-signal
 ---
 id: audible-signal-eng
 termid: audible-signal

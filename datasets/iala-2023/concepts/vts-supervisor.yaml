@@ -12,6 +12,31 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/VTS_Supervisor
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: vts-supervisor
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: vts-supervisor
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: vts-supervisor
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: vts-supervisor
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: vts-supervisor
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: vts-supervisor
 ---
 id: vts-supervisor-eng
 termid: vts-supervisor

@@ -1,0 +1,26 @@
+{
+  "title": "Alternating Sectors",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><p>An alternating sector is a sector with alternating flashing colours of fixed flash length throughout the sector.\n</p>\n<figure class=\"mw-halign-none\" typeof=\"mw:File/Frame\"><a href=\"/wiki/dictionary/index.php/File:AlternatingSectors.jpg\" class=\"mw-file-description\"><img src=\"/wiki/dictionary/images/e/e5/AlternatingSectors.jpg\" decoding=\"async\" width=\"257\" height=\"121\" class=\"mw-file-element\" /></a><figcaption>figure 1</figcaption></figure>\n<p><br />\nSource: ENG4, Guideline 1041\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\" /></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a href=\"/wiki/dictionary/index.php/Codes_on_Alerts_and_Indicators\" title=\"Codes on Alerts and Indicators\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div>\n<!-- \nNewPP limit report\nCached time: 20260617090009\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.041 seconds\nReal time usage: 0.058 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 733/2097152 bytes\nTemplate argument size: 398/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    9.921      1 Template:Languages\n100.00%    9.921      1 -total\n 60.77%    6.029      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:2967-0!canonical and timestamp 20260617090009 and revision id 8229. Rendering was triggered because: api-parse\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "2.2_Optical_Apparatus"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2016_Revision"
+      },
+      {
+        "sortkey": "",
+        "*": "Approved_by_DWG"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\nAn alternating sector is a sector with alternating flashing colours of fixed flash length throughout the sector.\n\n[[Image:AlternatingSectors.jpg|none|frame|right|400px|figure 1]]\n\n\nSource: ENG4, Guideline 1041\n\n{{languages|Codes on Alerts and Indicators}}\n[[Category:2.2 Optical Apparatus]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2016 Revision]]\n[[Category:Approved by DWG]]"
+}

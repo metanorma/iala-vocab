@@ -1,0 +1,65 @@
+---
+id: 7-2-350
+data:
+  identifier: 7-2-350
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pin
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-2-350
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-2-350
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-2-350
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-2-350
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-2-350
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-2-350
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-2-350
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-2-350
+---
+id: 7-2-350-eng
+termid: 7-2-350
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Pin
+  normative_status: preferred
+definition:
+- content: A cylindrical metal rod, used in a connection between two members, for
+    example to form a hinge. It may be threaded at both ends.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pin

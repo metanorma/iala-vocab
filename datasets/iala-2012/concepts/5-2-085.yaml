@@ -1,0 +1,70 @@
+---
+id: 5-2-085
+data:
+  identifier: 5-2-085
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Position_control_system
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-2-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-2-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-2-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-2-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-2-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-2-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-2-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-2-085
+---
+id: 5-2-085-eng
+termid: 5-2-085
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Position control system
+  normative_status: preferred
+definition:
+- content: A control system that attempts to establish and/or maintain an exact correspondence
+    between the reference input and the directly controlled variable which are physical
+    positions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.E.E
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Position_control_system

@@ -1,0 +1,67 @@
+---
+id: 7-5-080
+data:
+  identifier: 7-5-080
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Uniformly_distributed_load
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-5-080
+---
+id: 7-5-080-eng
+termid: 7-5-080
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Uniformly distributed load
+  normative_status: preferred
+definition:
+- content: |-
+    Acronym: UDL
+
+    A load which is evenly spread across the length and width of that part of a structural member under consideration.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Uniformly_distributed_load

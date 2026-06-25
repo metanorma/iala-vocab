@@ -1,0 +1,68 @@
+---
+id: 5-2-310
+data:
+  identifier: 5-2-310
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Proportional_plus_integral_action
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-2-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-2-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-2-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-2-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-2-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-2-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-2-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-2-310
+---
+id: 5-2-310-eng
+termid: 5-2-310
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Proportional plus integral action
+  normative_status: preferred
+definition:
+- content: Control action in which the output is proportional to a linear combination
+    of the input and the time integral of the input.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: ANSI
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Proportional_plus_integral_action

@@ -1,0 +1,66 @@
+---
+id: 1-2-140
+data:
+  identifier: 1-2-140
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Main_channel
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-2-140
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-2-140
+---
+id: 1-2-140-eng
+termid: 1-2-140
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Main channel
+  normative_status: preferred
+definition:
+- content: That channel, of a number of alternative channels, which due to natural
+    conditions or by declaration of the responsible authority is used by the majority
+    of important shipping.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Main_channel

@@ -1,0 +1,66 @@
+---
+id: conversion
+data:
+  identifier: conversion
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-12
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Conversion
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: conversion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: conversion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: conversion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: conversion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: conversion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: conversion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: conversion
+---
+id: conversion-eng
+termid: conversion
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Conversion
+  normative_status: preferred
+definition:
+- content: |-
+    Alteration, the object of which is a change of use of a building or artefact, from one use or type to another.
+
+    (This definition was noted at the IALA Seminar on the Practical Aspects of Lighthouse Preservation in Gothenburg 2005)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: Stirlingcharter
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Conversion

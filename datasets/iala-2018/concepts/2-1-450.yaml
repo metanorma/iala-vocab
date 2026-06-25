@@ -1,0 +1,72 @@
+---
+id: 2-1-450
+data:
+  identifier: 2-1-450
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Illuminant
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-450
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-450
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-450
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-450
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-450
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-450
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-450
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-450
+---
+id: 2-1-450-eng
+termid: 2-1-450
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Illuminant
+  normative_status: preferred
+definition:
+- content: Radiant energy with a relative spectral distribution defined over the wavelength
+    range that influences object colour perception.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+notes:
+- content: In English, this term is not restricted to this sense, but is a general
+    term used for any kind of light falling on a body or scene, and is also used to
+    refer to the light source itself, including its filters if any.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Illuminant

@@ -1,0 +1,65 @@
+---
+id: 7-5-150
+data:
+  identifier: 7-5-150
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Poisson's_ratio
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-5-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-5-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-5-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-5-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-5-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-5-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-5-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-5-150
+---
+id: 7-5-150-eng
+termid: 7-5-150
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Poisson's ratio
+  normative_status: preferred
+definition:
+- content: The ratio between transverse strain and longitudinal strain under tensile
+    or compressive stress.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Poisson's_ratio

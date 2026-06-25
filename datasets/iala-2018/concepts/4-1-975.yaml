@@ -1,0 +1,65 @@
+---
+id: 4-1-975
+data:
+  identifier: 4-1-975
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Surface_wave
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-975
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-1-975
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-1-975
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-1-975
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-1-975
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-1-975
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-1-975
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-1-975
+---
+id: 4-1-975-eng
+termid: 4-1-975
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Surface wave
+  normative_status: preferred
+definition:
+- content: A wave which is propagated along the boundary between two media in a manner
+    determined by the properties of the two media in the vicinity of the boundary.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Surface_wave

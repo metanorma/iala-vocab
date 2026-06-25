@@ -1,0 +1,61 @@
+---
+id: mean-time-between-failures-mtbf-
+data:
+  identifier: mean-time-between-failures-mtbf-
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mean_time_between_failures_(MTBF)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: mean-time-between-failures-mtbf-
+---
+id: mean-time-between-failures-mtbf--eng
+termid: mean-time-between-failures-mtbf-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Mean time between failures (MTBF)
+  normative_status: preferred
+definition:
+- content: The average time between two successive failures of a system or part of
+    a system.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mean_time_between_failures_(MTBF)

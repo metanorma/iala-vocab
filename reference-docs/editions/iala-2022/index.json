@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Cycle life",
+    "numeric_code": null,
+    "categories": [
+      "6.5 Electrochemical Cells and Batteries",
+      "Alphabetical Index",
+      "IALA Dictionary 2022 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/cycle-life.json"
+  },
+  {
+    "title": "Heritage marine aid to navigation",
+    "numeric_code": null,
+    "categories": [
+      "12.1 Heritage terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2022 Revision",
+      "Approved by Dictionary Management Group",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/heritage-marine-aid-to-navigation.json"
+  }
+]

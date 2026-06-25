@@ -1,0 +1,65 @@
+---
+id: 6-4-245
+data:
+  identifier: 6-4-245
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Asynchronous_motor
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-4-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-4-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-4-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-4-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-4-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-4-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-4-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-4-245
+---
+id: 6-4-245-eng
+termid: 6-4-245
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Asynchronous motor
+  normative_status: preferred
+definition:
+- content: An alternating-current motor in which the speed of rotation is not necessarily
+    constant but may vary with the supply voltage and load.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Asynchronous_motor

@@ -1,0 +1,70 @@
+---
+id: 1-1-390
+data:
+  identifier: 1-1-390
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Record
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-1-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-1-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-1-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-1-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-1-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-1-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-1-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-1-390
+---
+id: 1-1-390-eng
+termid: 1-1-390
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Record
+  normative_status: preferred
+- type: expression
+  designation: Recording
+  normative_status: admitted
+definition:
+- content: Material (e.g. paper-roll, disc, magnetic tape or wire) in which recorded
+    information is stored and from which it can be reproduced as required.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: Usually a suitable apparatus is necessary for reproduction.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Record

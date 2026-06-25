@@ -1,0 +1,65 @@
+---
+id: world-geodetic-system-wgs-
+data:
+  identifier: world-geodetic-system-wgs-
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/World_geodetic_system_(WGS)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: world-geodetic-system-wgs-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: world-geodetic-system-wgs-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: world-geodetic-system-wgs-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: world-geodetic-system-wgs-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: world-geodetic-system-wgs-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: world-geodetic-system-wgs-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: world-geodetic-system-wgs-
+---
+id: world-geodetic-system-wgs--eng
+termid: world-geodetic-system-wgs-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: World geodetic system (WGS)
+  normative_status: preferred
+definition:
+- content: |-
+    A consistent set of parameters describing the size and shape of the Earth, positions of a network of points with respect to the centre of mass of the Earth, transformations from major geodetic datums and the potential of the Earth.
+
+    WGS 84. The coordinate system used by GPS.
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/World_geodetic_system_(WGS)

@@ -1,0 +1,68 @@
+---
+id: 7-2-170
+data:
+  identifier: 7-2-170
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Strut
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-2-170
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-2-170
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-2-170
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-2-170
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-2-170
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-2-170
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-2-170
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-2-170
+---
+id: 7-2-170-eng
+termid: 7-2-170
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Strut
+  normative_status: preferred
+definition:
+- content: A structural member intended to resist compression, especially used to
+    describe short or non-vertical members.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The French term entretoise means more specifically a short member placed
+    between two beams to maintain their separation.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Strut

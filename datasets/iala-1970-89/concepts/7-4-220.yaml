@@ -12,6 +12,39 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Cohesion
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-4-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-4-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-4-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-4-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-4-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-4-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-4-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-4-220
 ---
 id: 7-4-220-eng
 termid: 7-4-220

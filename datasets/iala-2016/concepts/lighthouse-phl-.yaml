@@ -1,0 +1,77 @@
+---
+id: lighthouse-phl-
+data:
+  identifier: lighthouse-phl-
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-12
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lighthouse_(PHL)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: lighthouse-phl-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: lighthouse-phl-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: lighthouse-phl-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: lighthouse-phl-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: lighthouse-phl-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: lighthouse-phl-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: lighthouse-phl-
+---
+id: lighthouse-phl--eng
+termid: lighthouse-phl-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Lighthouse (PHL)
+  normative_status: preferred
+definition:
+- content: |-
+    To be considered as a LIGHTHOUSE, the station must satisfy at least 2 of the following criteria:
+
+    - The station has been designed to be manned
+
+    - The station consist, or originally consisted, of several buildings
+
+    - The height of the tower should be greater than 10m above the ground
+
+    - The range of the light should be greater than 15 nautical miles
+
+    - The light is used for general navigation
+
+    (Definition retained for the purpose of the lighthouse book)
+
+    This definition is as set out in 1998 and references to the range of the light should be considered as the maximum range during the history of the lighthouse. In a heritage definition a lighthouse station includes all Aids to Navigation related to the site.
+
+    See also Historic Lighthouse
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lighthouse_(PHL)

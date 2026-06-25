@@ -1,0 +1,65 @@
+---
+id: 6-5-080
+data:
+  identifier: 6-5-080
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Station_battery
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-5-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-5-080
+---
+id: 6-5-080-eng
+termid: 6-5-080
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Station battery
+  normative_status: preferred
+definition:
+- content: The principal battery that is used to supply a station under normal operating
+    conditions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Station_battery

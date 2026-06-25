@@ -1,0 +1,64 @@
+---
+id: 7-4-315
+data:
+  identifier: 7-4-315
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Core_sample
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-4-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-4-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-4-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-4-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-4-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-4-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-4-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-4-315
+---
+id: 7-4-315-eng
+termid: 7-4-315
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Core sample
+  normative_status: preferred
+definition:
+- content: Sample of the core removed from a borehole.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Core_sample

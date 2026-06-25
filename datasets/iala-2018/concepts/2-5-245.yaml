@@ -1,0 +1,75 @@
+---
+id: 2-5-245
+data:
+  identifier: 2-5-245
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Leading_Lights_(G.B.)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-5-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-5-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-5-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-5-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-5-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-5-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-5-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-5-245
+---
+id: 2-5-245-eng
+termid: 2-5-245
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Leading Lights (G.B.)
+  normative_status: preferred
+- type: expression
+  designation: Range Lights (U.S.A.)
+  normative_status: admitted
+definition:
+- content: |-
+    Two or more lights positioned to form a leading / range / transit line to be followed.
+
+    A leading line defined by two such leading lights is called the axis of the lights. (Fig.47)
+
+    ![Ch2_Fig47.jpg](/iala-vocab/images/iala/Ch2_Fig47.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: In Britain, the axis of the lights is often called the Line of Lights.
+    In German it is called Richtfeuerlinie.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Leading_Lights_(G.B.)

@@ -1,0 +1,67 @@
+---
+id: 7-1-025
+data:
+  identifier: 7-1-025
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Tower_rock_light
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-1-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-1-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-1-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-1-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-1-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-1-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-1-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-1-025
+---
+id: 7-1-025-eng
+termid: 7-1-025
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Tower rock light
+  normative_status: preferred
+definition:
+- content: |-
+    tower rock station pillar rock light pillar rock station
+
+    A station having a light as the principal aid to navigation, founded on an isolated rock pinnacle or group of rocks. In recent years the terms have been extended to offshore structures, founded on the seabed, used to support aids to navigation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tower_rock_light

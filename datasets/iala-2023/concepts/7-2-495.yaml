@@ -1,0 +1,65 @@
+---
+id: 7-2-495
+data:
+  identifier: 7-2-495
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ladder_cage
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-2-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-2-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-2-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-2-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-2-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-2-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-2-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-2-495
+---
+id: 7-2-495-eng
+termid: 7-2-495
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Ladder cage
+  normative_status: preferred
+definition:
+- content: Several ladder hoops connected to a ladder at a regular spacing and stiffened
+    by vertical members to form a cage to protect a length of ladder.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ladder_cage

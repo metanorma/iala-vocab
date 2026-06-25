@@ -1,0 +1,67 @@
+---
+id: 3-1-235
+data:
+  identifier: 3-1-235
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-3
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Spherical_divergence_loss
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 3-1-235
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 3-1-235
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 3-1-235
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 3-1-235
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 3-1-235
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 3-1-235
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 3-1-235
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 3-1-235
+---
+id: 3-1-235-eng
+termid: 3-1-235
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Spherical divergence loss
+  normative_status: preferred
+definition:
+- content: |-
+    Spherical divergence attenuation Inverse square law attenuation
+
+    Reduction in sound pressure level resulting from propagation of spherical waves in a free field without loss of energy.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Spherical_divergence_loss

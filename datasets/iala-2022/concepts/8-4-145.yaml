@@ -1,0 +1,69 @@
+---
+id: 8-4-145
+data:
+  identifier: 8-4-145
+  domains:
+  - source: urn:iala:dictionary:iala-2018
+    concept_id: section-unknown
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fenders/es
+related:
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-4-145
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-4-145
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-4-145
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-4-145
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-4-145
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-4-145
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-4-145
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-4-145
+---
+id: 8-4-145-spa
+termid: 8-4-145
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Fenders/es
+  normative_status: preferred
+definition:
+- content: |-
+    Defensas
+
+    Término alternativo: Fendering
+
+    Dispositivos  de absorción de impactos  que rodean un cuerpo flotante  para  limitar los efectos del impacto.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fenders/es

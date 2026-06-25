@@ -1,0 +1,830 @@
+[
+  {
+    "title": "Accredited AtoN Training Organisation",
+    "numeric_code": null,
+    "categories": [
+      "1.4 Training and Competence",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/accredited-aton-training-organisation.json"
+  },
+  {
+    "title": "Acetylene/es",
+    "numeric_code": "6-3-360",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/acetylene-es.json"
+  },
+  {
+    "title": "Anti-fouling paint/es",
+    "numeric_code": "8-4-195",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/anti-fouling-paint-es.json"
+  },
+  {
+    "title": "Approved AtoN Training Course",
+    "numeric_code": null,
+    "categories": [
+      "1.4 Training and Competence",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/approved-aton-training-course.json"
+  },
+  {
+    "title": "AtoN Personnel",
+    "numeric_code": null,
+    "categories": [
+      "1.4 Training and Competence",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/aton-personnel.json"
+  },
+  {
+    "title": "Audible Signal/es",
+    "numeric_code": null,
+    "categories": [
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/audible-signal-es.json"
+  },
+  {
+    "title": "Audible Signal/fr",
+    "numeric_code": null,
+    "categories": [
+      "Classement alphabétique",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/audible-signal-fr.json"
+  },
+  {
+    "title": "Background Lighting",
+    "numeric_code": null,
+    "categories": [
+      "2.1 Optics and Vision",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/background-lighting.json"
+  },
+  {
+    "title": "Background Luminance",
+    "numeric_code": null,
+    "categories": [
+      "2.1 Optics and Vision",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/background-luminance.json"
+  },
+  {
+    "title": "Ballast/es",
+    "numeric_code": "2-3-330",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/ballast-es.json"
+  },
+  {
+    "title": "Bayonet Cap/es",
+    "numeric_code": "2-3-120",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/bayonet-cap-es.json"
+  },
+  {
+    "title": "Blocking diode/es",
+    "numeric_code": "6-3-075",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/blocking-diode-es.json"
+  },
+  {
+    "title": "Bulb/es",
+    "numeric_code": "2-3-100",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/bulb-es.json"
+  },
+  {
+    "title": "Buoy lantern/es",
+    "numeric_code": "8-4-085",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/buoy-lantern-es.json"
+  },
+  {
+    "title": "Buoy light/es",
+    "numeric_code": "8-4-080",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/buoy-light-es.json"
+  },
+  {
+    "title": "Butane/es",
+    "numeric_code": "6-3-350",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/butane-es.json"
+  },
+  {
+    "title": "Cathodic protection/es",
+    "numeric_code": "8-4-190",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/cathodic-protection-es.json"
+  },
+  {
+    "title": "Competence (AtoN)",
+    "numeric_code": null,
+    "categories": [
+      "1.4 Training and Competence",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/competence-aton.json"
+  },
+  {
+    "title": "Competent Authority (AtoN)",
+    "numeric_code": null,
+    "categories": [
+      "1.4 Training and Competence",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/competent-authority-aton.json"
+  },
+  {
+    "title": "Confirmation of an AtoN Light",
+    "numeric_code": null,
+    "categories": [
+      "2.1 Optics and Vision",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/confirmation-of-an-aton-light.json"
+  },
+  {
+    "title": "Cut-in wind speed (of a wind-power genearator)/es",
+    "numeric_code": "6-3-220",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/cut-in-wind-speed-of-a-wind-power-genearator-es.json"
+  },
+  {
+    "title": "Cut-out wind speed (of a wind-power generator)/es",
+    "numeric_code": "6-3-225",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/cut-out-wind-speed-of-a-wind-power-generator-es.json"
+  },
+  {
+    "title": "Detection of an AtoN light",
+    "numeric_code": null,
+    "categories": [
+      "2.1 Optics and Vision",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/detection-of-an-aton-light.json"
+  },
+  {
+    "title": "Discharge Lamp/es",
+    "numeric_code": "2-3-310",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/discharge-lamp-es.json"
+  },
+  {
+    "title": "Electroluminescence/es",
+    "numeric_code": "2-3-290",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/electroluminescence-es.json"
+  },
+  {
+    "title": "Fenders/es",
+    "numeric_code": "8-4-145",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/fenders-es.json"
+  },
+  {
+    "title": "Filament Support/es",
+    "numeric_code": "2-3-095",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/filament-support-es.json"
+  },
+  {
+    "title": "Filament/es",
+    "numeric_code": "2-3-090",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/filament-es.json"
+  },
+  {
+    "title": "Flasher/es",
+    "numeric_code": "2-4-100",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/flasher-es.json"
+  },
+  {
+    "title": "Fluorescence",
+    "numeric_code": "2-3-300",
+    "categories": [
+      "2.3 Light Sources",
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "IALA Dictionary 2018 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/fluorescence.json"
+  },
+  {
+    "title": "Fog signal/es",
+    "numeric_code": null,
+    "categories": [
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/fog-signal-es.json"
+  },
+  {
+    "title": "Fog signal/fr",
+    "numeric_code": null,
+    "categories": [
+      "Classement alphabétique",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/fog-signal-fr.json"
+  },
+  {
+    "title": "Geographical Range",
+    "numeric_code": null,
+    "categories": [
+      "2.1 Optics and Vision",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/geographical-range.json"
+  },
+  {
+    "title": "Hazard",
+    "numeric_code": null,
+    "categories": [
+      "1.5 Safety",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/hazard.json"
+  },
+  {
+    "title": "Hazard (2)",
+    "numeric_code": null,
+    "categories": [
+      "1.2 Navigation",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/hazard-2.json"
+  },
+  {
+    "title": "Hazard (2)/es",
+    "numeric_code": null,
+    "categories": [
+      "1.2 Navigation",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision",
+      "Spanish"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/hazard-2-es.json"
+  },
+  {
+    "title": "Hazard (2)/fr",
+    "numeric_code": null,
+    "categories": [
+      "1.2 Navigation",
+      "Classement alphabétique",
+      "IALA Dictionary 2018 Revision",
+      "French"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/hazard-2-fr.json"
+  },
+  {
+    "title": "Identification of an AtoN Light",
+    "numeric_code": null,
+    "categories": [
+      "2.1 Optics and Vision",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/identification-of-an-aton-light.json"
+  },
+  {
+    "title": "Lamp Changer/es",
+    "numeric_code": "2-4-095",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/lamp-changer-es.json"
+  },
+  {
+    "title": "Level 1 training",
+    "numeric_code": null,
+    "categories": [
+      "1.4 Training and Competence",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/level-1-training.json"
+  },
+  {
+    "title": "Level 2 training",
+    "numeric_code": null,
+    "categories": [
+      "1.4 Training and Competence",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/level-2-training.json"
+  },
+  {
+    "title": "Light float (2)",
+    "numeric_code": null,
+    "categories": [
+      "8.2 Light Vessels and Light Floats",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/light-float-2.json"
+  },
+  {
+    "title": "Light float (2)/es",
+    "numeric_code": null,
+    "categories": [
+      "8.2 Light Vessels and Light Floats/es",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision",
+      "Spanish"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/light-float-2-es.json"
+  },
+  {
+    "title": "Light float (2)/fr",
+    "numeric_code": null,
+    "categories": [
+      "8.2 Light Vessels and Light Floats/fr",
+      "Classement alphabétique",
+      "IALA Dictionary 2018 Revision",
+      "French"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/light-float-2-fr.json"
+  },
+  {
+    "title": "Miniature Cap/es",
+    "numeric_code": "2-3-140",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/miniature-cap-es.json"
+  },
+  {
+    "title": "Mooring buoy/es",
+    "numeric_code": "8-4-055",
+    "categories": [
+      "8.4 Buoys",
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/mooring-buoy-es.json"
+  },
+  {
+    "title": "ODAS buoy/es",
+    "numeric_code": "8-4-060",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/odas-buoy-es.json"
+  },
+  {
+    "title": "Oil Lamp/es",
+    "numeric_code": "2-3-055",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/oil-lamp-es.json"
+  },
+  {
+    "title": "On-the-Job Training (AtoN)",
+    "numeric_code": null,
+    "categories": [
+      "1.4 Training and Competence",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/on-the-job-training-aton.json"
+  },
+  {
+    "title": "Qualification (AtoN)",
+    "numeric_code": null,
+    "categories": [
+      "1.4 Training and Competence",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/qualification-aton.json"
+  },
+  {
+    "title": "Quiescent Load",
+    "numeric_code": null,
+    "categories": [
+      "6.8 Utilisation of Electric Energy; Control and Protection",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/quiescent-load.json"
+  },
+  {
+    "title": "Recognition of an AtoN Light",
+    "numeric_code": null,
+    "categories": [
+      "2.1 Optics and Vision",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/recognition-of-an-aton-light.json"
+  },
+  {
+    "title": "Reserve buoyancy/es",
+    "numeric_code": "8-4-185",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/reserve-buoyancy-es.json"
+  },
+  {
+    "title": "Risk",
+    "numeric_code": null,
+    "categories": [
+      "1.5 Safety",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/risk.json"
+  },
+  {
+    "title": "Risk Control",
+    "numeric_code": null,
+    "categories": [
+      "1.5 Safety",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/risk-control.json"
+  },
+  {
+    "title": "Rival Light",
+    "numeric_code": null,
+    "categories": [
+      "2.1 Optics and Vision",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/rival-light.json"
+  },
+  {
+    "title": "Safety hand-hold/es",
+    "numeric_code": "8-4-160",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/safety-hand-hold-es.json"
+  },
+  {
+    "title": "Superstructure (of a buoy)/es",
+    "numeric_code": "8-4-075",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/superstructure-of-a-buoy-es.json"
+  },
+  {
+    "title": "Surface Colour",
+    "numeric_code": null,
+    "categories": [
+      "2.1 Optics and Vision",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/surface-colour.json"
+  },
+  {
+    "title": "Tail tube (of a buoy)/es",
+    "numeric_code": "8-4-140",
+    "categories": [
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/tail-tube-of-a-buoy-es.json"
+  },
+  {
+    "title": "Topmark/es",
+    "numeric_code": "8-4-095",
+    "categories": [
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision",
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/topmark-es.json"
+  },
+  {
+    "title": "Useful Life (of a lamp)/es",
+    "numeric_code": "2-3-445",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/useful-life-of-a-lamp-es.json"
+  },
+  {
+    "title": "Vacuum Lamp/es",
+    "numeric_code": "2-3-150",
+    "categories": [
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vacuum-lamp-es.json"
+  },
+  {
+    "title": "Vertical Beam Divergence",
+    "numeric_code": null,
+    "categories": [
+      "2.1 Optics and Vision",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vertical-beam-divergence.json"
+  },
+  {
+    "title": "Winter buoy/es",
+    "numeric_code": "8-4-050",
+    "categories": [
+      "8.4 Buoys",
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/winter-buoy-es.json"
+  },
+  {
+    "title": "Wreck (2)",
+    "numeric_code": null,
+    "categories": [
+      "1.2 Navigation",
+      "Alphabetical Index",
+      "IALA Dictionary 2018 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/wreck-2.json"
+  },
+  {
+    "title": "Wreck (2)/es",
+    "numeric_code": null,
+    "categories": [
+      "1.2 Navigation",
+      "Indice alfabeto Español",
+      "IALA Dictionary 2018 Revision",
+      "Spanish"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/wreck-2-es.json"
+  },
+  {
+    "title": "Wreck (2)/fr",
+    "numeric_code": null,
+    "categories": [
+      "1.2 Navigation",
+      "Classement alphabétique",
+      "IALA Dictionary 2018 Revision",
+      "French"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/wreck-2-fr.json"
+  }
+]

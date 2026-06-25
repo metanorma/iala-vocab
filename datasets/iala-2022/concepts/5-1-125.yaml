@@ -1,0 +1,68 @@
+---
+id: 5-1-125
+data:
+  identifier: 5-1-125
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Down_time
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-1-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-1-125
+---
+id: 5-1-125-eng
+termid: 5-1-125
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Down time
+  normative_status: preferred
+definition:
+- content: The period during which a system or device is not operating due to internal
+    failures, scheduled shutdown, or servicing.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.E.E
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Down_time

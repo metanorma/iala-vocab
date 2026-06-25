@@ -1,0 +1,67 @@
+---
+id: 6-8-175
+data:
+  identifier: 6-8-175
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Watt-hour_meter
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-8-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-8-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-8-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-8-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-8-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-8-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-8-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-8-175
+---
+id: 6-8-175-eng
+termid: 6-8-175
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Watt-hour meter
+  normative_status: preferred
+definition:
+- content: An instrument that measures the consumption of energy in watt-hours.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The term kilowatt-hour meter applies when the consumption is measured in
+    kilowatt-hours.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Watt-hour_meter

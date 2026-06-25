@@ -1,0 +1,67 @@
+---
+id: 8-3-075
+data:
+  identifier: 8-3-075
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Relief_davit
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-3-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-3-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-3-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-3-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-3-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-3-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-3-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-3-075
+---
+id: 8-3-075-eng
+termid: 8-3-075
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Relief davit
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: Relief derrick, Vish davit (USA)
+
+    A davit or derrick used for lifting and transferring light stores and baggage.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Relief_davit

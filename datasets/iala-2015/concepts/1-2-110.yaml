@@ -1,0 +1,67 @@
+---
+id: 1-2-110
+data:
+  identifier: 1-2-110
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sea_horizon
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-2-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-2-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-2-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-2-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-2-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-2-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-2-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-2-110
+---
+id: 1-2-110-eng
+termid: 1-2-110
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Sea horizon
+  normative_status: preferred
+definition:
+- content: The small circle on the earth's surface at which the sea and sky appear
+    to meet, forming the field of view. As a result of the curvature of the earth
+    and of atmospheric refraction of light, the observer can see more than half the
+    celestial sphere. The visible horizon therefore lies below the celestial horizon.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sea_horizon

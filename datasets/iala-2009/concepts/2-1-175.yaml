@@ -1,0 +1,70 @@
+---
+id: 2-1-175
+data:
+  identifier: 2-1-175
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Diffuse_Transmission
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-175
+---
+id: 2-1-175-eng
+termid: 2-1-175
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Diffuse Transmission
+  normative_status: preferred
+definition:
+- content: |-
+    Transmission in which the light is scattered in many directions and, on the macroscopic scale, independently of the laws of refraction. (Fig. 8b)
+
+    ![Ch2_Fig8.jpg](/iala-vocab/images/iala/Ch2_Fig8.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Diffuse_Transmission

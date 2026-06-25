@@ -1,0 +1,30 @@
+{
+  "title": "Vertical Beam Divergence",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p>The angle of the light beam between points where the intensity has fallen to a fraction of the maximum intensity within the beam.\n</p><p>The vertical divergence is typically specified between the first points where the intensity falls to 50<span class=\"mw-lingo-term\" data-lingo-term-id=\"0bcef9c45bd8a48eda1b26eb0c61c869\">%</span> of the maximum.\n</p><p><br>\n</p>\n<figure class=\"mw-halign-none\" typeof=\"mw:File/Frame\"><a href=\"/wiki/dictionary/index.php/File:VerticalBeamDivergencePlot.jpg\" class=\"mw-file-description\"><img src=\"/wiki/dictionary/images/2/22/VerticalBeamDivergencePlot.jpg\" decoding=\"async\" width=\"576\" height=\"381\" class=\"mw-file-element\"></a><figcaption>figure 1</figcaption></figure>\n<p><br>\nNote: In the past, lantern vertical divergence was defined as the angular separation of the upper and lower 10<span class=\"mw-lingo-term\" data-lingo-term-id=\"0bcef9c45bd8a48eda1b26eb0c61c869\">%</span> intensity points in the intensity profile Full Width Tenth Maximum (<span class=\"mw-lingo-term\" data-lingo-term-id=\"2963f7c99b94df494783961a8e6aeb4e\">FWTM</span>).  More recently, lantern divergence has been defined by the Full Width Half Maximum (<span class=\"mw-lingo-term\" data-lingo-term-id=\"d7d74f524f054fe5e0b1d048beb88165\">FWHM</span>) intensity, the angular separation of the upper and lower 50<span class=\"mw-lingo-term\" data-lingo-term-id=\"0bcef9c45bd8a48eda1b26eb0c61c869\">%</span> intensity points in the intensity profile.\n</p><p><br>\n</p><p><br>\nSource: ENG7, Guideline G1065\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a href=\"/wiki/dictionary/index.php/Codes_on_Alerts_and_Indicators\" title=\"Codes on Alerts and Indicators\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"0bcef9c45bd8a48eda1b26eb0c61c869\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>percent\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"2963f7c99b94df494783961a8e6aeb4e\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>Full Width Tenth Maximum\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"d7d74f524f054fe5e0b1d048beb88165\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>Full Width Half Maximum\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260616024114\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.039 seconds\nReal time usage: 0.057 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 733/2097152 bytes\nTemplate argument size: 398/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    9.821      1 Template:Languages\n100.00%    9.821      1 -total\n 68.25%    6.703      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:3006-0!canonical and timestamp 20260616024114 and revision id 10223. Rendering was triggered because: api-parse\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "2.1_Optics_and_Vision"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2018_Revision"
+      },
+      {
+        "sortkey": "",
+        "*": "Approved_by_Council_through_approval_of_source_document"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "The angle of the light beam between points where the intensity has fallen to a fraction of the maximum intensity within the beam.\n\nThe vertical divergence is typically specified between the first points where the intensity falls to 50% of the maximum.\n\n\n[[Image:VerticalBeamDivergencePlot.jpg|none|frame|right|400px|figure 1]]\n\n\nNote: In the past, lantern vertical divergence was defined as the angular separation of the upper and lower 10% intensity points in the intensity profile Full Width Tenth Maximum (FWTM).  More recently, lantern divergence has been defined by the Full Width Half Maximum (FWHM) intensity, the angular separation of the upper and lower 50% intensity points in the intensity profile.\n\n\n\n\nSource: ENG7, Guideline G1065\n\n{{languages|Codes on Alerts and Indicators}}\n[[Category:2.1 Optics and Vision]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2018 Revision]]\n[[Category:Approved by Council through approval of source document]]\n[[Category:IALA Dictionary 2023 Revision]]"
+}

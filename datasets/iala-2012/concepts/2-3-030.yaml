@@ -1,0 +1,67 @@
+---
+id: 2-3-030
+data:
+  identifier: 2-3-030
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mantle_Burner
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-030
+---
+id: 2-3-030-eng
+termid: 2-3-030
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Mantle Burner
+  normative_status: preferred
+definition:
+- content: A burner provided with a mantle.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: In lighthouse service, the principal fuels used in mantle burners are paraffin
+    vapour, propane, butane or acetylene.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mantle_Burner

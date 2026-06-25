@@ -1,0 +1,30 @@
+{
+  "title": "Surface Colour",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p><span class=\"mw-lingo-term\" data-lingo-term-id=\"7fc56270e7a70fa81a5935b72eacbe29\">A</span> surface colour is a colour perceived to belong to a surface.  \n</p><p>The colour of an ordinary surface, such as an ordinary paint or an opaque plastic material, is the most common kind of surface colour and is known as an ordinary colour.  \n</p><p>Other kinds of colours include fluorescent (or luminescent) colours, transilluminated colours (for example, the colours of internally illuminated panels) and the colours of retro-reflecting materials.\n</p><p><br>\n</p><p><br>\n</p><p>Source: ENG7, Guideline G1134 (2017)\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a href=\"/wiki/dictionary/index.php/Codes_on_Alerts_and_Indicators\" title=\"Codes on Alerts and Indicators\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"7fc56270e7a70fa81a5935b72eacbe29\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>ampere\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260615104026\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.031 seconds\nReal time usage: 0.041 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 733/2097152 bytes\nTemplate argument size: 398/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   13.689      1 Template:Languages\n100.00%   13.689      1 -total\n 57.16%    7.824      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:3014-0!canonical and timestamp 20260615104026 and revision id 10169. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "2.1_Optics_and_Vision"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2018_Revision"
+      },
+      {
+        "sortkey": "",
+        "*": "Approved_by_Council_through_approval_of_source_document"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\nA surface colour is a colour perceived to belong to a surface.  \n\nThe colour of an ordinary surface, such as an ordinary paint or an opaque plastic material, is the most common kind of surface colour and is known as an ordinary colour.  \n\nOther kinds of colours include fluorescent (or luminescent) colours, transilluminated colours (for example, the colours of internally illuminated panels) and the colours of retro-reflecting materials.\n\n\n\n\n \nSource: ENG7, Guideline G1134 (2017)\n\n{{languages|Codes on Alerts and Indicators}}\n[[Category:2.1 Optics and Vision]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2018 Revision]]\n[[Category:Approved by Council through approval of source document]]\n[[Category:IALA Dictionary 2023 Revision]]"
+}

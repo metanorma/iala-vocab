@@ -1,0 +1,67 @@
+---
+id: 2-6-195
+data:
+  identifier: 2-6-195
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/High_Focal_Plane_Buoy
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-6-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-6-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-6-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-6-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-6-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-6-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-6-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-6-195
+---
+id: 2-6-195-eng
+termid: 2-6-195
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: High Focal Plane Buoy
+  normative_status: preferred
+definition:
+- content: |-
+    A type of lighted buoy in which the light is mounted exceptionally high above the surface of the sea.
+
+    ![Ch2_Fig58.jpg](/iala-vocab/images/iala/Ch2_Fig58.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/High_Focal_Plane_Buoy

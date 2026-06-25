@@ -1,0 +1,67 @@
+---
+id: 3-2-035
+data:
+  identifier: 3-2-035
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-3
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Sound_emitter_-_Electrodynamic
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 3-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 3-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 3-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 3-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 3-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 3-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 3-2-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 3-2-035
+---
+id: 3-2-035-eng
+termid: 3-2-035
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Sound emitter - Electrodynamic
+  normative_status: preferred
+definition:
+- content: |-
+    Electrodynamic (sound) emitter
+
+    A (sound) emitter which depends for its operation on the motion of a conductor, joined to a diaphragm and carrying a varying current, n a steady magnetic field.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sound_emitter_-_Electrodynamic

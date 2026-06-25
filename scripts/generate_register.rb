@@ -39,18 +39,22 @@ def format_yaml(data)
   YAML.dump(ordered_data)
 end
 
-FileUtils.mkdir_p('datasets/iala-1970-89')
-File.write('datasets/iala-1970-89/register.yaml', format_yaml(register_1970_89))
+EDITIONS = [
+  { id: 'iala-1970-89', year: 1989, urn: 'urn:iala:dictionary:1970-89', status: 'retired' },
+  { id: 'iala-2009',    year: 2009, urn: 'urn:iala:dictionary:2009',    status: 'retired' },
+  { id: 'iala-2012',    year: 2012, urn: 'urn:iala:dictionary:2012',    status: 'retired' },
+  { id: 'iala-2015',    year: 2015, urn: 'urn:iala:dictionary:2015',    status: 'retired' },
+  { id: 'iala-2016',    year: 2016, urn: 'urn:iala:dictionary:2016',    status: 'retired' },
+  { id: 'iala-2017',    year: 2017, urn: 'urn:iala:dictionary:2017',    status: 'retired' },
+  { id: 'iala-2018',    year: 2018, urn: 'urn:iala:dictionary:2018',    status: 'retired' },
+  { id: 'iala-2022',    year: 2022, urn: 'urn:iala:dictionary:2022',    status: 'retired' },
+  { id: 'iala-2023',    year: 2023, urn: 'urn:iala:dictionary:2023',    status: 'current' },
+].freeze
 
-# 2023
-register_2023 = shared.merge({
-  'id' => 'iala-2023',
-  'year' => 2023,
-  'urn' => 'urn:iala:dictionary:2023',
-  'status' => 'current'
-})
+EDITIONS.each do |e|
+  reg = shared.merge(e)
+  FileUtils.mkdir_p("datasets/#{e[:id]}")
+  File.write("datasets/#{e[:id]}/register.yaml", format_yaml(reg))
+end
 
-FileUtils.mkdir_p('datasets/iala-2023')
-File.write('datasets/iala-2023/register.yaml', format_yaml(register_2023))
-
-puts "Registers generated successfully."
+puts "Generated #{EDITIONS.size} registers."

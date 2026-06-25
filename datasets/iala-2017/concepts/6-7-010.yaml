@@ -1,0 +1,68 @@
+---
+id: 6-7-010
+data:
+  identifier: 6-7-010
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Converter
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-7-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-7-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-7-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-7-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-7-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-7-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-7-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-7-010
+---
+id: 6-7-010-eng
+termid: 6-7-010
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Converter
+  normative_status: preferred
+definition:
+- content: A device for the conversion of electric energy.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The device may convert alternating current into alternating current, direct
+    current into direct current, direct current into alternating current, alternating
+    current into direct current, or alternating current into unidirectional current.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Converter

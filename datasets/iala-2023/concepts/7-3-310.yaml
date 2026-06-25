@@ -1,0 +1,68 @@
+---
+id: 7-3-310
+data:
+  identifier: 7-3-310
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Polymer
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-3-310
+---
+id: 7-3-310-eng
+termid: 7-3-310
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Polymer
+  normative_status: preferred
+definition:
+- content: An organic compound consisting of large molecules made up of many small
+    repeating molecules or mers.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: Many synthetic polymers exist, such as polyester, polyethylene, polypropylene,
+    polyvinyl chloride (PVC), etc...
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Polymer

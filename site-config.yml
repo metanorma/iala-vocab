@@ -16,9 +16,58 @@ datasets:
   ref: IALA Dictionary (1970–1989 Edition)
   owner: IALA
   color: '#003366'
+- id: iala-2009
+  title: IALA Dictionary 2009 Edition
+  description: Cumulative state of the IALA Dictionary as of the 2009 Edition.
+  localPath: datasets/iala-2009
+  ref: IALA Dictionary (2009 Edition)
+  owner: IALA
+  color: '#5B2C6F'
+- id: iala-2012
+  title: IALA Dictionary 2012 Revision
+  description: Cumulative state of the IALA Dictionary as of the 2012 Revision.
+  localPath: datasets/iala-2012
+  ref: IALA Dictionary (2012 Revision)
+  owner: IALA
+  color: '#7D3C98'
+- id: iala-2015
+  title: IALA Dictionary 2015 Revision
+  description: Cumulative state of the IALA Dictionary as of the 2015 Revision.
+  localPath: datasets/iala-2015
+  ref: IALA Dictionary (2015 Revision)
+  owner: IALA
+  color: '#1F618D'
+- id: iala-2016
+  title: IALA Dictionary 2016 Revision
+  description: Cumulative state of the IALA Dictionary as of the 2016 Revision.
+  localPath: datasets/iala-2016
+  ref: IALA Dictionary (2016 Revision)
+  owner: IALA
+  color: '#117A65'
+- id: iala-2017
+  title: IALA Dictionary 2017 Revision
+  description: Cumulative state of the IALA Dictionary as of the 2017 Revision.
+  localPath: datasets/iala-2017
+  ref: IALA Dictionary (2017 Revision)
+  owner: IALA
+  color: '#B7950B'
+- id: iala-2018
+  title: IALA Dictionary 2018 Revision
+  description: Cumulative state of the IALA Dictionary as of the 2018 Revision.
+  localPath: datasets/iala-2018
+  ref: IALA Dictionary (2018 Revision)
+  owner: IALA
+  color: '#8B4513'
+- id: iala-2022
+  title: IALA Dictionary 2022 Revision
+  description: Cumulative state of the IALA Dictionary as of the 2022 Revision.
+  localPath: datasets/iala-2022
+  ref: IALA Dictionary (2022 Revision)
+  owner: IALA
+  color: '#922B21'
 - id: iala-2023
   title: IALA Dictionary 2023 Revision
-  description: Modern update to the IALA Dictionary reflecting current practices in electronic navigation, VTS, AIS, and e-Navigation.
+  description: Current edition of the IALA Dictionary reflecting contemporary practices in electronic navigation, VTS, AIS, and e-Navigation.
   localPath: datasets/iala-2023
   ref: IALA Dictionary (2023 Revision)
   owner: IALA
@@ -69,6 +118,13 @@ datasetGroups:
   label: IALA Dictionary
   datasets:
   - iala-1970-89
+  - iala-2009
+  - iala-2012
+  - iala-2015
+  - iala-2016
+  - iala-2017
+  - iala-2018
+  - iala-2022
   - iala-2023
   color: '#003366'
 copyright: IALA

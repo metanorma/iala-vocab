@@ -1,0 +1,66 @@
+---
+id: 6-6-125
+data:
+  identifier: 6-6-125
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Screened_cable
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-6-125
+---
+id: 6-6-125-eng
+termid: 6-6-125
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Screened cable
+  normative_status: preferred
+definition:
+- content: A cable in which the cores are surrounded by conducting coverings to prevent
+    electromagnetic interaction of the fields due to the conductors with each other
+    or with external fields.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Screened_cable

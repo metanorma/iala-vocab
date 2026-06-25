@@ -12,6 +12,15 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Background_Lighting
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: background-lighting
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: background-lighting
 ---
 id: background-lighting-eng
 termid: background-lighting

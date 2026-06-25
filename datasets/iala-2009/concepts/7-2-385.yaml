@@ -1,0 +1,68 @@
+---
+id: 7-2-385
+data:
+  identifier: 7-2-385
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dog
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-2-385
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-2-385
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-2-385
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-2-385
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-2-385
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-2-385
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-2-385
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-2-385
+---
+id: 7-2-385-eng
+termid: 7-2-385
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Dog
+  normative_status: preferred
+- type: expression
+  designation: Dog spike
+  normative_status: admitted
+definition:
+- content: A U-shaped device of steel spiked at both ends, and used to join heavy
+    timbers.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Dog

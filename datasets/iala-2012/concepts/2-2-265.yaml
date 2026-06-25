@@ -1,0 +1,67 @@
+---
+id: 2-2-265
+data:
+  identifier: 2-2-265
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stray_Light
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-2-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-2-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-2-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-2-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-2-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-2-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-2-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-2-265
+---
+id: 2-2-265-eng
+termid: 2-2-265
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Stray Light
+  normative_status: preferred
+definition:
+- content: Light issuing from a source or optical apparatus in undesired directions.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: In the particular case when light is reflected by the lantern glazing (panes),
+    the light is said to produce False Flashes.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Stray_Light

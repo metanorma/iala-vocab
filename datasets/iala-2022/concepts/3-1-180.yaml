@@ -1,0 +1,67 @@
+---
+id: 3-1-180
+data:
+  identifier: 3-1-180
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-3
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Loudness
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 3-1-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 3-1-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 3-1-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 3-1-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 3-1-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 3-1-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 3-1-180
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 3-1-180
+---
+id: 3-1-180-eng
+termid: 3-1-180
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Loudness
+  normative_status: preferred
+definition:
+- content: The attribute of intensity of an auditory sensation in terms of which sounds
+    may be ordered on a scale extending from soft to loud.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The unit of loudness is the Sone.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Loudness

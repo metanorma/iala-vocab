@@ -1,0 +1,70 @@
+---
+id: effective-radius-of-the-earth
+data:
+  identifier: effective-radius-of-the-earth
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Effective_radius_of_the_earth
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: effective-radius-of-the-earth
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: effective-radius-of-the-earth
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: effective-radius-of-the-earth
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: effective-radius-of-the-earth
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: effective-radius-of-the-earth
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: effective-radius-of-the-earth
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: effective-radius-of-the-earth
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: effective-radius-of-the-earth
+---
+id: effective-radius-of-the-earth-eng
+termid: effective-radius-of-the-earth
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Effective radius of the earth
+  normative_status: preferred
+definition:
+- content: |-
+    4-1 -940
+
+    The radius of a hypothetical earth for which the distance to the radio horizon, assuming rectilinear propagation, is the same as that for the actual earth with an assumed uniform vertical gradient of a refractive index. (For the standard atmosphere, the effective radius is 4/3 that of the actual earth.)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.C.I.R
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Effective_radius_of_the_earth

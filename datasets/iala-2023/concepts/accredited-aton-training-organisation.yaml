@@ -12,6 +12,15 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Accredited_AtoN_Training_Organisation
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: accredited-aton-training-organisation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: accredited-aton-training-organisation
 ---
 id: accredited-aton-training-organisation-eng
 termid: accredited-aton-training-organisation

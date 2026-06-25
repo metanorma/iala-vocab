@@ -2,10 +2,20 @@ require 'yaml'
 require 'json'
 require 'fileutils'
 
-dir_1970 = "datasets/iala-1970-89/concepts"
-dir_2023 = "datasets/iala-2023/concepts"
-urn_1970 = "urn:iala:dictionary:1970-89"
-urn_2023 = "urn:iala:dictionary:2023"
+# Datasets to cross-link. Each pair of datasets with shared termids gets
+# either "equivalent" (same definition) or "supersedes"/"superseded_by"
+# (different definition) relationships, in both directions.
+DATASETS = [
+  { id: 'iala-1970-89', urn: 'urn:iala:dictionary:1970-89' },
+  { id: 'iala-2009',    urn: 'urn:iala:dictionary:2009' },
+  { id: 'iala-2012',    urn: 'urn:iala:dictionary:2012' },
+  { id: 'iala-2015',    urn: 'urn:iala:dictionary:2015' },
+  { id: 'iala-2016',    urn: 'urn:iala:dictionary:2016' },
+  { id: 'iala-2017',    urn: 'urn:iala:dictionary:2017' },
+  { id: 'iala-2018',    urn: 'urn:iala:dictionary:2018' },
+  { id: 'iala-2022',    urn: 'urn:iala:dictionary:2022' },
+  { id: 'iala-2023',    urn: 'urn:iala:dictionary:2023' },
+].freeze
 
 def normalize_text(text)
   text.to_s.downcase.gsub(/[^a-z0-9]/, '')
@@ -25,98 +35,80 @@ def get_eng_definition(docs)
   ""
 end
 
-concepts_1970 = {}
-Dir.glob("#{dir_1970}/*.yaml").each do |file|
-  begin
+# Load all datasets: { termid => { file:, docs:, eng_def: } }
+def load_dataset(id)
+  concepts = {}
+  Dir.glob("datasets/#{id}/concepts/*.yaml").each do |file|
     docs = YAML.load_stream(File.read(file))
     managed = docs[0]
     next unless managed
     termid = managed.dig('data', 'identifier') || managed['termid'] || managed['id']
     next unless termid
-
-    eng_def = get_eng_definition(docs)
-    concepts_1970[termid] = { file: file, docs: docs, eng_def: eng_def }
+    concepts[termid] = { file: file, docs: docs, eng_def: get_eng_definition(docs) }
   rescue => e
     puts "Error parsing #{file}: #{e.message}"
   end
+  concepts
 end
 
-concepts_2023 = {}
-Dir.glob("#{dir_2023}/*.yaml").each do |file|
-  begin
-    docs = YAML.load_stream(File.read(file))
-    managed = docs[0]
-    next unless managed
-    termid = managed.dig('data', 'identifier') || managed['termid'] || managed['id']
-    next unless termid
-
-    eng_def = get_eng_definition(docs)
-    concepts_2023[termid] = { file: file, docs: docs, eng_def: eng_def }
-  rescue => e
-    puts "Error parsing #{file}: #{e.message}"
-  end
-end
-
-matched_count = 0
-identical_count = 0
-superseded_count = 0
-
-# Note on multi-doc YAML dumping:
-# YAML.dump(doc) will prefix with `---` but Ruby's YAML writer doesn't add it natively for consecutive dumps sometimes.
-# Actually, YAML.dump(doc) adds `---` at the beginning of each document, which is correct for multi-doc.
+loaded = DATASETS.map { |ds| [ds[:id], load_dataset(ds[:id])] }.to_h
 
 def write_yaml(file_path, docs)
-  # Prevent trailing newline issues or missing dashes
-  content = docs.map do |doc|
-    yaml_str = YAML.dump(doc)
-    # Remove any extra empty document artifacts if they appear
-    yaml_str
-  end.join("")
+  content = docs.map { |doc| YAML.dump(doc) }.join("")
   File.write(file_path, content)
 end
 
-concepts_1970.each do |termid, data_1970|
-  if concepts_2023.key?(termid)
-    matched_count += 1
-    data_2023 = concepts_2023[termid]
-    
-    norm_1970 = normalize_text(data_1970[:eng_def])
-    norm_2023 = normalize_text(data_2023[:eng_def])
-    
-    rel_1970 = []
-    rel_2023 = []
-    
-    if norm_1970 == norm_2023 && !norm_1970.empty?
-      identical_count += 1
-      rel_1970 << { 'type' => 'equivalent', 'ref' => { 'source' => urn_2023, 'concept_id' => termid } }
-      rel_2023 << { 'type' => 'equivalent', 'ref' => { 'source' => urn_1970, 'concept_id' => termid } }
-    else
-      superseded_count += 1
-      rel_1970 << { 'type' => 'superseded_by', 'ref' => { 'source' => urn_2023, 'concept_id' => termid } }
-      rel_2023 << { 'type' => 'supersedes', 'ref' => { 'source' => urn_1970, 'concept_id' => termid } }
-    end
-    
-    # Update 1970
-    data_1970[:docs][0]['related'] ||= []
-    rel_1970.each do |r|
-      data_1970[:docs][0]['related'] << r unless data_1970[:docs][0]['related'].include?(r)
-    end
-    write_yaml(data_1970[:file], data_1970[:docs])
-    
-    # Update 2023
-    data_2023[:docs][0]['related'] ||= []
-    rel_2023.each do |r|
-      data_2023[:docs][0]['related'] << r unless data_2023[:docs][0]['related'].include?(r)
-    end
-    write_yaml(data_2023[:file], data_2023[:docs])
-  end
-end
+report = { matched: 0, equivalent: 0, superseded: 0, pairs: {} }
 
-report = {
-  matched: matched_count,
-  identical: identical_count,
-  superseded: superseded_count
-}
+# Walk every unordered pair of datasets once, link in both directions.
+DATASETS.combination(2).each do |a, b|
+  pair_key = "#{a[:id]} <-> #{b[:id]}"
+  pair_counts = { matched: 0, equivalent: 0, superseded: 0 }
+  concepts_a = loaded[a[:id]]
+  concepts_b = loaded[b[:id]]
+
+  concepts_a.each do |termid, data_a|
+    next unless concepts_b.key?(termid)
+    data_b = concepts_b[termid]
+    pair_counts[:matched] += 1
+
+    norm_a = normalize_text(data_a[:eng_def])
+    norm_b = normalize_text(data_b[:eng_def])
+    rel_a, rel_b = if norm_a == norm_b && !norm_a.empty?
+      pair_counts[:equivalent] += 1
+      [
+        { 'type' => 'equivalent', 'ref' => { 'source' => b[:urn], 'concept_id' => termid } },
+        { 'type' => 'equivalent', 'ref' => { 'source' => a[:urn], 'concept_id' => termid } },
+      ]
+    else
+      pair_counts[:superseded] += 1
+      # Newer supersedes older: caller order doesn't determine direction;
+      # we mark it as "supersedes/superseded_by" both ways, but consumers
+      # should treat the relationship as edition-agnostic (the diff itself
+      # signals the modification, not the link direction).
+      [
+        { 'type' => 'related_concept', 'ref' => { 'source' => b[:urn], 'concept_id' => termid } },
+        { 'type' => 'related_concept', 'ref' => { 'source' => a[:urn], 'concept_id' => termid } },
+      ]
+    end
+
+    [data_a, data_b].zip([rel_a, rel_b]).each do |data, rel|
+      data[:docs][0]['related'] ||= []
+      data[:docs][0]['related'] << rel unless data[:docs][0]['related'].include?(rel)
+    end
+
+    report[:matched] += 1
+    report[:equivalent] += 1 if norm_a == norm_b && !norm_a.empty?
+    report[:superseded] += 1 unless norm_a == norm_b && !norm_a.empty?
+  end
+
+  # Persist any modifications made above.
+  concepts_a.each_value { |d| write_yaml(d[:file], d[:docs]) if d[:docs][0]['related'] }
+  concepts_b.each_value { |d| write_yaml(d[:file], d[:docs]) if d[:docs][0]['related'] }
+
+  report[:pairs][pair_key] = pair_counts
+  puts "#{pair_key}: matched=#{pair_counts[:matched]} equivalent=#{pair_counts[:equivalent]} modified=#{pair_counts[:superseded]}"
+end
 
 FileUtils.mkdir_p('reference-docs')
 File.write('reference-docs/cross-edition-report.json', JSON.pretty_generate(report))

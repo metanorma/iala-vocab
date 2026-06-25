@@ -1,0 +1,26 @@
+{
+  "title": "ODAS buoy/es",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p><b>8-4-060</b>\n</p><p><big><big><big>Boya ODAS</big></big></big>\n</p><p><br>\nTérmino alternativo: boya de Sistema de Adquisición de Datos Oceánicos.\n</p><p>Boya  destinada a la recopilación de datos oceanográficos. Puede estar fondeada  o flotar libremente . <span class=\"mw-lingo-term\" data-lingo-term-id=\"bafd7322c6e97d25b6299b5d6fe8920b\">No</span> es una ayuda a la navegación, pero está clasificada como una boya  especial en el Sistema de Señalización Marítimo de <span class=\"mw-lingo-term\" data-lingo-term-id=\"0a1217bfe27a54fc7e55b72fc62c2371\">IALA</span>.\n</p><p><br>\n</p><p><br>\n<br>\n<i>Please note that this is the term as it stands in the original <span class=\"mw-lingo-term\" data-lingo-term-id=\"0a1217bfe27a54fc7e55b72fc62c2371\">IALA</span> Dictionary edition (1970-1989)</i>\n<br>\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a href=\"/wiki/dictionary/index.php/ODAS_buoy\" title=\"ODAS buoy\">English</a></b>\n<span></span>\n<span></span>\n • <span lang=\"es\"><a class=\"mw-selflink selflink\">español</a></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"bafd7322c6e97d25b6299b5d6fe8920b\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>Number of cells\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"0a1217bfe27a54fc7e55b72fc62c2371\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>International Association of Marine Aids to Navigation and Lighthouse Authorities - AISM\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260615183615\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.033 seconds\nReal time usage: 0.042 seconds\nPreprocessor visited node count: 69/1000000\nPost‐expand include size: 938/2097152 bytes\nTemplate argument size: 149/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 3/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   13.715      1 -total\n 73.62%   10.097      1 Template:Languages\n 46.60%    6.391      4 Template:Languages/Lang\n 25.42%    3.486      1 Template:IALAFooter\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:3069-0!canonical and timestamp 20260615183615 and revision id 8571. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_1970-89_Edition"
+      },
+      {
+        "sortkey": "",
+        "*": "Indice_alfabeto_Español"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2018_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\n'''8-4-060\n\n<big><big><big>Boya ODAS</big></big></big>\n\n\nTérmino alternativo: boya de Sistema de Adquisición de Datos Oceánicos.\n\nBoya  destinada a la recopilación de datos oceanográficos. Puede estar fondeada  o flotar libremente . No es una ayuda a la navegación, pero está clasificada como una boya  especial en el Sistema de Señalización Marítimo de IALA.\n\n\n{{IALAFooter}}\n\n{{languages|ODAS buoy}}\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 1970-89 Edition]]\n[[Category: Indice alfabeto Español]]\n[[Category:IALA Dictionary 2018 Revision]]"
+}

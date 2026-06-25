@@ -1,0 +1,26 @@
+{
+  "title": "Along-track error",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><p>The component of the Vessel Technical Error in the direction of the intended track.\n</p><p><br />\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\" /></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a class=\"mw-selflink selflink\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div>\n<!-- \nNewPP limit report\nCached time: 20260615160710\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.029 seconds\nReal time usage: 0.036 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 668/2097152 bytes\nTemplate argument size: 229/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   10.226      1 Template:Languages\n100.00%   10.226      1 -total\n 64.42%    6.587      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:2776-0!canonical and timestamp 20260615160710 and revision id 8747. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "10.1_General_e-Navigation_terms"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2009_Edition"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\nThe component of the Vessel Technical Error in the direction of the intended track.\n\n\n\n{{languages|Along-track error}}\n[[Category:10.1 General e-Navigation terms]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2009 Edition]]\n[[Category:IALA Dictionary 2023 Revision]]"
+}

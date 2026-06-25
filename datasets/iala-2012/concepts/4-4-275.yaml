@@ -1,0 +1,71 @@
+---
+id: 4-4-275
+data:
+  identifier: 4-4-275
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Type_M_Raydist
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-275
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-275
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-4-275
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-4-275
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-275
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-4-275
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-275
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-4-275
+---
+id: 4-4-275-eng
+termid: 4-4-275
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Type M Raydist
+  normative_status: preferred
+definition:
+- content: |-
+    A hyperbolic co-ordinate Raydist system which uses a single reference transmitter ashore, a transmitter on the vessel, whose frequency is offset by a few hundred cycles from that of the reference transmitter, and nominally three receivers, suitably spaced from each other, ashore.
+
+    The audio heterodyne frequency produced is transmitted via cable or radio link from each receiver to a common location, where it is phase compared.
+
+    The position information derived from the two hyperbolae is transmitted to the vessel by radio link.
+
+    The system is limited to one vessel for each pair of radio frequencies employed.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Type_M_Raydist

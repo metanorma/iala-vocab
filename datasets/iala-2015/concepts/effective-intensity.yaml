@@ -1,0 +1,86 @@
+---
+id: effective-intensity
+data:
+  identifier: effective-intensity
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Effective_Intensity
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: effective-intensity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: effective-intensity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: effective-intensity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: effective-intensity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: effective-intensity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: effective-intensity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: effective-intensity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: effective-intensity
+---
+id: effective-intensity-eng
+termid: effective-intensity
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Effective Intensity
+  normative_status: preferred
+- type: expression
+  designation: Effective Intensity (of a rhythmic light)
+  normative_status: admitted
+- type: expression
+  designation: Equivalent Fixed Intensity (of a rhythmic light)
+  normative_status: admitted
+- type: symbol
+  designation: stem:[Ie]
+  normative_status: preferred
+definition:
+- content: |-
+    2-1 -400
+
+    The luminous intensity of a fictitious juxtaposed steady-burning point light source that would appear to exhibit a luminosity equal to that of the rhythmic point light source it describes. The apparent reduction in intensity of the rhythmic light is subjective and is due to the nature of the response of the eye of the observer.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The quantity Ie so defined is a function not only of the intensity versus
+    time variation of the rhythmic light, but also of the conditions of observation
+    illuminance level at the eye, background luminance, angular size of light source,
+    etc.
+- content: The term "effective intensity" is generally restricted to conditions of
+    observation near the limit of luminous range of the light (i.e., at or near the
+    threshold for foveal vision).
+- content: The use of the term Apparent Intensity with this meaning is deprecated.
+annotations:
+- content: Unit candela (cd)
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Effective_Intensity

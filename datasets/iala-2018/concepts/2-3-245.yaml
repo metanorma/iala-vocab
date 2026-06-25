@@ -1,0 +1,73 @@
+---
+id: 2-3-245
+data:
+  identifier: 2-3-245
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Reflector_Lamp
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-3-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-3-245
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-245
+---
+id: 2-3-245-eng
+termid: 2-3-245
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Reflector Lamp
+  normative_status: preferred
+definition:
+- content: |-
+    An incandescent lamp or discharge lamp, the bulb of which, usually of appropriate shape, is partly coated with a reflecting layer, in order to direct the light.
+
+    The Pressed Glass Lamp, the bulb of which consists of two glass parts fused together, namely a metallized reflecting bowl and a patterned cover forming an optical system.
+    The Sealed Beam Lamp, a type of pressed glass lamp designed to give a controlled beam of light.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+notes:
+- content: 'Among the types of lamps in this class are the following:'
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Reflector_Lamp

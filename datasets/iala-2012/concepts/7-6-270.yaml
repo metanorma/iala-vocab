@@ -1,0 +1,67 @@
+---
+id: 7-6-270
+data:
+  identifier: 7-6-270
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Towing
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-6-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-6-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-6-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-6-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-6-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-6-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-6-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-6-270
+---
+id: 7-6-270-eng
+termid: 7-6-270
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Towing
+  normative_status: preferred
+definition:
+- content: The action of pulling an object through the water by means of a rope.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: In French and in German a distinction is made between remorquage, Schleppen
+    for towing by a vessel and halage, Treideln for towing by a land-based vehicle.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Towing

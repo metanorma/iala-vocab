@@ -1,0 +1,65 @@
+---
+id: 6-3-050
+data:
+  identifier: 6-3-050
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Short-circuit_current_(Isc)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-3-050
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-3-050
+---
+id: 6-3-050-eng
+termid: 6-3-050
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Short-circuit current (Isc)
+  normative_status: preferred
+definition:
+- content: The output current of a photovoltaic device in the short-circuit condition
+    at a particular temperature and irradiance.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Short-circuit_current_(Isc)

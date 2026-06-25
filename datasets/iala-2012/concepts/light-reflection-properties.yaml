@@ -1,0 +1,67 @@
+---
+id: light-reflection-properties
+data:
+  identifier: light-reflection-properties
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Light_reflection_properties
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: light-reflection-properties
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: light-reflection-properties
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: light-reflection-properties
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: light-reflection-properties
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: light-reflection-properties
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: light-reflection-properties
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: light-reflection-properties
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: light-reflection-properties
+---
+id: light-reflection-properties-eng
+termid: light-reflection-properties
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Light reflection properties
+  normative_status: preferred
+definition:
+- content: |-
+    2-1 -165
+
+    The capacity of a body to reflect light.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light_reflection_properties

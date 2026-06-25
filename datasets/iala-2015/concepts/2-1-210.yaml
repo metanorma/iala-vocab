@@ -1,0 +1,77 @@
+---
+id: 2-1-210
+data:
+  identifier: 2-1-210
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Internal_Absorptance
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-210
+---
+id: 2-1-210-eng
+termid: 2-1-210
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Internal Absorptance
+  normative_status: preferred
+- type: expression
+  designation: Internal Absorptance (of a homogeneous non-diffusing plate)
+  normative_status: admitted
+- type: symbol
+  designation: stem:[ai]
+  normative_status: preferred
+definition:
+- content: |-
+    The ratio of the luminous flux absorbed between the entry and exit surfaces of the plate, to the flux which leaves the entry surface.
+
+    ai + Ti = 1
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Internal_Absorptance

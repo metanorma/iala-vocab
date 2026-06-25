@@ -1,0 +1,71 @@
+---
+id: 6-3-025
+data:
+  identifier: 6-3-025
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Solar_irradiance
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-3-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-3-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-3-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-3-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-3-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-3-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-3-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-3-025
+---
+id: 6-3-025-eng
+termid: 6-3-025
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Solar irradiance
+  normative_status: preferred
+definition:
+- content: Radiant power incident from the sun upon unit area of a receptor (e.g.
+    a solar cell).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: Solar irradiance may be direct irradiance or diffuse irradiance.
+- content: The solar irradiance depends on the geographical latitude, the season of
+    the year and the time of the day, also on the intensity of solar emission and
+    the transmission properties of the atmosphere, the value of air-mass and the inclination
+    of the surface of the receptor.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Solar_irradiance

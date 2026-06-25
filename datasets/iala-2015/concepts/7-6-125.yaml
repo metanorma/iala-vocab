@@ -1,0 +1,64 @@
+---
+id: 7-6-125
+data:
+  identifier: 7-6-125
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lap_(of_reinforcement)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-6-125
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-6-125
+---
+id: 7-6-125-eng
+termid: 7-6-125
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Lap (of reinforcement)
+  normative_status: preferred
+definition:
+- content: The distance by which one reinforcing bar overlaps another.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lap_(of_reinforcement)

@@ -1,0 +1,73 @@
+---
+id: 5-4-280
+data:
+  identifier: 5-4-280
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Transmission_bridge
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-280
+---
+id: 5-4-280-eng
+termid: 5-4-280
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Transmission bridge
+  normative_status: preferred
+definition:
+- content: In telephony, a device primarily intended to permit the through transmission
+    of audio frequency currents whilst preventing the through transmission of d.c.
+    signals.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.C
+notes:
+- content: The bridge may have other functions such as the control of the holding,
+    supervision and release of a connection. It may also feed microphone current to
+    the telephone instrument.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Transmission_bridge

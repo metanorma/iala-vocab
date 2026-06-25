@@ -1,0 +1,84 @@
+---
+id: 2-1-265
+data:
+  identifier: 2-1-265
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Allard's_Law
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-265
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-265
+---
+id: 2-1-265-eng
+termid: 2-1-265
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Allard's Law
+  normative_status: preferred
+definition:
+- content: |-
+    A formula relating the illuminance produced on a normal surface at a given distance from a point source of light, the intensity of the light and the degree of transparency of the atmosphere (assumed uniform).
+
+    The law may be expressed as follows
+
+    ![Allard1.gif](/iala-vocab/images/iala/Allard1.gif)
+
+    where E is the resulting illuminance on this surface
+
+    I is the intensity of the incident light in the direction of measurement.
+
+    T is the atmospheric transmission factor (assumed uniform) for the specified
+
+    x is the distance of the surface from the light source, measured in the specified units of distance.
+
+    ![Allard2.gif](/iala-vocab/images/iala/Allard2.gif)
+
+    where V = meteorological visibility (2-1-280 and 2-1-290, Note:).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: Another form of Allard's Law is
+annotations:
+- content: Unit distance.
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Allard's_Law

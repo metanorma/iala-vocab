@@ -1,0 +1,74 @@
+---
+id: 5-4-240
+data:
+  identifier: 5-4-240
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ipot
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-4-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-4-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-4-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-4-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-4-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-4-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-4-240
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-240
+---
+id: 5-4-240-eng
+termid: 5-4-240
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Ipot
+  normative_status: preferred
+- type: expression
+  designation: Variac(R) (U.S.A.)
+  normative_status: admitted
+definition:
+- content: A precision type toroidally wound auto-transformer provided with one or
+    more adjustable sliders.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+  modification: modified from source
+notes:
+- content: IPOT is an acronym for inductive potential divider.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ipot

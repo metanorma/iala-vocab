@@ -1,0 +1,79 @@
+---
+id: 2-1-010
+data:
+  identifier: 2-1-010
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Luminous_Flux
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-010
+---
+id: 2-1-010-eng
+termid: 2-1-010
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Luminous Flux
+  normative_status: preferred
+- type: symbol
+  designation: stem:[F]
+  normative_status: preferred
+definition:
+- content: |-
+    The quantity characteristic of radiant flux which expresses its capacity to produce a luminous sensation, evaluated according to the values of spectral luminous efficiency.
+
+    Unless otherwise indicated, the luminous flux in question relates to photopic vision, and is connected with the radiant flux in accordance with the formula adopted in 1948 by the
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+annotations:
+- content: Unit lumen (lm)
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Luminous_Flux

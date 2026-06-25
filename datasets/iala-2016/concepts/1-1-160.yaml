@@ -1,0 +1,72 @@
+---
+id: 1-1-160
+data:
+  identifier: 1-1-160
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Spectral_concentration
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-1-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-1-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-1-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-1-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-1-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-1-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-1-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-1-160
+---
+id: 1-1-160-eng
+termid: 1-1-160
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Spectral concentration
+  normative_status: preferred
+- type: expression
+  designation: Spectral concentration (of a radiometric quantity radiant flux, radiant
+    intensity, etc.)
+  normative_status: admitted
+definition:
+- content: Quotient of the quantity, taken over an infinitesimal range on either side
+    of a given wavelength, by the range.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E. (extract)
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Spectral_concentration

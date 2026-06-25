@@ -1,0 +1,63 @@
+---
+id: ship-safety-zone
+data:
+  identifier: ship-safety-zone
+  domains:
+  - source: urn:iala:dictionary:iala-2012
+    concept_id: section-9
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ship_Safety_Zone
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: ship-safety-zone
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: ship-safety-zone
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: ship-safety-zone
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: ship-safety-zone
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: ship-safety-zone
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: ship-safety-zone
+---
+id: ship-safety-zone-eng
+termid: ship-safety-zone
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Ship Safety Zone
+  normative_status: preferred
+definition:
+- content: |-
+    VTS-2012-31
+
+    A zone around a vessel within which all other vessels should remain clear unless authorised.
+
+    Source: VTS Manual (2008)
+
+    (VTS33/output/8 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ship_Safety_Zone

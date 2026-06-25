@@ -1,0 +1,72 @@
+---
+id: 4-1-280
+data:
+  identifier: 4-1-280
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Induction_field
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-1-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-1-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-1-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-1-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-1-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-1-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-1-280
+---
+id: 4-1-280-eng
+termid: 4-1-280
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Induction field
+  normative_status: preferred
+definition:
+- content: That part of the field of an antenna which is associated with a pulsation
+    of energy to and fro between the antenna and the medium.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+notes:
+- content: The induction field extends theoretically over the whole of space, but
+    is negligible compared with the radiation field except in the neighbourhood of
+    the antenna.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Induction_field

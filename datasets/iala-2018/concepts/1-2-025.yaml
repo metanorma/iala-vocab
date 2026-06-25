@@ -1,0 +1,64 @@
+---
+id: 1-2-025
+data:
+  identifier: 1-2-025
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Enter_a_narrow_channel
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-2-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-2-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-2-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-2-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-2-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-2-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-2-025
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-2-025
+---
+id: 1-2-025-eng
+termid: 1-2-025
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Enter a narrow channel
+  normative_status: preferred
+definition:
+- content: To enter a (narrow) channel.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Enter_a_narrow_channel

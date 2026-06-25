@@ -1,0 +1,64 @@
+---
+id: 7-4-035
+data:
+  identifier: 7-4-035
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Seabed
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-4-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-4-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-4-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-4-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-4-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-4-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-4-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-4-035
+---
+id: 7-4-035-eng
+termid: 7-4-035
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Seabed
+  normative_status: preferred
+definition:
+- content: Soil or rock surface forming the lower boundary of the sea.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Seabed

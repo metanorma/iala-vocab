@@ -1,0 +1,67 @@
+---
+id: radio-determination
+data:
+  identifier: radio-determination
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Radio_determination
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: radio-determination
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: radio-determination
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: radio-determination
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: radio-determination
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: radio-determination
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: radio-determination
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: radio-determination
+---
+id: radio-determination-eng
+termid: radio-determination
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Radio determination
+  normative_status: preferred
+definition:
+- content: |-
+    The determination of position, or the obtaining of information relating to position, by means of the propagation properties of radio waves.
+
+    Radiolocation. Radio determination used for purposes other than radionavigation.
+
+    Radionavigation. The use of radio signals to support navigation for the determination of position or direction, or for obstruction warning.
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_determination

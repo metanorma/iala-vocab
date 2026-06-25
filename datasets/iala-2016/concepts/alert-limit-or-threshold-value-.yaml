@@ -1,0 +1,63 @@
+---
+id: alert-limit-or-threshold-value-
+data:
+  identifier: alert-limit-or-threshold-value-
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Alert_limit_(or_threshold_value)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: alert-limit-or-threshold-value-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: alert-limit-or-threshold-value-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: alert-limit-or-threshold-value-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: alert-limit-or-threshold-value-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: alert-limit-or-threshold-value-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: alert-limit-or-threshold-value-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: alert-limit-or-threshold-value-
+---
+id: alert-limit-or-threshold-value--eng
+termid: alert-limit-or-threshold-value-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Alert limit (or threshold value)
+  normative_status: preferred
+definition:
+- content: |-
+    The maximum allowable error in the measured position – during integrity monitoring – before an alarm is triggered.
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Alert_limit_(or_threshold_value)

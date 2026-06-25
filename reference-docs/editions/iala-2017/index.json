@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Audible Signal",
+    "numeric_code": null,
+    "categories": [
+      "3.1 Acoustics and hearing",
+      "Alphabetical Index",
+      "IALA Dictionary 2017 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/audible-signal.json"
+  },
+  {
+    "title": "Fog signal",
+    "numeric_code": null,
+    "categories": [
+      "3.1 Acoustics and hearing",
+      "Alphabetical Index",
+      "IALA Dictionary 2017 Revision",
+      "Approved by Council through approval of source document",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/fog-signal.json"
+  }
+]

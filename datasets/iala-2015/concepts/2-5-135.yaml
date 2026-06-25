@@ -1,0 +1,70 @@
+---
+id: 2-5-135
+data:
+  identifier: 2-5-135
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Eclipse
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-5-135
+---
+id: 2-5-135-eng
+termid: 2-5-135
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Eclipse
+  normative_status: preferred
+definition:
+- content: |-
+    An interval of darkness between appearances of a light. (Fig. 40b)
+
+    ![Ch2_Fig40.jpg](/iala-vocab/images/iala/Ch2_Fig40.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: In Britain and in France this term is properly applied only to an interval
+    of dark-ness between flashes of shorter duration.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Eclipse

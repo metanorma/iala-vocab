@@ -1,0 +1,65 @@
+---
+id: 8-3-175
+data:
+  identifier: 8-3-175
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Snatch_block
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-3-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-3-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-3-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-3-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-3-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-3-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-3-175
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-3-175
+---
+id: 8-3-175-eng
+termid: 8-3-175
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Snatch block
+  normative_status: preferred
+definition:
+- content: A single block with a hinged face which allows fibre or wire rope to be
+    placed on the sheave without the delay of reeving or unreeving.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Snatch_block

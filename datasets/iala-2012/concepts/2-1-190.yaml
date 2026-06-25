@@ -1,0 +1,75 @@
+---
+id: 2-1-190
+data:
+  identifier: 2-1-190
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Internal_Transmittance
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-190
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-190
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-190
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-190
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-190
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-190
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-190
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-190
+---
+id: 2-1-190-eng
+termid: 2-1-190
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Internal Transmittance
+  normative_status: preferred
+- type: expression
+  designation: Internal Transmittance (of a homogeneous non-diffusing plate)
+  normative_status: admitted
+- type: symbol
+  designation: stem:[Ti]
+  normative_status: preferred
+definition:
+- content: The ratio of the luminous flux (F2) reaching the exit surface of the plate
+    to the flux (F1) which leaves the entry surface.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Internal_Transmittance

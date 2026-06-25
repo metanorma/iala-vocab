@@ -1,0 +1,73 @@
+---
+id: 2-1-325
+data:
+  identifier: 2-1-325
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Adaptation
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-325
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-325
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-325
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-325
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-325
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-325
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-325
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-325
+---
+id: 2-1-325-eng
+termid: 2-1-325
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Adaptation
+  normative_status: preferred
+definition:
+- content: The process taking place as the eye becomes accustomed to the luminance
+    or the colour of the field of view.
+- content: The final state of the process. In particular, the terms Light Adaptation
+    and Dark Adaptation are used, according as the luminance is of the order of at
+    least several candelas per square metre or less than some hundredths of a candela
+    per square metre.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Adaptation

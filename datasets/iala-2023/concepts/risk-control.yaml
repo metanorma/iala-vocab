@@ -12,6 +12,15 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Risk_Control
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: risk-control
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: risk-control
 ---
 id: risk-control-eng
 termid: risk-control

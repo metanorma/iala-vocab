@@ -1,0 +1,66 @@
+---
+id: 7-4-055
+data:
+  identifier: 7-4-055
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Wave_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-4-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-4-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-4-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-4-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-4-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-4-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-4-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-4-055
+---
+id: 7-4-055-eng
+termid: 7-4-055
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Wave (2)
+  normative_status: preferred
+definition:
+- content: One cycle of vertical motion of the sea surface.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: In French a very sharp wave is called a lame.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wave_(2)

@@ -1,0 +1,69 @@
+---
+id: 3-1-250
+data:
+  identifier: 3-1-250
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-3
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Nominal_range_of_a_sound_signal
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 3-1-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 3-1-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 3-1-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 3-1-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 3-1-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 3-1-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 3-1-250
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 3-1-250
+---
+id: 3-1-250-eng
+termid: 3-1-250
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Nominal range of a sound signal
+  normative_status: preferred
+definition:
+- content: The distance at which, in foggy weather, an observer has a 90% probability
+    of hearing a sound signal when he is situated on the wing of a ship's bridge in
+    an ambient noise level (as defined by the I.A.L.A. sub-committee on the rated
+    range of sound signals) which is equal to or greater than that found on 84% of
+    large merchant vessels, propagation between the sound signalling apparatus and
+    the observer being effected in relatively calm weather, with no intervening obstacles.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Nominal_range_of_a_sound_signal

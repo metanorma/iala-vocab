@@ -1,0 +1,72 @@
+---
+id: 5-2-195
+data:
+  identifier: 5-2-195
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Transient_deviation
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-2-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-2-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-2-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-2-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-2-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-2-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-2-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-2-195
+---
+id: 5-2-195-eng
+termid: 5-2-195
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Transient deviation
+  normative_status: preferred
+definition:
+- content: |-
+    The instantaneous value of the ultimately controlled variable minus its steady state value.
+
+    ![Ch5_Fig3.jpg](/iala-vocab/images/iala/Ch5_Fig3.jpg)
+
+    Figure 3 - Typical time response of a system to a step increase of input.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: ANSI
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Transient_deviation

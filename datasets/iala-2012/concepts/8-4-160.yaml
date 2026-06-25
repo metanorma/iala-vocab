@@ -1,0 +1,107 @@
+---
+id: 8-4-160
+data:
+  identifier: 8-4-160
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Safety_hand-hold
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-4-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-4-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-4-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-4-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-4-160
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-4-160
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-4-160
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-4-160
+---
+id: 8-4-160-eng
+termid: 8-4-160
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Safety hand-hold
+  normative_status: preferred
+definition:
+- content: A part of the superstructure of a buoy that is grasped by service personnel
+    to prevent themselves from falling.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Safety_hand-hold
+---
+id: 8-4-160-spa
+termid: 8-4-160
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Safety hand-hold/es
+  normative_status: preferred
+definition:
+- content: |-
+    Asa de seguridad
+
+    Parte de la superestructura A la que se sujeta el personal  de servicio para evitar caer.
+    .
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Safety_hand-hold/es
+---
+id: 8-4-160-spa
+termid: 8-4-160
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 8-4-160
+  normative_status: preferred
+definition:
+- content: |-
+    Asa de seguridad
+
+    Parte de la superestructura A la que se sujeta el personal  de servicio para evitar caer.
+    .
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Safety_hand-hold/es

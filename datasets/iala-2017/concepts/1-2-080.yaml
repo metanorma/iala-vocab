@@ -1,0 +1,68 @@
+---
+id: 1-2-080
+data:
+  identifier: 1-2-080
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Triangle_of_error
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-2-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-2-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-2-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-2-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-2-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-2-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-2-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-2-080
+---
+id: 1-2-080-eng
+termid: 1-2-080
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Triangle of error
+  normative_status: preferred
+- type: expression
+  designation: Cocked hat (G.B.)
+  normative_status: admitted
+definition:
+- content: Triangle that is formed by three lines of position that do not intersect
+    in one point.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Triangle_of_error

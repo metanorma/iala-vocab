@@ -1,0 +1,68 @@
+---
+id: 7-5-255
+data:
+  identifier: 7-5-255
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fixing_moment
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-5-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-5-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-5-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-5-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-5-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-5-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-5-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-5-255
+---
+id: 7-5-255-eng
+termid: 7-5-255
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Fixing moment
+  normative_status: preferred
+- type: expression
+  designation: Cantilever moment
+  normative_status: admitted
+definition:
+- content: The bending moment at the support of a beam or cantilever due to the applied
+    load.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fixing_moment

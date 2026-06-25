@@ -1,0 +1,64 @@
+---
+id: 6-7-085
+data:
+  identifier: 6-7-085
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Stabilisation
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-7-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-7-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-7-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-7-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-7-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-7-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-7-085
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-7-085
+---
+id: 6-7-085-eng
+termid: 6-7-085
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Stabilisation
+  normative_status: preferred
+definition:
+- content: The process of maintaining an electric quantity within specified limits.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Stabilisation

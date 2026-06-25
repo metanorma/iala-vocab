@@ -1,7 +1,10 @@
 require 'yaml'
 require 'fileutils'
 
-datasets = ['datasets/iala-1970-89/concepts', 'datasets/iala-2023/concepts']
+datasets = %w[
+  iala-1970-89 iala-2009 iala-2012 iala-2015
+  iala-2016 iala-2017 iala-2018 iala-2022 iala-2023
+].map { |id| "datasets/#{id}/concepts" }
 
 summary = {
   datasets: {},

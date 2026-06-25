@@ -1,0 +1,72 @@
+---
+id: 2-6-230
+data:
+  identifier: 2-6-230
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Conical_Buoy_(G.B.)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-6-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-6-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-6-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-6-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-6-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-6-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-6-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-6-230
+---
+id: 2-6-230-eng
+termid: 2-6-230
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Conical Buoy (G.B.)
+  normative_status: preferred
+definition:
+- content: |-
+    Nun Buoy (U.S.A.)
+
+    A buoy of which the upper part of the body (above the waterline), or the larger part of the superstructure, has approximately the shape of a cone with vertex upwards.
+
+    ![Ch2_Fig62.jpg](/iala-vocab/images/iala/Ch2_Fig62.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: In France, a conical buoy of which the lower part of the body (mainly below
+    the waterline) is of spherical shape is also known as a Bouee Sphero-Conique.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Conical_Buoy_(G.B.)

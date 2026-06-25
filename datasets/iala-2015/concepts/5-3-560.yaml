@@ -1,0 +1,70 @@
+---
+id: 5-3-560
+data:
+  identifier: 5-3-560
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Real_time_processing
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-3-560
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-3-560
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-3-560
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-3-560
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-3-560
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-3-560
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-3-560
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-3-560
+---
+id: 5-3-560-eng
+termid: 5-3-560
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Real time processing
+  normative_status: preferred
+definition:
+- content: The performance of a computation during the time that the related physical
+    process actually transpires in order that the results of the computation can be
+    used in guiding the physical process.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: ANSI
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Real_time_processing

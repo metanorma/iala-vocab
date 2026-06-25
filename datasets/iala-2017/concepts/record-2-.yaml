@@ -1,0 +1,68 @@
+---
+id: record-2-
+data:
+  identifier: record-2-
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-12
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Record_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: record-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: record-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: record-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: record-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: record-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: record-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: record-2-
+---
+id: record-2--eng
+termid: record-2-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Record (2)
+  normative_status: preferred
+definition:
+- content: |-
+    The description, depiction and analysis of any feature or area using drawings, survey, photographs and any other suitable means as well as the preservation of documents, photographs and other material relating to the feature or area in any earlier condition or use.
+
+    (This definition was noted at the IALA Seminar on the Practical Aspects of Lighthouse Preservation in Gothenburg 2005)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: Stirlingcharter
+notes:
+- content: based on R. Mercer's consultation response.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Record_(2)

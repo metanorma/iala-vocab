@@ -17,6 +17,34 @@ related:
   ref:
     source: urn:iala:dictionary:1970-89
     concept_id: 8-1-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-1-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-1-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-1-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-1-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-1-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-1-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-1-015
 ---
 id: 8-1-015-eng
 termid: 8-1-015

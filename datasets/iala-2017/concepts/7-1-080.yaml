@@ -1,0 +1,65 @@
+---
+id: 7-1-080
+data:
+  identifier: 7-1-080
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Rubble_mound_breakwater
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-1-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-1-080
+---
+id: 7-1-080-eng
+termid: 7-1-080
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Rubble mound breakwater
+  normative_status: preferred
+definition:
+- content: A breakwater formed from irregular shaped rocks or natural stone, deposited
+    in a random fashion.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Rubble_mound_breakwater

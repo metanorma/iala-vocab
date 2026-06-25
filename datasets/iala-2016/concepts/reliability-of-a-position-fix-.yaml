@@ -1,0 +1,65 @@
+---
+id: reliability-of-a-position-fix-
+data:
+  identifier: reliability-of-a-position-fix-
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Reliability_(of_a_position_fix)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: reliability-of-a-position-fix-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: reliability-of-a-position-fix-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: reliability-of-a-position-fix-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: reliability-of-a-position-fix-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: reliability-of-a-position-fix-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: reliability-of-a-position-fix-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: reliability-of-a-position-fix-
+---
+id: reliability-of-a-position-fix--eng
+termid: reliability-of-a-position-fix-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Reliability (of a position fix)
+  normative_status: preferred
+definition:
+- content: |-
+    A measure of the propagation of a non-detected gross error in an observation to the position fix.
+
+    This "external" reliability is usually expressed in terms of marginally detectable error (MDE).
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Reliability_(of_a_position_fix)

@@ -1,0 +1,63 @@
+---
+id: vts-centre
+data:
+  identifier: vts-centre
+  domains:
+  - source: urn:iala:dictionary:iala-2012
+    concept_id: section-9
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/VTS_Centre
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: vts-centre
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: vts-centre
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: vts-centre
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: vts-centre
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: vts-centre
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: vts-centre
+---
+id: vts-centre-eng
+termid: vts-centre
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: VTS Centre
+  normative_status: preferred
+definition:
+- content: |-
+    VTS-2012-41
+
+    The centre from which the VTS is operated.
+
+    Each sub-area of the VTS may have its own sub-centre.
+
+    (VTS33/output/8 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/VTS_Centre

@@ -1,0 +1,70 @@
+---
+id: 4-4-330
+data:
+  identifier: 4-4-330
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Shoran_Variable_delay_network
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-4-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-4-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-4-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-4-330
+---
+id: 4-4-330-eng
+termid: 4-4-330
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Shoran Variable delay network
+  normative_status: preferred
+definition:
+- content: |-
+    Variable delay network (in Shoran)
+
+    A device, employed in the Shoran shore station, to adjust the overall delay between the time of reception of the signal from the vessel and the time at which the triggered pulse is transmitted, to a standard value. This figure is an integral part of the overall system calibration.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The delay in the broadband receiver on the vessel is small and stable.
+    It is measured by laboratory methods and therefore taken into account.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Shoran_Variable_delay_network

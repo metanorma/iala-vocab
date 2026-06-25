@@ -1,0 +1,66 @@
+---
+id: archaeology
+data:
+  identifier: archaeology
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-12
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Archaeology
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: archaeology
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: archaeology
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: archaeology
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: archaeology
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: archaeology
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: archaeology
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: archaeology
+---
+id: archaeology-eng
+termid: archaeology
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Archaeology
+  normative_status: preferred
+definition:
+- content: |-
+    Scientific study and interpretation of the past, based on the uncovering, retrieval, recording and interpretation of information from physical evidence.
+
+    (This definition was noted at the IALA Seminar on the Practical Aspects of Lighthouse Preservation in Gothenburg 2005)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: Stirlingcharter
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Archaeology

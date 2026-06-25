@@ -1,0 +1,26 @@
+{
+  "title": "Articulated beacon",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p><b>8-4-065</b>\n</p><p><span class=\"mw-lingo-term\" data-lingo-term-id=\"7fc56270e7a70fa81a5935b72eacbe29\">A</span> floating mark secured to a sinker, either directly through a joint or by a cable that is held in tension by the buoyancy of the mark. The buoyancy chamber is normally below the surface of the sea.\n</p><p><br>\nNote 1:\n</p><p>The terms resilient beacon, buoyant beacon and elastic beacon have been used with this meaning, but their continued use is not recommended.\n</p><p>Note 2:\n</p><p>When the connection to the sinker is by a universal joint and the aid carries a light, the term articulated light is sometimes used. This usage is deprecated.\n</p><p><br>\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a href=\"/wiki/dictionary/index.php/Buoyant_beacon\" title=\"Buoyant beacon\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"7fc56270e7a70fa81a5935b72eacbe29\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>ampere\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260615091411\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.031 seconds\nReal time usage: 0.038 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 653/2097152 bytes\nTemplate argument size: 190/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   10.620      1 Template:Languages\n100.00%   10.620      1 -total\n 65.03%    6.906      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:2936-0!canonical and timestamp 20260615091410 and revision id 8827. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "8.4_Buoys"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2012_Revision"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "'''8-4-065\n\nA floating mark secured to a sinker, either directly through a joint or by a cable that is held in tension by the buoyancy of the mark. The buoyancy chamber is normally below the surface of the sea.\n\n\nNote 1:\n\nThe terms resilient beacon, buoyant beacon and elastic beacon have been used with this meaning, but their continued use is not recommended.\n\nNote 2:\n\nWhen the connection to the sinker is by a universal joint and the aid carries a light, the term articulated light is sometimes used. This usage is deprecated.\n\n\n\n{{languages|Buoyant beacon}}\n[[Category:8.4 Buoys]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2012 Revision]]\n[[Category:IALA Dictionary 2023 Revision]]"
+}

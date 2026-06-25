@@ -1,0 +1,64 @@
+---
+id: 6-6-210
+data:
+  identifier: 6-6-210
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Open_position_(of_a_switch)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-6-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-6-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-6-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-6-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-6-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-6-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-6-210
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-6-210
+---
+id: 6-6-210-eng
+termid: 6-6-210
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Open position (of a switch)
+  normative_status: preferred
+definition:
+- content: That position in which there is a given clearance between the contacts.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Open_position_(of_a_switch)

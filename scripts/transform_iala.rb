@@ -17,8 +17,14 @@ unless File.exist?(index_path)
 end
 
 index = JSON.parse(File.read(index_path))
-out_dir = "datasets/#{edition}/concepts"
+# Per-source transform output goes to datasets_raw/{edition}/. A separate
+# build_cumulative_editions.rb assembles these into the final datasets/{edition}/
+# directories, where each target edition is the cumulative state at that year
+# (later sources override earlier ones for shared termids).
+out_dir = "datasets_raw/#{edition}/concepts"
 FileUtils.mkdir_p(out_dir)
+bib_dir = "datasets_raw/#{edition}"
+FileUtils.mkdir_p(bib_dir)
 
 def sanitize(str)
   str.downcase.gsub(/[^a-z0-9]+/, '-')
@@ -728,7 +734,7 @@ end
 # ref text in their sources[].origin.ref — matches oiml-vocab's bibliography
 # pattern consumed by concept-browser (generate-data.mjs copies it verbatim
 # to public/data/{edition}/bibliography.json).
-bib_path = "datasets/#{edition}/bibliography.yaml"
+bib_path = "#{bib_dir}/bibliography.yaml"
 File.open(bib_path, "w") do |f|
   f.puts "---"
   f.puts "# Bibliography of external references cited by #{edition} concepts."

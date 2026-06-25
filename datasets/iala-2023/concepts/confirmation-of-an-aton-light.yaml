@@ -12,6 +12,15 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Confirmation_of_an_AtoN_Light
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: confirmation-of-an-aton-light
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: confirmation-of-an-aton-light
 ---
 id: confirmation-of-an-aton-light-eng
 termid: confirmation-of-an-aton-light

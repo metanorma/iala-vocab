@@ -1,5 +1,187 @@
 {
-  "matched": 663,
-  "identical": 655,
-  "superseded": 8
+  "matched": 96443,
+  "equivalent": 95805,
+  "superseded": 638,
+  "pairs": {
+    "iala-1970-89 <-> iala-2009": {
+      "matched": 2585,
+      "equivalent": 2584,
+      "superseded": 1
+    },
+    "iala-1970-89 <-> iala-2012": {
+      "matched": 2585,
+      "equivalent": 2583,
+      "superseded": 2
+    },
+    "iala-1970-89 <-> iala-2015": {
+      "matched": 2585,
+      "equivalent": 2583,
+      "superseded": 2
+    },
+    "iala-1970-89 <-> iala-2016": {
+      "matched": 2585,
+      "equivalent": 2583,
+      "superseded": 2
+    },
+    "iala-1970-89 <-> iala-2017": {
+      "matched": 2585,
+      "equivalent": 2583,
+      "superseded": 2
+    },
+    "iala-1970-89 <-> iala-2018": {
+      "matched": 2585,
+      "equivalent": 2553,
+      "superseded": 32
+    },
+    "iala-1970-89 <-> iala-2022": {
+      "matched": 2585,
+      "equivalent": 2553,
+      "superseded": 32
+    },
+    "iala-1970-89 <-> iala-2023": {
+      "matched": 2585,
+      "equivalent": 2563,
+      "superseded": 22
+    },
+    "iala-2009 <-> iala-2012": {
+      "matched": 2666,
+      "equivalent": 2664,
+      "superseded": 2
+    },
+    "iala-2009 <-> iala-2015": {
+      "matched": 2666,
+      "equivalent": 2664,
+      "superseded": 2
+    },
+    "iala-2009 <-> iala-2016": {
+      "matched": 2666,
+      "equivalent": 2664,
+      "superseded": 2
+    },
+    "iala-2009 <-> iala-2017": {
+      "matched": 2666,
+      "equivalent": 2664,
+      "superseded": 2
+    },
+    "iala-2009 <-> iala-2018": {
+      "matched": 2666,
+      "equivalent": 2634,
+      "superseded": 32
+    },
+    "iala-2009 <-> iala-2022": {
+      "matched": 2666,
+      "equivalent": 2634,
+      "superseded": 32
+    },
+    "iala-2009 <-> iala-2023": {
+      "matched": 2666,
+      "equivalent": 2644,
+      "superseded": 22
+    },
+    "iala-2012 <-> iala-2015": {
+      "matched": 2708,
+      "equivalent": 2707,
+      "superseded": 1
+    },
+    "iala-2012 <-> iala-2016": {
+      "matched": 2708,
+      "equivalent": 2707,
+      "superseded": 1
+    },
+    "iala-2012 <-> iala-2017": {
+      "matched": 2708,
+      "equivalent": 2707,
+      "superseded": 1
+    },
+    "iala-2012 <-> iala-2018": {
+      "matched": 2708,
+      "equivalent": 2677,
+      "superseded": 31
+    },
+    "iala-2012 <-> iala-2022": {
+      "matched": 2708,
+      "equivalent": 2677,
+      "superseded": 31
+    },
+    "iala-2012 <-> iala-2023": {
+      "matched": 2708,
+      "equivalent": 2687,
+      "superseded": 21
+    },
+    "iala-2015 <-> iala-2016": {
+      "matched": 2709,
+      "equivalent": 2708,
+      "superseded": 1
+    },
+    "iala-2015 <-> iala-2017": {
+      "matched": 2709,
+      "equivalent": 2708,
+      "superseded": 1
+    },
+    "iala-2015 <-> iala-2018": {
+      "matched": 2709,
+      "equivalent": 2678,
+      "superseded": 31
+    },
+    "iala-2015 <-> iala-2022": {
+      "matched": 2709,
+      "equivalent": 2678,
+      "superseded": 31
+    },
+    "iala-2015 <-> iala-2023": {
+      "matched": 2709,
+      "equivalent": 2688,
+      "superseded": 21
+    },
+    "iala-2016 <-> iala-2017": {
+      "matched": 2721,
+      "equivalent": 2720,
+      "superseded": 1
+    },
+    "iala-2016 <-> iala-2018": {
+      "matched": 2721,
+      "equivalent": 2690,
+      "superseded": 31
+    },
+    "iala-2016 <-> iala-2022": {
+      "matched": 2721,
+      "equivalent": 2690,
+      "superseded": 31
+    },
+    "iala-2016 <-> iala-2023": {
+      "matched": 2721,
+      "equivalent": 2700,
+      "superseded": 21
+    },
+    "iala-2017 <-> iala-2018": {
+      "matched": 2723,
+      "equivalent": 2692,
+      "superseded": 31
+    },
+    "iala-2017 <-> iala-2022": {
+      "matched": 2723,
+      "equivalent": 2692,
+      "superseded": 31
+    },
+    "iala-2017 <-> iala-2023": {
+      "matched": 2723,
+      "equivalent": 2702,
+      "superseded": 21
+    },
+    "iala-2018 <-> iala-2022": {
+      "matched": 2751,
+      "equivalent": 2718,
+      "superseded": 33
+    },
+    "iala-2018 <-> iala-2023": {
+      "matched": 2751,
+      "equivalent": 2712,
+      "superseded": 39
+    },
+    "iala-2022 <-> iala-2023": {
+      "matched": 2753,
+      "equivalent": 2714,
+      "superseded": 39
+    }
+  }
 }

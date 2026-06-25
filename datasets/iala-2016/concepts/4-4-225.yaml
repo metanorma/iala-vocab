@@ -1,0 +1,69 @@
+---
+id: 4-4-225
+data:
+  identifier: 4-4-225
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Decca_Lambda
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-4-225
+---
+id: 4-4-225-eng
+termid: 4-4-225
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Decca Lambda
+  normative_status: preferred
+definition:
+- content: |-
+    The word "Lambda" is an abbreviation for Low Ambiguity Decca and refers to a phase comparison radio position-fixing system used for hydrographic purposes. A position fix is obtained fix is obtained by measuring the distance from the ship to two shore stations.
+
+    The CW master transmitter and the receiver are carried on the ship and the two slave stations are sited on land.
+
+    The service has a range of about 400 miles and employs carrier frequencies in the region of 150 kHz. It is only possible for the ship equipped with the master station to use the service.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Decca_Lambda

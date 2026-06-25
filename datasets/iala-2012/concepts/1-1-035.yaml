@@ -1,0 +1,73 @@
+---
+id: 1-1-035
+data:
+  identifier: 1-1-035
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lateral_system_of_marking
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-1-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-1-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-1-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-1-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-1-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-1-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-1-035
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-1-035
+---
+id: 1-1-035-eng
+termid: 1-1-035
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Lateral system of marking
+  normative_status: preferred
+- type: expression
+  designation: Lateral system of marking (or buoyage)
+  normative_status: admitted
+definition:
+- content: An agreed system of visual aids to navigation generally used to indicate
+    the course of a navigable waterway.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The sides of the navigable waterway are indicated by aids to navigation
+    of defined shape, colour or light characteristic in relation to the direction
+    taken by the mariner from seaward or to the direction determined by the competent
+    authority.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lateral_system_of_marking

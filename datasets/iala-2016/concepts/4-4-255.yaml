@@ -1,0 +1,71 @@
+---
+id: 4-4-255
+data:
+  identifier: 4-4-255
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Omega_Lane_resolution
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-4-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-4-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-4-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-4-255
+---
+id: 4-4-255-eng
+termid: 4-4-255
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Omega Lane resolution
+  normative_status: preferred
+definition:
+- content: |-
+    Lane resolution (in Omega)
+
+    A method of resolving the lanes in the Omega system.
+
+    Additional frequencies are transmitted such that the spacing between equiphase lines is a convenient submultiple of the spacing between the equiphase lines of the basic frequency.
+
+    If this ratio is say 34, a coarse lane equal to three fine lanes is provided.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Omega_Lane_resolution

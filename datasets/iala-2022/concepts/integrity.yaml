@@ -1,0 +1,71 @@
+---
+id: integrity
+data:
+  identifier: integrity
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Integrity
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: integrity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: integrity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: integrity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: integrity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: integrity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: integrity
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: integrity
+---
+id: integrity-eng
+termid: integrity
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Integrity
+  normative_status: preferred
+definition:
+- content: |-
+    The ability to provide users with warnings within a specified time when a system should not be used for navigation.
+
+    - Integrity monitoring. The process of determining whether the system performance (or individual observations) allow use for navigation purposes. Overall GNSS system integrity is described by three parameters the threshold value or alert limit, the time to alarm and the integrity risk. The output of integrity monitoring is that individual (erroneous) observations or the ooutput of the GNSS as a whole cannot be used for navigation.
+
+    – Internal integrity monitoring is performed aboard a craft.
+
+    – External integrity monitoring is provided by external stations.
+
+    - Integrity risk. The probability that a user will experience a position error larger than the threshold value without an alarm being raised within the specified time to alarm at any instant of time at any location in the coverage area.
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Integrity

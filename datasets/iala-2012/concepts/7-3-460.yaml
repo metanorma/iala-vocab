@@ -1,0 +1,67 @@
+---
+id: 7-3-460
+data:
+  identifier: 7-3-460
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Painting_(process)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-3-460
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-3-460
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-3-460
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-3-460
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-3-460
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-3-460
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-3-460
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-3-460
+---
+id: 7-3-460-eng
+termid: 7-3-460
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Painting (process)
+  normative_status: preferred
+definition:
+- content: Application of paint in accordance with an agreed specification by brush,
+    roller or spray to provide corrosion protection and/or surface decoration.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The German term anstreichen is limited to brush or roller application.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Painting_(process)

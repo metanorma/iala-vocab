@@ -1,0 +1,79 @@
+---
+id: 3-1-220
+data:
+  identifier: 3-1-220
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-3
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Aural_critical_band
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 3-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 3-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 3-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 3-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 3-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 3-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 3-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 3-1-220
+---
+id: 3-1-220-eng
+termid: 3-1-220
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Aural critical band
+  normative_status: preferred
+definition:
+- content: That frequency band of sound, being a portion of a continuous-spectrum
+    noise covering a wide band, that contains sound power equal to that of a simple
+    (pure) tone centred in the critical band and just audible in the presence of the
+    wide-band noise.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: ANSI
+notes:
+- content: By "just audible" is meant audible in a specified fraction of the trials.
+- content: The use of the aural critical band to estimate masking should be limited
+    to masking by noises having continuous spectra without excessive slopes or irregularities
+    and to cases where masking exceeds 15 dB.
+- content: In order to be just audible in a wide-band continuous noise, the level
+    of a simple tone in decibels must exceed the spectrum level of the continuous
+    noise (at the same frequency) by ten times the logarithm to the base 10 of the
+    ratio of the critical bandwidth to unit bandwidth.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Aural_critical_band

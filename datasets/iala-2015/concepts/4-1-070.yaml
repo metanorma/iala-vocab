@@ -1,0 +1,72 @@
+---
+id: 4-1-070
+data:
+  identifier: 4-1-070
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Spurious_emission
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-1-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-1-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-1-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-1-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-1-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-1-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-1-070
+---
+id: 4-1-070-eng
+termid: 4-1-070
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Spurious emission
+  normative_status: preferred
+definition:
+- content: Emission on a frequency or frequencies which are outside the necessary
+    band, and the level of which may be reduced without affecting the corresponding
+    transmission of information. Spurious emissions include harmonic emissions, parasitic
+    emissions and intermodulation products, but exclude emissions in the immediate
+    vicinity of the necessary band, which are a result of the modulation process for
+    the transmission of information.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.T.U
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Spurious_emission

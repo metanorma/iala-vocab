@@ -1,0 +1,68 @@
+---
+id: 4-3-270
+data:
+  identifier: 4-3-270
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Blip_scan_ratio
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-3-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-3-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-3-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-3-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-3-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-3-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-3-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-3-270
+---
+id: 4-3-270-eng
+termid: 4-3-270
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Blip scan ratio
+  normative_status: preferred
+definition:
+- content: The ratio of the number of paints from a target to the maximum possible
+    number of paints for a given number of revolutions of the radar aerial.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The maximum number of paints is usually equivalent to the number of revolutions
+    of the aerial. This is generally taken as 10.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Blip_scan_ratio

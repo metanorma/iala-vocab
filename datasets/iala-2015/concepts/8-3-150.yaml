@@ -1,0 +1,79 @@
+---
+id: 8-3-150
+data:
+  identifier: 8-3-150
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Chain_stopper
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-3-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-3-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-3-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-3-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-3-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-3-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-3-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-3-150
+---
+id: 8-3-150-eng
+termid: 8-3-150
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Chain stopper
+  normative_status: preferred
+definition:
+- content: |-
+    Controller (USA)
+
+    A device for securing or stopping off chain. It may be of steel, wire, plastics or fibre cordage or of patent design.
+
+    Note :
+
+    Examples are :
+
+    cable stopper: a heavy steel fitting with locking bar, (1) to relieve strain on the windlass when riding at anchor, or (2) on buoy tenders in the area of the buoy working gangway, to stop off the buoy chain when it is disconnected fromthe buoy.
+
+    gate stopper: a cable stopper with a hinge plate in place of the locking bar.
+
+    slip stopper: a fibre rope used to secure an object, arranged for quick release.
+
+    rope stopper or rotten stop: a light lashing intended to part under strain.  To check speed and violence of chain running off deck, it is usual to lash the chain at many points with a corresponding number of rope stoppers.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Chain_stopper

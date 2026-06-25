@@ -1,0 +1,74 @@
+---
+id: 4-3-520
+data:
+  identifier: 4-3-520
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pulse_duration_coding
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-3-520
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-3-520
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-3-520
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-3-520
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-3-520
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-3-520
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-3-520
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-3-520
+---
+id: 4-3-520-eng
+termid: 4-3-520
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Pulse duration coding
+  normative_status: preferred
+- type: expression
+  designation: Pulse duration coding (in a transponder)
+  normative_status: admitted
+definition:
+- content: |-
+    Alternative terms: Pulse length coding (in a transponder), Width coding (in a transponder)
+
+    A method of modifying the duration of the pulses emitted from the transponder in accordance with a pre-arranged code for identification purposes.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pulse_duration_coding

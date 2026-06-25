@@ -1,0 +1,72 @@
+---
+id: 2-1-495
+data:
+  identifier: 2-1-495
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Distribution_Temperature
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-495
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-495
+---
+id: 2-1-495-eng
+termid: 2-1-495
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Distribution Temperature
+  normative_status: preferred
+definition:
+- content: The temperature of the full radiator for which the ordinates of the spectral
+    distribution curve of its radiance are proportional, or approximately so, in the
+    visible region, to those of the distribution curve of the radiation considered.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+notes:
+- content: Both radiations will necessarily have the same, or nearly the same, chromaticity.
+annotations:
+- content: Unit kelvin (K)
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Distribution_Temperature

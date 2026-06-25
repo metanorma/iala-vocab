@@ -1,0 +1,71 @@
+---
+id: 2-3-090
+data:
+  identifier: 2-3-090
+  domains:
+  - source: urn:iala:dictionary:iala-2018
+    concept_id: section-unknown
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Filament/es
+related:
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-090
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-090
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-090
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-090
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-090
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-3-090
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-3-090
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-090
+---
+id: 2-3-090-spa
+termid: 2-3-090
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Filament/es
+  normative_status: preferred
+definition:
+- content: |-
+    Filamento
+
+    Conductor similar a un hilo, generalmente de tungsteno (o de carbono), que se calienta hasta la incandescencia por el paso de una corriente eléctrica.
+
+    ![Ch2_Fig22.jpg](/iala-vocab/images/iala/Ch2_Fig22.jpg)
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Filament/es

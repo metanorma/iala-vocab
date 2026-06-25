@@ -1,0 +1,65 @@
+---
+id: loran-c-2-
+data:
+  identifier: loran-c-2-
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Loran_C_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: loran-c-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: loran-c-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: loran-c-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: loran-c-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: loran-c-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: loran-c-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: loran-c-2-
+---
+id: loran-c-2--eng
+termid: loran-c-2-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Loran C (2)
+  normative_status: preferred
+definition:
+- content: |-
+    A low-frequency hyperbolic radionavigation system based on measurements of TOA or DTOA of events in pulsed signals
+
+    eLoran A development of Loran-C
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Loran_C_(2)

@@ -1,0 +1,72 @@
+---
+id: 4-1-120
+data:
+  identifier: 4-1-120
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gain_referred_to_a_short_vertical_antenna
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-120
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-1-120
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-1-120
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-1-120
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-1-120
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-1-120
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-1-120
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-1-120
+---
+id: 4-1-120-eng
+termid: 4-1-120
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Gain referred to a short vertical antenna
+  normative_status: preferred
+- type: symbol
+  designation: stem:[Gv]
+  normative_status: preferred
+definition:
+- content: The gain of an antenna in a given direction when the reference antenna
+    is a perfect vertical antenna, much shorter than one quarter of the wavelength,
+    placed on the surface of a perfectly conducting plane earth.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.T.U
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Gain_referred_to_a_short_vertical_antenna

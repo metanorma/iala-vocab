@@ -1,0 +1,67 @@
+---
+id: 4-4-260
+data:
+  identifier: 4-4-260
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Differential_Omega
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-260
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-4-260
+---
+id: 4-4-260-eng
+termid: 4-4-260
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Differential Omega
+  normative_status: preferred
+definition:
+- content: |-
+    An Omega system by which the errors in information due to variations in propagation characteristics over the different paths from the stations to the vessel are determined by a fixed monitor, which then communicates this information to vessels in its immediate area (in the order of a 100 mile radius).
+
+    The errors due to propagation anomalies are thus accounted for.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Differential_Omega

@@ -1,0 +1,63 @@
+---
+id: duty
+data:
+  identifier: duty
+  domains:
+  - source: urn:iala:dictionary:iala-2012
+    concept_id: section-9
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Duty
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: duty
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: duty
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: duty
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: duty
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: duty
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: duty
+---
+id: duty-eng
+termid: duty
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Duty
+  normative_status: preferred
+definition:
+- content: |-
+    VTS-2012-12
+
+    A period of duty is the total time that a VTSO will be required to be present at the VTS Centre irrespective of whether or not the VTSO is carrying out actual watchkeeping duties at a VTS workstation.
+
+    Source: IALA Guideline 1045 (2005)
+
+    (VTS33/output/8 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Duty

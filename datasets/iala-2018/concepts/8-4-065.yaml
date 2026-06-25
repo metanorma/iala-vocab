@@ -1,0 +1,72 @@
+---
+id: 8-4-065
+data:
+  identifier: 8-4-065
+  domains:
+  - source: urn:iala:dictionary:iala-2012
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Articulated_beacon
+related:
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-4-065
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-4-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-4-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-4-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-4-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-4-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-4-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-4-065
+---
+id: 8-4-065-eng
+termid: 8-4-065
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Articulated beacon
+  normative_status: preferred
+definition:
+- content: |-
+    A floating mark secured to a sinker, either directly through a joint or by a cable that is held in tension by the buoyancy of the mark. The buoyancy chamber is normally below the surface of the sea.
+
+    The terms resilient beacon, buoyant beacon and elastic beacon have been used with this meaning, but their continued use is not recommended.
+
+    When the connection to the sinker is by a universal joint and the aid carries a light, the term articulated light is sometimes used. This usage is deprecated.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: ":"
+- content: ":"
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Articulated_beacon

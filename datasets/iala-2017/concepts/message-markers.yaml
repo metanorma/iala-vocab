@@ -1,0 +1,72 @@
+---
+id: message-markers
+data:
+  identifier: message-markers
+  domains:
+  - source: urn:iala:dictionary:iala-2012
+    concept_id: section-9
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Message_Markers
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: message-markers
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: message-markers
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: message-markers
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: message-markers
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: message-markers
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: message-markers
+---
+id: message-markers-eng
+termid: message-markers
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Message Markers
+  normative_status: preferred
+definition:
+- content: |-
+    VTS-2012-20
+
+    In order to especially facilitate shore-to-ship and ship-to-shore communication or when one of the IMO Standard Marine Communication Phrases will not fit the meaning desired, one of the following eight message markers may be used to increase the probability of the purpose of the message being properly understood.
+
+    Instruction
+    Advice
+    Warning
+    Information
+    Question
+    Answer
+    Request
+    Intention
+
+    Source: IMO A.918(22)
+
+    (VTS33/output/8 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Message_Markers

@@ -1,0 +1,63 @@
+---
+id: external-procedures
+data:
+  identifier: external-procedures
+  domains:
+  - source: urn:iala:dictionary:iala-2012
+    concept_id: section-9
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/External_Procedures
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: external-procedures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: external-procedures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: external-procedures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: external-procedures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: external-procedures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: external-procedures
+---
+id: external-procedures-eng
+termid: external-procedures
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: External Procedures
+  normative_status: preferred
+definition:
+- content: |-
+    VTS-2012-14
+
+    Procedures that govern the interaction with participating vessels and allied services (defined as services actively involved in the safe and efficient passage of the vessel through the VTS area).
+
+    Source: IALA Recommendation V-127 (2004)
+
+    (VTS33/output/8 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/External_Procedures

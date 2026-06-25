@@ -1,0 +1,71 @@
+---
+id: 2-1-455
+data:
+  identifier: 2-1-455
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Standard_Illuminant
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-455
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-455
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-455
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-455
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-455
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-455
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-455
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-455
+---
+id: 2-1-455-eng
+termid: 2-1-455
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Standard Illuminant
+  normative_status: preferred
+definition:
+- content: A colorimetric illuminant, the spectral energy distribution of which is
+    specified by the C.I.E., with various scientific applications in view.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+notes:
+- content: 'For further details, see Reference: C.I.E.'
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Standard_Illuminant

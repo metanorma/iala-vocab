@@ -1,0 +1,71 @@
+---
+id: 4-1-110
+data:
+  identifier: 4-1-110
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Isotropic_or_absolute_gain_of_an_antenna
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-1-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-1-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-1-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-1-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-1-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-1-110
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-1-110
+---
+id: 4-1-110-eng
+termid: 4-1-110
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Isotropic or absolute gain of an antenna
+  normative_status: preferred
+- type: symbol
+  designation: stem:[Gis]
+  normative_status: preferred
+definition:
+- content: The gain of an antenna in a given direction when the reference antenna
+    is an isotropic antenna isolated in space.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.T.U
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Isotropic_or_absolute_gain_of_an_antenna

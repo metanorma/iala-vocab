@@ -1,0 +1,66 @@
+---
+id: 5-3-065
+data:
+  identifier: 5-3-065
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pulse_code_modulation_(PCM)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-3-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-3-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-3-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-3-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-3-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-3-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-3-065
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-3-065
+---
+id: 5-3-065-eng
+termid: 5-3-065
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Pulse code modulation (PCM)
+  normative_status: preferred
+definition:
+- content: Modulation in accordance with a pulse code.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: A pulse code is a pulse train modulated so as to represent information.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pulse_code_modulation_(PCM)

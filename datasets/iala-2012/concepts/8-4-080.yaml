@@ -1,0 +1,105 @@
+---
+id: 8-4-080
+data:
+  identifier: 8-4-080
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Buoy_light
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-4-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-4-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-4-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-4-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-4-080
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-4-080
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-4-080
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-4-080
+---
+id: 8-4-080-eng
+termid: 8-4-080
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Buoy light
+  normative_status: preferred
+definition:
+- content: The assembly on a buoy comprising the light source, the optical apparatus
+    and the glazed protective enclosure.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Buoy_light
+---
+id: 8-4-080-spa
+termid: 8-4-080
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Buoy light/es
+  normative_status: preferred
+definition:
+- content: |-
+    Equipo luminoso de la boya (linterna)
+
+    Equipamiento instalado en una boya que comprende la fuente luminosa, la óptica y el  contenedor con cubrelentes.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Buoy_light/es
+---
+id: 8-4-080-spa
+termid: 8-4-080
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 8-4-080
+  normative_status: preferred
+definition:
+- content: |-
+    Equipo luminoso de la boya (linterna)
+
+    Equipamiento instalado en una boya que comprende la fuente luminosa, la óptica y el  contenedor con cubrelentes.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Buoy_light/es

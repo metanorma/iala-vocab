@@ -1,0 +1,112 @@
+---
+id: 2-3-310
+data:
+  identifier: 2-3-310
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Discharge_Lamp
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-310
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-310
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-3-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-310
+---
+id: 2-3-310-eng
+termid: 2-3-310
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Discharge Lamp
+  normative_status: preferred
+definition:
+- content: A lamp in which the light is produced by an electric discharge through
+    a gas, a metal vapour, or a mixture of several gases or vapours.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Discharge_Lamp
+---
+id: 2-3-310-spa
+termid: 2-3-310
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Discharge Lamp/es
+  normative_status: preferred
+definition:
+- content: |-
+    Lámpara de descarga
+
+    Lámpara en la que la luz se produce mediante una descarga eléctrica a través de un gas, un vapor de metal o una mezcla de varios gases o vapores.
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Discharge_Lamp/es
+---
+id: 2-3-310-spa
+termid: 2-3-310
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 2-3-310
+  normative_status: preferred
+definition:
+- content: |-
+    Lámpara de descarga
+
+    Lámpara en la que la luz se produce mediante una descarga eléctrica a través de un gas, un vapor de metal o una mezcla de varios gases o vapores.
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Discharge_Lamp/es

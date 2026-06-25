@@ -12,6 +12,35 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Threshold_value_(or_alert_limit)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: threshold-value-or-alert-limit-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: threshold-value-or-alert-limit-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: threshold-value-or-alert-limit-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: threshold-value-or-alert-limit-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: threshold-value-or-alert-limit-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: threshold-value-or-alert-limit-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: threshold-value-or-alert-limit-
 ---
 id: threshold-value-or-alert-limit--eng
 termid: threshold-value-or-alert-limit-

@@ -1,0 +1,71 @@
+---
+id: 2-1-220
+data:
+  identifier: 2-1-220
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Diffuser
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-220
+---
+id: 2-1-220-eng
+termid: 2-1-220
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Diffuser
+  normative_status: preferred
+definition:
+- content: A device used to alter the spatial distribution of a luminous flux and
+    depending essentially on the phenomenon of diffusion.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E. (extract)
+notes:
+- content: If all the radiation reflected or transmitted by the diffuser is diffused,
+    it is said to be Completely Diffusing.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Diffuser

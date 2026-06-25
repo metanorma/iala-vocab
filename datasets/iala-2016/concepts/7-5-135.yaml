@@ -1,0 +1,68 @@
+---
+id: 7-5-135
+data:
+  identifier: 7-5-135
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Second_moment_of_area
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-5-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-5-135
+---
+id: 7-5-135-eng
+termid: 7-5-135
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Second moment of area
+  normative_status: preferred
+- type: expression
+  designation: Moment of inertia
+  normative_status: admitted
+definition:
+- content: The sum of the products of all the elementary areas of a section by the
+    squares of the distances of these areas from an axis through the section.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Second_moment_of_area

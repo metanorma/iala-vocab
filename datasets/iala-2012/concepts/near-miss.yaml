@@ -1,0 +1,65 @@
+---
+id: near-miss
+data:
+  identifier: near-miss
+  domains:
+  - source: urn:iala:dictionary:iala-2012
+    concept_id: section-9
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Near_Miss
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: near-miss
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: near-miss
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: near-miss
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: near-miss
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: near-miss
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: near-miss
+---
+id: near-miss-eng
+termid: near-miss
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Near Miss
+  normative_status: preferred
+definition:
+- content: |-
+    VTS-2012-22
+
+    A sequence of events and/or conditions that could have resulted in loss. This loss was prevented only by a fortuitous break in the chain of events and/or conditions.
+
+    The potential loss could be human injury, environmental damage or negative business impact (e.g., repair or replacement costs, scheduling delays, contract violations, loss of reputation).
+
+    Source: IMO MSC-MEPC.7/Circ.7
+
+    (VTS33/output/8 refers)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Near_Miss

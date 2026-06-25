@@ -1,0 +1,75 @@
+---
+id: 4-4-130
+data:
+  identifier: 4-4-130
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Decca_navigator_system
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-4-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-4-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-4-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-4-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-4-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-4-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-4-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-4-130
+---
+id: 4-4-130-eng
+termid: 4-4-130
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Decca navigator system
+  normative_status: preferred
+definition:
+- content: |-
+    A distributed arrangement of fixed, phase locked, continuous wave transmitters operating on harmonically related frequencies and special receiving and display equipment carried on a mobile craft whereby the latter can determine its position.
+
+    The system depends for its operation on phase comparison of the signals from the transmitters brought to a common comparison frequency within the receiver.
+
+    The master station also initiates timed switching of transmissions when required for the purpose of lane resolution.
+
+    The operating frequencies are in the region of 100 kHz.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Decca_navigator_system

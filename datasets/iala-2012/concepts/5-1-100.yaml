@@ -1,0 +1,64 @@
+---
+id: 5-1-100
+data:
+  identifier: 5-1-100
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Self-check
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-1-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-1-100
+---
+id: 5-1-100-eng
+termid: 5-1-100
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Self-check
+  normative_status: preferred
+definition:
+- content: An internally generated verification of the ability to operate satisfactorily.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Self-check

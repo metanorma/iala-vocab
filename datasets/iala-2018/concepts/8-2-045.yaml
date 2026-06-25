@@ -1,0 +1,65 @@
+---
+id: 8-2-045
+data:
+  identifier: 8-2-045
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lantern_gallery
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-2-045
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-2-045
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-2-045
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-2-045
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-2-045
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 8-2-045
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-2-045
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-2-045
+---
+id: 8-2-045-eng
+termid: 8-2-045
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Lantern gallery
+  normative_status: preferred
+definition:
+- content: A platform extending around a lantern, to provide access to the outside
+    of the glazing for cleaning or repairs.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lantern_gallery

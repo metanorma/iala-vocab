@@ -1,0 +1,73 @@
+---
+id: dilution-of-precision-dop-
+data:
+  identifier: dilution-of-precision-dop-
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Dilution_of_precision_(DOP)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: dilution-of-precision-dop-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: dilution-of-precision-dop-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: dilution-of-precision-dop-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: dilution-of-precision-dop-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: dilution-of-precision-dop-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: dilution-of-precision-dop-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: dilution-of-precision-dop-
+---
+id: dilution-of-precision-dop--eng
+termid: dilution-of-precision-dop-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Dilution of precision (DOP)
+  normative_status: preferred
+definition:
+- content: |-
+    The factor by which the accuracy of a GNSS, or other radio-navigation system position and time co-ordinates are degraded by geometrical considerations of the constellation of GNSS satellites used by the receiver.
+
+    – Geometric dilution of precision (GDOP). The factor for the combined 3D-position and time accuracy.
+
+    – Position dilution of precision (PDOP). The factor for the 3D-position accuracy.
+
+    – Horizontal dilution of precision (HDOP). The factor for the horizontal position accuracy.
+
+    – Vertical dilution of precision (VDOP). The factor for the vertical accuracy.
+
+    – Time dilution of precision (TDOP). The factor for the time accuracy.
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Dilution_of_precision_(DOP)

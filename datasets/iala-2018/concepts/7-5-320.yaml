@@ -1,0 +1,65 @@
+---
+id: 7-5-320
+data:
+  identifier: 7-5-320
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Driving_resistance_(of_a_pile)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-5-320
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-5-320
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-5-320
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-5-320
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-5-320
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-5-320
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-5-320
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-5-320
+---
+id: 7-5-320-eng
+termid: 7-5-320
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Driving resistance (of a pile)
+  normative_status: preferred
+definition:
+- content: The frictional and other reactions acting on a pile being driven into the
+    ground.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Driving_resistance_(of_a_pile)

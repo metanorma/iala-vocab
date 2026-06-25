@@ -1,0 +1,67 @@
+---
+id: erosion
+data:
+  identifier: erosion
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Erosion
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: erosion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: erosion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: erosion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: erosion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: erosion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: erosion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: erosion
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: erosion
+---
+id: erosion-eng
+termid: erosion
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Erosion
+  normative_status: preferred
+definition:
+- content: |-
+    urn:mrn:iala:dic:0704265e
+
+    Removal of rock, soil, or beach deposits from the coast by the action of wave, water, tidal currents, high winds, ice and/or human activities which may be enhanced by chemical action, typically causing a landward retreat of the coastline.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Erosion

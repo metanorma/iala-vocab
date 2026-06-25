@@ -1,0 +1,504 @@
+[
+  {
+    "title": "Accident",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/accident.json"
+  },
+  {
+    "title": "Accreditation",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/accreditation.json"
+  },
+  {
+    "title": "Allied Services",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/allied-services.json"
+  },
+  {
+    "title": "Articulated beacon",
+    "numeric_code": "8-4-065",
+    "categories": [
+      "8.4 Buoys",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/articulated-beacon.json"
+  },
+  {
+    "title": "Automatic Identification System (AIS) (2)",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/automatic-identification-system-ais-2.json"
+  },
+  {
+    "title": "Course",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/course.json"
+  },
+  {
+    "title": "Course Made Good",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/course-made-good.json"
+  },
+  {
+    "title": "Course to Make Good",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/course-to-make-good.json"
+  },
+  {
+    "title": "Duty",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/duty.json"
+  },
+  {
+    "title": "Exclusion Zone",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/exclusion-zone.json"
+  },
+  {
+    "title": "External Procedures",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/external-procedures.json"
+  },
+  {
+    "title": "Hazardous Cargoes",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/hazardous-cargoes.json"
+  },
+  {
+    "title": "Heading",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/heading.json"
+  },
+  {
+    "title": "Instruction",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/instruction.json"
+  },
+  {
+    "title": "Internal Procedures",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/internal-procedures.json"
+  },
+  {
+    "title": "Message Markers",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/message-markers.json"
+  },
+  {
+    "title": "Navigational Assistance",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/navigational-assistance.json"
+  },
+  {
+    "title": "Near Miss",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/near-miss.json"
+  },
+  {
+    "title": "Participating Vessel",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/participating-vessel.json"
+  },
+  {
+    "title": "Place of Refuge",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/place-of-refuge.json"
+  },
+  {
+    "title": "Qualification",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/qualification.json"
+  },
+  {
+    "title": "Quality Management System (QMS)",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/quality-management-system-qms.json"
+  },
+  {
+    "title": "Refresher Training",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/refresher-training.json"
+  },
+  {
+    "title": "Ship Domain",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/ship-domain.json"
+  },
+  {
+    "title": "Ship Safety Zone",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/ship-safety-zone.json"
+  },
+  {
+    "title": "Simulator Training",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/simulator-training.json"
+  },
+  {
+    "title": "Stakeholder(s)",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/stakeholder-s.json"
+  },
+  {
+    "title": "Track",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/track.json"
+  },
+  {
+    "title": "Vessel Traffic Management (VTM)",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vessel-traffic-management-vtm.json"
+  },
+  {
+    "title": "Vessel Traffic Service (VTS)",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vessel-traffic-service-vts.json"
+  },
+  {
+    "title": "VTS area",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-area.json"
+  },
+  {
+    "title": "VTS Centre",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-centre.json"
+  },
+  {
+    "title": "VTS Manager",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-manager.json"
+  },
+  {
+    "title": "VTS Operator (VTSO)",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-operator-vtso.json"
+  },
+  {
+    "title": "VTS Operator Certificate",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-operator-certificate.json"
+  },
+  {
+    "title": "VTS Operator Course Certificate",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-operator-course-certificate.json"
+  },
+  {
+    "title": "VTS Personnel",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-personnel.json"
+  },
+  {
+    "title": "VTS sailing plan",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-sailing-plan.json"
+  },
+  {
+    "title": "VTS services",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-services.json"
+  },
+  {
+    "title": "VTS Supervisor",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-supervisor.json"
+  },
+  {
+    "title": "VTS traffic image",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-traffic-image.json"
+  },
+  {
+    "title": "VTS workstation",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/vts-workstation.json"
+  },
+  {
+    "title": "Watchkeeping",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2012 Revision",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/watchkeeping.json"
+  }
+]

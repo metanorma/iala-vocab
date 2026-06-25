@@ -12,6 +12,31 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Course_to_Make_Good
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: course-to-make-good
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: course-to-make-good
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: course-to-make-good
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: course-to-make-good
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: course-to-make-good
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: course-to-make-good
 ---
 id: course-to-make-good-eng
 termid: course-to-make-good

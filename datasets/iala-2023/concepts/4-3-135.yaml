@@ -1,0 +1,66 @@
+---
+id: 4-3-135
+data:
+  identifier: 4-3-135
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/True_motion_display
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-3-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-3-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-3-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-3-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-3-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-3-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-3-135
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-3-135
+---
+id: 4-3-135-eng
+termid: 4-3-135
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: True motion display
+  normative_status: preferred
+definition:
+- content: A display in which own ship's position can appear at any point on the screen.
+    All moving targets appear on the screen with true speeds and directions and all
+    fixed objects as stationary echoes.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/True_motion_display

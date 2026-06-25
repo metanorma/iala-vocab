@@ -1,0 +1,73 @@
+---
+id: 4-3-200
+data:
+  identifier: 4-3-200
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/TB_cell
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-3-200
+---
+id: 4-3-200-eng
+termid: 4-3-200
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: TB cell
+  normative_status: preferred
+- type: expression
+  designation: ATR tube
+  normative_status: admitted
+definition:
+- content: A gas filled switching tube employed when a common transmitter and receiver
+    antenna is used which automatically decouples the transmitter during the intervals
+    for pulse reception.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: N.T.G
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/TB_cell

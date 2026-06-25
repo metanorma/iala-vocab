@@ -12,6 +12,35 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Full_Operational_Capability_(FOC)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: full-operational-capability-foc-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: full-operational-capability-foc-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: full-operational-capability-foc-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: full-operational-capability-foc-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: full-operational-capability-foc-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: full-operational-capability-foc-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: full-operational-capability-foc-
 ---
 id: full-operational-capability-foc--eng
 termid: full-operational-capability-foc-

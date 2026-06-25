@@ -1,0 +1,70 @@
+---
+id: 2-3-440
+data:
+  identifier: 2-3-440
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Life_(of_a_lamp)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-3-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-440
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-440
+---
+id: 2-3-440-eng
+termid: 2-3-440
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Life (of a lamp)
+  normative_status: preferred
+definition:
+- content: The time during which a lamp has been operated before becoming useless
+    or considered as such according to certain specifications.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+notes:
+- content: The life of a lamp is generally expressed in hours.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Life_(of_a_lamp)

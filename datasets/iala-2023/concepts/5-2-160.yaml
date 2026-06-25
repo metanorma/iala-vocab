@@ -1,0 +1,72 @@
+---
+id: 5-2-160
+data:
+  identifier: 5-2-160
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Indirectly_controlled_variable
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-2-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-2-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-2-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-2-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-2-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-2-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-2-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-2-160
+---
+id: 5-2-160-eng
+termid: 5-2-160
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Indirectly controlled variable
+  normative_status: preferred
+definition:
+- content: |-
+    A variable which does not originate a feedback signal, but which is related to, and influenced by, the directly controlled variable.
+
+    ![Ch5_Fig2.jpg](/iala-vocab/images/iala/Ch5_Fig2.jpg)
+
+    Figure 2 - Block diagram of automatic control system (5-2-045) incorporating a closed loop {{5-2-080, Closed Loop}}
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: ANSI
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Indirectly_controlled_variable

@@ -1,0 +1,80 @@
+---
+id: 2-1-150
+data:
+  identifier: 2-1-150
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Reflectance
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-150
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-150
+---
+id: 2-1-150-eng
+termid: 2-1-150
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Reflectance
+  normative_status: preferred
+- type: expression
+  designation: Reflection Factor
+  normative_status: admitted
+definition:
+- content: |-
+    The ratio of the reflected luminous flux (Fr) to the incident flux (Fo).
+
+    Symbol: ?
+
+    ? = ?r + ?d
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+notes:
+- content: Where mixed reflection occurs, the (total) reflectance may be divided into
+    two parts, Specular Reflectance (?r) and Diffuse Reflectance (?d), corresponding
+    respectively to the two modes of reflection referred to in 2-1-135 and 2-1-140.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Reflectance

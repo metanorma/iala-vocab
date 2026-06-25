@@ -1,0 +1,124 @@
+---
+id: 2-3-330
+data:
+  identifier: 2-3-330
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ballast
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-3-330
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-330
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-3-330
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-330
+---
+id: 2-3-330-eng
+termid: 2-3-330
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Ballast
+  normative_status: preferred
+definition:
+- content: Equipment used with discharge lamps for stabilizing the discharge.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+notes:
+- content: A ballast may be resistive, inductive, capacitive, or a combination of
+    these.
+- content: The ballast may also be used, either alone or in combination with a starter,
+    to light the lamp. The starter may be incorporated in the ballast.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ballast
+---
+id: 2-3-330-spa
+termid: 2-3-330
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Ballast/es
+  normative_status: preferred
+definition:
+- content: |-
+    Balasto
+
+    Dispositivo utilizado en lámparas de descarga para estabilizar la descarga.
+
+    Nota 1: El balasto puede ser resistivo, inductivo o capacitivo, o una combinación de estos.
+
+    Nota 2: El balasto también se puede usar solo o en combinación con un arrancador para encender la lámpara. El arrancador puede estar incorporado en el balasto.
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ballast/es
+---
+id: 2-3-330-spa
+termid: 2-3-330
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: 2-3-330
+  normative_status: preferred
+definition:
+- content: |-
+    Balasto
+
+    Dispositivo utilizado en lámparas de descarga para estabilizar la descarga.
+
+    Nota 1: El balasto puede ser resistivo, inductivo o capacitivo, o una combinación de estos.
+
+    Nota 2: El balasto también se puede usar solo o en combinación con un arrancador para encender la lámpara. El arrancador puede estar incorporado en el balasto.
+
+    Referencia: C.I.E.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ballast/es

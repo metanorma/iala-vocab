@@ -1,0 +1,70 @@
+---
+id: 2-5-200
+data:
+  identifier: 2-5-200
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Morse_Code_Light
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-5-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-5-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-5-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-5-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-5-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-5-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-5-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-5-200
+---
+id: 2-5-200-eng
+termid: 2-5-200
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Morse Code Light
+  normative_status: preferred
+definition:
+- content: |-
+    A light in which flashes of different duration are grouped in such a manner as to reproduce a Morse character.
+
+    ![Ch2_Fig44.jpg](/iala-vocab/images/iala/Ch2_Fig44.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: N.L
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Morse_Code_Light

@@ -1,0 +1,70 @@
+---
+id: 2-3-070
+data:
+  identifier: 2-3-070
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Douglas_Lamp_(G.B.)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-3-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-3-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-3-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-3-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-3-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-3-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-3-070
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-3-070
+---
+id: 2-3-070-eng
+termid: 2-3-070
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Douglas Lamp (G.B.)
+  normative_status: preferred
+- type: expression
+  designation: Douglas Burner (G.B.)
+  normative_status: admitted
+definition:
+- content: |-
+    A form of oil lamp burning paraffin as fuel. A parabolic metal reflector with focus at the centre of the flame is provided as an integral part of the lamp.
+
+    The paraffin storage tank is housed behind the reflector.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Douglas_Lamp_(G.B.)

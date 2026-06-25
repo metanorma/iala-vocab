@@ -1,0 +1,67 @@
+---
+id: input-device
+data:
+  identifier: input-device
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Input_device
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: input-device
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: input-device
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: input-device
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: input-device
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: input-device
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: input-device
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: input-device
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: input-device
+---
+id: input-device-eng
+termid: input-device
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Input device
+  normative_status: preferred
+definition:
+- content: |-
+    5-3490
+
+    The device or collective set of devices used for bringing data into another device.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Input_device

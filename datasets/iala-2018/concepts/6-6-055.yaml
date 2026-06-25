@@ -1,0 +1,67 @@
+---
+id: 6-6-055
+data:
+  identifier: 6-6-055
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Insulated_cable
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-6-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-6-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-6-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-6-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-6-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-6-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-6-055
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-6-055
+---
+id: 6-6-055-eng
+termid: 6-6-055
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Insulated cable
+  normative_status: preferred
+definition:
+- content: |-
+    (insulated) cable
+
+    An assembly of one or more conductors, either solid or stranded, each covered with a layer of insulating material throughout its length, the whole assembly being provided with a common protective covering.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Insulated_cable

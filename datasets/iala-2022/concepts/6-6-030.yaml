@@ -1,0 +1,67 @@
+---
+id: 6-6-030
+data:
+  identifier: 6-6-030
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Line_conductor
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-6-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-6-030
+---
+id: 6-6-030-eng
+termid: 6-6-030
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Line conductor
+  normative_status: preferred
+definition:
+- content: One of a set of conductors that is connected to an electric source at a
+    point at which there is the greatest voltage.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The set of conductors may commonly be in the form of a cable.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Line_conductor

@@ -1,0 +1,66 @@
+---
+id: 7-3-145
+data:
+  identifier: 7-3-145
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Tile
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-3-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-3-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-3-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-3-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-3-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-3-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-3-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-3-145
+---
+id: 7-3-145-eng
+termid: 7-3-145
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Tile
+  normative_status: preferred
+definition:
+- content: Thin plate of burnt clay used for roof covering.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The term is extended to similar plates of concrete, metal or asbestos-cement.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tile

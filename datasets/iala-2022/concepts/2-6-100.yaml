@@ -1,0 +1,70 @@
+---
+id: 2-6-100
+data:
+  identifier: 2-6-100
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Isolated_Danger_Mark_(or_Buoy)_(G.B.)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-6-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-6-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-6-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-6-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-6-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-6-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-6-100
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-6-100
+---
+id: 2-6-100-eng
+termid: 2-6-100
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Isolated Danger Mark (or Buoy) (G.B.)
+  normative_status: preferred
+- type: expression
+  designation: Obstruction Mark (or Buoy) (U.S.A.)
+  normative_status: admitted
+definition:
+- content: |-
+    A mark (or buoy) used alone to indicate a dangerous reef or shoal. The mark (or buoy) may be passed on either hand.
+
+    ![Ch2_Fig54.jpg](/iala-vocab/images/iala/Ch2_Fig54.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Isolated_Danger_Mark_(or_Buoy)_(G.B.)

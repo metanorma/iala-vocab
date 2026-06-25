@@ -1,0 +1,64 @@
+---
+id: 3-2-015
+data:
+  identifier: 3-2-015
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-3
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fog_signal_emitter
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 3-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 3-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 3-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 3-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 3-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 3-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 3-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 3-2-015
+---
+id: 3-2-015-eng
+termid: 3-2-015
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Fog signal emitter
+  normative_status: preferred
+definition:
+- content: Any device designed to emit an audible fog signal.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fog_signal_emitter

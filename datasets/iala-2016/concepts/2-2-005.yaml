@@ -1,0 +1,72 @@
+---
+id: 2-2-005
+data:
+  identifier: 2-2-005
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Projector
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-2-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-2-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-2-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-2-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-2-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-2-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-2-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-2-005
+---
+id: 2-2-005-eng
+termid: 2-2-005
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Projector
+  normative_status: preferred
+definition:
+- content: |-
+    An optical apparatus consisting of a light source and optically refracting or reflecting elements (or both) designed to concentrate light into one or more pencil beams or fan beams (or both), so that, within a limited solid angle, higher values of luminous intensity are produced than by the light source alone.
+
+    A projector may be intended to be viewed directly, to illuminate an object to be viewed, or to project an image.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: In German a distinction is made between the three functions of projectors
+    mentioned. A projector to be viewed directly is called Signal-Scheinwerfer; a
+    projector to illuminate an object is called Beleuchtungs-Scheinwerfer; a projector
+    to project an image is called Bildwerfer or Projektor.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Projector

@@ -1,0 +1,77 @@
+---
+id: 5-3-200
+data:
+  identifier: 5-3-200
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Detection_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-3-200
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-3-200
+---
+id: 5-3-200-eng
+termid: 5-3-200
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Detection (2)
+  normative_status: preferred
+definition:
+- content: The process of extracting information from an electromagnetic wave.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.C
+  modification: modified from source
+notes:
+- content: Often an asymmetrical conducting device is used.
+- content: The use of the term for the action of a frequency changer is deprecated.
+- content: Where there was no original modulating signal the use of the term "demodulation
+    "as an alternative for "detection" is deprecated.
+- content: In other languages there are more specific terms. There is no general French
+    equival ent. The term "detection" is used when the electromagnetic wave is an
+    amplitude modulated oscillation. The term "discrimination" is used when the electromagnetic
+    wave is a frequency or phase modulated oscillation.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Detection_(2)

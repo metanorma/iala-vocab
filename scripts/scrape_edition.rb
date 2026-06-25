@@ -10,6 +10,13 @@ CATEGORY = ARGV[0] || raise("Usage: ruby scrape_edition.rb <category_name>\n  e.
 
 EDITION_MAP = {
   "IALA_Dictionary_1970-89_Edition" => "iala-1970-89",
+  "IALA_Dictionary_2009_Edition"    => "iala-2009",
+  "IALA_Dictionary_2012_Revision"   => "iala-2012",
+  "IALA_Dictionary_2015_Revision"   => "iala-2015",
+  "IALA_Dictionary_2016_Revision"   => "iala-2016",
+  "IALA_Dictionary_2017_Revision"   => "iala-2017",
+  "IALA_Dictionary_2018_Revision"   => "iala-2018",
+  "IALA_Dictionary_2022_Revision"   => "iala-2022",
   "IALA_Dictionary_2023_Revision"   => "iala-2023"
 }.freeze
 

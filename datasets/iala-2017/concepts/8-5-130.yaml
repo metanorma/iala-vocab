@@ -1,0 +1,65 @@
+---
+id: 8-5-130
+data:
+  identifier: 8-5-130
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Split_key
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 8-5-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 8-5-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 8-5-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 8-5-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 8-5-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 8-5-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 8-5-130
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 8-5-130
+---
+id: 8-5-130-eng
+termid: 8-5-130
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Split key
+  normative_status: preferred
+definition:
+- content: A steel or iron split pin bent back at the ends, used to secure a shackle
+    pin in position.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Split_key

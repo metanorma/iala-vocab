@@ -1,0 +1,72 @@
+---
+id: 2-1-420
+data:
+  identifier: 2-1-420
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Glare
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-420
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-420
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-420
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-420
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-420
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-420
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-420
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-420
+---
+id: 2-1-420-eng
+termid: 2-1-420
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Glare
+  normative_status: preferred
+definition:
+- content: A condition of vision in which there is discomfort or a reduction in the
+    ability to see significant objects, or both, due to an unsuitable distribution
+    or range of luminance or to extreme contrasts in space or time.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+notes:
+- content: Glare may be direct or indirect and may sometimes be produced by specular
+    reflection.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Glare

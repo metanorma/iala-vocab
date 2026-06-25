@@ -1,0 +1,67 @@
+---
+id: 5-4-310
+data:
+  identifier: 5-4-310
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Resonant_reed_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-4-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-4-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-4-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-4-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-4-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-4-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-4-310
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-310
+---
+id: 5-4-310-eng
+termid: 5-4-310
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Resonant reed (2)
+  normative_status: preferred
+definition:
+- content: An electro-mechanical device consisting of a thin ferrous metal cantilever
+    vane which vibrates at the frequency of its mechanical resonance, if the frequency
+    of the a.c. magnetic field in which it is immersed is the same as the mechanical
+    resonance frequency.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Resonant_reed_(2)

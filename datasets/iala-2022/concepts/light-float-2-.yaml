@@ -1,0 +1,137 @@
+---
+id: light-float-2-
+data:
+  identifier: light-float-2-
+  domains:
+  - source: urn:iala:dictionary:iala-2018
+    concept_id: section-8
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Light_float_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: light-float-2-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: light-float-2-
+---
+id: light-float-2--eng
+termid: light-float-2-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Light float (2)
+  normative_status: preferred
+definition:
+- content: |-
+    A boat-like structure used instead of a light buoy in waters where strong streams or currents are experienced, or when a greater elevation than that of a light buoy is necessary.
+
+    Source: IHO Dictionary – S-32, provided by the IALA ARM Committee in paper ARM7-12.1.7 in 2017.
+
+    This supercedes definition number 8-2-020 in the original IALA Dictionary edition (1970-1989).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light_float_(2)
+---
+id: light-float-2--fra
+termid: light-float-2-
+data:
+  language_code: fra
+terms:
+- type: expression
+  designation: Light float (2)/fr
+  normative_status: preferred
+definition:
+- content: |-
+    Bateau-feu
+
+    Une structure en forme de navire utilisée à la place d’une bouée lumineuse dans les eaux où il existe de forts courants, ou lorsqu’une élévation plus grande que celle d’une bouée lumineuse est nécessaire.
+
+    La source: IHO Dictionary – S-32, fourni par le comité IALA ARM dans un document ARM7-12.1.7 en 2017.
+
+    Cette définition remplace la définition numéro 8-2-020 dans l'édition originale du dictionnaire IALA (1970-1989).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light_float_(2)/fr
+---
+id: light-float-2--spa
+termid: light-float-2-
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Light float (2)/es
+  normative_status: preferred
+definition:
+- content: |-
+    Luz Flotante
+
+    Estructura similar a un barco que se utiliza en lugar de una boya luminosa en aguas donde se experimentan corrientes fuertes o cuando se necesita una elevación mayor que la de una boya luminosa.
+
+    Fuente: IHO Dictionary – S-32, Proporcionado por el Comité de IALA ARM en papel ARM7-12.1.7 en 2017.
+
+    Esta supera la definición número 8-2-020 en la edición original del Diccionario IALA (1970-1989).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light_float_(2)/es
+---
+id: light-float-2--fra
+termid: light-float-2-
+data:
+  language_code: fra
+terms:
+- type: expression
+  designation: Bateau-feu
+  normative_status: preferred
+definition:
+- content: |-
+    Une structure en forme de navire utilisée à la place d’une bouée lumineuse dans les eaux où il existe de forts courants, ou lorsqu’une élévation plus grande que celle d’une bouée lumineuse est nécessaire.
+
+    La source: IHO Dictionary – S-32, fourni par le comité IALA ARM dans un document ARM7-12.1.7 en 2017.
+
+    Cette définition remplace la définition numéro 8-2-020 dans l'édition originale du dictionnaire IALA (1970-1989).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light_float_(2)/fr
+---
+id: light-float-2--spa
+termid: light-float-2-
+data:
+  language_code: spa
+terms:
+- type: expression
+  designation: Luz Flotante
+  normative_status: preferred
+definition:
+- content: |-
+    Estructura similar a un barco que se utiliza en lugar de una boya luminosa en aguas donde se experimentan corrientes fuertes o cuando se necesita una elevación mayor que la de una boya luminosa.
+
+    Fuente: IHO Dictionary – S-32, Proporcionado por el Comité de IALA ARM en papel ARM7-12.1.7 en 2017.
+
+    Esta supera la definición número 8-2-020 en la edición original del Diccionario IALA (1970-1989).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light_float_(2)/es

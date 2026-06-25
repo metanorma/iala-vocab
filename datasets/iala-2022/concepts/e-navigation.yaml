@@ -1,0 +1,63 @@
+---
+id: e-navigation
+data:
+  identifier: e-navigation
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/E-Navigation
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: e-navigation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: e-navigation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: e-navigation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: e-navigation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: e-navigation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: e-navigation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: e-navigation
+---
+id: e-navigation-eng
+termid: e-navigation
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: E-Navigation
+  normative_status: preferred
+definition:
+- content: |-
+    e-Navigation is the harmonised collection, integration, exchange, presentation and analysis of maritime information onboard and ashore by electronic means to enhance berth to berth navigation and related services, for safety and security at sea and protection of the marine environment
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/E-Navigation

@@ -1,0 +1,71 @@
+---
+id: 4-2-300
+data:
+  identifier: 4-2-300
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Ionospheric_path_error
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-2-300
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-2-300
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-2-300
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-2-300
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-2-300
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-2-300
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-2-300
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-2-300
+---
+id: 4-2-300-eng
+termid: 4-2-300
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Ionospheric path error
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: Ionospheric error, Skywave error
+
+    The total systematic and random error resulting from the reception of a navigational signal after ionospheric refraction. It may be due to (1) Variations in the transmission path (2) Non-uniform height of the ionosphere (3) Non-uniform propagation within the ionosphere        (4) Horizontal components of refraction (5) Back scatter (6) Forward scatter.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.R.E
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ionospheric_path_error

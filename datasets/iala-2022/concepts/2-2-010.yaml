@@ -1,0 +1,69 @@
+---
+id: 2-2-010
+data:
+  identifier: 2-2-010
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Lens
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-2-010
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-2-010
+- type: related_concept
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-2-010
+---
+id: 2-2-010-eng
+termid: 2-2-010
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Lens
+  normative_status: preferred
+definition:
+- content: A transparent optically refracting element, usually of glass or plastic,
+    bounded by two rotationally-symmetrical surfaces having a common axis. These surfaces
+    are usually spherical, but may have other rotationally-symmetrical forms. A lens
+    is designed to have a focus {{2-1-125, Optical Focus}}.
+- content: Frequently used in a more general sense for an assembly of optical elements
+    which have a common focus. For examples, see 2-2-085, 2-2-090, 2-2-100, 2-2-140,    2-2-150.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lens

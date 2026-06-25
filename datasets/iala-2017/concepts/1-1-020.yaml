@@ -1,0 +1,71 @@
+---
+id: 1-1-020
+data:
+  identifier: 1-1-020
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Aid_to_navigation_station
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-1-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-1-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-1-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-1-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-1-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-1-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-1-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 1-1-020
+---
+id: 1-1-020-eng
+termid: 1-1-020
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Aid to navigation station
+  normative_status: preferred
+- type: expression
+  designation: Aid to Navigation establishment
+  normative_status: admitted
+definition:
+- content: All buildings and apparatus belonging to an Aid to Navigation and its operation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: An aid to navigation station including an important light is usually called
+    in Britain and the U.S.A. a light-station, and in France a phare. There are also
+    fog-signal stations and light- and fog-signal stations.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Aid_to_navigation_station

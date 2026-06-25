@@ -1,0 +1,69 @@
+---
+id: 2-4-105
+data:
+  identifier: 2-4-105
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Screen_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-4-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-4-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-4-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-4-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-4-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-4-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-4-105
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-4-105
+---
+id: 2-4-105-eng
+termid: 2-4-105
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Screen (2)
+  normative_status: preferred
+definition:
+- content: |-
+    Alternative terms: Shield (U.S.A.), Blanking Screen (G.B.)
+
+    Any opaque body used to obscure a light.
+
+    ![Angle_Of_Uncertainty_2023.png](/iala-vocab/images/iala/Angle_Of_Uncertainty_2023.png)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Screen_(2)

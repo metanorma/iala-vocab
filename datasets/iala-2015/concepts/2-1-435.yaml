@@ -1,0 +1,77 @@
+---
+id: 2-1-435
+data:
+  identifier: 2-1-435
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Colour_(G.B.)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-435
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-435
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-435
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-435
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-435
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-435
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-435
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-435
+---
+id: 2-1-435-eng
+termid: 2-1-435
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Colour (G.B.)
+  normative_status: preferred
+- type: expression
+  designation: Color (U.S.A.)
+  normative_status: admitted
+definition:
+- content: Perceived colour Aspect of visual perception by which an observer may distinguish
+    differences between two fields of view of the same size, shape and structure,
+    such as may be caused by differences in the spectral composition of the radiation
+    concerned in the observation.
+- content: Psychophysical colour Characteristic of a visible radiation by which an
+    observer may distinguish differences between two fields of view of the same size,
+    shape and structure, such as may be caused by differences in the spectral composition
+    of the radiation concerned in the observation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E. (extract)
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Colour_(G.B.)

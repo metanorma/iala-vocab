@@ -1,0 +1,76 @@
+---
+id: 2-1-360
+data:
+  identifier: 2-1-360
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Troland
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-360
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-360
+---
+id: 2-1-360-eng
+termid: 2-1-360
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Troland
+  normative_status: preferred
+definition:
+- content: Usually, 1 troland produces a retinal illuminance of approximately 2 x
+    10-3 lumen per square metre.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E. (extract)
+notes:
+- content: 'For the correction factors which must be taken into account in computing
+    the retinal illuminance, see Reference: C.I.E.'
+annotations:
+- content: Unit used for expressing the magnitude of the external light stimulus applied
+    to the eye. When the eye is viewing a surface of uniform luminance, the number
+    of trolands is equal to the product of the area in square millimetres of the limiting
+    pupil, natural or artificial, and the luminance of the surface in candelas per
+    square metre.
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Troland

@@ -1,0 +1,67 @@
+---
+id: augmentation
+data:
+  identifier: augmentation
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Augmentation
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: augmentation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: augmentation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: augmentation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: augmentation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: augmentation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: augmentation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: augmentation
+---
+id: augmentation-eng
+termid: augmentation
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Augmentation
+  normative_status: preferred
+definition:
+- content: |-
+    Any technique of providing enhancement to GNSS in order to provide improved navigation performance to the user.
+
+    – Satellite-based augmentation system (SBAS). A system providing additional satellite signals in order to enhance the performance of the GNSS service. (e.g. Wide Area Augmentation System (WAAS, US); European Geostationary Navigation Overlay Service (EGNOS); Multi-transport Satellite Augmentation System (Japan); GPS Aided Geo Augmented Navigation system (GAGAN, India)
+
+    – Ground-based augmentation system (GBAS). A system providing additional signals from a ground-based station in order to enhance the performance of the GNSS service. (e.g. IALA DGNSS beacon system)
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Augmentation

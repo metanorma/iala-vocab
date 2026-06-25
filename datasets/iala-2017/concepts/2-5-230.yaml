@@ -1,0 +1,67 @@
+---
+id: 2-5-230
+data:
+  identifier: 2-5-230
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Angle_of_Uncertainty
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-5-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-5-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-5-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-5-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-5-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-5-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-5-230
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-5-230
+---
+id: 2-5-230-eng
+termid: 2-5-230
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Angle of Uncertainty
+  normative_status: preferred
+definition:
+- content: |-
+    the angle of uncertainty is the region where the colour and/or the flash rhythm change and where the resulting colour of the light is mixed/affected by two colours, or showing fading intensity due to a blanking screen.
+
+    ![Angle_Of_Uncertainty_2023.png](/iala-vocab/images/iala/Angle_Of_Uncertainty_2023.png)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Angle_of_Uncertainty

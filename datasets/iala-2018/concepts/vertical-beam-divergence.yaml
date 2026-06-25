@@ -1,0 +1,51 @@
+---
+id: vertical-beam-divergence
+data:
+  identifier: vertical-beam-divergence
+  domains:
+  - source: urn:iala:dictionary:iala-2018
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Vertical_Beam_Divergence
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: vertical-beam-divergence
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: vertical-beam-divergence
+---
+id: vertical-beam-divergence-eng
+termid: vertical-beam-divergence
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Vertical Beam Divergence
+  normative_status: preferred
+definition:
+- content: |-
+    The angle of the light beam between points where the intensity has fallen to a fraction of the maximum intensity within the beam.
+
+    The vertical divergence is typically specified between the first points where the intensity falls to 50% of the maximum.
+
+    Source: ENG7, Guideline G1065
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: In the past, lantern vertical divergence was defined as the angular separation
+    of the upper and lower 10% intensity points in the intensity profile Full Width
+    Tenth Maximum (FWTM).  More recently, lantern divergence has been defined by the
+    Full Width Half Maximum (FWHM) intensity, the angular separation of the upper
+    and lower 50% intensity points in the intensity profile.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Vertical_Beam_Divergence

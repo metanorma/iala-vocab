@@ -1,0 +1,108 @@
+---
+id: 2-1-270
+data:
+  identifier: 2-1-270
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Atmospheric_Transmission_Factor
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-270
+---
+id: 2-1-270-eng
+termid: 2-1-270
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Atmospheric Transmission Factor
+  normative_status: preferred
+- type: expression
+  designation: Atmospheric Transmissivity (U.S.A.)
+  normative_status: admitted
+- type: symbol
+  designation: stem:[T]
+  normative_status: preferred
+definition:
+- content: |-
+    Atmospheric Transmission Factor (for
+
+    A quantity characterising the transparency of the atmosphere. It is the ratio of the luminous flux transmitted without change of direction by the atmosphere over
+
+    In Britain and the U.S.A. the most important factor is the Atmospheric Extinction Coefficient s (not to be confused with s as used in
+
+    T = e XXXX s
+
+    where e is the base of natural logarithms.
+
+    In France, geophysicists use the Optical Density (for a thickness of 1 kilometre).
+
+    In Germany, according to the DIN standard, the factor Schwachungskoeffizient z is used. This is similar to the atmospheric extinction coefficient but is identical with it only if the
+
+    q = e-z
+
+    = e-1.852s
+
+    where e is the base of natural logarithms.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: 'In Germany, according to the DIN standard, in place of the "atmospheric
+    transmission factor" T, two terms are used, Transmissionsfaktor q, used when the
+    Unit: of distance chosen is the kilometre, and Sichtwert s (not to be confused
+    with s used as Symbol: for "diffusion factor" 2-1-230), used when the Unit: of
+    distance chosen is the sea-mile.'
+- content: It is also possible to use other related factors and practice in this respect
+    has differed in various countries.
+- content: nor with s as used in 2-1-230). It is related to the "atmospheric transmission
+    factor" T by the formula
+- content: It is suggested that the various quantities described above T, q, s, z,
+    etc. should not be used so widely in future and that the "meteorological visibility"
+    V (2-1-280 and   2-1-290, Note:) should be used instead.
+annotations:
+- content: Unit distance) (G.B.)
+- content: Unit distance to the luminous flux which would be transmitted along the
+    same path in a vacuum. The
+- content: Unit of distance chosen is usually the kilometre or the nautical mile (sea-mile).
+- content: Unit of distance chosen is the kilometre. It is related to the 'Transmissionsfaktor"
+    q and to the "Sichtwert" s by the formulae
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Atmospheric_Transmission_Factor

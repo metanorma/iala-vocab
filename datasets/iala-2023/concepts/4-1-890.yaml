@@ -1,0 +1,68 @@
+---
+id: 4-1-890
+data:
+  identifier: 4-1-890
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Modified_refractive_index
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-1-890
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-1-890
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-1-890
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-1-890
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-1-890
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-1-890
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-1-890
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-1-890
+---
+id: 4-1-890-eng
+termid: 4-1-890
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Modified refractive index
+  normative_status: preferred
+definition:
+- content: For a given height above sea level the sum of the refractive index of the
+    air at this height and the ratio of the height to the radius of the earth.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.C.I.R
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Modified_refractive_index

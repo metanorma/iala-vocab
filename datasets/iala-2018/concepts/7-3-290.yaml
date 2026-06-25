@@ -1,0 +1,64 @@
+---
+id: 7-3-290
+data:
+  identifier: 7-3-290
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Retarder
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-3-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-3-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-3-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-3-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-3-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-3-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-3-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-3-290
+---
+id: 7-3-290-eng
+termid: 7-3-290
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Retarder
+  normative_status: preferred
+definition:
+- content: An additive for cement or concrete which decreases the rate of hardening.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Retarder

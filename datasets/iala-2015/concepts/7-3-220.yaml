@@ -1,0 +1,65 @@
+---
+id: 7-3-220
+data:
+  identifier: 7-3-220
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mortar
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-3-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-3-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-3-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-3-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-3-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-3-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-3-220
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-3-220
+---
+id: 7-3-220-eng
+termid: 7-3-220
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Mortar
+  normative_status: preferred
+definition:
+- content: A mixture of cement, sand and water in suitable proportions used for laying
+    bricks and stones.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mortar

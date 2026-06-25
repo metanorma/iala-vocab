@@ -12,6 +12,35 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Time_to_alarm
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: time-to-alarm
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: time-to-alarm
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: time-to-alarm
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: time-to-alarm
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: time-to-alarm
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: time-to-alarm
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: time-to-alarm
 ---
 id: time-to-alarm-eng
 termid: time-to-alarm

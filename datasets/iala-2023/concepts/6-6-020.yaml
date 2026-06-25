@@ -1,0 +1,67 @@
+---
+id: 6-6-020
+data:
+  identifier: 6-6-020
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Series_connection_(of_sources)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-6-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-6-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-6-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-6-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-6-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-6-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-6-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-6-020
+---
+id: 6-6-020-eng
+termid: 6-6-020
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Series connection (of sources)
+  normative_status: preferred
+definition:
+- content: The connection of sources so as to provide a summation of their output
+    voltages.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The sources will carry a common output current.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Series_connection_(of_sources)

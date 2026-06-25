@@ -1,0 +1,43 @@
+---
+id: on-the-job-training-aton-
+data:
+  identifier: on-the-job-training-aton-
+  domains:
+  - source: urn:iala:dictionary:iala-2018
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/On-the-Job_Training_(AtoN)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: on-the-job-training-aton-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: on-the-job-training-aton-
+---
+id: on-the-job-training-aton--eng
+termid: on-the-job-training-aton-
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: On-the-Job Training (AtoN)
+  normative_status: preferred
+definition:
+- content: |-
+    On-the-Job training (AtoN) is training and familiarisation at an AtoN workplace at which the person will be employed.  It includes training on the AtoN services provided, the facilities and equipment used as well as the local geography and appropriate regulations and other procedures.
+
+    Source: ENG7, Recommendation R0141
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/On-the-Job_Training_(AtoN)

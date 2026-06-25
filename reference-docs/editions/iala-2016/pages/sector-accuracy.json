@@ -1,0 +1,30 @@
+{
+  "title": "Sector Accuracy",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><p>Sector accuracy is the maximum angle between the intended sector boundary and the actual sector boundary.\n</p><p><br />\nSource: ENG4, Guideline 1041\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\" /></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a href=\"/wiki/dictionary/index.php/Codes_on_Alerts_and_Indicators\" title=\"Codes on Alerts and Indicators\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div>\n<!-- \nNewPP limit report\nCached time: 20260615202753\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.035 seconds\nReal time usage: 0.042 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 733/2097152 bytes\nTemplate argument size: 398/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   13.085      1 Template:Languages\n100.00%   13.085      1 -total\n 61.66%    8.068      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:2968-0!canonical and timestamp 20260615202753 and revision id 10133. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "2.2_Optical_Apparatus"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2016_Revision"
+      },
+      {
+        "sortkey": "",
+        "*": "Approved_by_DWG"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\nSector accuracy is the maximum angle between the intended sector boundary and the actual sector boundary.\n\n\nSource: ENG4, Guideline 1041\n\n{{languages|Codes on Alerts and Indicators}}\n[[Category:2.2 Optical Apparatus]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2016 Revision]]\n[[Category:Approved by DWG]]\n[[Category:IALA Dictionary 2023 Revision]]"
+}

@@ -1,0 +1,47 @@
+---
+id: surface-colour
+data:
+  identifier: surface-colour
+  domains:
+  - source: urn:iala:dictionary:iala-2018
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Surface_Colour
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: surface-colour
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: surface-colour
+---
+id: surface-colour-eng
+termid: surface-colour
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Surface Colour
+  normative_status: preferred
+definition:
+- content: |-
+    A surface colour is a colour perceived to belong to a surface.
+
+    The colour of an ordinary surface, such as an ordinary paint or an opaque plastic material, is the most common kind of surface colour and is known as an ordinary colour.
+
+    Other kinds of colours include fluorescent (or luminescent) colours, transilluminated colours (for example, the colours of internally illuminated panels) and the colours of retro-reflecting materials.
+
+    Source: ENG7, Guideline G1134 (2017)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Surface_Colour

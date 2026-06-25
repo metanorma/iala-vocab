@@ -12,6 +12,35 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/International_Terrestrial_Reference_Frame_(ITRF)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: international-terrestrial-reference-frame-itrf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: international-terrestrial-reference-frame-itrf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: international-terrestrial-reference-frame-itrf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: international-terrestrial-reference-frame-itrf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: international-terrestrial-reference-frame-itrf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: international-terrestrial-reference-frame-itrf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: international-terrestrial-reference-frame-itrf-
 ---
 id: international-terrestrial-reference-frame-itrf--eng
 termid: international-terrestrial-reference-frame-itrf-

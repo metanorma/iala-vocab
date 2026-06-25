@@ -1,0 +1,72 @@
+---
+id: 4-2-390
+data:
+  identifier: 4-2-390
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Screened_loop_antenna
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-2-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-2-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-2-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-2-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-2-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-2-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-2-390
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-2-390
+---
+id: 4-2-390-eng
+termid: 4-2-390
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Screened loop antenna
+  normative_status: preferred
+- type: expression
+  designation: Shielded loop antenna
+  normative_status: admitted
+definition:
+- content: A loop antenna, whose wire is surrounded by a concentric electrostatic
+    shield which completely encloses the loop except for a small gap.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Screened_loop_antenna

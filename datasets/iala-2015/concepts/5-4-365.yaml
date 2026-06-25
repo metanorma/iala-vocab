@@ -1,0 +1,68 @@
+---
+id: 5-4-365
+data:
+  identifier: 5-4-365
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Transmissometer
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-4-365
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-4-365
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 5-4-365
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-4-365
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-4-365
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-4-365
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-4-365
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-365
+---
+id: 5-4-365-eng
+termid: 5-4-365
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Transmissometer
+  normative_status: preferred
+definition:
+- content: A device which assesses the visibility by measurement of the attenuation
+    of radiation along a straight path through the atmosphere, resulting from the
+    presence of particles which cause scattering and absorption of radiation out of
+    the path. In a homogenous atmosphere, the attenuation can be directly related
+    to the atmospheric transmission factor {{2-1-270, Atmospheric Transmission Factor}}.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Transmissometer

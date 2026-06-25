@@ -1,0 +1,26 @@
+{
+  "title": "Automatic Identification System (AIS) (2)",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p><b><span class=\"mw-lingo-term\" data-lingo-term-id=\"df60bf18efe7500adba15a8676604475\">VTS</span>-2012-6</b>\n</p><p><span class=\"mw-lingo-term\" data-lingo-term-id=\"7fc56270e7a70fa81a5935b72eacbe29\">A</span> broadcast transponder system, operating in the <span class=\"mw-lingo-term\" data-lingo-term-id=\"08d28fc73c68c6cfa065f1595cf51537\">VHF</span> maritime mobile band.\t\n</p><p><br>\n</p><p><br>\n(VTS33/output/8 refers) \n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a class=\"mw-selflink selflink\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"df60bf18efe7500adba15a8676604475\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>Vessel Traffic Services\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"7fc56270e7a70fa81a5935b72eacbe29\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>ampere\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"08d28fc73c68c6cfa065f1595cf51537\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>Very High Frequency  (30 MHz to 300 MHz)\n</p>\n</div></div><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>VHF Communication Service of the CS\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260615082519\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.030 seconds\nReal time usage: 0.036 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 788/2097152 bytes\nTemplate argument size: 541/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%    9.922      1 Template:Languages\n100.00%    9.922      1 -total\n 64.52%    6.402      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:2835-0!canonical and timestamp 20260615082519 and revision id 8861. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "9.1_VTS_terms"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2012_Revision"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\n'''VTS-2012-6\n\nA broadcast transponder system, operating in the VHF maritime mobile band.\t\n\n\n\n\n(VTS33/output/8 refers) \n\n{{languages|Automatic Identification System (AIS) (2)}}\n[[Category:9.1 VTS terms]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2012 Revision]]\n[[Category:IALA Dictionary 2023 Revision]]"
+}

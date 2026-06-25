@@ -1,0 +1,72 @@
+---
+id: 2-5-145
+data:
+  identifier: 2-5-145
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Flashing_Light
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-5-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-5-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-5-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-5-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-5-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-5-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-5-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-5-145
+---
+id: 2-5-145-eng
+termid: 2-5-145
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Flashing Light
+  normative_status: preferred
+definition:
+- content: |-
+    1. A light in which the total duration of light in each period is clearly shorter than the total duration of darkness and in which the flashes of light are all of equal duration.
+
+    ![Ch2_Fig40.jpg](/iala-vocab/images/iala/Ch2_Fig40.jpg)
+
+    2. Commonly used for a single-flashing light.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: N.L
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Flashing_Light

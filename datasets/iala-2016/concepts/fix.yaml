@@ -1,0 +1,67 @@
+---
+id: fix
+data:
+  identifier: fix
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Fix
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: fix
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: fix
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: fix
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: fix
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: fix
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: fix
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: fix
+---
+id: fix-eng
+termid: fix
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Fix
+  normative_status: preferred
+definition:
+- content: |-
+    A position determined by processing information from a number of navigation observations.
+
+    Fix rate. The number of fixes per unit time.
+
+    Fix interval (seconds). The maximum time in seconds between fixes.
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fix

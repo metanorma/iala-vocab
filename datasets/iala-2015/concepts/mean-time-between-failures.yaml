@@ -1,0 +1,69 @@
+---
+id: mean-time-between-failures
+data:
+  identifier: mean-time-between-failures
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mean_time_between_failures
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: mean-time-between-failures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: mean-time-between-failures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: mean-time-between-failures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: mean-time-between-failures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: mean-time-between-failures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: mean-time-between-failures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: mean-time-between-failures
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: mean-time-between-failures
+---
+id: mean-time-between-failures-eng
+termid: mean-time-between-failures
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Mean time between failures
+  normative_status: preferred
+definition:
+- content: |-
+    Mean time between failures 5-1-040
+
+    Acronym: MTBF
+
+    The total measured operating time of a population of repairable equipments divided by the total number of failures within this population. MTBF is generally determined during the constant-failure-rate period.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mean_time_between_failures

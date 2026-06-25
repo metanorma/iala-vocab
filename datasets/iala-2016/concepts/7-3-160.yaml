@@ -1,0 +1,68 @@
+---
+id: 7-3-160
+data:
+  identifier: 7-3-160
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Corrugated_sheet
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-3-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-3-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-3-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-3-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-3-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-3-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-3-160
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-3-160
+---
+id: 7-3-160-eng
+termid: 7-3-160
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Corrugated sheet
+  normative_status: preferred
+definition:
+- content: A cladding material for buildings of steel, plastic, aluminium or asbestos-cement,
+    which has a corrugated profile for rigidity.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: Corrugated iron is specifically a steel sheet which has been galvanised
+    for corrosion resistance.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Corrugated_sheet

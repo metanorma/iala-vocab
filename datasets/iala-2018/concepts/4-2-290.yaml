@@ -1,0 +1,73 @@
+---
+id: 4-2-290
+data:
+  identifier: 4-2-290
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Distant_site_error
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-2-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-2-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-2-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-2-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-2-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-2-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-2-290
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-2-290
+---
+id: 4-2-290-eng
+termid: 4-2-290
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Distant site error
+  normative_status: preferred
+- type: expression
+  designation: Inter-site error
+  normative_status: admitted
+definition:
+- content: |-
+    An error of bearing, other than source error, due to scattering or lateral deviation by irregularities in, or obstacles on, the earth's surface outside the site of the direction finder.
+
+    Heterogeneous ground-path error.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: In ground-wave transmission such an error may be called Ground-path error
+    or
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Distant_site_error

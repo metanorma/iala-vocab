@@ -1,0 +1,72 @@
+---
+id: 7-1-095
+data:
+  identifier: 7-1-095
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Buoy_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-1-095
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-1-095
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-1-095
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-1-095
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-1-095
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-1-095
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 7-1-095
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-1-095
+---
+id: 7-1-095-eng
+termid: 7-1-095
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Buoy (2)
+  normative_status: preferred
+definition:
+- content: A floating and moored object intended as an aid to navigation or to be
+    used for mooring vessels. It may carry additional aids to navigation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The terms light buoy and lighted buoy refer to a buoy that is fitted with
+    a signal light.
+- content: The terms unlighted buoy and blind buoy refer to a buoy that has no signal
+    light.
+- content: A buoy used for mooring a vessel is called a mooring buoy. The French term
+    is coffre d'amarrage.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Buoy_(2)

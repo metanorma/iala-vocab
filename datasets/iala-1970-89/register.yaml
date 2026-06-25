@@ -1,10 +1,6 @@
 ---
 schema_type: glossarist
 schema_version: '3'
-id: iala-1970-89
-year: 1989
-urn: urn:iala:dictionary:1970-89
-status: retired
 languages:
 - eng
 languageOrder:
@@ -243,3 +239,7 @@ sections:
     names:
       eng: Conservation terms
     children: []
+:id: iala-1970-89
+:year: 1989
+:urn: urn:iala:dictionary:1970-89
+:status: retired

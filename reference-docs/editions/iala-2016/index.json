@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Aid to Navigation",
+    "numeric_code": null,
+    "categories": [
+      "1.1 Basic Terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "IALA Dictionary 2023 Revision",
+      "Approved by DWG"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/aid-to-navigation.json"
+  },
+  {
+    "title": "Alarm",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "Approved by DWG"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/alarm.json"
+  },
+  {
+    "title": "Alert",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "Approved by DWG"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/alert.json"
+  },
+  {
+    "title": "Alternating Sectors",
+    "numeric_code": null,
+    "categories": [
+      "2.2 Optical Apparatus",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "Approved by DWG"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/alternating-sectors.json"
+  },
+  {
+    "title": "Caution",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "Approved by DWG",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/caution.json"
+  },
+  {
+    "title": "Codes on Alerts and Indicators",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "Approved by DWG"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/codes-on-alerts-and-indicators.json"
+  },
+  {
+    "title": "Decision Maker",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "Approved by DWG"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/decision-maker.json"
+  },
+  {
+    "title": "Emergency Alarm",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "Approved by DWG"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/emergency-alarm.json"
+  },
+  {
+    "title": "Marine Aid to Navigation",
+    "numeric_code": null,
+    "categories": [
+      "1.1 Basic Terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "Approved by DWG",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/marine-aid-to-navigation.json"
+  },
+  {
+    "title": "Oscillating Boundary",
+    "numeric_code": null,
+    "categories": [
+      "2.2 Optical Apparatus",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "Approved by DWG",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/oscillating-boundary.json"
+  },
+  {
+    "title": "Sector Accuracy",
+    "numeric_code": null,
+    "categories": [
+      "2.2 Optical Apparatus",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "Approved by DWG",
+      "IALA Dictionary 2023 Revision"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/sector-accuracy.json"
+  },
+  {
+    "title": "Warning",
+    "numeric_code": null,
+    "categories": [
+      "9.1 VTS terms",
+      "Alphabetical Index",
+      "IALA Dictionary 2016 Revision",
+      "Approved by DWG"
+    ],
+    "lang_variants": [],
+    "page_file": "pages/warning.json"
+  }
+]

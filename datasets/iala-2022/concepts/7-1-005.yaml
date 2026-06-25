@@ -1,0 +1,74 @@
+---
+id: 7-1-005
+data:
+  identifier: 7-1-005
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Beacon
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-1-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-1-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-1-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-1-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-1-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-1-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-1-005
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-1-005
+---
+id: 7-1-005-eng
+termid: 7-1-005
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Beacon
+  normative_status: preferred
+definition:
+- content: |-
+    A fixed artificial navigation mark that can be recognised by its shape, colour, pattern, topmark or light character, or a combination of these.
+
+    It may carry various additional aids to navigation.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: This term is not commonly used when the navigation mark can be classified
+    as a lighthouse.
+- content: The terms light, light beacon and lighted beacon refer to a beacon that
+    carries a signal light.
+- content: The terms unlighted beacon and unlit beacon refer to a beacon that does
+    not carry a signal light.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Beacon

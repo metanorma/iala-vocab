@@ -1,0 +1,30 @@
+{
+  "title": "Aid to Navigation",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p><span class=\"mw-lingo-term\" data-lingo-term-id=\"7fc56270e7a70fa81a5935b72eacbe29\">A</span> device, system or service, external to vessels, designed and operated to enhance safe and efficient navigation of individual vessels and/or vessel traffic.\n</p><p><br>\nOther forms: Aids to Navigation (plural), <span class=\"mw-lingo-term\" data-lingo-term-id=\"86c503aa342041d004aad7deccd8e003\">AtoN</span>\n</p><p><br>\n<i>This definition of the term Aid to Navigation is in accordance with the <span class=\"mw-lingo-term\" data-lingo-term-id=\"0a1217bfe27a54fc7e55b72fc62c2371\">IALA</span> Constitution.<br>The use of the definition from the original <span class=\"mw-lingo-term\" data-lingo-term-id=\"0a1217bfe27a54fc7e55b72fc62c2371\">IALA</span> Dictionary has been discontinued.</i>\n</p><p><br>\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a class=\"mw-selflink selflink\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"7fc56270e7a70fa81a5935b72eacbe29\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>ampere\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"86c503aa342041d004aad7deccd8e003\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>Aid to Navigation\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"0a1217bfe27a54fc7e55b72fc62c2371\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>International Association of Marine Aids to Navigation and Lighthouse Authorities - AISM\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260615084600\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.051 seconds\nReal time usage: 0.060 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 668/2097152 bytes\nTemplate argument size: 229/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   15.320      1 Template:Languages\n100.00%   15.320      1 -total\n 68.30%   10.464      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:2969-0!canonical and timestamp 20260615084600 and revision id 8735. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "1.1_Basic_Terms"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2016_Revision"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      },
+      {
+        "sortkey": "",
+        "*": "Approved_by_DWG"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\nA device, system or service, external to vessels, designed and operated to enhance safe and efficient navigation of individual vessels and/or vessel traffic.\n\n\nOther forms: Aids to Navigation (plural), AtoN\n\n\n''This definition of the term Aid to Navigation is in accordance with the IALA Constitution.<br>The use of the definition from the original IALA Dictionary has been discontinued.''\n\n\n{{languages|Aid to Navigation}}\n[[Category:1.1 Basic Terms]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2016 Revision]]\n[[Category:IALA Dictionary 2023 Revision]]\n[[Category:Approved by DWG]]"
+}

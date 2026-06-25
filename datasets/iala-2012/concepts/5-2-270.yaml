@@ -1,0 +1,73 @@
+---
+id: 5-2-270
+data:
+  identifier: 5-2-270
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Compensation_(2)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-2-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-2-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-2-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-2-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-2-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-2-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-2-270
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-2-270
+---
+id: 5-2-270-eng
+termid: 5-2-270
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Compensation (2)
+  normative_status: preferred
+definition:
+- content: Modifying or supplementary action (also, the effect of such action) intended
+    to improve performances with respect to some specified characteristics.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: I.E.C
+  modification: modified from source
+notes:
+- content: 'Note:: Usually the addition of some form of damping, which involves the
+    addition of an oscillation damper, to change the apparent characteristics of the
+    load.'
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Compensation_(2)

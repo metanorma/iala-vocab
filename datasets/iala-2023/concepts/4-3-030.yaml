@@ -1,0 +1,72 @@
+---
+id: 4-3-030
+data:
+  identifier: 4-3-030
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Frequency-modulated_radar
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-3-030
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-3-030
+---
+id: 4-3-030-eng
+termid: 4-3-030
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Frequency-modulated radar
+  normative_status: preferred
+- type: expression
+  designation: F.M. radar
+  normative_status: admitted
+definition:
+- content: A form of radar in which the radiated wave is frequency modulated, and
+    the frequency of an echo is compared with the frequency of the transmitted wave
+    at the instant of reception, thus enabling range to be measured.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Frequency-modulated_radar

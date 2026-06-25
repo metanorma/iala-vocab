@@ -1,0 +1,70 @@
+---
+id: 6-4-280
+data:
+  identifier: 6-4-280
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Split-phase_motor
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-4-280
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-4-280
+---
+id: 6-4-280-eng
+termid: 6-4-280
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Split-phase motor
+  normative_status: preferred
+definition:
+- content: A single-phase induction motor provided with an auxiliary primary winding
+    that is displaced in magnetic position from, and connected in parallel with, the
+    main primary winding. There is a phase difference between the currents in these
+    two windings.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The auxiliary primary winding is designed to assist the starting of the
+    motor and is commonly taken out of circuit during normal running conditions.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Split-phase_motor

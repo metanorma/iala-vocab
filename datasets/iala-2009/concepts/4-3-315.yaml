@@ -1,0 +1,74 @@
+---
+id: 4-3-315
+data:
+  identifier: 4-3-315
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Instantaneous"_automatic_gain_control
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-3-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-3-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-3-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-3-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 4-3-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-3-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-3-315
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-3-315
+---
+id: 4-3-315-eng
+termid: 4-3-315
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Instantaneous" automatic gain control
+  normative_status: preferred
+- type: expression
+  designation: Instantaneous" automatic gain control (I.A.G.C.)
+  normative_status: admitted
+definition:
+- content: In radar, a quick acting automatic gain control which does not respond
+    to single echoes, but which responds to variations of mean clutter level, so that
+    clutter is reduced. Return to high sensitivity is also accomplished quickly for
+    reception of weak signals.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+  modification: modified from source
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Instantaneous"_automatic_gain_control

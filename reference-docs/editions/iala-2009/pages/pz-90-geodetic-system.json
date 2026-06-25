@@ -1,0 +1,26 @@
+{
+  "title": "PZ-90 geodetic system",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p><span class=\"mw-lingo-term\" data-lingo-term-id=\"7fc56270e7a70fa81a5935b72eacbe29\">A</span> consistent set of parameters used in <span class=\"mw-lingo-term\" data-lingo-term-id=\"48549df6f41418cb94b963fe84894cd6\">GLONASS</span> describing the size and shape of the Earth, positions of a network of points with respect to the centre of mass of the Earth, transformations from major geodetic datums and the potential of the Earth, developed in 1990.\n</p><p><br>\nSource: Nick Ward, Vicechair, <span class=\"mw-lingo-term\" data-lingo-term-id=\"0a1217bfe27a54fc7e55b72fc62c2371\">IALA</span> e-Nav Committee, March 2009\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a class=\"mw-selflink selflink\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"7fc56270e7a70fa81a5935b72eacbe29\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>ampere\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"48549df6f41418cb94b963fe84894cd6\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>Global Navigation Satellite System, operated by the Government of the Russian Federation\n</p>\n</div></div><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>Globalnaya Navigatsionnaya Sputnikovaya Sistema\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"0a1217bfe27a54fc7e55b72fc62c2371\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>International Association of Marine Aids to Navigation and Lighthouse Authorities - AISM\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260615172532\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.030 seconds\nReal time usage: 0.037 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 688/2097152 bytes\nTemplate argument size: 281/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   11.668      1 Template:Languages\n100.00%   11.668      1 -total\n 61.74%    7.204      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:2812-0!canonical and timestamp 20260615172532 and revision id 10025. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "10.1_General_e-Navigation_terms"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2009_Edition"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\nA consistent set of parameters used in GLONASS describing the size and shape of the Earth, positions of a network of points with respect to the centre of mass of the Earth, transformations from major geodetic datums and the potential of the Earth, developed in 1990.\n\n\nSource: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009\n\n{{languages|PZ-90 geodetic system}}\n[[Category:10.1 General e-Navigation terms]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2009 Edition]]\n[[Category:IALA Dictionary 2023 Revision]]"
+}

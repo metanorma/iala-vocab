@@ -1,0 +1,69 @@
+---
+id: 6-7-020
+data:
+  identifier: 6-7-020
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Screened_transformer
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-7-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-7-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-7-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-7-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-7-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 6-7-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-7-020
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-7-020
+---
+id: 6-7-020-eng
+termid: 6-7-020
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Screened transformer
+  normative_status: preferred
+- type: expression
+  designation: Shielded transformer
+  normative_status: admitted
+definition:
+- content: A transformer in which an earthed screen or shield is interposed between
+    the primary and secondary circuits, to reduce the transmission of transients by
+    way of capacitance coupling between the windings.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Screened_transformer

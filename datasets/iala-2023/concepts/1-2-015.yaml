@@ -1,0 +1,72 @@
+---
+id: 1-2-015
+data:
+  identifier: 1-2-015
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-1
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Pilotage
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 1-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 1-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 1-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 1-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 1-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 1-2-015
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 1-2-015
+---
+id: 1-2-015-eng
+termid: 1-2-015
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Pilotage
+  normative_status: preferred
+- type: expression
+  designation: Pilotage service
+  normative_status: admitted
+definition:
+- content: The provision of a service of specially qualified men possessing detailed
+    local knowledge, who assist the masters of vessels to navigate them in particular
+    areas.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: In Britain and the U.S.A. the word "pilotage" is also loosely used for
+    piloting.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pilotage

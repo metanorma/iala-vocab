@@ -1,0 +1,72 @@
+---
+id: 4-2-255
+data:
+  identifier: 4-2-255
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-4
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Swing_-_angle
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 4-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 4-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 4-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 4-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 4-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 4-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 4-2-255
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 4-2-255
+---
+id: 4-2-255-eng
+termid: 4-2-255
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Swing - angle
+  normative_status: preferred
+- type: expression
+  designation: Null width
+  normative_status: admitted
+definition:
+- content: The angle containing the direction of a bearing observation and bounded
+    by limits within which the variation of the intensity of the signal is too slight
+    to be detected.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The magnitude of the swing may alternatively be expressed as plus and minus
+    half the angle defined above.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Swing_-_angle

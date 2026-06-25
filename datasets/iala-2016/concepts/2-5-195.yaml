@@ -1,0 +1,70 @@
+---
+id: 2-5-195
+data:
+  identifier: 2-5-195
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Interrupted_Quick-Flashing_Light
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-5-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-5-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-5-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-5-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-5-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-5-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-5-195
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-5-195
+---
+id: 2-5-195-eng
+termid: 2-5-195
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Interrupted Quick-Flashing Light
+  normative_status: preferred
+definition:
+- content: |-
+    Quick-flashing light (in sense 1 of 2-5-190) in which the rapid alternations are interrupted at regular intervals by eclipses of long duration. (Fig.43b)
+
+    ![Ch2_Fig43.jpg](/iala-vocab/images/iala/Ch2_Fig43.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: N.L
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Interrupted_Quick-Flashing_Light

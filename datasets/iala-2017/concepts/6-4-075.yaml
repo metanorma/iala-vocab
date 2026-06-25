@@ -1,0 +1,68 @@
+---
+id: 6-4-075
+data:
+  identifier: 6-4-075
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-6
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Synchronous_speed_(of_an_electric_machine)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 6-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 6-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 6-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 6-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 6-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 6-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 6-4-075
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 6-4-075
+---
+id: 6-4-075-eng
+termid: 6-4-075
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Synchronous speed (of an electric machine)
+  normative_status: preferred
+definition:
+- content: The speed of rotation of the magnetic field produced by, or linked with,
+    the primary winding of the machine.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The synchronous speed depends on the supply frequency and on the number
+    of poles or projections in the machine.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Synchronous_speed_(of_an_electric_machine)

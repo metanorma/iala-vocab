@@ -1,0 +1,26 @@
+{
+  "title": "Accuracy",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p>The degree of conformance between the estimated or measured parameter of a craft at a given time and its true parameter at that time. (Parameters in this context may be position coordinates, velocity, time, angle, etc.)\n</p><p>– Absolute accuracy (Geodetic or Geographic accuracy). The accuracy of a position estimate with respect to the geographic or geodetic coordinates of the Earth.\n</p><p>– Geodetic or Geographic accuracy. See absolute accuracy.\n</p><p>– Predictable accuracy. The accuracy of the estimated position solution with respect to the charted solution.\n</p><p>– Relative accuracy. The accuracy with which a user can determine position relative to that of another user of the same navigation system at the same time.\n</p><p>– Repeatable accuracy. The accuracy with which a user can return to a position whose coordinates have been measured at a previous time using uncorrelated measurements from the same navigation system.\n</p><p><br>\nSource: Nick Ward, Vicechair, <span class=\"mw-lingo-term\" data-lingo-term-id=\"0a1217bfe27a54fc7e55b72fc62c2371\">IALA</span> e-Nav Committee, March 2009\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a class=\"mw-selflink selflink\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"0a1217bfe27a54fc7e55b72fc62c2371\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>International Association of Marine Aids to Navigation and Lighthouse Authorities - AISM\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260615154459\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.030 seconds\nReal time usage: 0.038 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 623/2097152 bytes\nTemplate argument size: 112/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   11.974      1 Template:Languages\n100.00%   11.974      1 -total\n 67.41%    8.071      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:2773-0!canonical and timestamp 20260615154459 and revision id 8725. Rendering was triggered because: page-view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "10.1_General_e-Navigation_terms"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2009_Edition"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\nThe degree of conformance between the estimated or measured parameter of a craft at a given time and its true parameter at that time. (Parameters in this context may be position coordinates, velocity, time, angle, etc.)\n\n– Absolute accuracy (Geodetic or Geographic accuracy). The accuracy of a position estimate with respect to the geographic or geodetic coordinates of the Earth.\n\n– Geodetic or Geographic accuracy. See absolute accuracy.\n\n– Predictable accuracy. The accuracy of the estimated position solution with respect to the charted solution.\n\n– Relative accuracy. The accuracy with which a user can determine position relative to that of another user of the same navigation system at the same time.\n\n– Repeatable accuracy. The accuracy with which a user can return to a position whose coordinates have been measured at a previous time using uncorrelated measurements from the same navigation system.\n\n\nSource: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009\n\n{{languages|Accuracy}}\n[[Category:10.1 General e-Navigation terms]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2009 Edition]]\n[[Category:IALA Dictionary 2023 Revision]]"
+}

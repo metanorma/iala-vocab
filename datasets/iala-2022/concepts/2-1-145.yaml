@@ -1,0 +1,76 @@
+---
+id: 2-1-145
+data:
+  identifier: 2-1-145
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Mixed_Reflection
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-145
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-145
+---
+id: 2-1-145-eng
+termid: 2-1-145
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Mixed Reflection
+  normative_status: preferred
+definition:
+- content: |-
+    The simultaneous occurrence of specular reflection and of diffuse reflection. (Fig. 7c)
+
+    ![Ch2_Fig7.jpg](/iala-vocab/images/iala/Ch2_Fig7.jpg)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E
+  modification: modified from source
+notes:
+- content: The illuminance received from a point source after specular reflection
+    varies inversely as the square of the distance between the source and the point
+    at which the illuminance is produced. That received after diffuse reflection varies
+    inversely as the square of the distance to the diffuser.
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mixed_Reflection

@@ -1,0 +1,70 @@
+---
+id: 5-4-225
+data:
+  identifier: 5-4-225
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-5
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Messmotor_(G.B.)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 5-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 5-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 5-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 5-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 5-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 5-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 5-4-225
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 5-4-225
+---
+id: 5-4-225-eng
+termid: 5-4-225
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Messmotor (G.B.)
+  normative_status: preferred
+definition:
+- content: A d.c. motor with a permanent magnet field in which the formerless armature
+    winding rotates about a stationary soft iron core. The rotor inertia is then that
+    of the windings and commutator only and the speed is sufficiently proportional
+    to the applied voltage to permit the motor being used as an integrator.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: B.S
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Messmotor_(G.B.)

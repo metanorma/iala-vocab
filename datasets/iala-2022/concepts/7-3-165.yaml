@@ -1,0 +1,76 @@
+---
+id: 7-3-165
+data:
+  identifier: 7-3-165
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-7
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Aggregate
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 7-3-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 7-3-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 7-3-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 7-3-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 7-3-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 7-3-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 7-3-165
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 7-3-165
+---
+id: 7-3-165-eng
+termid: 7-3-165
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Aggregate
+  normative_status: preferred
+definition:
+- content: |-
+    Inert granular material, either processed from rock, occurring naturally, such as gravel or sand, or manufactured, such as furnace slag.
+
+    Aggregate is mixed with cement and water in suitable proportions to make concrete.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: A distinction is made between coarse aggregate retained on a 5 mm test
+    sieve and fine aggregate which is passed by such a sieve.
+- content: In French and German a distinction is also made between different aggregates
+    according to whether they are of natural origin or produced by crushing, e.g.
+    in French between pierre roulee and pierre cassee and between sable de riviere
+    and sable de concassage, and similarly in German between ungebrochenes Korn and
+    gebrochenes Korn, between Grobkies and Schotter, between Kies and Splitt (all
+    coarse aggregates), and between Sand and Brechsand (fine aggregates).
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Aggregate

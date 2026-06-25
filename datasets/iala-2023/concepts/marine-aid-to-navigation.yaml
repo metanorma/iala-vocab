@@ -12,6 +12,23 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Marine_Aid_to_Navigation
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: marine-aid-to-navigation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: marine-aid-to-navigation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: marine-aid-to-navigation
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: marine-aid-to-navigation
 ---
 id: marine-aid-to-navigation-eng
 termid: marine-aid-to-navigation

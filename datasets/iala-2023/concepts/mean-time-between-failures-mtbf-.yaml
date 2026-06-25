@@ -12,6 +12,35 @@ sources:
   origin:
     ref: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Mean_time_between_failures_(MTBF)
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: mean-time-between-failures-mtbf-
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: mean-time-between-failures-mtbf-
 ---
 id: mean-time-between-failures-mtbf--eng
 termid: mean-time-between-failures-mtbf-

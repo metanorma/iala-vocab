@@ -1,0 +1,67 @@
+---
+id: gross-errors
+data:
+  identifier: gross-errors
+  domains:
+  - source: urn:iala:dictionary:iala-2009
+    concept_id: section-10
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Gross_errors
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: gross-errors
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: gross-errors
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: gross-errors
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: gross-errors
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: gross-errors
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: gross-errors
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: gross-errors
+---
+id: gross-errors-eng
+termid: gross-errors
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Gross errors
+  normative_status: preferred
+definition:
+- content: |-
+    Gross errors, or "outliers", are errors other than random errors or systematic errors.
+
+    They are often large and, by definition, unpredictable.
+
+    They are typically caused by sudden changes in the prevailing physical circumstances, by system faults or by operator errors.
+
+    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Gross_errors

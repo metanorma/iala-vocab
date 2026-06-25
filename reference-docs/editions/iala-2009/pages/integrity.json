@@ -1,0 +1,26 @@
+{
+  "title": "Integrity",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p>The ability to provide users with warnings within a specified time when a system should not be used for navigation.\n</p><p>- Integrity monitoring. The process of determining whether the system performance (or individual observations) allow use for navigation purposes. Overall <span class=\"mw-lingo-term\" data-lingo-term-id=\"d6f7806b5d17e3c6493a6578ab64fd5a\">GNSS</span> system integrity is described by three parameters the threshold value or alert limit, the time to alarm and the integrity risk. The output of integrity monitoring is that individual (erroneous) observations or the ooutput of the <span class=\"mw-lingo-term\" data-lingo-term-id=\"d6f7806b5d17e3c6493a6578ab64fd5a\">GNSS</span> as a whole cannot be used for navigation.\n</p><p>– Internal integrity monitoring is performed aboard a craft.\n</p><p>– External integrity monitoring is provided by external stations.\n</p><p>- Integrity risk. The probability that a user will experience a position error larger than the threshold value without an alarm being raised within the specified time to alarm at any instant of time at any location in the coverage area.\n</p><p><br>\nSource: Nick Ward, Vicechair, <span class=\"mw-lingo-term\" data-lingo-term-id=\"0a1217bfe27a54fc7e55b72fc62c2371\">IALA</span> e-Nav Committee, March 2009\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a class=\"mw-selflink selflink\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n<span></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"d6f7806b5d17e3c6493a6578ab64fd5a\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>Global Navigation Satellite System\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"0a1217bfe27a54fc7e55b72fc62c2371\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>International Association of Marine Aids to Navigation and Lighthouse Authorities - AISM\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260616023912\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.035 seconds\nReal time usage: 0.050 seconds\nPreprocessor visited node count: 58/1000000\nPost‐expand include size: 628/2097152 bytes\nTemplate argument size: 125/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 4/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   10.681      1 Template:Languages\n100.00%   10.681      1 -total\n 69.28%    7.400      4 Template:Languages/Lang\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:2801-0!canonical and timestamp 20260616023912 and revision id 9641. Rendering was triggered because: api-parse\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "*": "10.1_General_e-Navigation_terms"
+      },
+      {
+        "sortkey": "",
+        "*": "Alphabetical_Index"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2009_Edition"
+      },
+      {
+        "sortkey": "",
+        "*": "IALA_Dictionary_2023_Revision"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\nThe ability to provide users with warnings within a specified time when a system should not be used for navigation.\n\n- Integrity monitoring. The process of determining whether the system performance (or individual observations) allow use for navigation purposes. Overall GNSS system integrity is described by three parameters the threshold value or alert limit, the time to alarm and the integrity risk. The output of integrity monitoring is that individual (erroneous) observations or the ooutput of the GNSS as a whole cannot be used for navigation.\n\n– Internal integrity monitoring is performed aboard a craft.\n\n– External integrity monitoring is provided by external stations.\n\n- Integrity risk. The probability that a user will experience a position error larger than the threshold value without an alarm being raised within the specified time to alarm at any instant of time at any location in the coverage area.\n\n\nSource: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009\n\n{{languages|Integrity}}\n[[Category:10.1 General e-Navigation terms]]\n[[Category:Alphabetical Index]]\n[[Category:IALA Dictionary 2009 Edition]]\n[[Category:IALA Dictionary 2023 Revision]]"
+}

@@ -1,0 +1,80 @@
+---
+id: 2-1-475
+data:
+  identifier: 2-1-475
+  domains:
+  - source: urn:iala:dictionary:iala-1970-89
+    concept_id: section-2
+    ref_type: section
+status: valid
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Tristimulus_Values
+related:
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 2-1-475
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2009
+    concept_id: 2-1-475
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2012
+    concept_id: 2-1-475
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2015
+    concept_id: 2-1-475
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2016
+    concept_id: 2-1-475
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2017
+    concept_id: 2-1-475
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: 2-1-475
+- type: equivalent
+  ref:
+    source: urn:iala:dictionary:2022
+    concept_id: 2-1-475
+---
+id: 2-1-475-eng
+termid: 2-1-475
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Tristimulus Values
+  normative_status: preferred
+- type: expression
+  designation: Tristimulus Values (of a colour stimulus)
+  normative_status: admitted
+- type: symbol
+  designation: stem:[(Reference:]
+  normative_status: preferred
+definition:
+- content: |-
+    The amounts of the three reference or matching stimuli required to give a match with the colour stimulus considered, in a given trichromatic system.
+
+    C.I.E. 1931) X, Y, Z.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+- type: authoritative
+  origin:
+    ref: C.I.E. (extract)
+notes:
+- content: 'The quantities X, Y, Z refer to a field of vision of about 2 degrees.
+    In 1964, quantities were defined by the Reference: C.I.E. to refer to a field
+    of vision of about 10 degrees. These are denoted by the symbols X10, Y10, Z10.'
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tristimulus_Values
