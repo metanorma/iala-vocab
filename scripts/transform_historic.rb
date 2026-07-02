@@ -1,9 +1,8 @@
 #!/usr/bin/env ruby
-require "yaml"
 require "json"
 require "fileutils"
 require "nokogiri"
-require "glossarist"
+require_relative "glossarist_helpers"
 
 HISTORIC_INDEX = "reference-docs/scraped/editions/iala-historic/index.json"
 DATASETS = %w[iala-1970-89 iala-2009 iala-2012 iala-2015 iala-2016 iala-2017 iala-2018 iala-2022 iala-2023].freeze
@@ -12,6 +11,10 @@ EDITION_YEARS = {
   "iala-2015" => 2015, "iala-2016" => 2016, "iala-2017" => 2017,
   "iala-2018" => 2018, "iala-2022" => 2022, "iala-2023" => 2023,
 }.freeze
+
+def urn_for(edition)
+  "urn:iala:dictionary:#{edition.sub('iala-', '')}"
+end
 
 def load_indices
   hash = {}
@@ -29,12 +32,11 @@ def active_target_for(stripped_title)
   candidates = INDICES[stripped_title] || []
   return nil if candidates.empty?
   latest = candidates.max_by { |ed| EDITION_YEARS[ed] || 0 }
-  edition = latest
-  idx_path = "reference-docs/scraped/editions/#{edition}/index.json"
+  idx_path = "reference-docs/scraped/editions/#{latest}/index.json"
   idx = JSON.parse(File.read(idx_path))
   entry = idx.find { |e| e["title"] == stripped_title }
   termid = entry && (entry["numeric_code"] || entry["title"].downcase.gsub(/[^a-z0-9]+/, "-").gsub(/^-|-$/, ""))
-  [edition, termid]
+  [latest, termid]
 end
 
 def parse_sections(wikitext)
@@ -98,64 +100,79 @@ def split_notes(lines)
 end
 
 def build_localized_doc(termid, designation, alt_designation, definition_text, notes, page_url, original_title)
-  terms = [{ "type" => "expression", "designation" => designation, "normative_status" => "preferred" }]
+  # Build as a hash because Glossarist::ConceptData doesn't expose
+  # annotations= (the library's annotations support is incomplete —
+  # annotations are read-only via a getter and dropped on serialize).
+  # Typed sub-objects (terms, definition, sources) are built via the
+  # library and merged via to_hash so we keep type safety where it
+  # matters and hand-roll only the annotations field.
+  terms_data = [
+    { "type" => "expression", "designation" => designation, "normative_status" => "preferred" },
+  ]
   if alt_designation
-    terms << { "type" => "expression", "designation" => alt_designation, "normative_status" => "admitted" }
+    terms_data << { "type" => "expression", "designation" => alt_designation, "normative_status" => "admitted" }
   end
 
-  doc = {
+  source_hash = Glossarist::ConceptSource.new(
+    type: "authoritative",
+    origin: Glossarist::Citation.new(
+      ref: Glossarist::Citation::Ref.new(source: "IALA Dictionary"),
+    ),
+  ).to_hash
+
+  {
     "id" => "#{termid}-eng",
     "termid" => termid,
-    "data" => { "language_code" => "eng" },
-    "terms" => terms,
-    "definition" => [{ "content" => definition_text }],
-    "sources" => [{ "type" => "authoritative", "origin" => { "ref" => { "source" => "IALA Dictionary" } } }]
+    "data" => {
+      "language_code" => "eng",
+      "terms" => terms_data,
+      "definition" => [{ "content" => definition_text }],
+      "sources" => [source_hash],
+      "annotations" => [
+        { "content" => "Discontinued entry from #{original_title} (#{page_url})" },
+      ],
+    }.tap do |d|
+      d["notes"] = notes.map { |n| { "content" => n } } unless notes.empty?
+    end,
   }
-  doc["notes"] = notes.map { |n| { "content" => n } } unless notes.empty?
-  doc["annotations"] = [{ "content" => "Discontinued entry from #{original_title} (#{page_url})" }]
-  doc
 end
 
-def build_managed_doc(termid, edition, target_edition, target_termid)
-  managed = {
-    "id" => termid,
-    "data" => {
-      "identifier" => termid,
-      "domains" => [{
-        "source" => "urn:iala:dictionary:#{edition.sub('iala-', '')}",
-        "concept_id" => "section-historic",
-        "ref_type" => "section"
-      }]
-    },
-    "status" => "retired",
-    "sources" => [{
-      "type" => "authoritative",
-      "origin" => { "ref" => { "source" => "IALA Dictionary" }, "link" => "" }
-    }]
-  }
+def build_managed_model(termid, source_edition, target_edition, target_termid, page_url)
+  managed = Glossarist::ManagedConcept.new(
+    id: termid,
+    status: "retired",
+    related: [],
+    sources: [
+      Glossarist::ConceptSource.new(
+        type: "authoritative",
+        origin: Glossarist::Citation.new(
+          ref: Glossarist::Citation::Ref.new(source: "IALA Dictionary"),
+          link: page_url,
+        ),
+      ),
+    ],
+    dates: [
+      Glossarist::ConceptDate.new(type: "accepted", date: "1970-1989"),
+      Glossarist::ConceptDate.new(type: "retired", date: "2016"),
+    ],
+  )
+  managed.data ||= Glossarist::ConceptData.new
+  managed.data.id = termid
+  managed.data.domains = [
+    Glossarist::ConceptReference.new(
+      source: urn_for(source_edition),
+      concept_id: "section-historic",
+      ref_type: "section",
+    ),
+  ]
 
   if target_edition && target_termid
-    managed["related"] = [
-      Glossarist::RelatedConcept.new(
-        type: "retired_by",
-        ref: Glossarist::ConceptRef.new(
-          source: "urn:iala:dictionary:#{target_edition.sub('iala-', '')}",
-          id: target_termid
-        )
-      ).to_hash
-    ]
+    managed.related << Glossarist::RelatedConcept.new(
+      type: "retired_by",
+      ref: Glossarist::ConceptRef.new(source: urn_for(target_edition), id: target_termid),
+    )
   end
-  managed["dates"] = [
-    { "type" => "accepted", "date" => "1970-1989" },
-    { "type" => "retired",  "date" => "2016" }
-  ]
   managed
-end
-
-def write_concept_yaml(path, docs)
-  FileUtils.mkdir_p(File.dirname(path))
-  content = docs.map { |d| YAML.dump(d) }.join
-  File.write(path, content)
 end
 
 def append_retires_to_target(target_edition, target_termid, source_edition, source_termid)
@@ -163,22 +180,21 @@ def append_retires_to_target(target_edition, target_termid, source_edition, sour
   target_path = "datasets/#{target_edition}/concepts/#{target_termid}.yaml"
   return unless File.exist?(target_path)
 
-  docs = YAML.load_stream(File.read(target_path))
-  return if docs.empty?
-  managed = docs[0]
-  managed["related"] ||= []
-  entry = Glossarist::RelatedConcept.new(
+  concept = GlossaristHelpers.read_concept_file(target_path)
+  return unless concept && concept.managed
+  managed = concept.managed
+  managed.related ||= []
+
+  already = managed.related.any? do |r|
+    r.type == "retires" && r.ref&.id == source_termid && r.ref&.source == urn_for(source_edition)
+  end
+  return if already
+
+  managed.related << Glossarist::RelatedConcept.new(
     type: "retires",
-    ref: Glossarist::ConceptRef.new(
-      source: "urn:iala:dictionary:#{source_edition.sub('iala-', '')}",
-      id: source_termid
-    )
-  ).to_hash
-  return if managed["related"].any? { |r| r["type"] == "retires" &&
-                                           r.dig("ref", "id") == source_termid &&
-                                           r.dig("ref", "source") == entry.dig("ref", "source") }
-  managed["related"] << entry
-  File.write(target_path, docs.map { |d| YAML.dump(d) }.join)
+    ref: Glossarist::ConceptRef.new(source: urn_for(source_edition), id: source_termid),
+  )
+  GlossaristHelpers.write_concept_file(target_path, concept)
 end
 
 abort "Historic index not found: #{HISTORIC_INDEX}" unless File.exist?(HISTORIC_INDEX)
@@ -234,12 +250,15 @@ index.each do |entry|
     end
     final_termid = "#{termid}#{suffix}"
 
-    managed = build_managed_doc(final_termid, source_edition, target_edition, target_termid)
-    managed["sources"][0]["origin"]["link"] = page_url
-    localized = build_localized_doc(final_termid, designation, alt_designation, definition_text, notes, page_url, title)
+    managed = build_managed_model(final_termid, source_edition, target_edition, target_termid, page_url)
+    localized_hash = build_localized_doc(final_termid, designation, alt_designation, definition_text, notes, page_url, title)
 
+    # Managed concept via library model; localized as a hash (annotations
+    # not supported by the library's ConceptData). Concatenate the two
+    # YAML streams to form the multi-doc file.
     out_path = "datasets/#{source_edition}/concepts/#{final_termid}.yaml"
-    write_concept_yaml(out_path, [managed, localized])
+    parts = [managed.to_yaml, YAML.dump(localized_hash)]
+    File.write(out_path, parts.join)
     stats[:sections_emitted] += 1
 
     append_retires_to_target(target_edition, target_termid, source_edition, final_termid)

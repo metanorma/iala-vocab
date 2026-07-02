@@ -1,9 +1,8 @@
 #!/usr/bin/env ruby
-require "yaml"
 require "json"
 require "nokogiri"
-require "fileutils"
-require "glossarist"
+require "yaml"
+require_relative "glossarist_helpers"
 
 TRANSLATIONS_DIR = "reference-docs/scraped/translations/deu"
 DATASETS = %w[iala-1970-89 iala-2009 iala-2012 iala-2015 iala-2016 iala-2017 iala-2018 iala-2022 iala-2023]
@@ -47,12 +46,10 @@ def extract_german_terms(html)
   sources = []
   paragraphs.each do |el|
     text = el.text.strip
-    # Explicit prefix citation
     if (m = text.sub(CITATION_PREFIX_RE, "")) && m != text
       sources << { ref_text: m.strip, modified: !!(m =~ MODIFIED_RE) }
       next
     end
-    # Bare attribution line (e.g. "C.I.E. (Auszug)" at end of body)
     if (m = text.match(BARE_CITATION_RE))
       sources << { ref_text: m[1].strip, modified: !!(m[1] =~ MODIFIED_RE) }
       next
@@ -64,63 +61,88 @@ def extract_german_terms(html)
   [designation, body, sources]
 end
 
+# Build the localized German doc as a hash. Uses Glossarist::ConceptSource
+# for typed source construction. Hash-based output because annotations
+# aren't supported by Glossarist::ConceptData (read-only getter, no
+# serialization mapping).
 def build_localized_doc(termid, designation, definition_body, citation_sources, page_url)
-  # Citation sources extracted from the German body — typed via glossarist.
   sources = [
     Glossarist::ConceptSource.new(
       type: "authoritative",
       origin: Glossarist::Citation.new(
-        ref: Glossarist::Citation::Ref.new(source: "IALA Dictionary")
-      )
-    ).to_hash
+        ref: Glossarist::Citation::Ref.new(source: "IALA Dictionary"),
+      ),
+    ).to_hash,
   ]
 
   citation_sources.each do |cs|
     src = Glossarist::ConceptSource.new(
       type: "authoritative",
       origin: Glossarist::Citation.new(
-        ref: Glossarist::Citation::Ref.new(source: cs[:ref_text])
-      )
+        ref: Glossarist::Citation::Ref.new(source: cs[:ref_text]),
+      ),
     ).to_hash
     src["modification"] = "modified from source" if cs[:modified]
     sources << src
   end
 
-  data = {
-    "language_code" => "deu",
-    "terms" => [{
-      "type" => "expression",
-      "designation" => designation || termid,
-      "normative_status" => "preferred"
-    }],
-    "definition" => [{ "content" => definition_body }],
-    "sources" => sources,
-    "annotations" => [{ "content" => "Sourced from #{page_url}" }]
-  }
-
   {
     "id" => "#{termid}-deu",
     "termid" => termid,
-    "data" => data
+    "data" => {
+      "language_code" => "deu",
+      "terms" => [{
+        "type" => "expression",
+        "designation" => designation || termid,
+        "normative_status" => "preferred",
+      }],
+      "definition" => [{ "content" => definition_body }],
+      "sources" => sources,
+      "annotations" => [{ "content" => "Sourced from #{page_url}" }],
+    },
   }
 end
 
-def append_localized_doc(yaml_path, localized_doc, lang)
-  docs = YAML.load_stream(File.read(yaml_path))
-  docs = docs.reject { |d| d && d["id"] == localized_doc["id"] }
-  docs << localized_doc
-  content = docs.map { |d| YAML.dump(d) }.join
-  File.write(yaml_path, content)
+def append_localized_doc(yaml_path, localized_hash)
+  concept = GlossaristHelpers.read_concept_file(yaml_path)
+  return false unless concept && concept.managed
+
+  lang = localized_hash.dig("data", "language_code")
+  existing_idx = concept.localized.index { |lc| lc.data&.language_code == lang }
+
+  # Read existing file as raw docs, replace/append the deu doc, then write
+  # all docs back. We use YAML.load_stream for the write so we can mix
+  # the model-serialized managed concept with the hash-based localized.
+  raw_docs = YAML.load_stream(File.read(yaml_path))
+  managed_yaml = concept.managed.to_yaml
+
+  # Replace any doc whose id matches localized_hash["id"], else append.
+  matched = false
+  output_docs = raw_docs.map do |d|
+    next d if d.nil?
+    next d unless d.is_a?(Hash)
+    if d["id"] == localized_hash["id"]
+      matched = true
+      localized_hash
+    else
+      d
+    end
+  end
+  output_docs << localized_hash unless matched
+
+  # Managed concept comes from the model (typed round-trip); localized docs
+  # are plain hashes (preserves annotations + terms shape we control).
+  parts = [managed_yaml]
+  parts.concat(output_docs.drop(1).map { |d| YAML.dump(d) })
+  File.write(yaml_path, parts.join)
   :appended
 end
 
 def find_concept_files(numeric_code)
-  hits = []
-  DATASETS.each do |edition|
+  DATASETS.each_with_object([]) do |edition, hits|
     path = "datasets/#{edition}/concepts/#{numeric_code}.yaml"
     hits << path if File.exist?(path)
   end
-  hits
 end
 
 index_path = "#{TRANSLATIONS_DIR}/index.json"
@@ -170,7 +192,7 @@ index.each do |entry|
 
   targets.each do |yaml_path|
     localized = build_localized_doc(numeric_code, designation, definition_body, citation_sources, page_url)
-    result = append_localized_doc(yaml_path, localized, "deu")
+    result = append_localized_doc(yaml_path, localized)
     stats[:appended] += 1 if result == :appended
   rescue => e
     warn "  ERROR appending to #{yaml_path}: #{e.message}"
