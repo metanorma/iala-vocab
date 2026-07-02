@@ -89,9 +89,9 @@ DATASETS.combination(2).each do |a, b|
       end
       next if already
 
-      data[:concept].managed.related << Glossarist::RelatedConcept.new(
+      data[:concept].managed.related << Glossarist::V3::RelatedConcept.new(
         type: rel_type,
-        ref: Glossarist::ConceptRef.new(source: other_ds[:urn], id: termid),
+        ref: Glossarist::V3::ConceptRef.new(source: other_ds[:urn], id: termid),
       )
       data[:dirty] = true
     end

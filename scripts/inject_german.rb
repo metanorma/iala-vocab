@@ -61,79 +61,82 @@ def extract_german_terms(html)
   [designation, body, sources]
 end
 
-# Build the localized German doc as a hash. Uses Glossarist::ConceptSource
-# for typed source construction. Hash-based output because annotations
-# aren't supported by Glossarist::ConceptData (read-only getter, no
-# serialization mapping).
-def build_localized_doc(termid, designation, definition_body, citation_sources, page_url)
+# Build the localized German doc as a V3::LocalizedConcept model. Uses
+# Glossarist::V3::ConceptSource / Citation for typed source construction,
+# and Glossarist::V3::DetailedDefinition for annotations / definition.
+def build_localized_model(termid, designation, definition_body, citation_sources, page_url)
   sources = [
-    Glossarist::ConceptSource.new(
+    Glossarist::V3::ConceptSource.new(
       type: "authoritative",
-      origin: Glossarist::Citation.new(
-        ref: Glossarist::Citation::Ref.new(source: "IALA Dictionary"),
+      origin: Glossarist::V3::Citation.new(
+        ref: Glossarist::V3::Citation::Ref.new(source: "IALA Dictionary"),
       ),
-    ).to_hash,
+    ),
   ]
 
   citation_sources.each do |cs|
-    src = Glossarist::ConceptSource.new(
+    src = Glossarist::V3::ConceptSource.new(
       type: "authoritative",
-      origin: Glossarist::Citation.new(
-        ref: Glossarist::Citation::Ref.new(source: cs[:ref_text]),
+      origin: Glossarist::V3::Citation.new(
+        ref: Glossarist::V3::Citation::Ref.new(source: cs[:ref_text]),
       ),
-    ).to_hash
-    src["modification"] = "modified from source" if cs[:modified]
+    )
+    src.modification = "modified from source" if cs[:modified]
     sources << src
   end
 
-  {
-    "id" => "#{termid}-deu",
-    "termid" => termid,
-    "data" => {
-      "language_code" => "deu",
-      "terms" => [{
-        "type" => "expression",
-        "designation" => designation || termid,
-        "normative_status" => "preferred",
-      }],
-      "definition" => [{ "content" => definition_body }],
-      "sources" => sources,
-      "annotations" => [{ "content" => "Sourced from #{page_url}" }],
-    },
-  }
+  Glossarist::V3::LocalizedConcept.new(
+    id: "#{termid}-deu",
+    termid: termid,
+    data: Glossarist::V3::ConceptData.new(
+      language_code: "deu",
+      terms: [Glossarist::Designation::Base.new(
+        type: "expression",
+        designation: designation || termid,
+        normative_status: "preferred",
+      )],
+      definition: [Glossarist::V3::DetailedDefinition.new(content: definition_body)],
+      sources: sources,
+      annotations: [Glossarist::V3::DetailedDefinition.new(
+        content: "Sourced from #{page_url}",
+      )],
+    ),
+  )
 end
 
-def append_localized_doc(yaml_path, localized_hash)
+def append_localized_doc(yaml_path, localized_model)
   concept = GlossaristHelpers.read_concept_file(yaml_path)
   return false unless concept && concept.managed
 
-  lang = localized_hash.dig("data", "language_code")
+  lang = localized_model.data&.language_code
   existing_idx = concept.localized.index { |lc| lc.data&.language_code == lang }
 
   # Read existing file as raw docs, replace/append the deu doc, then write
   # all docs back. We use YAML.load_stream for the write so we can mix
-  # the model-serialized managed concept with the hash-based localized.
+  # the model-serialized managed concept with the model-serialized localized.
   raw_docs = YAML.load_stream(File.read(yaml_path))
   managed_yaml = concept.managed.to_yaml
 
-  # Replace any doc whose id matches localized_hash["id"], else append.
+  # Replace any doc whose id matches the model id, else append.
   matched = false
   output_docs = raw_docs.map do |d|
     next d if d.nil?
     next d unless d.is_a?(Hash)
-    if d["id"] == localized_hash["id"]
+    if d["id"] == localized_model.id
       matched = true
-      localized_hash
+      localized_model
     else
       d
     end
   end
-  output_docs << localized_hash unless matched
+  output_docs << localized_model unless matched
 
   # Managed concept comes from the model (typed round-trip); localized docs
-  # are plain hashes (preserves annotations + terms shape we control).
+  # come from the model too (or fall back to YAML for any pre-existing
+  # non-managed entries in the file). Append localized_model.to_yaml last
+  # so it lands after the existing localized docs.
   parts = [managed_yaml]
-  parts.concat(output_docs.drop(1).map { |d| YAML.dump(d) })
+  parts.concat(output_docs.drop(1).map { |d| d.is_a?(Glossarist::V3::LocalizedConcept) ? d.to_yaml : YAML.dump(d) })
   File.write(yaml_path, parts.join)
   :appended
 end
@@ -191,7 +194,7 @@ index.each do |entry|
   page_url = "https://www.iala.int/wiki/dictionary/index.php/#{full_title.tr(' ', '_')}"
 
   targets.each do |yaml_path|
-    localized = build_localized_doc(numeric_code, designation, definition_body, citation_sources, page_url)
+    localized = build_localized_model(numeric_code, designation, definition_body, citation_sources, page_url)
     result = append_localized_doc(yaml_path, localized)
     stats[:appended] += 1 if result == :appended
   rescue => e

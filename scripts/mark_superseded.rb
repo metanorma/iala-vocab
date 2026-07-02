@@ -53,12 +53,11 @@ def has_related?(managed, type, source, id)
   end
 end
 
-def has_date?(managed, type, _date)
+def has_date?(managed, type, date)
   return false unless managed.dates
-  # ConceptDate.date is typed as :date_time; year-only strings (e.g.
-  # "2023") don't survive model round-trip, so compare on type only.
-  # The retired year is constant per edition, so type uniqueness is enough.
-  managed.dates.any? { |d| d.type == type }
+  # V3::ConceptDate types `date` as :string, so year-only strings (e.g.
+  # "2023") round-trip cleanly. Compare both type and date.
+  managed.dates.any? { |d| d.type == type && d.date == date.to_s }
 end
 
 stats = { scanned: 0, superseded_marked: 0, edges_added: 0, missing_target: 0, errors: 0 }
@@ -92,9 +91,9 @@ each_concept_file do |edition, path|
   end
 
   unless has_related?(managed, "superseded_by", urn_for(target_edition), target_termid)
-    managed.related << Glossarist::RelatedConcept.new(
+    managed.related << Glossarist::V3::RelatedConcept.new(
       type: "superseded_by",
-      ref: Glossarist::ConceptRef.new(source: urn_for(target_edition), id: target_termid),
+      ref: Glossarist::V3::ConceptRef.new(source: urn_for(target_edition), id: target_termid),
     )
     stats[:edges_added] += 1
     dirty = true
@@ -102,7 +101,7 @@ each_concept_file do |edition, path|
 
   target_year = EDITION_YEARS[target_edition]
   if target_year && !has_date?(managed, "retired", target_year)
-    managed.dates << Glossarist::ConceptDate.new(type: "retired", date: target_year.to_s)
+    managed.dates << Glossarist::V3::ConceptDate.new(type: "retired", date: target_year.to_s)
     dirty = true
   end
 
@@ -128,9 +127,9 @@ superseded_links.each do |link|
     next
   end
 
-  concept.managed.related << Glossarist::RelatedConcept.new(
+  concept.managed.related << Glossarist::V3::RelatedConcept.new(
     type: "supersedes",
-    ref: Glossarist::ConceptRef.new(source: urn_for(link[:source]), id: link[:source_termid]),
+    ref: Glossarist::V3::ConceptRef.new(source: urn_for(link[:source]), id: link[:source_termid]),
   )
   GlossaristHelpers.write_concept_file(target_path, concept)
 rescue => e

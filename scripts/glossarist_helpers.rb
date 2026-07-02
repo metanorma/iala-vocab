@@ -14,13 +14,18 @@ module GlossaristHelpers
 
   # Read a multi-doc concept YAML file into a ConceptFile struct.
   # Returns nil if the file has no managed concept.
+  #
+  # Uses Glossarist::V3::* model classes. The V3 subclasses carry the
+  # v3 schema additions (ConceptData#annotations, V3::Citation#ref_from_yaml
+  # accepting both bare strings and hashes, V3::ConceptDate accepting any
+  # date string) that the base classes lack. See BUG_REPORT.md.
   def read_concept_file(path)
     docs = YAML.load_stream(File.read(path))
     return nil if docs.empty? || docs[0].nil?
 
-    managed = Glossarist::ManagedConcept.from_yaml(docs[0].to_yaml)
+    managed = Glossarist::V3::ManagedConcept.from_yaml(docs[0].to_yaml)
     localized = docs[1..].compact.map do |d|
-      Glossarist::LocalizedConcept.from_yaml(d.to_yaml)
+      Glossarist::V3::LocalizedConcept.from_yaml(d.to_yaml)
     end
     ConceptFile.new(managed: managed, localized: localized)
   end

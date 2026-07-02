@@ -99,67 +99,73 @@ def split_notes(lines)
   [alt_designation, notes, defs]
 end
 
-def build_localized_doc(termid, designation, alt_designation, definition_text, notes, page_url, original_title)
-  # Build as a hash because Glossarist::ConceptData doesn't expose
-  # annotations= (the library's annotations support is incomplete —
-  # annotations are read-only via a getter and dropped on serialize).
-  # Typed sub-objects (terms, definition, sources) are built via the
-  # library and merged via to_hash so we keep type safety where it
-  # matters and hand-roll only the annotations field.
-  terms_data = [
-    { "type" => "expression", "designation" => designation, "normative_status" => "preferred" },
+def build_localized_model(termid, designation, alt_designation, definition_text, notes, page_url, original_title)
+  terms = [
+    Glossarist::Designation::Base.new(
+      type: "expression",
+      designation: designation,
+      normative_status: "preferred",
+    ),
   ]
   if alt_designation
-    terms_data << { "type" => "expression", "designation" => alt_designation, "normative_status" => "admitted" }
+    terms << Glossarist::Designation::Base.new(
+      type: "expression",
+      designation: alt_designation,
+      normative_status: "admitted",
+    )
   end
 
-  source_hash = Glossarist::ConceptSource.new(
-    type: "authoritative",
-    origin: Glossarist::Citation.new(
-      ref: Glossarist::Citation::Ref.new(source: "IALA Dictionary"),
+  annotations = [
+    Glossarist::V3::DetailedDefinition.new(
+      content: "Discontinued entry from #{original_title} (#{page_url})",
     ),
-  ).to_hash
+  ]
+  notes_array = notes.map { |n| Glossarist::V3::DetailedDefinition.new(content: n) }
 
-  {
-    "id" => "#{termid}-eng",
-    "termid" => termid,
-    "data" => {
-      "language_code" => "eng",
-      "terms" => terms_data,
-      "definition" => [{ "content" => definition_text }],
-      "sources" => [source_hash],
-      "annotations" => [
-        { "content" => "Discontinued entry from #{original_title} (#{page_url})" },
+  Glossarist::V3::LocalizedConcept.new(
+    id: "#{termid}-eng",
+    termid: termid,
+    data: Glossarist::V3::ConceptData.new(
+      language_code: "eng",
+      terms: terms,
+      definition: [Glossarist::V3::DetailedDefinition.new(content: definition_text)],
+      notes: notes_array,
+      annotations: annotations,
+      sources: [
+        Glossarist::V3::ConceptSource.new(
+          type: "authoritative",
+          origin: Glossarist::V3::Citation.new(
+            ref: Glossarist::V3::Citation::Ref.new(source: "IALA Dictionary"),
+          ),
+        ),
       ],
-    }.tap do |d|
-      d["notes"] = notes.map { |n| { "content" => n } } unless notes.empty?
-    end,
-  }
+    ),
+  )
 end
 
 def build_managed_model(termid, source_edition, target_edition, target_termid, page_url)
-  managed = Glossarist::ManagedConcept.new(
+  managed = Glossarist::V3::ManagedConcept.new(
     id: termid,
     status: "retired",
     related: [],
     sources: [
-      Glossarist::ConceptSource.new(
+      Glossarist::V3::ConceptSource.new(
         type: "authoritative",
-        origin: Glossarist::Citation.new(
-          ref: Glossarist::Citation::Ref.new(source: "IALA Dictionary"),
+        origin: Glossarist::V3::Citation.new(
+          ref: Glossarist::V3::Citation::Ref.new(source: "IALA Dictionary"),
           link: page_url,
         ),
       ),
     ],
     dates: [
-      Glossarist::ConceptDate.new(type: "accepted", date: "1970-1989"),
-      Glossarist::ConceptDate.new(type: "retired", date: "2016"),
+      Glossarist::V3::ConceptDate.new(type: "accepted", date: "1970-1989"),
+      Glossarist::V3::ConceptDate.new(type: "retired", date: "2016"),
     ],
   )
-  managed.data ||= Glossarist::ConceptData.new
+  managed.data ||= Glossarist::V3::ManagedConceptData.new
   managed.data.id = termid
   managed.data.domains = [
-    Glossarist::ConceptReference.new(
+    Glossarist::V3::ConceptReference.new(
       source: urn_for(source_edition),
       concept_id: "section-historic",
       ref_type: "section",
@@ -167,9 +173,9 @@ def build_managed_model(termid, source_edition, target_edition, target_termid, p
   ]
 
   if target_edition && target_termid
-    managed.related << Glossarist::RelatedConcept.new(
+    managed.related << Glossarist::V3::RelatedConcept.new(
       type: "retired_by",
-      ref: Glossarist::ConceptRef.new(source: urn_for(target_edition), id: target_termid),
+      ref: Glossarist::V3::ConceptRef.new(source: urn_for(target_edition), id: target_termid),
     )
   end
   managed
@@ -190,9 +196,9 @@ def append_retires_to_target(target_edition, target_termid, source_edition, sour
   end
   return if already
 
-  managed.related << Glossarist::RelatedConcept.new(
+  managed.related << Glossarist::V3::RelatedConcept.new(
     type: "retires",
-    ref: Glossarist::ConceptRef.new(source: urn_for(source_edition), id: source_termid),
+    ref: Glossarist::V3::ConceptRef.new(source: urn_for(source_edition), id: source_termid),
   )
   GlossaristHelpers.write_concept_file(target_path, concept)
 end
@@ -251,13 +257,11 @@ index.each do |entry|
     final_termid = "#{termid}#{suffix}"
 
     managed = build_managed_model(final_termid, source_edition, target_edition, target_termid, page_url)
-    localized_hash = build_localized_doc(final_termid, designation, alt_designation, definition_text, notes, page_url, title)
+    localized = build_localized_model(final_termid, designation, alt_designation, definition_text, notes, page_url, title)
 
-    # Managed concept via library model; localized as a hash (annotations
-    # not supported by the library's ConceptData). Concatenate the two
-    # YAML streams to form the multi-doc file.
+    # Both docs via V3 library models — annotations are now supported.
     out_path = "datasets/#{source_edition}/concepts/#{final_termid}.yaml"
-    parts = [managed.to_yaml, YAML.dump(localized_hash)]
+    parts = [managed.to_yaml, localized.to_yaml]
     File.write(out_path, parts.join)
     stats[:sections_emitted] += 1
 
