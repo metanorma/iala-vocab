@@ -10,63 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/TR_switch
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-3-190
+    id: 4-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-3-190
+    id: 4-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-3-190
+    id: 4-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-3-190
+    id: 4-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-3-190
+    id: 4-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-3-190
+    id: 4-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-3-190
+    id: 4-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-3-190
+    id: 4-3-190
 ---
 id: 4-3-190-eng
 termid: 4-3-190
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: TR switch
-  normative_status: preferred
-- type: expression
-  designation: TR box
-  normative_status: admitted
-definition:
-- content: A switch, frequently of the gas discharge type, employed when a common
-    transmitting and receiving antenna is used, which automatically decouples the
-    receiver from the antenna during the transmission period.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.R.E
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/TR_switch
+  terms:
+  - type: expression
+    designation: TR switch
+    normative_status: preferred
+  - type: expression
+    designation: TR box
+    normative_status: admitted
+  definition:
+  - content: A switch, frequently of the gas discharge type, employed when a common
+      transmitting and receiving antenna is used, which automatically decouples the
+      receiver from the antenna during the transmission period.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.R.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/TR_switch

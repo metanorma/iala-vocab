@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Cupola
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-4-020
+    id: 2-4-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-4-020
+    id: 2-4-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-4-020
+    id: 2-4-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-4-020
+    id: 2-4-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-4-020
+    id: 2-4-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-4-020
+    id: 2-4-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-4-020
+    id: 2-4-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-4-020
+    id: 2-4-020
 ---
 id: 2-4-020-eng
 termid: 2-4-020
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Cupola
-  normative_status: preferred
-definition:
-- content: |-
-    The roof of the lantern of a lighthouse.
+  terms:
+  - type: expression
+    designation: Cupola
+    normative_status: preferred
+  definition:
+  - content: |-
+      The roof of the lantern of a lighthouse.
 
-    ![Ch2_Fig33.jpg](/iala-vocab/images/iala/Ch2_Fig33.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Cupola
+      ![Ch2_Fig33.jpg](/iala-vocab/images/iala/Ch2_Fig33.jpg)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Cupola

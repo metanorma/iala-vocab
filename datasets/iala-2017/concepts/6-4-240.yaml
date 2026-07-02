@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Synchronous_motor_(2)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-4-240
+    id: 6-4-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-4-240
+    id: 6-4-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-4-240
+    id: 6-4-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-4-240
+    id: 6-4-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-4-240
+    id: 6-4-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-4-240
+    id: 6-4-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-4-240
+    id: 6-4-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-4-240
+    id: 6-4-240
 ---
 id: 6-4-240-eng
 termid: 6-4-240
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Synchronous motor (2)
-  normative_status: preferred
-definition:
-- content: An alternating-current motor in which the speed of rotation is constant
-    (for a constant frequency of supply) irrespective of variation, within specified
-    limits, of the supply voltage and load.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Synchronous_motor_(2)
+  terms:
+  - type: expression
+    designation: Synchronous motor (2)
+    normative_status: preferred
+  definition:
+  - content: An alternating-current motor in which the speed of rotation is constant
+      (for a constant frequency of supply) irrespective of variation, within specified
+      limits, of the supply voltage and load.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Synchronous_motor_(2)

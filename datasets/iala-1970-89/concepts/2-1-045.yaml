@@ -10,89 +10,93 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Luminance
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-045
+    id: 2-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-045
+    id: 2-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-1-045
+    id: 2-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-045
+    id: 2-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-045
+    id: 2-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-045
+    id: 2-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-045
+    id: 2-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-1-045
+    id: 2-1-045
 ---
 id: 2-1-045-eng
 termid: 2-1-045
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Luminance
-  normative_status: preferred
-- type: expression
-  designation: Luminance (in a given direction, at a point on the surface of a source
-    or receptor, or at a point on the path of a beam)
-  normative_status: admitted
-- type: symbol
-  designation: stem:[L]
-  normative_status: preferred
-- type: symbol
-  designation: stem:[B]
-  normative_status: preferred
-definition:
-- content: |-
-    The quotient of the luminous flux (d2F) leaving, arriving at, or passing through an element of surface at this point and propagated in directions defined by an elementary cone containing the given direction, by the product of the solid angle (dO) of the cone and the area (dA cos?) of the orthogonal projection of the element of surface on a plane perpendicular to the given direction.
+  terms:
+  - type: expression
+    designation: Luminance
+    normative_status: preferred
+  - type: expression
+    designation: Luminance (in a given direction, at a point on the surface of a source
+      or receptor, or at a point on the path of a beam)
+    normative_status: admitted
+  - type: symbol
+    designation: stem:[L]
+    normative_status: preferred
+  - type: symbol
+    designation: stem:[B]
+    normative_status: preferred
+  definition:
+  - content: |-
+      The quotient of the luminous flux (d2F) leaving, arriving at, or passing through an element of surface at this point and propagated in directions defined by an elementary cone containing the given direction, by the product of the solid angle (dO) of the cone and the area (dA cos?) of the orthogonal projection of the element of surface on a plane perpendicular to the given direction.
 
-    ![Ch2_Fig2.jpg](/iala-vocab/images/iala/Ch2_Fig2.jpg)
+      ![Ch2_Fig2.jpg](/iala-vocab/images/iala/Ch2_Fig2.jpg)
 
-    (deprecated)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-  modification: modified from source
-notes:
-- content: Brightness (G.B.) and, in French, Brillance are obsolescent terms meaning
-    luminance. It is strongly recommended that they should not in future be used in
-    this sense, i.e. referring to a physical quantity. In particular, Brightness should
-    not be used in this sense, in order to avoid confusion with the use of the same
-    word, particularly in the U.S.A., for a psychological effect {{2-1-365, Luminosity}}.
-- content: If the luminous intensity produced by a plane luminous surface of finite
-    area A in a particular direction (making an angle ? with the normal to the surface)
-    may be considered uniform over all points of the surface and of value I?, then
-    the luminance L? of the surface in the particular direction is given by
-- content: 'For further explanations, see Reference: C.I.E.'
-- content: The luminance of a surface may be that of a primary light source {{2-3-000,
-    Primary Light Source}} or that of a secondary light source {{2-3-005, Secondary
-    Light Source}}.
-annotations:
-- content: Unit candela per square metre (cd/m2)
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Luminance
+      (deprecated)
+  notes:
+  - content: Brightness (G.B.) and, in French, Brillance are obsolescent terms meaning
+      luminance. It is strongly recommended that they should not in future be used
+      in this sense, i.e. referring to a physical quantity. In particular, Brightness
+      should not be used in this sense, in order to avoid confusion with the use of
+      the same word, particularly in the U.S.A., for a psychological effect {{2-1-365,
+      Luminosity}}.
+  - content: If the luminous intensity produced by a plane luminous surface of finite
+      area A in a particular direction (making an angle ? with the normal to the surface)
+      may be considered uniform over all points of the surface and of value I?, then
+      the luminance L? of the surface in the particular direction is given by
+  - content: 'For further explanations, see Reference: C.I.E.'
+  - content: The luminance of a surface may be that of a primary light source {{2-3-000,
+      Primary Light Source}} or that of a secondary light source {{2-3-005, Secondary
+      Light Source}}.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+    modification: modified from source
+  annotations:
+  - content: Unit candela per square metre (cd/m2)
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Luminance

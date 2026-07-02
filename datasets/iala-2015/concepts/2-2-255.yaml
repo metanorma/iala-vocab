@@ -10,62 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Flashed_Glass
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-2-255
+    id: 2-2-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-2-255
+    id: 2-2-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-2-255
+    id: 2-2-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-2-255
+    id: 2-2-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-2-255
+    id: 2-2-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-2-255
+    id: 2-2-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-2-255
+    id: 2-2-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-2-255
+    id: 2-2-255
 ---
 id: 2-2-255-eng
 termid: 2-2-255
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Flashed Glass
-  normative_status: preferred
-definition:
-- content: Glass composed of at least two different layers, generally one of transparent
-    glass and one of opal, opalescent or coloured glass.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-notes:
-- content: In lighthouse practice, the use of flashed glass is confined to coloured
-    glass.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Flashed_Glass
+  terms:
+  - type: expression
+    designation: Flashed Glass
+    normative_status: preferred
+  definition:
+  - content: Glass composed of at least two different layers, generally one of transparent
+      glass and one of opal, opalescent or coloured glass.
+  notes:
+  - content: In lighthouse practice, the use of flashed glass is confined to coloured
+      glass.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Flashed_Glass

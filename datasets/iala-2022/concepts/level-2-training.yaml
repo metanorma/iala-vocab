@@ -10,34 +10,36 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Level_2_training
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: level-2-training
+    id: level-2-training
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: level-2-training
+    id: level-2-training
 ---
 id: level-2-training-eng
 termid: level-2-training
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Level 2 training
-  normative_status: preferred
-definition:
-- content: |-
-    Level 2 training is training given at an Accredited Training Organisation to the standards described in Model Course L2.0 for personnel having technical functions.
+  terms:
+  - type: expression
+    designation: Level 2 training
+    normative_status: preferred
+  definition:
+  - content: |-
+      Level 2 training is training given at an Accredited Training Organisation to the standards described in Model Course L2.0 for personnel having technical functions.
 
-    Source: ENG7, Recommendation R0141
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Level_2_training
+      Source: ENG7, Recommendation R0141
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Level_2_training

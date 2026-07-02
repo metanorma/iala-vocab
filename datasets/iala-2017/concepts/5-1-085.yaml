@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Redundancy
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-1-085
+    id: 5-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-1-085
+    id: 5-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-1-085
+    id: 5-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-1-085
+    id: 5-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-1-085
+    id: 5-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-1-085
+    id: 5-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 5-1-085
+    id: 5-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-1-085
+    id: 5-1-085
 ---
 id: 5-1-085-eng
 termid: 5-1-085
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Redundancy
-  normative_status: preferred
-definition:
-- content: The existence of more than one means for accomplishing a given function.
-    The various means of accomplishing the function need not necessarily be identical.
-    The concept is such that a complete failure can occur only when all means have
-    failed.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Redundancy
+  terms:
+  - type: expression
+    designation: Redundancy
+    normative_status: preferred
+  definition:
+  - content: The existence of more than one means for accomplishing a given function.
+      The various means of accomplishing the function need not necessarily be identical.
+      The concept is such that a complete failure can occur only when all means have
+      failed.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Redundancy

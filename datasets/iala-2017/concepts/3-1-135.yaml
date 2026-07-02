@@ -10,65 +10,68 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Principal_axis
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 3-1-135
+    id: 3-1-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 3-1-135
+    id: 3-1-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 3-1-135
+    id: 3-1-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 3-1-135
+    id: 3-1-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 3-1-135
+    id: 3-1-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 3-1-135
+    id: 3-1-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 3-1-135
+    id: 3-1-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 3-1-135
+    id: 3-1-135
 ---
 id: 3-1-135-eng
 termid: 3-1-135
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Principal axis
-  normative_status: preferred
-- type: expression
-  designation: Principal axis (of a sound source or receiver)
-  normative_status: admitted
-definition:
-- content: |-
-    Generally the axis of structural symmetry or the direction of maximum emission or response.
+  terms:
+  - type: expression
+    designation: Principal axis
+    normative_status: preferred
+  - type: expression
+    designation: Principal axis (of a sound source or receiver)
+    normative_status: admitted
+  definition:
+  - content: |-
+      Generally the axis of structural symmetry or the direction of maximum emission or response.
 
-    Reference direction serving as an origin for angular co-ordinates used in describing the directional characteristics of the sound source or receiver.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Principal_axis
+      Reference direction serving as an origin for angular co-ordinates used in describing the directional characteristics of the sound source or receiver.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Principal_axis

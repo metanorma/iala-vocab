@@ -3,16 +3,28 @@ require "yaml"
 require "json"
 require "nokogiri"
 require "fileutils"
+require "glossarist"
 
 TRANSLATIONS_DIR = "reference-docs/scraped/translations/deu"
 DATASETS = %w[iala-1970-89 iala-2009 iala-2012 iala-2015 iala-2016 iala-2017 iala-2018 iala-2022 iala-2023]
 SKIP_TITLES = ["TestPage"].freeze
+
+# German citation markers. Source pages use:
+#   "Quelle: C.I.E. (abgewandelt)"      — "Source: C.I.E. (modified)"
+#   "Referenz: C.I.E. (angepasst)"      — "Reference: C.I.E. (adapted)"
+#   "Reference: I.E.C. (modified)"      — English prefix on some pages
+#   "C.I.E. (Auszug)"                  — bare attribution line, no prefix
+CITATION_PREFIX_RE = /\A\s*(?:<br\s*\/?>[\s\n]*)*(?:Quelle|Referenz|Reference)\s*:\s*/i
+BARE_CITATION_RE   = /\A\s*((?:C\.I\.E\.|I\.E\.C\.|ISO)(?:\s*\(.+\))?)\s*\z/
+MODIFIED_RE        = /\((?:abgewandelt|angepasst|modified|adapted)\)/i
 
 def extract_numeric_code(wikitext)
   m = wikitext&.match(/'''(\d+-\d+-\d+)/)
   m && m[1]
 end
 
+# Returns [designation, definition_body, sources_array].
+# Sources: [{ ref_text:, modified: bool }, ...]
 def extract_german_terms(html)
   doc = Nokogiri::HTML(html)
   doc.css(".LanguageLinks").each { |n| n.remove }
@@ -31,28 +43,66 @@ def extract_german_terms(html)
       (big && el.text.strip == designation)
   end
 
-  body = paragraphs.map { |el| el.text.strip }.reject(&:empty?).join("\n\n")
-  [designation, body]
+  definition_paragraphs = []
+  sources = []
+  paragraphs.each do |el|
+    text = el.text.strip
+    # Explicit prefix citation
+    if (m = text.sub(CITATION_PREFIX_RE, "")) && m != text
+      sources << { ref_text: m.strip, modified: !!(m =~ MODIFIED_RE) }
+      next
+    end
+    # Bare attribution line (e.g. "C.I.E. (Auszug)" at end of body)
+    if (m = text.match(BARE_CITATION_RE))
+      sources << { ref_text: m[1].strip, modified: !!(m[1] =~ MODIFIED_RE) }
+      next
+    end
+    definition_paragraphs << text
+  end
+
+  body = definition_paragraphs.reject(&:empty?).join("\n\n")
+  [designation, body, sources]
 end
 
-def build_localized_doc(termid, designation, definition_body, page_url)
-  doc = {
-    "id" => "#{termid}-deu",
-    "termid" => termid,
-    "data" => { "language_code" => "deu" },
+def build_localized_doc(termid, designation, definition_body, citation_sources, page_url)
+  # Citation sources extracted from the German body — typed via glossarist.
+  sources = [
+    Glossarist::ConceptSource.new(
+      type: "authoritative",
+      origin: Glossarist::Citation.new(
+        ref: Glossarist::Citation::Ref.new(source: "IALA Dictionary")
+      )
+    ).to_hash
+  ]
+
+  citation_sources.each do |cs|
+    src = Glossarist::ConceptSource.new(
+      type: "authoritative",
+      origin: Glossarist::Citation.new(
+        ref: Glossarist::Citation::Ref.new(source: cs[:ref_text])
+      )
+    ).to_hash
+    src["modification"] = "modified from source" if cs[:modified]
+    sources << src
+  end
+
+  data = {
+    "language_code" => "deu",
     "terms" => [{
       "type" => "expression",
       "designation" => designation || termid,
       "normative_status" => "preferred"
     }],
     "definition" => [{ "content" => definition_body }],
-    "sources" => [{
-      "type" => "authoritative",
-      "origin" => { "ref" => "IALA Dictionary" }
-    }]
+    "sources" => sources,
+    "annotations" => [{ "content" => "Sourced from #{page_url}" }]
   }
-  doc["annotations"] = [{ "content" => "Sourced from #{page_url}" }]
-  doc
+
+  {
+    "id" => "#{termid}-deu",
+    "termid" => termid,
+    "data" => data
+  }
 end
 
 def append_localized_doc(yaml_path, localized_doc, lang)
@@ -115,11 +165,11 @@ index.each do |entry|
   end
 
   html = cached.dig("parse", "text") || ""
-  designation, definition_body = extract_german_terms(html)
+  designation, definition_body, citation_sources = extract_german_terms(html)
   page_url = "https://www.iala.int/wiki/dictionary/index.php/#{full_title.tr(' ', '_')}"
 
   targets.each do |yaml_path|
-    localized = build_localized_doc(numeric_code, designation, definition_body, page_url)
+    localized = build_localized_doc(numeric_code, designation, definition_body, citation_sources, page_url)
     result = append_localized_doc(yaml_path, localized, "deu")
     stats[:appended] += 1 if result == :appended
   rescue => e

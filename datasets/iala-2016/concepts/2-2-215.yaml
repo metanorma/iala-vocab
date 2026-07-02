@@ -10,61 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Converged_Beam
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-2-215
+    id: 2-2-215
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-2-215
+    id: 2-2-215
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-2-215
+    id: 2-2-215
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-2-215
+    id: 2-2-215
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-2-215
+    id: 2-2-215
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-2-215
+    id: 2-2-215
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-2-215
+    id: 2-2-215
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-2-215
+    id: 2-2-215
 ---
 id: 2-2-215-eng
 termid: 2-2-215
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Converged Beam
-  normative_status: preferred
-definition:
-- content: |-
-    A form of fan beam {{2-1-090, Luminous fan beam}} in which the angle of divergence is decreased by diverting a part of the light laterally to increase the intensity in a desired direction.
+  terms:
+  - type: expression
+    designation: Converged Beam
+    normative_status: preferred
+  definition:
+  - content: |-
+      A form of fan beam {{2-1-090, Luminous fan beam}} in which the angle of divergence is decreased by diverting a part of the light laterally to increase the intensity in a desired direction.
 
-    ![Ch2_Fig18.jpg](/iala-vocab/images/iala/Ch2_Fig18.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The Directional Drum Lens is used in the United States and is an example
-    of an optic which produces a converged beam.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Converged_Beam
+      ![Ch2_Fig18.jpg](/iala-vocab/images/iala/Ch2_Fig18.jpg)
+  notes:
+  - content: The Directional Drum Lens is used in the United States and is an example
+      of an optic which produces a converged beam.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Converged_Beam

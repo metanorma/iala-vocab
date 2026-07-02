@@ -10,59 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Pulse_forming_line
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-3-385
+    id: 4-3-385
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-3-385
+    id: 4-3-385
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-3-385
+    id: 4-3-385
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-3-385
+    id: 4-3-385
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-3-385
+    id: 4-3-385
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-3-385
+    id: 4-3-385
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-3-385
+    id: 4-3-385
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-3-385
+    id: 4-3-385
 ---
 id: 4-3-385-eng
 termid: 4-3-385
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Pulse forming line
-  normative_status: preferred
-definition:
-- content: In a radar modulator, an artificial line or ladder network whose parameters
-    are selected to give a specified shape to the modulator pulse.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.R.E
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pulse_forming_line
+  terms:
+  - type: expression
+    designation: Pulse forming line
+    normative_status: preferred
+  definition:
+  - content: In a radar modulator, an artificial line or ladder network whose parameters
+      are selected to give a specified shape to the modulator pulse.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.R.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pulse_forming_line

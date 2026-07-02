@@ -10,60 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Radar_head
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-3-165
+    id: 4-3-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-3-165
+    id: 4-3-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-3-165
+    id: 4-3-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-3-165
+    id: 4-3-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-3-165
+    id: 4-3-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-3-165
+    id: 4-3-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-3-165
+    id: 4-3-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-3-165
+    id: 4-3-165
 ---
 id: 4-3-165-eng
 termid: 4-3-165
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Radar head
-  normative_status: preferred
-definition:
-- content: The R.F. head, together with the antenna and its feeder, when these are
-    all in proximity.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radar_head
+  terms:
+  - type: expression
+    designation: Radar head
+    normative_status: preferred
+  definition:
+  - content: The R.F. head, together with the antenna and its feeder, when these are
+      all in proximity.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radar_head

@@ -10,59 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Leading_line
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-2-065
+    id: 1-2-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-2-065
+    id: 1-2-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-2-065
+    id: 1-2-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-2-065
+    id: 1-2-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-2-065
+    id: 1-2-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-2-065
+    id: 1-2-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-2-065
+    id: 1-2-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-2-065
+    id: 1-2-065
 ---
 id: 1-2-065-eng
 termid: 1-2-065
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Leading line
-  normative_status: preferred
-- type: expression
-  designation: Range (U.S.A.)
-  normative_status: admitted
-definition:
-- content: Straight line used for navigation produced by the alignment of marks (leading
-    marks) or lights (leading lights) or by the use of radio transmitters.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Leading_line
+  terms:
+  - type: expression
+    designation: Leading line
+    normative_status: preferred
+  - type: expression
+    designation: Range (U.S.A.)
+    normative_status: admitted
+  definition:
+  - content: Straight line used for navigation produced by the alignment of marks
+      (leading marks) or lights (leading lights) or by the use of radio transmitters.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Leading_line

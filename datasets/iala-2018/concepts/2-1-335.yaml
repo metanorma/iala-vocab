@@ -10,63 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Scotopic_Vision
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-1-335
+    id: 2-1-335
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-335
+    id: 2-1-335
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-335
+    id: 2-1-335
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-1-335
+    id: 2-1-335
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-335
+    id: 2-1-335
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-335
+    id: 2-1-335
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-335
+    id: 2-1-335
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-1-335
+    id: 2-1-335
 ---
 id: 2-1-335-eng
 termid: 2-1-335
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Scotopic Vision
-  normative_status: preferred
-definition:
-- content: Vision by the normal eye when adapted to levels of luminance below some
-    hundredths of a candela per square metre.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-notes:
-- content: The rod receptors in the retina are considered to be the principal active
-    elements under these conditions. The spectrum appears uncoloured and the maximum
-    luminous efficiency is shifted to a shorter wavelength than in photopic vision.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Scotopic_Vision
+  terms:
+  - type: expression
+    designation: Scotopic Vision
+    normative_status: preferred
+  definition:
+  - content: Vision by the normal eye when adapted to levels of luminance below some
+      hundredths of a candela per square metre.
+  notes:
+  - content: The rod receptors in the retina are considered to be the principal active
+      elements under these conditions. The spectrum appears uncoloured and the maximum
+      luminous efficiency is shifted to a shorter wavelength than in photopic vision.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Scotopic_Vision

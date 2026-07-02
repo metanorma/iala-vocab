@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Air_chamber
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 3-2-205
+    id: 3-2-205
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 3-2-205
+    id: 3-2-205
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 3-2-205
+    id: 3-2-205
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 3-2-205
+    id: 3-2-205
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 3-2-205
+    id: 3-2-205
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 3-2-205
+    id: 3-2-205
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 3-2-205
+    id: 3-2-205
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 3-2-205
+    id: 3-2-205
 ---
 id: 3-2-205-eng
 termid: 3-2-205
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Air chamber
-  normative_status: preferred
-- type: expression
-  designation: Compression chamber
-  normative_status: admitted
-definition:
-- content: In an electromagnetic horn and certain types of electrodynamic emitters,
-    a flat cavity having the diaphragm as one wall, and which opens into the throat
-    of the horn.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Air_chamber
+  terms:
+  - type: expression
+    designation: Air chamber
+    normative_status: preferred
+  - type: expression
+    designation: Compression chamber
+    normative_status: admitted
+  definition:
+  - content: In an electromagnetic horn and certain types of electrodynamic emitters,
+      a flat cavity having the diaphragm as one wall, and which opens into the throat
+      of the horn.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Air_chamber

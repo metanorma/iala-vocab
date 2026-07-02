@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Remotely_Controlled_Light
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-5-035
+    id: 2-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-5-035
+    id: 2-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-5-035
+    id: 2-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-5-035
+    id: 2-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-5-035
+    id: 2-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-5-035
+    id: 2-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-5-035
+    id: 2-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-5-035
+    id: 2-5-035
 ---
 id: 2-5-035-eng
 termid: 2-5-035
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Remotely Controlled Light
-  normative_status: preferred
-definition:
-- content: A light which is operated by personnel at a considerable distance from
-    the light, through the intermediary of electrical or radio links or both.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Remotely_Controlled_Light
+  terms:
+  - type: expression
+    designation: Remotely Controlled Light
+    normative_status: preferred
+  definition:
+  - content: A light which is operated by personnel at a considerable distance from
+      the light, through the intermediary of electrical or radio links or both.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Remotely_Controlled_Light

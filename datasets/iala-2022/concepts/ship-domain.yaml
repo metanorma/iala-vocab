@@ -10,54 +10,56 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Ship_Domain
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: ship-domain
+    id: ship-domain
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: ship-domain
+    id: ship-domain
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: ship-domain
+    id: ship-domain
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: ship-domain
+    id: ship-domain
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: ship-domain
+    id: ship-domain
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: ship-domain
+    id: ship-domain
 ---
 id: ship-domain-eng
 termid: ship-domain
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Ship Domain
-  normative_status: preferred
-definition:
-- content: |-
-    VTS-2012-30
+  terms:
+  - type: expression
+    designation: Ship Domain
+    normative_status: preferred
+  definition:
+  - content: |-
+      VTS-2012-30
 
-    An operational zone around, above or below a vessel within which an incursion by another fixed or moving object, or another domain, may trigger reactions or processes.
+      An operational zone around, above or below a vessel within which an incursion by another fixed or moving object, or another domain, may trigger reactions or processes.
 
-    Source: VTS Manual (2008)
+      Source: VTS Manual (2008)
 
-    (VTS33/output/8 refers)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ship_Domain
+      (VTS33/output/8 refers)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ship_Domain

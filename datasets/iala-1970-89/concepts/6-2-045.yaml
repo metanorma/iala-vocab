@@ -10,67 +10,69 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Two-stroke_engine
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-2-045
+    id: 6-2-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-2-045
+    id: 6-2-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-2-045
+    id: 6-2-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-2-045
+    id: 6-2-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-2-045
+    id: 6-2-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-2-045
+    id: 6-2-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-2-045
+    id: 6-2-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-2-045
+    id: 6-2-045
 ---
 id: 6-2-045-eng
 termid: 6-2-045
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Two-stroke engine
-  normative_status: preferred
-definition:
-- content: |-
-    An internal combustion engine in which the working cycle is completed in two strokes of the piston (i.e. in one revolution of the crankshaft).
+  terms:
+  - type: expression
+    designation: Two-stroke engine
+    normative_status: preferred
+  definition:
+  - content: |-
+      An internal combustion engine in which the working cycle is completed in two strokes of the piston (i.e. in one revolution of the crankshaft).
 
-    - fuel injection, combustion and the beginning of exhaustion in diesel engines
+      - fuel injection, combustion and the beginning of exhaustion in diesel engines
 
-    - explosion and exhaustion in petrol engines
+      - explosion and exhaustion in petrol engines
 
-    - intake of air and compression in diesel engines
+      - intake of air and compression in diesel engines
 
-    - admission of mixture and compression in petrol engines
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The downstroke of the piston corresponds to
-- content: The upstroke of the piston corresponds to
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Two-stroke_engine
+      - admission of mixture and compression in petrol engines
+  notes:
+  - content: The downstroke of the piston corresponds to
+  - content: The upstroke of the piston corresponds to
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Two-stroke_engine

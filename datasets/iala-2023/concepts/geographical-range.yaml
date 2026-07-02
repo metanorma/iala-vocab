@@ -10,66 +10,68 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Geographical_Range
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: geographical-range
+    id: geographical-range
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: geographical-range
+    id: geographical-range
 - type: supersedes
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-1-245
+    id: 2-1-245
 - type: supersedes
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-245
+    id: 2-1-245
 - type: supersedes
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-245
+    id: 2-1-245
 - type: supersedes
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-1-245
+    id: 2-1-245
 - type: supersedes
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-245
+    id: 2-1-245
 - type: supersedes
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-245
+    id: 2-1-245
 - type: supersedes
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-245
+    id: 2-1-245
 - type: supersedes
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-245
+    id: 2-1-245
 ---
 id: geographical-range-eng
 termid: geographical-range
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Geographical Range
-  normative_status: preferred
-definition:
-- content: |-
-    The greatest distance at which an object or a light source can be seen under conditions of perfect visibility, as limited only by the curvature of the earth, by refraction of the atmosphere, and by the elevation of the observer and the object or light.
+  terms:
+  - type: expression
+    designation: Geographical Range
+    normative_status: preferred
+  definition:
+  - content: |-
+      The greatest distance at which an object or a light source can be seen under conditions of perfect visibility, as limited only by the curvature of the earth, by refraction of the atmosphere, and by the elevation of the observer and the object or light.
 
-    ![Ch2_Fig9.jpg](/iala-vocab/images/iala/Ch2_Fig9.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Geographical_Range
+      ![Ch2_Fig9.jpg](/iala-vocab/images/iala/Ch2_Fig9.jpg)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Geographical_Range

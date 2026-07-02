@@ -10,64 +10,67 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Ground_wave_-_Radar
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-3-360
+    id: 4-3-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-3-360
+    id: 4-3-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-3-360
+    id: 4-3-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-3-360
+    id: 4-3-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-3-360
+    id: 4-3-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-3-360
+    id: 4-3-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-3-360
+    id: 4-3-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-3-360
+    id: 4-3-360
 ---
 id: 4-3-360-eng
 termid: 4-3-360
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Ground wave - Radar
-  normative_status: preferred
-definition:
-- content: |-
-    Ground wave (in radar) (G.B.)
+  terms:
+  - type: expression
+    designation: Ground wave - Radar
+    normative_status: preferred
+  definition:
+  - content: |-
+      Ground wave (in radar) (G.B.)
 
-    1. The transference of radio frequency energy from a radar transmitter directly to its associated receiver, and by reflection from objects in the immediate vicinity of the transmitter.
+      1. The transference of radio frequency energy from a radar transmitter directly to its associated receiver, and by reflection from objects in the immediate vicinity of the transmitter.
 
-    2. The effect on the display of this transference of energy.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ground_wave_-_Radar
+      2. The effect on the display of this transference of energy.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ground_wave_-_Radar

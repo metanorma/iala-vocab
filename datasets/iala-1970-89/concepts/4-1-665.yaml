@@ -10,63 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Transmitter_load
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-665
+    id: 4-1-665
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-665
+    id: 4-1-665
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-665
+    id: 4-1-665
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-665
+    id: 4-1-665
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-665
+    id: 4-1-665
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-665
+    id: 4-1-665
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-665
+    id: 4-1-665
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-665
+    id: 4-1-665
 ---
 id: 4-1-665-eng
 termid: 4-1-665
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Transmitter load
-  normative_status: preferred
-definition:
-- content: |-
-    Load (of a radio transmitter)
+  terms:
+  - type: expression
+    designation: Transmitter load
+    normative_status: preferred
+  definition:
+  - content: |-
+      Load (of a radio transmitter)
 
-    Output load (of a radio transmitter)
+      Output load (of a radio transmitter)
 
-    The output termination into which the radio energy from the transmitter flows.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: This may be an antenna, a feeder system, or, for test purposes, an artificial
-    antenna.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Transmitter_load
+      The output termination into which the radio energy from the transmitter flows.
+  notes:
+  - content: This may be an antenna, a feeder system, or, for test purposes, an artificial
+      antenna.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Transmitter_load

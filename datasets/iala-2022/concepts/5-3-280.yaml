@@ -10,61 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Decay_time_(of_a_pulse)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-3-280
+    id: 5-3-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-3-280
+    id: 5-3-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-3-280
+    id: 5-3-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-3-280
+    id: 5-3-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-3-280
+    id: 5-3-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-3-280
+    id: 5-3-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-3-280
+    id: 5-3-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-3-280
+    id: 5-3-280
 ---
 id: 5-3-280-eng
 termid: 5-3-280
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Decay time (of a pulse)
-  normative_status: preferred
-definition:
-- content: The interval between the instants at which the instantaneous value of a
-    pulse or of its envelope (if a carrier frequency pulse is concerned) reaches specified
-    upper and lower limits, namely 90% and 10% of the peak value unless otherwise
-    stated.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Decay_time_(of_a_pulse)
+  terms:
+  - type: expression
+    designation: Decay time (of a pulse)
+    normative_status: preferred
+  definition:
+  - content: The interval between the instants at which the instantaneous value of
+      a pulse or of its envelope (if a carrier frequency pulse is concerned) reaches
+      specified upper and lower limits, namely 90% and 10% of the peak value unless
+      otherwise stated.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Decay_time_(of_a_pulse)

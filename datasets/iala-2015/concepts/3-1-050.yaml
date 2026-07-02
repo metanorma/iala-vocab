@@ -10,59 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Free_sound_field
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 3-1-050
+    id: 3-1-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 3-1-050
+    id: 3-1-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 3-1-050
+    id: 3-1-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 3-1-050
+    id: 3-1-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 3-1-050
+    id: 3-1-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 3-1-050
+    id: 3-1-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 3-1-050
+    id: 3-1-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 3-1-050
+    id: 3-1-050
 ---
 id: 3-1-050-eng
 termid: 3-1-050
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Free sound field
-  normative_status: preferred
-definition:
-- content: A sound field in which the effect of the boundary is negligible.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Free_sound_field
+  terms:
+  - type: expression
+    designation: Free sound field
+    normative_status: preferred
+  definition:
+  - content: A sound field in which the effect of the boundary is negligible.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Free_sound_field

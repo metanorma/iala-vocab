@@ -10,63 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Stripes
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-6-265
+    id: 2-6-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-6-265
+    id: 2-6-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-6-265
+    id: 2-6-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-6-265
+    id: 2-6-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-6-265
+    id: 2-6-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-6-265
+    id: 2-6-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-6-265
+    id: 2-6-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-6-265
+    id: 2-6-265
 ---
 id: 2-6-265-eng
 termid: 2-6-265
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Stripes
-  normative_status: preferred
-definition:
-- content: |-
-    A number of areas of contrasting colour separated from one another by straight lines, and used as a distinguishing characteristic for navigation marks. (Fig.67b)
+  terms:
+  - type: expression
+    designation: Stripes
+    normative_status: preferred
+  definition:
+  - content: |-
+      A number of areas of contrasting colour separated from one another by straight lines, and used as a distinguishing characteristic for navigation marks. (Fig.67b)
 
-    (Fig. 67c)
+      (Fig. 67c)
 
-    ![Ch2_Fig67.jpg](/iala-vocab/images/iala/Ch2_Fig67.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The stripes may be vertical, horizontal or oblique.
-- content: Horizontal stripes are usually called Bands in English and Bander in German.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Stripes
+      ![Ch2_Fig67.jpg](/iala-vocab/images/iala/Ch2_Fig67.jpg)
+  notes:
+  - content: The stripes may be vertical, horizontal or oblique.
+  - content: Horizontal stripes are usually called Bands in English and Bander in
+      German.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Stripes

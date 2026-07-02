@@ -10,59 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Corrected_bearing
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-2-240
+    id: 4-2-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-240
+    id: 4-2-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-2-240
+    id: 4-2-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-240
+    id: 4-2-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-2-240
+    id: 4-2-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-2-240
+    id: 4-2-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-2-240
+    id: 4-2-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-240
+    id: 4-2-240
 ---
 id: 4-2-240-eng
 termid: 4-2-240
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Corrected bearing
-  normative_status: preferred
-definition:
-- content: The bearing obtained when the bearing correction has been applied to the
-    observed bearing.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Corrected_bearing
+  terms:
+  - type: expression
+    designation: Corrected bearing
+    normative_status: preferred
+  definition:
+  - content: The bearing obtained when the bearing correction has been applied to
+      the observed bearing.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Corrected_bearing

@@ -10,62 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Counter
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-4-070
+    id: 5-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-4-070
+    id: 5-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-4-070
+    id: 5-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-4-070
+    id: 5-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-4-070
+    id: 5-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-4-070
+    id: 5-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 5-4-070
+    id: 5-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-4-070
+    id: 5-4-070
 ---
 id: 5-4-070-eng
 termid: 5-4-070
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Counter
-  normative_status: preferred
-definition:
-- content: A device, capable of changing from one to the next of a sequence of distinguishable
-    states upon receipt of an input signal.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.E.E. (extract)
-notes:
-- content: One specific type is a circuit that produces one output pulse each time
-    it receives some predetermined number of input pulses.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Counter
+  terms:
+  - type: expression
+    designation: Counter
+    normative_status: preferred
+  definition:
+  - content: A device, capable of changing from one to the next of a sequence of distinguishable
+      states upon receipt of an input signal.
+  notes:
+  - content: One specific type is a circuit that produces one output pulse each time
+      it receives some predetermined number of input pulses.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.E.E. (extract)
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Counter

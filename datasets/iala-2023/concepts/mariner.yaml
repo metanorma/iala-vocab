@@ -10,23 +10,25 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Mariner
 ---
 id: mariner-eng
 termid: mariner
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Mariner
-  normative_status: preferred
-definition:
-- content: Mariner – is any person who is employed, or engaged, or works in any capacity
-    on board a vessel.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mariner
+  terms:
+  - type: expression
+    designation: Mariner
+    normative_status: preferred
+  definition:
+  - content: Mariner – is any person who is employed, or engaged, or works in any
+      capacity on board a vessel.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mariner

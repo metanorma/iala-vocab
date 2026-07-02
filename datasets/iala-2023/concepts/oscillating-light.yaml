@@ -10,29 +10,31 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Oscillating_Light
 ---
 id: oscillating-light-eng
 termid: oscillating-light
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Oscillating Light
-  normative_status: preferred
-definition:
-- content: |-
-    Oscillating Light – is a light having alternating colours at sector limit, with increasing portion of coloured light proportional relating to the white sector.
+  terms:
+  - type: expression
+    designation: Oscillating Light
+    normative_status: preferred
+  definition:
+  - content: |-
+      Oscillating Light – is a light having alternating colours at sector limit, with increasing portion of coloured light proportional relating to the white sector.
 
-    ![Oscillating_light1.jpg](/iala-vocab/images/iala/Oscillating_light1.jpg)
-    Example 1
+      ![Oscillating_light1.jpg](/iala-vocab/images/iala/Oscillating_light1.jpg)
+      Example 1
 
-    ![Oscillating_light2.jpg](/iala-vocab/images/iala/Oscillating_light2.jpg)
-    Example 2
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Oscillating_Light
+      ![Oscillating_light2.jpg](/iala-vocab/images/iala/Oscillating_light2.jpg)
+      Example 2
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Oscillating_Light

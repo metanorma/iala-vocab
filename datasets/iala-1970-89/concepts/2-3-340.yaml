@@ -10,67 +10,70 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Fluorescent_Lamp
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-3-340
+    id: 2-3-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-3-340
+    id: 2-3-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-3-340
+    id: 2-3-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-3-340
+    id: 2-3-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-3-340
+    id: 2-3-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-3-340
+    id: 2-3-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-3-340
+    id: 2-3-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-3-340
+    id: 2-3-340
 ---
 id: 2-3-340-eng
 termid: 2-3-340
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Fluorescent Lamp
-  normative_status: preferred
-- type: expression
-  designation: Fluorescent Tube
-  normative_status: admitted
-definition:
-- content: A discharge lamp in which most of the light is emitted by a layer of fluorescent
-    material excited by the ultraviolet radiation from the discharge.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-  modification: modified from source
-notes:
-- content: The terms Tube Fluorescent in French, and, in German, Leuchtstoffsroehre
-    and Fluoreszenzroehre are also used, particularly in the case of cold cathode
-    fluorescent lamps.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fluorescent_Lamp
+  terms:
+  - type: expression
+    designation: Fluorescent Lamp
+    normative_status: preferred
+  - type: expression
+    designation: Fluorescent Tube
+    normative_status: admitted
+  definition:
+  - content: A discharge lamp in which most of the light is emitted by a layer of
+      fluorescent material excited by the ultraviolet radiation from the discharge.
+  notes:
+  - content: The terms Tube Fluorescent in French, and, in German, Leuchtstoffsroehre
+      and Fluoreszenzroehre are also used, particularly in the case of cold cathode
+      fluorescent lamps.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fluorescent_Lamp

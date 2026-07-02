@@ -10,109 +10,114 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Bayonet_Cap
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-3-120
+    id: 2-3-120
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-3-120
+    id: 2-3-120
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-3-120
+    id: 2-3-120
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-3-120
+    id: 2-3-120
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-3-120
+    id: 2-3-120
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-3-120
+    id: 2-3-120
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-3-120
+    id: 2-3-120
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-3-120
+    id: 2-3-120
 ---
 id: 2-3-120-eng
 termid: 2-3-120
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Bayonet Cap
-  normative_status: preferred
-definition:
-- content: |-
-    A cap (type B) with small pins on its shell which engage.in slots in a lampholder.
+  terms:
+  - type: expression
+    designation: Bayonet Cap
+    normative_status: preferred
+  definition:
+  - content: |-
+      A cap (type B) with small pins on its shell which engage.in slots in a lampholder.
 
-    ![Ch2_Fig24.jpg](/iala-vocab/images/iala/Ch2_Fig24.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bayonet_Cap
+      ![Ch2_Fig24.jpg](/iala-vocab/images/iala/Ch2_Fig24.jpg)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bayonet_Cap
 ---
 id: 2-3-120-spa
 termid: 2-3-120
 data:
   language_code: spa
-terms:
-- type: expression
-  designation: Bayonet Cap/es
-  normative_status: preferred
-definition:
-- content: |-
-    Casquillo de bayoneta
+  terms:
+  - type: expression
+    designation: Bayonet Cap/es
+    normative_status: preferred
+  definition:
+  - content: |-
+      Casquillo de bayoneta
 
-    Casquillo (tipo B) con pequeños pasadores en su carcasa que encajan en las ranuras de un portalámparas.
+      Casquillo (tipo B) con pequeños pasadores en su carcasa que encajan en las ranuras de un portalámparas.
 
-    ![Ch2_Fig24.jpg](/iala-vocab/images/iala/Ch2_Fig24.jpg)
+      ![Ch2_Fig24.jpg](/iala-vocab/images/iala/Ch2_Fig24.jpg)
 
-    Referencia: C.I.E.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bayonet_Cap/es
+      Referencia: C.I.E.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bayonet_Cap/es
 ---
 id: 2-3-120-spa
 termid: 2-3-120
 data:
   language_code: spa
-terms:
-- type: expression
-  designation: 2-3-120
-  normative_status: preferred
-definition:
-- content: |-
-    Casquillo de bayoneta
+  terms:
+  - type: expression
+    designation: 2-3-120
+    normative_status: preferred
+  definition:
+  - content: |-
+      Casquillo de bayoneta
 
-    Casquillo (tipo B) con pequeños pasadores en su carcasa que encajan en las ranuras de un portalámparas.
+      Casquillo (tipo B) con pequeños pasadores en su carcasa que encajan en las ranuras de un portalámparas.
 
-    ![Ch2_Fig24.jpg](/iala-vocab/images/iala/Ch2_Fig24.jpg)
+      ![Ch2_Fig24.jpg](/iala-vocab/images/iala/Ch2_Fig24.jpg)
 
-    Referencia: C.I.E.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bayonet_Cap/es
+      Referencia: C.I.E.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bayonet_Cap/es

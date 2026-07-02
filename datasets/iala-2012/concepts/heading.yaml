@@ -10,54 +10,56 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Heading
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: heading
+    id: heading
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: heading
+    id: heading
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: heading
+    id: heading
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: heading
+    id: heading
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: heading
+    id: heading
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: heading
+    id: heading
 ---
 id: heading-eng
 termid: heading
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Heading
-  normative_status: preferred
-definition:
-- content: |-
-    VTS-2012-16
+  terms:
+  - type: expression
+    designation: Heading
+    normative_status: preferred
+  definition:
+  - content: |-
+      VTS-2012-16
 
-    The horizontal direction of the vessel's bows at a given moment measured in degrees clockwise from north.
+      The horizontal direction of the vessel's bows at a given moment measured in degrees clockwise from north.
 
-    Source: IMO A.918(22)
+      Source: IMO A.918(22)
 
-    (VTS33/output/8 refers)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Heading
+      (VTS33/output/8 refers)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Heading

@@ -10,58 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Ventilator_(powered)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-2-630
+    id: 7-2-630
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-2-630
+    id: 7-2-630
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-2-630
+    id: 7-2-630
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-2-630
+    id: 7-2-630
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-2-630
+    id: 7-2-630
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-2-630
+    id: 7-2-630
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-2-630
+    id: 7-2-630
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-2-630
+    id: 7-2-630
 ---
 id: 7-2-630-eng
 termid: 7-2-630
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Ventilator (powered)
-  normative_status: preferred
-- type: expression
-  designation: Extractor fan
-  normative_status: admitted
-definition:
-- content: A powered device controlling the flow of air into or out of a room or building.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ventilator_(powered)
+  terms:
+  - type: expression
+    designation: Ventilator (powered)
+    normative_status: preferred
+  - type: expression
+    designation: Extractor fan
+    normative_status: admitted
+  definition:
+  - content: A powered device controlling the flow of air into or out of a room or
+      building.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ventilator_(powered)

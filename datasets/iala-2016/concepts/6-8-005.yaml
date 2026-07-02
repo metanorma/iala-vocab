@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Electric_installation
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-8-005
+    id: 6-8-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-8-005
+    id: 6-8-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-8-005
+    id: 6-8-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-8-005
+    id: 6-8-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-8-005
+    id: 6-8-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-8-005
+    id: 6-8-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-8-005
+    id: 6-8-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-8-005
+    id: 6-8-005
 ---
 id: 6-8-005-eng
 termid: 6-8-005
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Electric installation
-  normative_status: preferred
-definition:
-- content: |-
-    1 - An assemblage of electric apparatus and all the associated electric equipment and connections, at a given location for co-ordinated purposes.
+  terms:
+  - type: expression
+    designation: Electric installation
+    normative_status: preferred
+  definition:
+  - content: |-
+      1 - An assemblage of electric apparatus and all the associated electric equipment and connections, at a given location for co-ordinated purposes.
 
-    2 - The process of making such an assemblage.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Electric_installation
+      2 - The process of making such an assemblage.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Electric_installation

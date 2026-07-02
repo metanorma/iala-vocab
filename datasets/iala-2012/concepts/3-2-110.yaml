@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Fog_signal_port
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 3-2-110
+    id: 3-2-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 3-2-110
+    id: 3-2-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 3-2-110
+    id: 3-2-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 3-2-110
+    id: 3-2-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 3-2-110
+    id: 3-2-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 3-2-110
+    id: 3-2-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 3-2-110
+    id: 3-2-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 3-2-110
+    id: 3-2-110
 ---
 id: 3-2-110-eng
 termid: 3-2-110
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Fog signal port
-  normative_status: preferred
-definition:
-- content: |-
-    Alternative terms: Port, Slot
+  terms:
+  - type: expression
+    designation: Fog signal port
+    normative_status: preferred
+  definition:
+  - content: |-
+      Alternative terms: Port, Slot
 
-    In some types of compressed air fog signal apparatus e.g. siren or diaphone, an aperture, generally narrow and elongated, on both the fixed and moving parts of the modulator of the compressed air.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fog_signal_port
+      In some types of compressed air fog signal apparatus e.g. siren or diaphone, an aperture, generally narrow and elongated, on both the fixed and moving parts of the modulator of the compressed air.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fog_signal_port

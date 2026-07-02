@@ -10,55 +10,57 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Drain
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-2-615
+    id: 7-2-615
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-2-615
+    id: 7-2-615
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-2-615
+    id: 7-2-615
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-2-615
+    id: 7-2-615
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-2-615
+    id: 7-2-615
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-2-615
+    id: 7-2-615
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-2-615
+    id: 7-2-615
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-2-615
+    id: 7-2-615
 ---
 id: 7-2-615-eng
 termid: 7-2-615
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Drain
-  normative_status: preferred
-definition:
-- content: A pipe or channel for carrying away surface water, groundwater, or sewage.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Drain
+  terms:
+  - type: expression
+    designation: Drain
+    normative_status: preferred
+  definition:
+  - content: A pipe or channel for carrying away surface water, groundwater, or sewage.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Drain

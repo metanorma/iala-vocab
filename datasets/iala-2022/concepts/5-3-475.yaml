@@ -10,58 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Display_(2)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-3-475
+    id: 5-3-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-3-475
+    id: 5-3-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-3-475
+    id: 5-3-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-3-475
+    id: 5-3-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-3-475
+    id: 5-3-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-3-475
+    id: 5-3-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-3-475
+    id: 5-3-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-3-475
+    id: 5-3-475
 ---
 id: 5-3-475-eng
 termid: 5-3-475
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Display (2)
-  normative_status: preferred
-definition:
-- content: A visual presentation of data.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: ANSI
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Display_(2)
+  terms:
+  - type: expression
+    designation: Display (2)
+    normative_status: preferred
+  definition:
+  - content: A visual presentation of data.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: ANSI
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Display_(2)

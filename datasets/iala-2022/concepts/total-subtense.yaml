@@ -10,52 +10,54 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Total_Subtense
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: total-subtense
+    id: total-subtense
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: total-subtense
+    id: total-subtense
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: total-subtense
+    id: total-subtense
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: total-subtense
+    id: total-subtense
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: total-subtense
+    id: total-subtense
 ---
 id: total-subtense-eng
 termid: total-subtense
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Total Subtense
-  normative_status: preferred
-definition:
-- content: |-
-    2015-1
+  terms:
+  - type: expression
+    designation: Total Subtense
+    normative_status: preferred
+  definition:
+  - content: |-
+      2015-1
 
-    Total Subtense is the total projected angle α in a given plane.
+      Total Subtense is the total projected angle α in a given plane.
 
-    ![Total_subtense.jpg](/iala-vocab/images/iala/Total_subtense.jpg)
+      ![Total_subtense.jpg](/iala-vocab/images/iala/Total_subtense.jpg)
 
-    Source: ENG3, Guideline 1041
+      Source: ENG3, Guideline 1041
 
-    See also: Subtense Angle
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Total_Subtense
+      See also: Subtense Angle
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Total_Subtense

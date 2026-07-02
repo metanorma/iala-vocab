@@ -10,62 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Toran
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-4-340
+    id: 4-4-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-4-340
+    id: 4-4-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-4-340
+    id: 4-4-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-4-340
+    id: 4-4-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-4-340
+    id: 4-4-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-4-340
+    id: 4-4-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-4-340
+    id: 4-4-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-4-340
+    id: 4-4-340
 ---
 id: 4-4-340-eng
 termid: 4-4-340
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Toran
-  normative_status: preferred
-definition:
-- content: |-
-    A precise system of hyperbolic position fixing in which a mobile station can obtain its position by the determination of the phase differences between the high frequency waves emitted by a pair of confocal transmitters and the transmission from a fixed reference transmitter.
+  terms:
+  - type: expression
+    designation: Toran
+    normative_status: preferred
+  definition:
+  - content: |-
+      A precise system of hyperbolic position fixing in which a mobile station can obtain its position by the determination of the phase differences between the high frequency waves emitted by a pair of confocal transmitters and the transmission from a fixed reference transmitter.
 
-    Position fixing is effected by comparing the low frequency beat notes produced by the two confocal transmitters and the modulation note on the fixed transmitter.
+      Position fixing is effected by comparing the low frequency beat notes produced by the two confocal transmitters and the modulation note on the fixed transmitter.
 
-    The modulation of the fixed transmitter is produced by a fixed compensating receiver, which receives the transmissions from the confocal transmitters and uses the resultant beat note (which includes any instability of frequency and phase of the confocal transmitters) as a means of modulating the fixed transmitter which transmits the phase reference to the mobile receiver.
+      The modulation of the fixed transmitter is produced by a fixed compensating receiver, which receives the transmissions from the confocal transmitters and uses the resultant beat note (which includes any instability of frequency and phase of the confocal transmitters) as a means of modulating the fixed transmitter which transmits the phase reference to the mobile receiver.
 
-    The operating frequency is in the region of 2 MHz and the maximum range is 300 miles.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Toran
+      The operating frequency is in the region of 2 MHz and the maximum range is 300 miles.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Toran

@@ -10,60 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Life_Test
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-3-455
+    id: 2-3-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-3-455
+    id: 2-3-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-3-455
+    id: 2-3-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-3-455
+    id: 2-3-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-3-455
+    id: 2-3-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-3-455
+    id: 2-3-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-3-455
+    id: 2-3-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-3-455
+    id: 2-3-455
 ---
 id: 2-3-455-eng
 termid: 2-3-455
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Life Test
-  normative_status: preferred
-definition:
-- content: A test in which lamps are operated under specified conditions for a specified
-    time or to the end of life and during which photometric measurements may be made
-    at specified intervals.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Life_Test
+  terms:
+  - type: expression
+    designation: Life Test
+    normative_status: preferred
+  definition:
+  - content: A test in which lamps are operated under specified conditions for a specified
+      time or to the end of life and during which photometric measurements may be
+      made at specified intervals.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Life_Test

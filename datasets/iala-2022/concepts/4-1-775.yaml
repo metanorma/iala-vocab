@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Automatic_gain_control
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-775
+    id: 4-1-775
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-775
+    id: 4-1-775
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-775
+    id: 4-1-775
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-775
+    id: 4-1-775
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-775
+    id: 4-1-775
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-775
+    id: 4-1-775
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-775
+    id: 4-1-775
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-775
+    id: 4-1-775
 ---
 id: 4-1-775-eng
 termid: 4-1-775
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Automatic gain control
-  normative_status: preferred
-definition:
-- content: |-
-    Acronym: A.G.C.
+  terms:
+  - type: expression
+    designation: Automatic gain control
+    normative_status: preferred
+  definition:
+  - content: |-
+      Acronym: A.G.C.
 
-    Automatic volume control (deprecated)
+      Automatic volume control (deprecated)
 
-    Circuits incorporated in the receiver and actuated by the received signal, which cause the gain of the receiver to vary substantially inversely as the magnitude of the radio-frequency input so as to maintain the output level substantially constant for a given modulation factor.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Automatic_gain_control
+      Circuits incorporated in the receiver and actuated by the received signal, which cause the gain of the receiver to vary substantially inversely as the magnitude of the radio-frequency input so as to maintain the output level substantially constant for a given modulation factor.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Automatic_gain_control

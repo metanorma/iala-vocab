@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Celestial_horizon
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-2-105
+    id: 1-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-2-105
+    id: 1-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-2-105
+    id: 1-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-2-105
+    id: 1-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-2-105
+    id: 1-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-2-105
+    id: 1-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-2-105
+    id: 1-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-2-105
+    id: 1-2-105
 ---
 id: 1-2-105-eng
 termid: 1-2-105
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Celestial horizon
-  normative_status: preferred
-- type: expression
-  designation: Rational horizon
-  normative_status: admitted
-definition:
-- content: The great circle on the celestial sphere, every point of which is 90 degrees
-    from the observer's zenith. This circle encloses the horizontal plane through
-    the observer and divides the celestial sphere into two hemispheres.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Celestial_horizon
+  terms:
+  - type: expression
+    designation: Celestial horizon
+    normative_status: preferred
+  - type: expression
+    designation: Rational horizon
+    normative_status: admitted
+  definition:
+  - content: The great circle on the celestial sphere, every point of which is 90
+      degrees from the observer's zenith. This circle encloses the horizontal plane
+      through the observer and divides the celestial sphere into two hemispheres.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Celestial_horizon

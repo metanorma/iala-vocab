@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_-_Non-Directional
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-2-035
+    id: 4-2-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-035
+    id: 4-2-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-2-035
+    id: 4-2-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-035
+    id: 4-2-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-2-035
+    id: 4-2-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-2-035
+    id: 4-2-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-2-035
+    id: 4-2-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-035
+    id: 4-2-035
 ---
 id: 4-2-035-eng
 termid: 4-2-035
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Radio beacon - Non-Directional
-  normative_status: preferred
-definition:
-- content: |-
-    (Non-directional) Radio beacon
+  terms:
+  - type: expression
+    designation: Radio beacon - Non-Directional
+    normative_status: preferred
+  definition:
+  - content: |-
+      (Non-directional) Radio beacon
 
-    A radio beacon station with a fixed omni-directional antenna the bearing of which can only be determined by a craft equipped for direction finding.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_-_Non-Directional
+      A radio beacon station with a fixed omni-directional antenna the bearing of which can only be determined by a craft equipped for direction finding.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_-_Non-Directional

@@ -10,61 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Folded_dipole
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-425
+    id: 4-1-425
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-425
+    id: 4-1-425
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-425
+    id: 4-1-425
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-425
+    id: 4-1-425
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-425
+    id: 4-1-425
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-425
+    id: 4-1-425
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-425
+    id: 4-1-425
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-425
+    id: 4-1-425
 ---
 id: 4-1-425-eng
 termid: 4-1-425
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Folded dipole
-  normative_status: preferred
-definition:
-- content: An antenna consisting of interconnected parallel dipoles separated by a
-    small fraction of the wavelength of operation, connected together at their outer
-    ends, and fed at the centre of one of the dipoles.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Folded_dipole
+  terms:
+  - type: expression
+    designation: Folded dipole
+    normative_status: preferred
+  definition:
+  - content: An antenna consisting of interconnected parallel dipoles separated by
+      a small fraction of the wavelength of operation, connected together at their
+      outer ends, and fed at the centre of one of the dipoles.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Folded_dipole

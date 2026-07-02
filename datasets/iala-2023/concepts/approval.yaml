@@ -10,25 +10,27 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Approval
 ---
 id: approval-eng
 termid: approval
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Approval
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0901005e
+  terms:
+  - type: expression
+    designation: Approval
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0901005e
 
-    Approval is the formal endorsement by the competent authority that a training organization meets the standards specified in an IALA model course for its implementation, delivery and assessment.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Approval
+      Approval is the formal endorsement by the competent authority that a training organization meets the standards specified in an IALA model course for its implementation, delivery and assessment.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Approval

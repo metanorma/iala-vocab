@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Rhythmic
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-1-095
+    id: 1-1-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-1-095
+    id: 1-1-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-1-095
+    id: 1-1-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-1-095
+    id: 1-1-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-1-095
+    id: 1-1-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-1-095
+    id: 1-1-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-1-095
+    id: 1-1-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-1-095
+    id: 1-1-095
 ---
 id: 1-1-095-eng
 termid: 1-1-095
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Rhythmic
-  normative_status: preferred
-definition:
-- content: Recurring identically with a regular periodicity.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: This applies to lights, acoustical and radio signals.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Rhythmic
+  terms:
+  - type: expression
+    designation: Rhythmic
+    normative_status: preferred
+  definition:
+  - content: Recurring identically with a regular periodicity.
+  notes:
+  - content: This applies to lights, acoustical and radio signals.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Rhythmic

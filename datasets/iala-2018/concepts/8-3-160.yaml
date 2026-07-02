@@ -10,63 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Senhouse_slip_(GB)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 8-3-160
+    id: 8-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 8-3-160
+    id: 8-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 8-3-160
+    id: 8-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 8-3-160
+    id: 8-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 8-3-160
+    id: 8-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 8-3-160
+    id: 8-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 8-3-160
+    id: 8-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 8-3-160
+    id: 8-3-160
 ---
 id: 8-3-160-eng
 termid: 8-3-160
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Senhouse slip (GB)
-  normative_status: preferred
-- type: expression
-  designation: Pelican hook (USA)
-  normative_status: admitted
-definition:
-- content: |-
-    A hinged hook, fitted with a securing ring which can conveniently be released when under strain. It is used for holding chain for quick release.
+  terms:
+  - type: expression
+    designation: Senhouse slip (GB)
+    normative_status: preferred
+  - type: expression
+    designation: Pelican hook (USA)
+    normative_status: admitted
+  definition:
+  - content: |-
+      A hinged hook, fitted with a securing ring which can conveniently be released when under strain. It is used for holding chain for quick release.
 
-    Note :
+      Note :
 
-    In Great Britain, a senhouse slip fitted with a length of chain and a shackle is called a Blake stopper while a senhouse slip fitted with a bottle screw adjustement is called a screw stopper.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Senhouse_slip_(GB)
+      In Great Britain, a senhouse slip fitted with a length of chain and a shackle is called a Blake stopper while a senhouse slip fitted with a bottle screw adjustement is called a screw stopper.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Senhouse_slip_(GB)

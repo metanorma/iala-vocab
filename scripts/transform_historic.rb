@@ -3,6 +3,7 @@ require "yaml"
 require "json"
 require "fileutils"
 require "nokogiri"
+require "glossarist"
 
 HISTORIC_INDEX = "reference-docs/scraped/editions/iala-historic/index.json"
 DATASETS = %w[iala-1970-89 iala-2009 iala-2012 iala-2015 iala-2016 iala-2017 iala-2018 iala-2022 iala-2023].freeze
@@ -108,7 +109,7 @@ def build_localized_doc(termid, designation, alt_designation, definition_text, n
     "data" => { "language_code" => "eng" },
     "terms" => terms,
     "definition" => [{ "content" => definition_text }],
-    "sources" => [{ "type" => "authoritative", "origin" => { "ref" => "IALA Dictionary" } }]
+    "sources" => [{ "type" => "authoritative", "origin" => { "ref" => { "source" => "IALA Dictionary" } } }]
   }
   doc["notes"] = notes.map { |n| { "content" => n } } unless notes.empty?
   doc["annotations"] = [{ "content" => "Discontinued entry from #{original_title} (#{page_url})" }]
@@ -129,18 +130,20 @@ def build_managed_doc(termid, edition, target_edition, target_termid)
     "status" => "retired",
     "sources" => [{
       "type" => "authoritative",
-      "origin" => { "ref" => "IALA Dictionary", "link" => "" }
+      "origin" => { "ref" => { "source" => "IALA Dictionary" }, "link" => "" }
     }]
   }
 
   if target_edition && target_termid
-    managed["related"] = [{
-      "type" => "retired_by",
-      "ref" => {
-        "source" => "urn:iala:dictionary:#{target_edition.sub('iala-', '')}",
-        "concept_id" => target_termid
-      }
-    }]
+    managed["related"] = [
+      Glossarist::RelatedConcept.new(
+        type: "retired_by",
+        ref: Glossarist::ConceptRef.new(
+          source: "urn:iala:dictionary:#{target_edition.sub('iala-', '')}",
+          id: target_termid
+        )
+      ).to_hash
+    ]
   end
   managed["dates"] = [
     { "type" => "accepted", "date" => "1970-1989" },
@@ -164,15 +167,15 @@ def append_retires_to_target(target_edition, target_termid, source_edition, sour
   return if docs.empty?
   managed = docs[0]
   managed["related"] ||= []
-  entry = {
-    "type" => "retires",
-    "ref" => {
-      "source" => "urn:iala:dictionary:#{source_edition.sub('iala-', '')}",
-      "concept_id" => source_termid
-    }
-  }
+  entry = Glossarist::RelatedConcept.new(
+    type: "retires",
+    ref: Glossarist::ConceptRef.new(
+      source: "urn:iala:dictionary:#{source_edition.sub('iala-', '')}",
+      id: source_termid
+    )
+  ).to_hash
   return if managed["related"].any? { |r| r["type"] == "retires" &&
-                                           r.dig("ref", "concept_id") == source_termid &&
+                                           r.dig("ref", "id") == source_termid &&
                                            r.dig("ref", "source") == entry.dig("ref", "source") }
   managed["related"] << entry
   File.write(target_path, docs.map { |d| YAML.dump(d) }.join)

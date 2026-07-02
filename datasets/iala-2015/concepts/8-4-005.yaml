@@ -10,66 +10,68 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Buoy
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 8-4-005
+    id: 8-4-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 8-4-005
+    id: 8-4-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 8-4-005
+    id: 8-4-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 8-4-005
+    id: 8-4-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 8-4-005
+    id: 8-4-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 8-4-005
+    id: 8-4-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 8-4-005
+    id: 8-4-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 8-4-005
+    id: 8-4-005
 ---
 id: 8-4-005-eng
 termid: 8-4-005
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Buoy
-  normative_status: preferred
-definition:
-- content: |-
-    A floating, and moored, artificial navigation mark. It can be recognized by means of its shape, colour, pattern, topmark or light character, or a combination of these. It may carry various additional aids to navigation.
+  terms:
+  - type: expression
+    designation: Buoy
+    normative_status: preferred
+  definition:
+  - content: |-
+      A floating, and moored, artificial navigation mark. It can be recognized by means of its shape, colour, pattern, topmark or light character, or a combination of these. It may carry various additional aids to navigation.
 
-    The terms light buoy and lighted buoy refer to a buoy that is fitted with a signal light.
+      The terms light buoy and lighted buoy refer to a buoy that is fitted with a signal light.
 
-    The term high focal plane (HFP) buoy may be used for a light buoy on which the signal light is fitted particularly high above the waterline.
+      The term high focal plane (HFP) buoy may be used for a light buoy on which the signal light is fitted particularly high above the waterline.
 
-    The terms unlighted buoy and blind buoy refer to a buoy that is not fitted with a signal light.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: " :"
-- content: " :"
-- content: " :"
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Buoy
+      The terms unlighted buoy and blind buoy refer to a buoy that is not fitted with a signal light.
+  notes:
+  - content: " :"
+  - content: " :"
+  - content: " :"
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Buoy

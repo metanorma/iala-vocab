@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Vessel_Traffic_Service_(VTS)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: vessel-traffic-service-vts-
+    id: vessel-traffic-service-vts-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: vessel-traffic-service-vts-
+    id: vessel-traffic-service-vts-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: vessel-traffic-service-vts-
+    id: vessel-traffic-service-vts-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: vessel-traffic-service-vts-
+    id: vessel-traffic-service-vts-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: vessel-traffic-service-vts-
+    id: vessel-traffic-service-vts-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: vessel-traffic-service-vts-
+    id: vessel-traffic-service-vts-
 ---
 id: vessel-traffic-service-vts--eng
 termid: vessel-traffic-service-vts-
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Vessel Traffic Service (VTS)
-  normative_status: preferred
-definition:
-- content: |-
-    VTS-2012-38
+  terms:
+  - type: expression
+    designation: Vessel Traffic Service (VTS)
+    normative_status: preferred
+  definition:
+  - content: |-
+      VTS-2012-38
 
-    A VTS is a service implemented by a Competent Authority, designed to improve the safety and efficiency of vessel traffic and to protect the environment.
+      A VTS is a service implemented by a Competent Authority, designed to improve the safety and efficiency of vessel traffic and to protect the environment.
 
-    The service should have the capability to interact with the traffic and respond to traffic situations developing in the VTS Area.
+      The service should have the capability to interact with the traffic and respond to traffic situations developing in the VTS Area.
 
-    Source: IMO A.857(20)
+      Source: IMO A.857(20)
 
-    (VTS33/output/8 refers)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Vessel_Traffic_Service_(VTS)
+      (VTS33/output/8 refers)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Vessel_Traffic_Service_(VTS)

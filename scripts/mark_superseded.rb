@@ -2,6 +2,7 @@
 require "yaml"
 require "json"
 require "uri"
+require "glossarist"
 
 EDITIONS = %w[iala-1970-89 iala-2009 iala-2012 iala-2015 iala-2016 iala-2017 iala-2018 iala-2022 iala-2023].freeze
 EDITION_YEARS = {
@@ -56,15 +57,20 @@ def write_docs(path, docs)
 end
 
 def related_entry(type, edition, termid)
-  { "type" => type, "ref" => { "source" => "urn:iala:dictionary:#{edition.sub('iala-', '')}",
-                                "concept_id" => termid } }
+  Glossarist::RelatedConcept.new(
+    type: type,
+    ref: Glossarist::ConceptRef.new(
+      source: "urn:iala:dictionary:#{edition.sub('iala-', '')}",
+      id: termid
+    )
+  ).to_hash
 end
 
 def append_related(managed, entry)
   return false if managed.nil?
   managed["related"] ||= []
   return false if managed["related"].any? { |r| r["type"] == entry["type"] &&
-                                                  r.dig("ref", "concept_id") == entry.dig("ref", "concept_id") &&
+                                                  r.dig("ref", "id") == entry.dig("ref", "id") &&
                                                   r.dig("ref", "source") == entry.dig("ref", "source") }
   managed["related"] << entry
   true

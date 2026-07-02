@@ -10,63 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Wear-out-failure_period
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-1-075
+    id: 5-1-075
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-1-075
+    id: 5-1-075
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-1-075
+    id: 5-1-075
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-1-075
+    id: 5-1-075
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-1-075
+    id: 5-1-075
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-1-075
+    id: 5-1-075
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-1-075
+    id: 5-1-075
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 5-1-075
+    id: 5-1-075
 ---
 id: 5-1-075-eng
 termid: 5-1-075
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Wear-out-failure period
-  normative_status: preferred
-definition:
-- content: |-
-    That possible period during which the failure rate is increasing rapidly due to deterioration processes.
+  terms:
+  - type: expression
+    designation: Wear-out-failure period
+    normative_status: preferred
+  definition:
+  - content: |-
+      That possible period during which the failure rate is increasing rapidly due to deterioration processes.
 
-    ![Ch5_Fig1.jpg](/iala-vocab/images/iala/Ch5_Fig1.jpg)
+      ![Ch5_Fig1.jpg](/iala-vocab/images/iala/Ch5_Fig1.jpg)
 
-    Figure 1 - Failure rate / time pattern.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wear-out-failure_period
+      Figure 1 - Failure rate / time pattern.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wear-out-failure_period

@@ -10,60 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Cones
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-1-380
+    id: 2-1-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-380
+    id: 2-1-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-380
+    id: 2-1-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-1-380
+    id: 2-1-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-380
+    id: 2-1-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-380
+    id: 2-1-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-380
+    id: 2-1-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-380
+    id: 2-1-380
 ---
 id: 2-1-380-eng
 termid: 2-1-380
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Cones
-  normative_status: preferred
-definition:
-- content: Special retinal receptor elements which are presumed to be primarily concerned
-    with perception of light and colour stimuli, when the eye is adapted to light
-    (see "photopic vision", 2-1-330).
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Cones
+  terms:
+  - type: expression
+    designation: Cones
+    normative_status: preferred
+  definition:
+  - content: Special retinal receptor elements which are presumed to be primarily
+      concerned with perception of light and colour stimuli, when the eye is adapted
+      to light (see "photopic vision", 2-1-330).
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Cones

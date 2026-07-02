@@ -10,62 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Field_coils
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-2-165
+    id: 4-2-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-165
+    id: 4-2-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-2-165
+    id: 4-2-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-165
+    id: 4-2-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-2-165
+    id: 4-2-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-2-165
+    id: 4-2-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-2-165
+    id: 4-2-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-165
+    id: 4-2-165
 ---
 id: 4-2-165-eng
 termid: 4-2-165
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Field coils
-  normative_status: preferred
-- type: expression
-  designation: Field coils (in an inductive radiogoniometer)
-  normative_status: admitted
-definition:
-- content: The fixed coils (usually at right angles) which are connected to the antenna
-    system.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Field_coils
+  terms:
+  - type: expression
+    designation: Field coils
+    normative_status: preferred
+  - type: expression
+    designation: Field coils (in an inductive radiogoniometer)
+    normative_status: admitted
+  definition:
+  - content: The fixed coils (usually at right angles) which are connected to the
+      antenna system.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Field_coils

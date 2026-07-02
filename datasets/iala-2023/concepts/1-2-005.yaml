@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Coasting
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-2-005
+    id: 1-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-2-005
+    id: 1-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-2-005
+    id: 1-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-2-005
+    id: 1-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-2-005
+    id: 1-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-2-005
+    id: 1-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-2-005
+    id: 1-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-2-005
+    id: 1-2-005
 ---
 id: 1-2-005-eng
 termid: 1-2-005
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Coasting
-  normative_status: preferred
-definition:
-- content: The navigation of coastal shipping.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: In France the navigation of coastal shipping within a limited area is called
-    bornage.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Coasting
+  terms:
+  - type: expression
+    designation: Coasting
+    normative_status: preferred
+  definition:
+  - content: The navigation of coastal shipping.
+  notes:
+  - content: In France the navigation of coastal shipping within a limited area is
+      called bornage.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Coasting

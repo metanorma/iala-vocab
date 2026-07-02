@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Lathing
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-2-445
+    id: 7-2-445
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-2-445
+    id: 7-2-445
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-2-445
+    id: 7-2-445
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-2-445
+    id: 7-2-445
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-2-445
+    id: 7-2-445
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-2-445
+    id: 7-2-445
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-2-445
+    id: 7-2-445
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-2-445
+    id: 7-2-445
 ---
 id: 7-2-445-eng
 termid: 7-2-445
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Lathing
-  normative_status: preferred
-definition:
-- content: A base material to provide a key for plaster. Formerly of thin softwood
-    strips, now more commonly formed from expanded metal.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lathing
+  terms:
+  - type: expression
+    designation: Lathing
+    normative_status: preferred
+  definition:
+  - content: A base material to provide a key for plaster. Formerly of thin softwood
+      strips, now more commonly formed from expanded metal.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lathing

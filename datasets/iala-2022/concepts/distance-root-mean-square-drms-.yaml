@@ -10,54 +10,56 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Distance_root_mean_square_(dRMS)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: distance-root-mean-square-drms-
+    id: distance-root-mean-square-drms-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: distance-root-mean-square-drms-
+    id: distance-root-mean-square-drms-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: distance-root-mean-square-drms-
+    id: distance-root-mean-square-drms-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: distance-root-mean-square-drms-
+    id: distance-root-mean-square-drms-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: distance-root-mean-square-drms-
+    id: distance-root-mean-square-drms-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: distance-root-mean-square-drms-
+    id: distance-root-mean-square-drms-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: distance-root-mean-square-drms-
+    id: distance-root-mean-square-drms-
 ---
 id: distance-root-mean-square-drms--eng
 termid: distance-root-mean-square-drms-
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Distance root mean square (dRMS)
-  normative_status: preferred
-definition:
-- content: |-
-    The root mean square of the radial distances from the true position to the observed positions obtained from a number of trials.
+  terms:
+  - type: expression
+    designation: Distance root mean square (dRMS)
+    normative_status: preferred
+  definition:
+  - content: |-
+      The root mean square of the radial distances from the true position to the observed positions obtained from a number of trials.
 
-    Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Distance_root_mean_square_(dRMS)
+      Source: Nick Ward, Vicechair, IALA e-Nav Committee, March 2009
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Distance_root_mean_square_(dRMS)

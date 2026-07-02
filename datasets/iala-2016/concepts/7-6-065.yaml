@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Blinding
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-6-065
+    id: 7-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-6-065
+    id: 7-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-6-065
+    id: 7-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-6-065
+    id: 7-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-6-065
+    id: 7-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-6-065
+    id: 7-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-6-065
+    id: 7-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-6-065
+    id: 7-6-065
 ---
 id: 7-6-065-eng
 termid: 7-6-065
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Blinding
-  normative_status: preferred
-definition:
-- content: A layer of lean concrete usually 50 to 100 mm thick, used to seal a soil
-    and provide a clean bed for the construction of a reinforced concrete structure.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Blinding
+  terms:
+  - type: expression
+    designation: Blinding
+    normative_status: preferred
+  definition:
+  - content: A layer of lean concrete usually 50 to 100 mm thick, used to seal a soil
+      and provide a clean bed for the construction of a reinforced concrete structure.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Blinding

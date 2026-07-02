@@ -10,64 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Ring
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-2-025
+    id: 2-2-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-2-025
+    id: 2-2-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-2-025
+    id: 2-2-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-2-025
+    id: 2-2-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-2-025
+    id: 2-2-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-2-025
+    id: 2-2-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-2-025
+    id: 2-2-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-2-025
+    id: 2-2-025
 ---
 id: 2-2-025-eng
 termid: 2-2-025
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Ring
-  normative_status: preferred
-definition:
-- content: |-
-    A transparent optical element, usually of glass or plastic, in the form of an annulus or annular segment, having a prismatic section in sense 2 of 2-2-020. There are both dioptric {{2-2-060, Dioptric}} and catadioptric {{2-2-070, Catadioptric}} rings, usually forming part of an optical panel or a drum lens.
+  terms:
+  - type: expression
+    designation: Ring
+    normative_status: preferred
+  definition:
+  - content: |-
+      A transparent optical element, usually of glass or plastic, in the form of an annulus or annular segment, having a prismatic section in sense 2 of 2-2-020. There are both dioptric {{2-2-060, Dioptric}} and catadioptric {{2-2-070, Catadioptric}} rings, usually forming part of an optical panel or a drum lens.
 
-    (Figs. 10 and 16)
+      (Figs. 10 and 16)
 
-    ![Ch2_Fig10.jpg](/iala-vocab/images/iala/Ch2_Fig10.jpg)
+      ![Ch2_Fig10.jpg](/iala-vocab/images/iala/Ch2_Fig10.jpg)
 
-    ![Ch2_Fig16a.jpg](/iala-vocab/images/iala/Ch2_Fig16a.jpg)
+      ![Ch2_Fig16a.jpg](/iala-vocab/images/iala/Ch2_Fig16a.jpg)
 
-    ![Ch2_Fig16b.jpg](/iala-vocab/images/iala/Ch2_Fig16b.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ring
+      ![Ch2_Fig16b.jpg](/iala-vocab/images/iala/Ch2_Fig16b.jpg)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ring

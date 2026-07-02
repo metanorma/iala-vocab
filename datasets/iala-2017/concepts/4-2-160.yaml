@@ -10,62 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Radiogoniometer
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-2-160
+    id: 4-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-160
+    id: 4-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-2-160
+    id: 4-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-160
+    id: 4-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-2-160
+    id: 4-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-2-160
+    id: 4-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-2-160
+    id: 4-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-160
+    id: 4-2-160
 ---
 id: 4-2-160-eng
 termid: 4-2-160
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Radiogoniometer
-  normative_status: preferred
-definition:
-- content: An instrument which, when coupled to a suitable fixed antenna system, enables
-    the bearing of incident waves to be determined by rotation of a movable part.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-  modification: modified from source
-notes:
-- content: Two types of radiogoniometer are used, either capacitive or inductive.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radiogoniometer
+  terms:
+  - type: expression
+    designation: Radiogoniometer
+    normative_status: preferred
+  definition:
+  - content: An instrument which, when coupled to a suitable fixed antenna system,
+      enables the bearing of incident waves to be determined by rotation of a movable
+      part.
+  notes:
+  - content: Two types of radiogoniometer are used, either capacitive or inductive.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radiogoniometer

@@ -10,28 +10,30 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Compliance_matrix
 ---
 id: compliance-matrix-eng
 termid: compliance-matrix
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Compliance matrix
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0901104e
+  terms:
+  - type: expression
+    designation: Compliance matrix
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0901104e
 
-    A document designed to measure the effectiveness of how the requirements are being met.  The document aims to assist a training organization in the preparation prior to the audit, and for auditors during the audit.
+      A document designed to measure the effectiveness of how the requirements are being met.  The document aims to assist a training organization in the preparation prior to the audit, and for auditors during the audit.
 
-    Source:
-    IALA Guideline G1014 Accreditation of VTS training organizations and approval to deliver IALA VTS model courses
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Compliance_matrix
+      Source:
+      IALA Guideline G1014 Accreditation of VTS training organizations and approval to deliver IALA VTS model courses
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Compliance_matrix

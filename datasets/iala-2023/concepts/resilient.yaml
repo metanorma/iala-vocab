@@ -10,25 +10,27 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Resilient
 ---
 id: resilient-eng
 termid: resilient
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Resilient
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0401503e
+  terms:
+  - type: expression
+    designation: Resilient
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0401503e
 
-    Able to detect and compensate for external and internal sources of disturbances, malfunction and breakdowns in parts of the system.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Resilient
+      Able to detect and compensate for external and internal sources of disturbances, malfunction and breakdowns in parts of the system.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Resilient

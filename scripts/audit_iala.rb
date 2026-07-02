@@ -46,14 +46,15 @@ datasets.each do |ds|
 
       localized_docs = docs[1..-1] || []
       localized_docs.each do |doc|
-        unless doc['terms'] && doc['terms'].is_a?(Array) && !doc['terms'].empty?
-          lang = doc.dig('data', 'language_code') || doc['language_code']
+        data = doc["data"] || {}
+        unless data["terms"] && data["terms"].is_a?(Array) && !data["terms"].empty?
+          lang = data["language_code"]
           puts "Error: Missing terms in #{file} (#{lang})"
           schema_errors += 1
         end
-        if doc['definition']
-          unless doc['definition'].is_a?(Array) && doc['definition'].all? { |d| d.is_a?(Hash) && d.key?('content') }
-            lang = doc.dig('data', 'language_code') || doc['language_code']
+        if data["definition"]
+          unless data["definition"].is_a?(Array) && data["definition"].all? { |d| d.is_a?(Hash) && d.key?('content') }
+            lang = data["language_code"]
             puts "Error: Invalid definition structure in #{file} (#{lang})"
             schema_errors += 1
           end

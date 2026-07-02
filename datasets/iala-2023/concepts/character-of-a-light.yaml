@@ -10,24 +10,26 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Character_of_a_light
 ---
 id: character-of-a-light-eng
 termid: character-of-a-light
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Character of a light
-  normative_status: preferred
-definition:
-- content: |-
-    Character of a light – is the distinctive combination of various aspects of a light (i.e. when lit, extinguished, coloured or white) which appear regularly or rhythmically allowing it to be identified (for example, fixed, flashing, group flashing, alternating).
-    Lights with the same character exist, but should be separated in distance, so that they are outside each nominal light range, and not adjacent, to avoid confusion.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Character_of_a_light
+  terms:
+  - type: expression
+    designation: Character of a light
+    normative_status: preferred
+  definition:
+  - content: |-
+      Character of a light – is the distinctive combination of various aspects of a light (i.e. when lit, extinguished, coloured or white) which appear regularly or rhythmically allowing it to be identified (for example, fixed, flashing, group flashing, alternating).
+      Lights with the same character exist, but should be separated in distance, so that they are outside each nominal light range, and not adjacent, to avoid confusion.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Character_of_a_light

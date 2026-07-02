@@ -10,63 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Pulse_time_modulation_(PTM)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-3-070
+    id: 5-3-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-3-070
+    id: 5-3-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-3-070
+    id: 5-3-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-3-070
+    id: 5-3-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-3-070
+    id: 5-3-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-3-070
+    id: 5-3-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-3-070
+    id: 5-3-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-3-070
+    id: 5-3-070
 ---
 id: 5-3-070-eng
 termid: 5-3-070
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Pulse time modulation (PTM)
-  normative_status: preferred
-definition:
-- content: Modulation in which the time of occurrence of some characteristic of a
-    pulse carrier is varied from the unmodulated value.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-  modification: modified from source
-notes:
-- content: This is a general term which includes several forms of modulation such
-    as pulse duration, pulse position and pulse interval modulation.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pulse_time_modulation_(PTM)
+  terms:
+  - type: expression
+    designation: Pulse time modulation (PTM)
+    normative_status: preferred
+  definition:
+  - content: Modulation in which the time of occurrence of some characteristic of
+      a pulse carrier is varied from the unmodulated value.
+  notes:
+  - content: This is a general term which includes several forms of modulation such
+      as pulse duration, pulse position and pulse interval modulation.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pulse_time_modulation_(PTM)

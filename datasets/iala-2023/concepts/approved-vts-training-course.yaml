@@ -10,27 +10,29 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Approved_VTS_training_course
 ---
 id: approved-vts-training-course-eng
 termid: approved-vts-training-course
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Approved VTS training course
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0901101e
+  terms:
+  - type: expression
+    designation: Approved VTS training course
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0901101e
 
-    Approved VTS training course is the result of an accredited training organisation organization successfully demonstrating that the standards specified in an IALA model course for its implementation, delivery and assessment have been met.
+      Approved VTS training course is the result of an accredited training organisation organization successfully demonstrating that the standards specified in an IALA model course for its implementation, delivery and assessment have been met.
 
-    Source: IALA Guideline G1156
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Approved_VTS_training_course
+      Source: IALA Guideline G1156
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Approved_VTS_training_course

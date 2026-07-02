@@ -10,57 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Conservation_Area
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: conservation-area
+    id: conservation-area
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: conservation-area
+    id: conservation-area
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: conservation-area
+    id: conservation-area
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: conservation-area
+    id: conservation-area
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: conservation-area
+    id: conservation-area
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: conservation-area
+    id: conservation-area
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: conservation-area
+    id: conservation-area
 ---
 id: conservation-area-eng
 termid: conservation-area
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Conservation Area
-  normative_status: preferred
-definition:
-- content: |-
-    Area of special architectural or historic interest, the character or appearance of which it is desirable to preserve or enhance.
+  terms:
+  - type: expression
+    designation: Conservation Area
+    normative_status: preferred
+  definition:
+  - content: |-
+      Area of special architectural or historic interest, the character or appearance of which it is desirable to preserve or enhance.
 
-    (This definition was noted at the IALA Seminar on the Practical Aspects of Lighthouse Preservation in Gothenburg 2005)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: Stirlingcharter
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Conservation_Area
+      (This definition was noted at the IALA Seminar on the Practical Aspects of Lighthouse Preservation in Gothenburg 2005)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: Stirlingcharter
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Conservation_Area

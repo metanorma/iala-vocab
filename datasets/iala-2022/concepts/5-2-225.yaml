@@ -10,67 +10,70 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Set_value
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-2-225
+    id: 5-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-2-225
+    id: 5-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-2-225
+    id: 5-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-2-225
+    id: 5-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-2-225
+    id: 5-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-2-225
+    id: 5-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-2-225
+    id: 5-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-2-225
+    id: 5-2-225
 ---
 id: 5-2-225-eng
 termid: 5-2-225
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Set value
-  normative_status: preferred
-- type: expression
-  designation: Set point (U.S.A.)
-  normative_status: admitted
-definition:
-- content: |-
-    The value chosen under prescribed conditions for the purpose of adjusting the controller. If the system has no offset, the set value is identical with the desired value.
+  terms:
+  - type: expression
+    designation: Set value
+    normative_status: preferred
+  - type: expression
+    designation: Set point (U.S.A.)
+    normative_status: admitted
+  definition:
+  - content: |-
+      The value chosen under prescribed conditions for the purpose of adjusting the controller. If the system has no offset, the set value is identical with the desired value.
 
-    ![Ch5_Fig3.jpg](/iala-vocab/images/iala/Ch5_Fig3.jpg)
+      ![Ch5_Fig3.jpg](/iala-vocab/images/iala/Ch5_Fig3.jpg)
 
-    Figure 3 - Typical time response of a system to a step increase of input.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Set_value
+      Figure 3 - Typical time response of a system to a step increase of input.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Set_value

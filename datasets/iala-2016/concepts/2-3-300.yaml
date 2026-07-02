@@ -10,66 +10,69 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Fluorescence
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-3-300
+    id: 2-3-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-3-300
+    id: 2-3-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-3-300
+    id: 2-3-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-3-300
+    id: 2-3-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-3-300
+    id: 2-3-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-3-300
+    id: 2-3-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-3-300
+    id: 2-3-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-3-300
+    id: 2-3-300
 ---
 id: 2-3-300-eng
 termid: 2-3-300
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Fluorescence
-  normative_status: preferred
-definition:
-- content: Photoluminescence which persists for an extremely short time after excitation.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E. (extract)
-notes:
-- content: This time is generally less than about 10-8 second.
-- content: 'from Guideline G1134: Referring to surface colours, G1134 provides the
-    following further explanation of fluorscence. Fluorescence is the process by which
-    electromagnetic radiation of one wavelength is absorbed and re-radiated at another
-    wavelength.  Sometimes a fluorescent material will absorb non-visible light and
-    emit it as visible light.  Fluorescence and ordinary reflectance of radiation
-    take place simultaneously and at the same wavelengths.'
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fluorescence
+  terms:
+  - type: expression
+    designation: Fluorescence
+    normative_status: preferred
+  definition:
+  - content: Photoluminescence which persists for an extremely short time after excitation.
+  notes:
+  - content: This time is generally less than about 10-8 second.
+  - content: 'from Guideline G1134: Referring to surface colours, G1134 provides the
+      following further explanation of fluorscence. Fluorescence is the process by
+      which electromagnetic radiation of one wavelength is absorbed and re-radiated
+      at another wavelength.  Sometimes a fluorescent material will absorb non-visible
+      light and emit it as visible light.  Fluorescence and ordinary reflectance of
+      radiation take place simultaneously and at the same wavelengths.'
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E. (extract)
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fluorescence

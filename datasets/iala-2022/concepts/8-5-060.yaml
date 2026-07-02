@@ -10,59 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Riding_chain
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 8-5-060
+    id: 8-5-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 8-5-060
+    id: 8-5-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 8-5-060
+    id: 8-5-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 8-5-060
+    id: 8-5-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 8-5-060
+    id: 8-5-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 8-5-060
+    id: 8-5-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 8-5-060
+    id: 8-5-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 8-5-060
+    id: 8-5-060
 ---
 id: 8-5-060-eng
 termid: 8-5-060
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Riding chain
-  normative_status: preferred
-- type: expression
-  designation: Riser chain
-  normative_status: admitted
-definition:
-- content: 'That part of a mooring chain below the tail chain that is always off the
-    sea-bed. Note : The length of chain off the sea-bed is called the riding length.'
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Riding_chain
+  terms:
+  - type: expression
+    designation: Riding chain
+    normative_status: preferred
+  - type: expression
+    designation: Riser chain
+    normative_status: admitted
+  definition:
+  - content: 'That part of a mooring chain below the tail chain that is always off
+      the sea-bed. Note : The length of chain off the sea-bed is called the riding
+      length.'
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Riding_chain

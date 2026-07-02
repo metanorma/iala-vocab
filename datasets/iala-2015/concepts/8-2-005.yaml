@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Light_vessel_station
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 8-2-005
+    id: 8-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 8-2-005
+    id: 8-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 8-2-005
+    id: 8-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 8-2-005
+    id: 8-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 8-2-005
+    id: 8-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 8-2-005
+    id: 8-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 8-2-005
+    id: 8-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 8-2-005
+    id: 8-2-005
 ---
 id: 8-2-005-eng
 termid: 8-2-005
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Light vessel station
-  normative_status: preferred
-definition:
-- content: The designated geographical location at which a light vessel can serve
-    as an aid to navigation. It is indicated on charts and in other appropriate nautical
-    documents.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light_vessel_station
+  terms:
+  - type: expression
+    designation: Light vessel station
+    normative_status: preferred
+  definition:
+  - content: The designated geographical location at which a light vessel can serve
+      as an aid to navigation. It is indicated on charts and in other appropriate
+      nautical documents.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light_vessel_station

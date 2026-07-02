@@ -10,64 +10,67 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Summing_point
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-2-135
+    id: 5-2-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-2-135
+    id: 5-2-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-2-135
+    id: 5-2-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-2-135
+    id: 5-2-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-2-135
+    id: 5-2-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-2-135
+    id: 5-2-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-2-135
+    id: 5-2-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-2-135
+    id: 5-2-135
 ---
 id: 5-2-135-eng
 termid: 5-2-135
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Summing point
-  normative_status: preferred
-definition:
-- content: |-
-    Any point at which signals are added or subtracted.
+  terms:
+  - type: expression
+    designation: Summing point
+    normative_status: preferred
+  definition:
+  - content: |-
+      Any point at which signals are added or subtracted.
 
-    ![Ch5_Fig2.jpg](/iala-vocab/images/iala/Ch5_Fig2.jpg)
+      ![Ch5_Fig2.jpg](/iala-vocab/images/iala/Ch5_Fig2.jpg)
 
-    Figure 2 - Block diagram of automatic control system (5-2-045) incorporating a closed loop {{5-2-080, Closed Loop}}
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: ANSI
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Summing_point
+      Figure 2 - Block diagram of automatic control system (5-2-045) incorporating a closed loop {{5-2-080, Closed Loop}}
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: ANSI
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Summing_point

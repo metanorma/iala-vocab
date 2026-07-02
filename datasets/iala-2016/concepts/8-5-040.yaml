@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Mooring
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 8-5-040
+    id: 8-5-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 8-5-040
+    id: 8-5-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 8-5-040
+    id: 8-5-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 8-5-040
+    id: 8-5-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 8-5-040
+    id: 8-5-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 8-5-040
+    id: 8-5-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 8-5-040
+    id: 8-5-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 8-5-040
+    id: 8-5-040
 ---
 id: 8-5-040-eng
 termid: 8-5-040
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Mooring
-  normative_status: preferred
-definition:
-- content: |-
-    System or process for securing a vessel or buoy to a sinker, to the shore or to a mooring buoy.
+  terms:
+  - type: expression
+    designation: Mooring
+    normative_status: preferred
+  definition:
+  - content: |-
+      System or process for securing a vessel or buoy to a sinker, to the shore or to a mooring buoy.
 
-    The term "mooring" is also commonly used to denote the position at which a vessel is anchored.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: 'Note:'
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mooring
+      The term "mooring" is also commonly used to denote the position at which a vessel is anchored.
+  notes:
+  - content: 'Note:'
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mooring

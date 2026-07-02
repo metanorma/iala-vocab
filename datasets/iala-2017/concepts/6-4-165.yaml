@@ -10,62 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Emergency_generator_set
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-4-165
+    id: 6-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-4-165
+    id: 6-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-4-165
+    id: 6-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-4-165
+    id: 6-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-4-165
+    id: 6-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-4-165
+    id: 6-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-4-165
+    id: 6-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-4-165
+    id: 6-4-165
 ---
 id: 6-4-165-eng
 termid: 6-4-165
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Emergency generator set
-  normative_status: preferred
-definition:
-- content: A generator set that is permanently available and intended to be brought
-    easily into service when another supply has failed.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: An emergency generator set that is brought into service when the regular
-    supply has failed and that provides comparable service is called a standby generator
-    set.
-- content: An emergency generator set that is brought into service when both regular
-    supply and emergency supply have failed may provide a greatly reduced service.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Emergency_generator_set
+  terms:
+  - type: expression
+    designation: Emergency generator set
+    normative_status: preferred
+  definition:
+  - content: A generator set that is permanently available and intended to be brought
+      easily into service when another supply has failed.
+  notes:
+  - content: An emergency generator set that is brought into service when the regular
+      supply has failed and that provides comparable service is called a standby generator
+      set.
+  - content: An emergency generator set that is brought into service when both regular
+      supply and emergency supply have failed may provide a greatly reduced service.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Emergency_generator_set

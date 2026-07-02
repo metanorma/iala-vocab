@@ -10,59 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Digital_data
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-3-380
+    id: 5-3-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-3-380
+    id: 5-3-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-3-380
+    id: 5-3-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-3-380
+    id: 5-3-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-3-380
+    id: 5-3-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-3-380
+    id: 5-3-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 5-3-380
+    id: 5-3-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-3-380
+    id: 5-3-380
 ---
 id: 5-3-380-eng
 termid: 5-3-380
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Digital data
-  normative_status: preferred
-definition:
-- content: Data in the form of digits.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: ANSI
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Digital_data
+  terms:
+  - type: expression
+    designation: Digital data
+    normative_status: preferred
+  definition:
+  - content: Data in the form of digits.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: ANSI
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Digital_data

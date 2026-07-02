@@ -10,62 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Random_access_memory
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-4-045
+    id: 5-4-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-4-045
+    id: 5-4-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-4-045
+    id: 5-4-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-4-045
+    id: 5-4-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-4-045
+    id: 5-4-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-4-045
+    id: 5-4-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-4-045
+    id: 5-4-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-4-045
+    id: 5-4-045
 ---
 id: 5-4-045-eng
 termid: 5-4-045
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Random access memory
-  normative_status: preferred
-- type: expression
-  designation: Random Access Memory (RAM)
-  normative_status: admitted
-definition:
-- content: A storage device in which the access time is effectively independent of
-    the location of the data.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: ANSI (extract)
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Random_access_memory
+  terms:
+  - type: expression
+    designation: Random access memory
+    normative_status: preferred
+  - type: expression
+    designation: Random Access Memory (RAM)
+    normative_status: admitted
+  definition:
+  - content: A storage device in which the access time is effectively independent
+      of the location of the data.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: ANSI (extract)
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Random_access_memory

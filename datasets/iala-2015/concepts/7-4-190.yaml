@@ -10,59 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Silt
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-4-190
+    id: 7-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-4-190
+    id: 7-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-4-190
+    id: 7-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-4-190
+    id: 7-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-4-190
+    id: 7-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-4-190
+    id: 7-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-4-190
+    id: 7-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-4-190
+    id: 7-4-190
 ---
 id: 7-4-190-eng
 termid: 7-4-190
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Silt
-  normative_status: preferred
-definition:
-- content: A natural fine grained sediment consisting of granular and mainly siliceous
-    products of rock weathering.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: In French a distinction is made between siliceous silt (silt) and organic
-    silt (limon).
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Silt
+  terms:
+  - type: expression
+    designation: Silt
+    normative_status: preferred
+  definition:
+  - content: A natural fine grained sediment consisting of granular and mainly siliceous
+      products of rock weathering.
+  notes:
+  - content: In French a distinction is made between siliceous silt (silt) and organic
+      silt (limon).
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Silt

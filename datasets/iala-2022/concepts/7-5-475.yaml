@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Hyperstatic
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-5-475
+    id: 7-5-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-5-475
+    id: 7-5-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-5-475
+    id: 7-5-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-5-475
+    id: 7-5-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-5-475
+    id: 7-5-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-5-475
+    id: 7-5-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-5-475
+    id: 7-5-475
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-5-475
+    id: 7-5-475
 ---
 id: 7-5-475-eng
 termid: 7-5-475
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Hyperstatic
-  normative_status: preferred
-- type: expression
-  designation: Indeterminate redundant
-  normative_status: admitted
-definition:
-- content: A term applied to a structure which is provided with a redundant number
-    of nodes so that bending moments and reactions need to be determined not only
-    from the laws of equilibrium but taking calculated deflection into account.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hyperstatic
+  terms:
+  - type: expression
+    designation: Hyperstatic
+    normative_status: preferred
+  - type: expression
+    designation: Indeterminate redundant
+    normative_status: admitted
+  definition:
+  - content: A term applied to a structure which is provided with a redundant number
+      of nodes so that bending moments and reactions need to be determined not only
+      from the laws of equilibrium but taking calculated deflection into account.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hyperstatic

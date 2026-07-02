@@ -10,62 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Mooring_recovery_wire
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 8-3-190
+    id: 8-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 8-3-190
+    id: 8-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 8-3-190
+    id: 8-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 8-3-190
+    id: 8-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 8-3-190
+    id: 8-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 8-3-190
+    id: 8-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 8-3-190
+    id: 8-3-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 8-3-190
+    id: 8-3-190
 ---
 id: 8-3-190-eng
 termid: 8-3-190
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Mooring recovery wire
-  normative_status: preferred
-definition:
-- content: |-
-    Swamp wire
+  terms:
+  - type: expression
+    designation: Mooring recovery wire
+    normative_status: preferred
+  definition:
+  - content: |-
+      Swamp wire
 
-    A loop of fibre or wire rope, thrown over a buoy to pick up the buoy chain when lifting.
+      A loop of fibre or wire rope, thrown over a buoy to pick up the buoy chain when lifting.
 
-    Note :
+      Note :
 
-    In the USA, the terms lariat and lasso are applied to a loop of fibre or wire rope, or chain, thrown over an unlighted buoy when picking it up out of the water.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mooring_recovery_wire
+      In the USA, the terms lariat and lasso are applied to a loop of fibre or wire rope, or chain, thrown over an unlighted buoy when picking it up out of the water.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Mooring_recovery_wire

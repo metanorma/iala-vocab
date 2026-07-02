@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Lantern_deck
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-1-145
+    id: 7-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-1-145
+    id: 7-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-1-145
+    id: 7-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-1-145
+    id: 7-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-1-145
+    id: 7-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-1-145
+    id: 7-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-1-145
+    id: 7-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-1-145
+    id: 7-1-145
 ---
 id: 7-1-145-eng
 termid: 7-1-145
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Lantern deck
-  normative_status: preferred
-- type: expression
-  designation: Lantern level
-  normative_status: admitted
-definition:
-- content: The level in a lighthouse at which the lantern is installed, and by which
-    access may be gained to the optical system and to the inside and outside of the
-    lantern glazing.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lantern_deck
+  terms:
+  - type: expression
+    designation: Lantern deck
+    normative_status: preferred
+  - type: expression
+    designation: Lantern level
+    normative_status: admitted
+  definition:
+  - content: The level in a lighthouse at which the lantern is installed, and by which
+      access may be gained to the optical system and to the inside and outside of
+      the lantern glazing.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lantern_deck

@@ -10,63 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Groyne
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-1-085
+    id: 7-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-1-085
+    id: 7-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-1-085
+    id: 7-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-1-085
+    id: 7-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-1-085
+    id: 7-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-1-085
+    id: 7-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-1-085
+    id: 7-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-1-085
+    id: 7-1-085
 ---
 id: 7-1-085-eng
 termid: 7-1-085
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Groyne
-  normative_status: preferred
-- type: expression
-  designation: Groin
-  normative_status: admitted
-definition:
-- content: A structure extending into the sea from a beach or bank, designed to prevent
-    littoral drift.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The French term epi and the German term Buhne are also used for structures
-    extending into rivers or estuaries, designed to restrict the cross-sectional area
-    of the water flow.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Groyne
+  terms:
+  - type: expression
+    designation: Groyne
+    normative_status: preferred
+  - type: expression
+    designation: Groin
+    normative_status: admitted
+  definition:
+  - content: A structure extending into the sea from a beach or bank, designed to
+      prevent littoral drift.
+  notes:
+  - content: The French term epi and the German term Buhne are also used for structures
+      extending into rivers or estuaries, designed to restrict the cross-sectional
+      area of the water flow.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Groyne

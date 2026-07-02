@@ -10,65 +10,68 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Luminosity
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-1-365
+    id: 2-1-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-365
+    id: 2-1-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-1-365
+    id: 2-1-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-365
+    id: 2-1-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-365
+    id: 2-1-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-365
+    id: 2-1-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-365
+    id: 2-1-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-1-365
+    id: 2-1-365
 ---
 id: 2-1-365-eng
 termid: 2-1-365
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Luminosity
-  normative_status: preferred
-- type: expression
-  designation: Brightness (U.S.A.)
-  normative_status: admitted
-definition:
-- content: The attribute of visual sensation according to which an area appears to
-    emit more or less light.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E. (extract)
-notes:
-- content: This attribute is the psychosensorial correlate (or nearly so) of the photometric
-    quantity "luminance".
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Luminosity
+  terms:
+  - type: expression
+    designation: Luminosity
+    normative_status: preferred
+  - type: expression
+    designation: Brightness (U.S.A.)
+    normative_status: admitted
+  definition:
+  - content: The attribute of visual sensation according to which an area appears
+      to emit more or less light.
+  notes:
+  - content: This attribute is the psychosensorial correlate (or nearly so) of the
+      photometric quantity "luminance".
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E. (extract)
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Luminosity

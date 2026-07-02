@@ -10,66 +10,69 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Frequency
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-1-235
+    id: 1-1-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-1-235
+    id: 1-1-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-1-235
+    id: 1-1-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-1-235
+    id: 1-1-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-1-235
+    id: 1-1-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-1-235
+    id: 1-1-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-1-235
+    id: 1-1-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-1-235
+    id: 1-1-235
 ---
 id: 1-1-235-eng
 termid: 1-1-235
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Frequency
-  normative_status: preferred
-- type: symbol
-  designation: stem:[f, ?]
-  normative_status: preferred
-definition:
-- content: Reciprocal of the period.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-notes:
-- content: When the independent variable is time, the unit of frequency is the hertz.
-- content: In Britain, France and U.S.A. cycles per second (cps or c/s) have been
-    used for "hertz".
-annotations:
-- content: Unit hertz (Hz) lHz = l/s
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Frequency
+  terms:
+  - type: expression
+    designation: Frequency
+    normative_status: preferred
+  - type: symbol
+    designation: stem:[f, ?]
+    normative_status: preferred
+  definition:
+  - content: Reciprocal of the period.
+  notes:
+  - content: When the independent variable is time, the unit of frequency is the hertz.
+  - content: In Britain, France and U.S.A. cycles per second (cps or c/s) have been
+      used for "hertz".
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+  annotations:
+  - content: Unit hertz (Hz) lHz = l/s
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Frequency

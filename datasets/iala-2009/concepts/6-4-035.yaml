@@ -10,59 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Collector_ring
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-4-035
+    id: 6-4-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-4-035
+    id: 6-4-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-4-035
+    id: 6-4-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-4-035
+    id: 6-4-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-4-035
+    id: 6-4-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-4-035
+    id: 6-4-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-4-035
+    id: 6-4-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-4-035
+    id: 6-4-035
 ---
 id: 6-4-035-eng
 termid: 6-4-035
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Collector ring
-  normative_status: preferred
-definition:
-- content: A conducting ring that provides continuous electrical connection between
-    the stationary and rotary parts of a machine by means of sliding contact through
-    a brush.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The term slip ring is also used with this meaning.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Collector_ring
+  terms:
+  - type: expression
+    designation: Collector ring
+    normative_status: preferred
+  definition:
+  - content: A conducting ring that provides continuous electrical connection between
+      the stationary and rotary parts of a machine by means of sliding contact through
+      a brush.
+  notes:
+  - content: The term slip ring is also used with this meaning.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Collector_ring

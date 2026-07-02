@@ -10,55 +10,57 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Angle_section
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-2-275
+    id: 7-2-275
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-2-275
+    id: 7-2-275
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-2-275
+    id: 7-2-275
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-2-275
+    id: 7-2-275
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-2-275
+    id: 7-2-275
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-2-275
+    id: 7-2-275
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-2-275
+    id: 7-2-275
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-2-275
+    id: 7-2-275
 ---
 id: 7-2-275-eng
 termid: 7-2-275
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Angle section
-  normative_status: preferred
-definition:
-- content: A rolled, extruded or folded metal section shaped like an " L " in cross-section.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Angle_section
+  terms:
+  - type: expression
+    designation: Angle section
+    normative_status: preferred
+  definition:
+  - content: A rolled, extruded or folded metal section shaped like an " L " in cross-section.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Angle_section

@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Horn
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 3-2-105
+    id: 3-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 3-2-105
+    id: 3-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 3-2-105
+    id: 3-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 3-2-105
+    id: 3-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 3-2-105
+    id: 3-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 3-2-105
+    id: 3-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 3-2-105
+    id: 3-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 3-2-105
+    id: 3-2-105
 ---
 id: 3-2-105-eng
 termid: 3-2-105
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Horn
-  normative_status: preferred
-- type: expression
-  designation: Trumpet
-  normative_status: admitted
-definition:
-- content: A flared tube designed to match the acoustic impedance to the impedance
-    of the atmosphere; it can behave as a resonator and can influence the directivity;
-    the narrow end is called the throat and the large end the mouth.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Horn
+  terms:
+  - type: expression
+    designation: Horn
+    normative_status: preferred
+  - type: expression
+    designation: Trumpet
+    normative_status: admitted
+  definition:
+  - content: A flared tube designed to match the acoustic impedance to the impedance
+      of the atmosphere; it can behave as a resonator and can influence the directivity;
+      the narrow end is called the throat and the large end the mouth.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Horn

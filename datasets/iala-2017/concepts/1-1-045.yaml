@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Bringing_into_service
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-1-045
+    id: 1-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-1-045
+    id: 1-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-1-045
+    id: 1-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-1-045
+    id: 1-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-1-045
+    id: 1-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-1-045
+    id: 1-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-1-045
+    id: 1-1-045
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-1-045
+    id: 1-1-045
 ---
 id: 1-1-045-eng
 termid: 1-1-045
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Bringing into service
-  normative_status: preferred
-definition:
-- content: |-
-    Alternative terms: Bringing into operation, Commissioning
+  terms:
+  - type: expression
+    designation: Bringing into service
+    normative_status: preferred
+  definition:
+  - content: |-
+      Alternative terms: Bringing into operation, Commissioning
 
-    Official starting of an aid to navigation and its reception into the authorized list (e.g. list of lights).
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bringing_into_service
+      Official starting of an aid to navigation and its reception into the authorized list (e.g. list of lights).
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bringing_into_service

@@ -10,62 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Filament_Support/es
 related:
 - type: related_concept
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-3-095
+    id: 2-3-095
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-3-095
+    id: 2-3-095
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-3-095
+    id: 2-3-095
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-3-095
+    id: 2-3-095
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-3-095
+    id: 2-3-095
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-3-095
+    id: 2-3-095
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-3-095
+    id: 2-3-095
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-3-095
+    id: 2-3-095
 ---
 id: 2-3-095-spa
 termid: 2-3-095
 data:
   language_code: spa
-terms:
-- type: expression
-  designation: Filament Support/es
-  normative_status: preferred
-definition:
-- content: |-
-    Soporte del filamento
+  terms:
+  - type: expression
+    designation: Filament Support/es
+    normative_status: preferred
+  definition:
+  - content: |-
+      Soporte del filamento
 
-    Alambre de metal utilizado como soporte del filamento de una lámpara.
+      Alambre de metal utilizado como soporte del filamento de una lámpara.
 
-    ![Ch2_Fig22.jpg](/iala-vocab/images/iala/Ch2_Fig22.jpg)
+      ![Ch2_Fig22.jpg](/iala-vocab/images/iala/Ch2_Fig22.jpg)
 
-    Referencia: C.I.E.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Filament_Support/es
+      Referencia: C.I.E.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Filament_Support/es

@@ -10,24 +10,26 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Secondary_Light
 ---
 id: secondary-light-eng
 termid: secondary-light
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Secondary Light
-  normative_status: preferred
-definition:
-- content: Secondary Light – is a light placed on or near to a main light’s support
-    and having a special navigational function, for example a passing light on a leading
-    light structure or a single sector light.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Secondary_Light
+  terms:
+  - type: expression
+    designation: Secondary Light
+    normative_status: preferred
+  definition:
+  - content: Secondary Light – is a light placed on or near to a main light’s support
+      and having a special navigational function, for example a passing light on a
+      leading light structure or a single sector light.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Secondary_Light

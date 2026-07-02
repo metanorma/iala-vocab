@@ -10,99 +10,103 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Reserve_buoyancy
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 8-4-185
+    id: 8-4-185
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 8-4-185
+    id: 8-4-185
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 8-4-185
+    id: 8-4-185
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 8-4-185
+    id: 8-4-185
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 8-4-185
+    id: 8-4-185
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 8-4-185
+    id: 8-4-185
 - type: related_concept
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 8-4-185
+    id: 8-4-185
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 8-4-185
+    id: 8-4-185
 ---
 id: 8-4-185-eng
 termid: 8-4-185
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Reserve buoyancy
-  normative_status: preferred
-definition:
-- content: The watertight volume of a vessel above the designed waterline, expressed
-    as a percentage of the total buoyancy (volume). It is an indication of the seaworthiness
-    of the vessel.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Reserve_buoyancy
+  terms:
+  - type: expression
+    designation: Reserve buoyancy
+    normative_status: preferred
+  definition:
+  - content: The watertight volume of a vessel above the designed waterline, expressed
+      as a percentage of the total buoyancy (volume). It is an indication of the seaworthiness
+      of the vessel.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Reserve_buoyancy
 ---
 id: 8-4-185-spa
 termid: 8-4-185
 data:
   language_code: spa
-terms:
-- type: expression
-  designation: Reserve buoyancy/es
-  normative_status: preferred
-definition:
-- content: |-
-    Reserva de flotabilidad
+  terms:
+  - type: expression
+    designation: Reserve buoyancy/es
+    normative_status: preferred
+  definition:
+  - content: |-
+      Reserva de flotabilidad
 
-    Volumen hermético de un barco por encima de la línea de flotación diseñada , expresado como un porcentaje de la flotabilidad total (volumen). Es una indicación de la navegabilidad de la embarcación
-    .
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Reserve_buoyancy/es
+      Volumen hermético de un barco por encima de la línea de flotación diseñada , expresado como un porcentaje de la flotabilidad total (volumen). Es una indicación de la navegabilidad de la embarcación
+      .
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Reserve_buoyancy/es
 ---
 id: 8-4-185-spa
 termid: 8-4-185
 data:
   language_code: spa
-terms:
-- type: expression
-  designation: 8-4-185
-  normative_status: preferred
-definition:
-- content: |-
-    Reserva de flotabilidad
+  terms:
+  - type: expression
+    designation: 8-4-185
+    normative_status: preferred
+  definition:
+  - content: |-
+      Reserva de flotabilidad
 
-    Volumen hermético de un barco por encima de la línea de flotación diseñada , expresado como un porcentaje de la flotabilidad total (volumen). Es una indicación de la navegabilidad de la embarcación
-    .
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Reserve_buoyancy/es
+      Volumen hermético de un barco por encima de la línea de flotación diseñada , expresado como un porcentaje de la flotabilidad total (volumen). Es una indicación de la navegabilidad de la embarcación
+      .
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Reserve_buoyancy/es

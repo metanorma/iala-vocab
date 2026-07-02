@@ -10,62 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Dowel
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-2-365
+    id: 7-2-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-2-365
+    id: 7-2-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-2-365
+    id: 7-2-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-2-365
+    id: 7-2-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-2-365
+    id: 7-2-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-2-365
+    id: 7-2-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-2-365
+    id: 7-2-365
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-2-365
+    id: 7-2-365
 ---
 id: 7-2-365-eng
 termid: 7-2-365
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Dowel
-  normative_status: preferred
-definition:
-- content: |-
-    Alternative terms: Trenail, Treenail
+  terms:
+  - type: expression
+    designation: Dowel
+    normative_status: preferred
+  definition:
+  - content: |-
+      Alternative terms: Trenail, Treenail
 
-    A cylindrical metal or wood rod or pin used for connections in stonework or timber.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: '" Trenail " and the French term cheville apply specifically to a hardwood
-    pin.'
-- content: The French term goujon is used only when the pin is of metal.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Dowel
+      A cylindrical metal or wood rod or pin used for connections in stonework or timber.
+  notes:
+  - content: '" Trenail " and the French term cheville apply specifically to a hardwood
+      pin.'
+  - content: The French term goujon is used only when the pin is of metal.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Dowel

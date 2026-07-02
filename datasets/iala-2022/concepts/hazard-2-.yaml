@@ -10,133 +10,139 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Hazard_(2)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: hazard-2-
+    id: hazard-2-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: hazard-2-
+    id: hazard-2-
 ---
 id: hazard-2--eng
 termid: hazard-2-
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Hazard (2)
-  normative_status: preferred
-definition:
-- content: |-
-    Hazard means any condition or threat that
+  terms:
+  - type: expression
+    designation: Hazard (2)
+    normative_status: preferred
+  definition:
+  - content: |-
+      Hazard means any condition or threat that
 
-    poses a danger or impediment to navigation;
-    or may reasonably be expected to result in major harmful consequences to the marine environment, or damage to the coastline or related interests of one or more States.
+      poses a danger or impediment to navigation;
+      or may reasonably be expected to result in major harmful consequences to the marine environment, or damage to the coastline or related interests of one or more States.
 
-    Source: Nairobi Convention 2017, provided by the IALA ARM Committee in paper ARM7-12.1.14 in 2017.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazard_(2)
+      Source: Nairobi Convention 2017, provided by the IALA ARM Committee in paper ARM7-12.1.14 in 2017.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazard_(2)
 ---
 id: hazard-2--fra
 termid: hazard-2-
 data:
   language_code: fra
-terms:
-- type: expression
-  designation: Hazard (2)/fr
-  normative_status: preferred
-definition:
-- content: |-
-    Danger
+  terms:
+  - type: expression
+    designation: Hazard (2)/fr
+    normative_status: preferred
+  definition:
+  - content: |-
+      Danger
 
-    Danger signifie toute situation ou menace qui:
+      Danger signifie toute situation ou menace qui:
 
-    a) représente un danger ou une entrave à la navigation; ou
-    b) peut raisonnablemet être susceptible d’entraîner des conséquence majeurs dommageables au milieu marin, ou des dommages au littoral ou relevant d’intérêts connexes à un ou plusieurs États.
+      a) représente un danger ou une entrave à la navigation; ou
+      b) peut raisonnablemet être susceptible d’entraîner des conséquence majeurs dommageables au milieu marin, ou des dommages au littoral ou relevant d’intérêts connexes à un ou plusieurs États.
 
-    La source: Convention de Nairobi 2017, fourni par le comité IALA ARM dans le document ARM7-12.1.14 en 2017.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazard_(2)/fr
+      La source: Convention de Nairobi 2017, fourni par le comité IALA ARM dans le document ARM7-12.1.14 en 2017.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazard_(2)/fr
 ---
 id: hazard-2--spa
 termid: hazard-2-
 data:
   language_code: spa
-terms:
-- type: expression
-  designation: Hazard (2)/es
-  normative_status: preferred
-definition:
-- content: |-
-    Peligro
+  terms:
+  - type: expression
+    designation: Hazard (2)/es
+    normative_status: preferred
+  definition:
+  - content: |-
+      Peligro
 
-    Peligro significa cualquier condición o amenaza que:
+      Peligro significa cualquier condición o amenaza que:
 
-    presente un peligro o impedimento para la navegación;
-    o puede esperarse razonablemente que produzca importantes consecuencias perjudiciales para el medio ambiente marino, o daños a la línea costera   o a intereses relacionados con uno o más Estados.
+      presente un peligro o impedimento para la navegación;
+      o puede esperarse razonablemente que produzca importantes consecuencias perjudiciales para el medio ambiente marino, o daños a la línea costera   o a intereses relacionados con uno o más Estados.
 
-    Fuente: Convenio de Nairobi 2017, proporcionado por el Comité ARM de IALA en el documento ARM7-12.1.14 en 2017.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazard_(2)/es
+      Fuente: Convenio de Nairobi 2017, proporcionado por el Comité ARM de IALA en el documento ARM7-12.1.14 en 2017.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazard_(2)/es
 ---
 id: hazard-2--fra
 termid: hazard-2-
 data:
   language_code: fra
-terms:
-- type: expression
-  designation: Danger
-  normative_status: preferred
-definition:
-- content: |-
-    Danger signifie toute situation ou menace qui:
+  terms:
+  - type: expression
+    designation: Danger
+    normative_status: preferred
+  definition:
+  - content: |-
+      Danger signifie toute situation ou menace qui:
 
-    a) représente un danger ou une entrave à la navigation; ou
-    b) peut raisonnablemet être susceptible d’entraîner des conséquence majeurs dommageables au milieu marin, ou des dommages au littoral ou relevant d’intérêts connexes à un ou plusieurs États.
+      a) représente un danger ou une entrave à la navigation; ou
+      b) peut raisonnablemet être susceptible d’entraîner des conséquence majeurs dommageables au milieu marin, ou des dommages au littoral ou relevant d’intérêts connexes à un ou plusieurs États.
 
-    La source: Convention de Nairobi 2017, fourni par le comité IALA ARM dans le document ARM7-12.1.14 en 2017.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazard_(2)/fr
+      La source: Convention de Nairobi 2017, fourni par le comité IALA ARM dans le document ARM7-12.1.14 en 2017.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazard_(2)/fr
 ---
 id: hazard-2--spa
 termid: hazard-2-
 data:
   language_code: spa
-terms:
-- type: expression
-  designation: Peligro
-  normative_status: preferred
-definition:
-- content: |-
-    Peligro significa cualquier condición o amenaza que:
+  terms:
+  - type: expression
+    designation: Peligro
+    normative_status: preferred
+  definition:
+  - content: |-
+      Peligro significa cualquier condición o amenaza que:
 
-    presente un peligro o impedimento para la navegación;
-    o puede esperarse razonablemente que produzca importantes consecuencias perjudiciales para el medio ambiente marino, o daños a la línea costera   o a intereses relacionados con uno o más Estados.
+      presente un peligro o impedimento para la navegación;
+      o puede esperarse razonablemente que produzca importantes consecuencias perjudiciales para el medio ambiente marino, o daños a la línea costera   o a intereses relacionados con uno o más Estados.
 
-    Fuente: Convenio de Nairobi 2017, proporcionado por el Comité ARM de IALA en el documento ARM7-12.1.14 en 2017.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazard_(2)/es
+      Fuente: Convenio de Nairobi 2017, proporcionado por el Comité ARM de IALA en el documento ARM7-12.1.14 en 2017.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Hazard_(2)/es

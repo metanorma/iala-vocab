@@ -10,63 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/System_deviation
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-2-190
+    id: 5-2-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-2-190
+    id: 5-2-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-2-190
+    id: 5-2-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-2-190
+    id: 5-2-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-2-190
+    id: 5-2-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-2-190
+    id: 5-2-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-2-190
+    id: 5-2-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-2-190
+    id: 5-2-190
 ---
 id: 5-2-190-eng
 termid: 5-2-190
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: System deviation
-  normative_status: preferred
-definition:
-- content: |-
-    The instantaneous value of the ultimately controlled variable minus the command.
+  terms:
+  - type: expression
+    designation: System deviation
+    normative_status: preferred
+  definition:
+  - content: |-
+      The instantaneous value of the ultimately controlled variable minus the command.
 
-    ![Ch5_Fig3.jpg](/iala-vocab/images/iala/Ch5_Fig3.jpg)
+      ![Ch5_Fig3.jpg](/iala-vocab/images/iala/Ch5_Fig3.jpg)
 
-    Figure 3 - Typical time response of a system to a step increase of input.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: ANSI
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/System_deviation
+      Figure 3 - Typical time response of a system to a step increase of input.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: ANSI
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/System_deviation

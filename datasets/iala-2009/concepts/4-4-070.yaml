@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Loran_stations
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-4-070
+    id: 4-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-4-070
+    id: 4-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-4-070
+    id: 4-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-4-070
+    id: 4-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-4-070
+    id: 4-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-4-070
+    id: 4-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-4-070
+    id: 4-4-070
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-4-070
+    id: 4-4-070
 ---
 id: 4-4-070-eng
 termid: 4-4-070
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Loran stations
-  normative_status: preferred
-definition:
-- content: |-
-    The transmitting stations whose positions define the two foci of a family of hyperbolic lines of position.
+  terms:
+  - type: expression
+    designation: Loran stations
+    normative_status: preferred
+  definition:
+  - content: |-
+      The transmitting stations whose positions define the two foci of a family of hyperbolic lines of position.
 
-    They are (1) a master station which initiates a continuous train of pulses and (2) a slave station which synchronises a continuous train of pulses with the pulses from the master station.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Loran_stations
+      They are (1) a master station which initiates a continuous train of pulses and (2) a slave station which synchronises a continuous train of pulses with the pulses from the master station.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Loran_stations

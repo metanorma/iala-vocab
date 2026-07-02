@@ -10,69 +10,71 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Focal_Distance
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-2-160
+    id: 2-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-2-160
+    id: 2-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-2-160
+    id: 2-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-2-160
+    id: 2-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-2-160
+    id: 2-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-2-160
+    id: 2-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-2-160
+    id: 2-2-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-2-160
+    id: 2-2-160
 ---
 id: 2-2-160-eng
 termid: 2-2-160
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Focal Distance
-  normative_status: preferred
-- type: expression
-  designation: Focal Length
-  normative_status: admitted
-definition:
-- content: |-
-    1. (Of a lens, other than a fixed lens, or of a focusing reflector).
+  terms:
+  - type: expression
+    designation: Focal Distance
+    normative_status: preferred
+  - type: expression
+    designation: Focal Length
+    normative_status: admitted
+  definition:
+  - content: |-
+      1. (Of a lens, other than a fixed lens, or of a focusing reflector).
 
-    The distance measured along the optical axis of the lens or reflector between the focus and (in practice) the point where the optical axis intersects the nearer surface of the lens or reflector.
+      The distance measured along the optical axis of the lens or reflector between the focus and (in practice) the point where the optical axis intersects the nearer surface of the lens or reflector.
 
-    ![Ch2_Fig10.jpg](/iala-vocab/images/iala/Ch2_Fig10.jpg)
+      ![Ch2_Fig10.jpg](/iala-vocab/images/iala/Ch2_Fig10.jpg)
 
-    2. (Of a fixed lens).
+      2. (Of a fixed lens).
 
-    The distance, measured along a straight line through the focus and normal to the axis {{2-2-115, Axis (of a fixed lens)}}, between the focus and (in practice) the point where the line intersects the inner surface of the lens. (Fig. 16b)
+      The distance, measured along a straight line through the focus and normal to the axis {{2-2-115, Axis (of a fixed lens)}}, between the focus and (in practice) the point where the line intersects the inner surface of the lens. (Fig. 16b)
 
-    ![Ch2_Fig16b.jpg](/iala-vocab/images/iala/Ch2_Fig16b.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Focal_Distance
+      ![Ch2_Fig16b.jpg](/iala-vocab/images/iala/Ch2_Fig16b.jpg)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Focal_Distance

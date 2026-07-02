@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Top_loaded_antenna
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-455
+    id: 4-1-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-455
+    id: 4-1-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-455
+    id: 4-1-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-455
+    id: 4-1-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-455
+    id: 4-1-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-455
+    id: 4-1-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-455
+    id: 4-1-455
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-455
+    id: 4-1-455
 ---
 id: 4-1-455-eng
 termid: 4-1-455
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Top loaded antenna
-  normative_status: preferred
-definition:
-- content: A vertical antenna capacitively loaded at its upper end. The loading is
-    often achieved by the attachment of wires or of a metal plate to the top of the
-    antenna.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Top_loaded_antenna
+  terms:
+  - type: expression
+    designation: Top loaded antenna
+    normative_status: preferred
+  definition:
+  - content: A vertical antenna capacitively loaded at its upper end. The loading
+      is often achieved by the attachment of wires or of a metal plate to the top
+      of the antenna.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Top_loaded_antenna

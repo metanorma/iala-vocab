@@ -10,62 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Focus_(of_a_fixed_lens)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-2-105
+    id: 2-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-2-105
+    id: 2-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-2-105
+    id: 2-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-2-105
+    id: 2-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-2-105
+    id: 2-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-2-105
+    id: 2-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-2-105
+    id: 2-2-105
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-2-105
+    id: 2-2-105
 ---
 id: 2-2-105-eng
 termid: 2-2-105
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Focus (of a fixed lens)
-  normative_status: preferred
-definition:
-- content: |-
-    The point of intersection of the axis of the lens {{2-2-115, Axis (of a fixed lens)}} and the median horizontal plane through the belt. A ray of light emitted by a point source situated at this point is re-directed by an element of the lens into a direction normal to the axis of the lens. (Figs. 16b and 18)
+  terms:
+  - type: expression
+    designation: Focus (of a fixed lens)
+    normative_status: preferred
+  definition:
+  - content: |-
+      The point of intersection of the axis of the lens {{2-2-115, Axis (of a fixed lens)}} and the median horizontal plane through the belt. A ray of light emitted by a point source situated at this point is re-directed by an element of the lens into a direction normal to the axis of the lens. (Figs. 16b and 18)
 
-    ![Ch2_Fig16b.jpg](/iala-vocab/images/iala/Ch2_Fig16b.jpg)
+      ![Ch2_Fig16b.jpg](/iala-vocab/images/iala/Ch2_Fig16b.jpg)
 
-    ![Ch2_Fig18.jpg](/iala-vocab/images/iala/Ch2_Fig18.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The term "focus" in its more general and correct sense is given in 2-1-125.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Focus_(of_a_fixed_lens)
+      ![Ch2_Fig18.jpg](/iala-vocab/images/iala/Ch2_Fig18.jpg)
+  notes:
+  - content: The term "focus" in its more general and correct sense is given in 2-1-125.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Focus_(of_a_fixed_lens)

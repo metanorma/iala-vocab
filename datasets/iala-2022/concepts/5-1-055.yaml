@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Corrective_maintenance
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-1-055
+    id: 5-1-055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-1-055
+    id: 5-1-055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-1-055
+    id: 5-1-055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-1-055
+    id: 5-1-055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-1-055
+    id: 5-1-055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-1-055
+    id: 5-1-055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-1-055
+    id: 5-1-055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-1-055
+    id: 5-1-055
 ---
 id: 5-1-055-eng
 termid: 5-1-055
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Corrective maintenance
-  normative_status: preferred
-definition:
-- content: After the failure of an item, the actions performed to restore it to a
-    specified condition.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Corrective_maintenance
+  terms:
+  - type: expression
+    designation: Corrective maintenance
+    normative_status: preferred
+  definition:
+  - content: After the failure of an item, the actions performed to restore it to
+      a specified condition.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Corrective_maintenance

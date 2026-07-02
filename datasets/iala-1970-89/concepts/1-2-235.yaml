@@ -10,60 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Bar
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-2-235
+    id: 1-2-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-2-235
+    id: 1-2-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-2-235
+    id: 1-2-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-2-235
+    id: 1-2-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-2-235
+    id: 1-2-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-2-235
+    id: 1-2-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-2-235
+    id: 1-2-235
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-2-235
+    id: 1-2-235
 ---
 id: 1-2-235-eng
 termid: 1-2-235
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Bar
-  normative_status: preferred
-definition:
-- content: A shoal across the mouth of a river, harbour or shipping channel that may
-    at times obstruct navigation.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.H.B
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bar
+  terms:
+  - type: expression
+    designation: Bar
+    normative_status: preferred
+  definition:
+  - content: A shoal across the mouth of a river, harbour or shipping channel that
+      may at times obstruct navigation.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.H.B
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bar

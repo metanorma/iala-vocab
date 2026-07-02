@@ -10,59 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Insulating_material
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-6-100
+    id: 6-6-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-6-100
+    id: 6-6-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-6-100
+    id: 6-6-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-6-100
+    id: 6-6-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-6-100
+    id: 6-6-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-6-100
+    id: 6-6-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-6-100
+    id: 6-6-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-6-100
+    id: 6-6-100
 ---
 id: 6-6-100-eng
 termid: 6-6-100
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Insulating material
-  normative_status: preferred
-- type: expression
-  designation: Insulant
-  normative_status: admitted
-definition:
-- content: A substance or body the conductivity of which is very small, theoretically
-    zero.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Insulating_material
+  terms:
+  - type: expression
+    designation: Insulating material
+    normative_status: preferred
+  - type: expression
+    designation: Insulant
+    normative_status: admitted
+  definition:
+  - content: A substance or body the conductivity of which is very small, theoretically
+      zero.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Insulating_material

@@ -10,60 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Crossbar_switch
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-4-270
+    id: 5-4-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-4-270
+    id: 5-4-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-4-270
+    id: 5-4-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-4-270
+    id: 5-4-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-4-270
+    id: 5-4-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-4-270
+    id: 5-4-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 5-4-270
+    id: 5-4-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-4-270
+    id: 5-4-270
 ---
 id: 5-4-270-eng
 termid: 5-4-270
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Crossbar switch
-  normative_status: preferred
-definition:
-- content: A switch having a plurality of vertical paths, a plurality of horizontal
-    paths, and an electromagnetically operated means of interconnecting any one of
-    the vertical paths with any one of the horizontal paths.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Crossbar_switch
+  terms:
+  - type: expression
+    designation: Crossbar switch
+    normative_status: preferred
+  definition:
+  - content: A switch having a plurality of vertical paths, a plurality of horizontal
+      paths, and an electromagnetically operated means of interconnecting any one
+      of the vertical paths with any one of the horizontal paths.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Crossbar_switch

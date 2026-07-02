@@ -10,27 +10,29 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Training_Organisation
 ---
 id: training-organisation-eng
 termid: training-organisation
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Training Organisation
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0901036e
+  terms:
+  - type: expression
+    designation: Training Organisation
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0901036e
 
-    An entity accredited by the competent authority and approved to deliver one or more IALA model courses.
+      An entity accredited by the competent authority and approved to deliver one or more IALA model courses.
 
-    Source: IALA Guideline G1014 Accreditation of VTS training organizations and approval to deliver IALA VTS model courses
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Training_Organisation
+      Source: IALA Guideline G1014 Accreditation of VTS training organizations and approval to deliver IALA VTS model courses
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Training_Organisation

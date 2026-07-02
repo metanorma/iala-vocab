@@ -10,25 +10,27 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Canal
 ---
 id: canal-eng
 termid: canal
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Canal
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0102185e
+  terms:
+  - type: expression
+    designation: Canal
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0102185e
 
-    A narrow stretch of waterway created artificially to serve navigation.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Canal
+      A narrow stretch of waterway created artificially to serve navigation.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Canal

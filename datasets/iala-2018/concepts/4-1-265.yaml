@@ -10,63 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Antenna_radiation_resistance
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-265
+    id: 4-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-265
+    id: 4-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-265
+    id: 4-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-265
+    id: 4-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-265
+    id: 4-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-265
+    id: 4-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-265
+    id: 4-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-265
+    id: 4-1-265
 ---
 id: 4-1-265-eng
 termid: 4-1-265
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Antenna radiation resistance
-  normative_status: preferred
-definition:
-- content: For any given reference point on the antenna, the power radiated by the
-    antenna divided by the mean square value of the current at the reference point.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-  modification: modified from source
-notes:
-- content: The reference point is usually the feed point or a current antinode. It
-    should always be specified.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Antenna_radiation_resistance
+  terms:
+  - type: expression
+    designation: Antenna radiation resistance
+    normative_status: preferred
+  definition:
+  - content: For any given reference point on the antenna, the power radiated by the
+      antenna divided by the mean square value of the current at the reference point.
+  notes:
+  - content: The reference point is usually the feed point or a current antinode.
+      It should always be specified.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Antenna_radiation_resistance

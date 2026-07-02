@@ -10,62 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Tidal_cycle
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-4-090
+    id: 7-4-090
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-4-090
+    id: 7-4-090
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-4-090
+    id: 7-4-090
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-4-090
+    id: 7-4-090
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-4-090
+    id: 7-4-090
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-4-090
+    id: 7-4-090
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-4-090
+    id: 7-4-090
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-4-090
+    id: 7-4-090
 ---
 id: 7-4-090-eng
 termid: 7-4-090
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Tidal cycle
-  normative_status: preferred
-- type: expression
-  designation: Tidal wave (USA)
-  normative_status: admitted
-definition:
-- content: Predictable variation in the height of the sea level due to the effects
-    of the moon, and to a lesser extent the sun, influenced by the rotation of the
-    earth.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: A rising tide is called a flood tide and a falling tide an ebb tide.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tidal_cycle
+  terms:
+  - type: expression
+    designation: Tidal cycle
+    normative_status: preferred
+  - type: expression
+    designation: Tidal wave (USA)
+    normative_status: admitted
+  definition:
+  - content: Predictable variation in the height of the sea level due to the effects
+      of the moon, and to a lesser extent the sun, influenced by the rotation of the
+      earth.
+  notes:
+  - content: A rising tide is called a flood tide and a falling tide an ebb tide.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tidal_cycle

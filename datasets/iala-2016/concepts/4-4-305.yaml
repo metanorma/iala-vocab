@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Shoran
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-4-305
+    id: 4-4-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-4-305
+    id: 4-4-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-4-305
+    id: 4-4-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-4-305
+    id: 4-4-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-4-305
+    id: 4-4-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-4-305
+    id: 4-4-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-4-305
+    id: 4-4-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-4-305
+    id: 4-4-305
 ---
 id: 4-4-305-eng
 termid: 4-4-305
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Shoran
-  normative_status: preferred
-definition:
-- content: |-
-    A pulse transponder circular co-ordinate (range-range or rho-rho) system of high accuracy which is used principally in survey work. Operation is generally in the lower part of the UHF band and therefore in line-of-sight.
+  terms:
+  - type: expression
+    designation: Shoran
+    normative_status: preferred
+  definition:
+  - content: |-
+      A pulse transponder circular co-ordinate (range-range or rho-rho) system of high accuracy which is used principally in survey work. Operation is generally in the lower part of the UHF band and therefore in line-of-sight.
 
-    Two shore stations suitably separated from each other are interrogated by the vessel on two rapidly alternated frequencies in order to avoid interference between the responding pulses of the shore stations. The shore stations respond on a third frequency.
+      Two shore stations suitably separated from each other are interrogated by the vessel on two rapidly alternated frequencies in order to avoid interference between the responding pulses of the shore stations. The shore stations respond on a third frequency.
 
-    The instrumental readout is presented directly in miles or parts thereof. By employing slightly different pulse repetition rates as many as 20 vessels can be accommodated simultaneously.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Shoran
+      The instrumental readout is presented directly in miles or parts thereof. By employing slightly different pulse repetition rates as many as 20 vessels can be accommodated simultaneously.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Shoran

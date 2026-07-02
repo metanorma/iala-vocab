@@ -10,62 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Volume_velocity
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 3-1-085
+    id: 3-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 3-1-085
+    id: 3-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 3-1-085
+    id: 3-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 3-1-085
+    id: 3-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 3-1-085
+    id: 3-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 3-1-085
+    id: 3-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 3-1-085
+    id: 3-1-085
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 3-1-085
+    id: 3-1-085
 ---
 id: 3-1-085-eng
 termid: 3-1-085
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Volume velocity
-  normative_status: preferred
-- type: expression
-  designation: Volume velocity (across a surface element)
-  normative_status: admitted
-definition:
-- content: The product of the area of the surface element and the component of the
-    sound particle velocity perpendicular to the surface.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Volume_velocity
+  terms:
+  - type: expression
+    designation: Volume velocity
+    normative_status: preferred
+  - type: expression
+    designation: Volume velocity (across a surface element)
+    normative_status: admitted
+  definition:
+  - content: The product of the area of the surface element and the component of the
+      sound particle velocity perpendicular to the surface.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Volume_velocity

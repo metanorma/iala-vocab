@@ -10,59 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Detector
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-795
+    id: 4-1-795
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-795
+    id: 4-1-795
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-795
+    id: 4-1-795
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-795
+    id: 4-1-795
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-795
+    id: 4-1-795
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-795
+    id: 4-1-795
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-795
+    id: 4-1-795
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-795
+    id: 4-1-795
 ---
 id: 4-1-795-eng
 termid: 4-1-795
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Detector
-  normative_status: preferred
-definition:
-- content: That part of a receiver in which the information content is extracted from
-    the modulated signal.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Detector
+  terms:
+  - type: expression
+    designation: Detector
+    normative_status: preferred
+  definition:
+  - content: That part of a receiver in which the information content is extracted
+      from the modulated signal.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Detector

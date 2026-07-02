@@ -10,64 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Dioptric
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-2-060
+    id: 2-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-2-060
+    id: 2-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-2-060
+    id: 2-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-2-060
+    id: 2-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-2-060
+    id: 2-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-2-060
+    id: 2-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-2-060
+    id: 2-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-2-060
+    id: 2-2-060
 ---
 id: 2-2-060-eng
 termid: 2-2-060
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Dioptric
-  normative_status: preferred
-definition:
-- content: |-
-    The property of those optical elements which alter the direction of a light ray from its original direction by refraction only. (Figs. 10, 11a and 16)
+  terms:
+  - type: expression
+    designation: Dioptric
+    normative_status: preferred
+  definition:
+  - content: |-
+      The property of those optical elements which alter the direction of a light ray from its original direction by refraction only. (Figs. 10, 11a and 16)
 
-    ![Ch2_Fig10.jpg](/iala-vocab/images/iala/Ch2_Fig10.jpg)
+      ![Ch2_Fig10.jpg](/iala-vocab/images/iala/Ch2_Fig10.jpg)
 
-    ![Ch2_Fig11.jpg](/iala-vocab/images/iala/Ch2_Fig11.jpg)
+      ![Ch2_Fig11.jpg](/iala-vocab/images/iala/Ch2_Fig11.jpg)
 
-    ![Ch2_Fig16a.jpg](/iala-vocab/images/iala/Ch2_Fig16a.jpg)
+      ![Ch2_Fig16a.jpg](/iala-vocab/images/iala/Ch2_Fig16a.jpg)
 
-    ![Ch2_Fig16b.jpg](/iala-vocab/images/iala/Ch2_Fig16b.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Dioptric
+      ![Ch2_Fig16b.jpg](/iala-vocab/images/iala/Ch2_Fig16b.jpg)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Dioptric

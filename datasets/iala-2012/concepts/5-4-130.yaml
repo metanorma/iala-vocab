@@ -10,64 +10,67 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Synchro_resolver
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-4-130
+    id: 5-4-130
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-4-130
+    id: 5-4-130
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-4-130
+    id: 5-4-130
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-4-130
+    id: 5-4-130
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-4-130
+    id: 5-4-130
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-4-130
+    id: 5-4-130
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 5-4-130
+    id: 5-4-130
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-4-130
+    id: 5-4-130
 ---
 id: 5-4-130-eng
 termid: 5-4-130
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Synchro resolver
-  normative_status: preferred
-definition:
-- content: |-
-    Magslip resolver
+  terms:
+  - type: expression
+    designation: Synchro resolver
+    normative_status: preferred
+  definition:
+  - content: |-
+      Magslip resolver
 
-    Resolver
+      Resolver
 
-    A synchro used as a calculating element in the special case of two output signals corresponding to the sine and cosine of the synchro angle and to the value of the input signal. Conversely, a synchro resolver may be used to transmit an output signal obtained by compounding two input signals respectively proportional to the sine and cosine of the synchro angle.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Synchro_resolver
+      A synchro used as a calculating element in the special case of two output signals corresponding to the sine and cosine of the synchro angle and to the value of the input signal. Conversely, a synchro resolver may be used to transmit an output signal obtained by compounding two input signals respectively proportional to the sine and cosine of the synchro angle.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Synchro_resolver

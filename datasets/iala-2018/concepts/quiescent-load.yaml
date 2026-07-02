@@ -10,36 +10,38 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Quiescent_Load
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: quiescent-load
+    id: quiescent-load
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: quiescent-load
+    id: quiescent-load
 ---
 id: quiescent-load-eng
 termid: quiescent-load
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Quiescent Load
-  normative_status: preferred
-definition:
-- content: |-
-    Quiescent load is the power requirement of a piece of equipment which is idle, listening or monitoring.
+  terms:
+  - type: expression
+    designation: Quiescent Load
+    normative_status: preferred
+  definition:
+  - content: |-
+      Quiescent load is the power requirement of a piece of equipment which is idle, listening or monitoring.
 
-    Transceivers generally have different load profiles when transmitting and when listening.  Charge controllers typically consume more power during the day when the power electronics are energised, than at night or when the battery is fully charged.
+      Transceivers generally have different load profiles when transmitting and when listening.  Charge controllers typically consume more power during the day when the power electronics are energised, than at night or when the battery is fully charged.
 
-    Source: ENG7, Guideline G1067-1 (2017)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Quiescent_Load
+      Source: ENG7, Guideline G1067-1 (2017)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Quiescent_Load

@@ -10,34 +10,36 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Confirmation_of_an_AtoN_Light
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: confirmation-of-an-aton-light
+    id: confirmation-of-an-aton-light
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: confirmation-of-an-aton-light
+    id: confirmation-of-an-aton-light
 ---
 id: confirmation-of-an-aton-light-eng
 termid: confirmation-of-an-aton-light
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Confirmation of an AtoN Light
-  normative_status: preferred
-definition:
-- content: |-
-    The following terms are used when considering the conspicuity of AtoN lights at night.
+  terms:
+  - type: expression
+    designation: Confirmation of an AtoN Light
+    normative_status: preferred
+  definition:
+  - content: |-
+      The following terms are used when considering the conspicuity of AtoN lights at night.
 
-    Source: ENG7, Guideline G1073
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Confirmation_of_an_AtoN_Light
+      Source: ENG7, Guideline G1073
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Confirmation_of_an_AtoN_Light

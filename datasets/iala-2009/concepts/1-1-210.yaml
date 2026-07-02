@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Angle_of_reflection
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-1-210
+    id: 1-1-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-1-210
+    id: 1-1-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-1-210
+    id: 1-1-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-1-210
+    id: 1-1-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-1-210
+    id: 1-1-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-1-210
+    id: 1-1-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-1-210
+    id: 1-1-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-1-210
+    id: 1-1-210
 ---
 id: 1-1-210-eng
 termid: 1-1-210
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Angle of reflection
-  normative_status: preferred
-definition:
-- content: The angle that the direction of reflected energy makes with the normal
-    to the reflecting surface. This angle is only well defined in the case of specular
-    reflection.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Angle_of_reflection
+  terms:
+  - type: expression
+    designation: Angle of reflection
+    normative_status: preferred
+  definition:
+  - content: The angle that the direction of reflected energy makes with the normal
+      to the reflecting surface. This angle is only well defined in the case of specular
+      reflection.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Angle_of_reflection

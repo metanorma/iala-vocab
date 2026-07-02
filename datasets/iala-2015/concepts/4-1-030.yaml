@@ -10,63 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Assigned_frequency
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-030
+    id: 4-1-030
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-030
+    id: 4-1-030
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-030
+    id: 4-1-030
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-030
+    id: 4-1-030
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-030
+    id: 4-1-030
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-030
+    id: 4-1-030
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-030
+    id: 4-1-030
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-030
+    id: 4-1-030
 ---
 id: 4-1-030-eng
 termid: 4-1-030
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Assigned frequency
-  normative_status: preferred
-definition:
-- content: |-
-    Channel frequency (deprecated)
+  terms:
+  - type: expression
+    designation: Assigned frequency
+    normative_status: preferred
+  definition:
+  - content: |-
+      Channel frequency (deprecated)
 
-    Centre frequency (deprecated)
+      Centre frequency (deprecated)
 
-    The centre of the frequency band assigned to a station.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.T.U
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Assigned_frequency
+      The centre of the frequency band assigned to a station.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.T.U
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Assigned_frequency

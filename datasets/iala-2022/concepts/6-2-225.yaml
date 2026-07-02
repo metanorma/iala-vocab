@@ -10,56 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Octane_number_(of_petrol)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-2-225
+    id: 6-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-2-225
+    id: 6-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-2-225
+    id: 6-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-2-225
+    id: 6-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-2-225
+    id: 6-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-2-225
+    id: 6-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-2-225
+    id: 6-2-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-2-225
+    id: 6-2-225
 ---
 id: 6-2-225-eng
 termid: 6-2-225
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Octane number (of petrol)
-  normative_status: preferred
-definition:
-- content: A number indicating the capacity of petrol to avoid knocking. Petrol intended
-    for use in an engine of high compression ratio must have a high octane number.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Octane_number_(of_petrol)
+  terms:
+  - type: expression
+    designation: Octane number (of petrol)
+    normative_status: preferred
+  definition:
+  - content: A number indicating the capacity of petrol to avoid knocking. Petrol
+      intended for use in an engine of high compression ratio must have a high octane
+      number.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Octane_number_(of_petrol)

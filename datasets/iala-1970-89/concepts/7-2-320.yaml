@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Flange_(of_a_tube_or_pipe)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-2-320
+    id: 7-2-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-2-320
+    id: 7-2-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-2-320
+    id: 7-2-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-2-320
+    id: 7-2-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-2-320
+    id: 7-2-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-2-320
+    id: 7-2-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-2-320
+    id: 7-2-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-2-320
+    id: 7-2-320
 ---
 id: 7-2-320-eng
 termid: 7-2-320
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Flange (of a tube or pipe)
-  normative_status: preferred
-definition:
-- content: A disc fitted to the end of a tube or pipe to permit its connection to
-    another tube or pipe.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Flange_(of_a_tube_or_pipe)
+  terms:
+  - type: expression
+    designation: Flange (of a tube or pipe)
+    normative_status: preferred
+  definition:
+  - content: A disc fitted to the end of a tube or pipe to permit its connection to
+      another tube or pipe.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Flange_(of_a_tube_or_pipe)

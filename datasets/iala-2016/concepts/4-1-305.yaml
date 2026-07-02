@@ -10,61 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Fraunhofer_region
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-305
+    id: 4-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-305
+    id: 4-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-305
+    id: 4-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-305
+    id: 4-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-305
+    id: 4-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-305
+    id: 4-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-305
+    id: 4-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-305
+    id: 4-1-305
 ---
 id: 4-1-305-eng
 termid: 4-1-305
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Fraunhofer region
-  normative_status: preferred
-definition:
-- content: For a transmitting antenna system, the region which is sufficiently remote
-    from the antenna system for the wavelets arriving from the various parts of the
-    system to be considered to follow parallel paths.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fraunhofer_region
+  terms:
+  - type: expression
+    designation: Fraunhofer region
+    normative_status: preferred
+  definition:
+  - content: For a transmitting antenna system, the region which is sufficiently remote
+      from the antenna system for the wavelets arriving from the various parts of
+      the system to be considered to follow parallel paths.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fraunhofer_region

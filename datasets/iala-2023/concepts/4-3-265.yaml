@@ -10,59 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Blip
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-3-265
+    id: 4-3-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-3-265
+    id: 4-3-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-3-265
+    id: 4-3-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-3-265
+    id: 4-3-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-3-265
+    id: 4-3-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-3-265
+    id: 4-3-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-3-265
+    id: 4-3-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-3-265
+    id: 4-3-265
 ---
 id: 4-3-265-eng
 termid: 4-3-265
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Blip
-  normative_status: preferred
-definition:
-- content: On a radar display, a deflection or spot of contrasting luminescence caused
-    by the presence of a target.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.R.E
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Blip
+  terms:
+  - type: expression
+    designation: Blip
+    normative_status: preferred
+  definition:
+  - content: On a radar display, a deflection or spot of contrasting luminescence
+      caused by the presence of a target.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.R.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Blip

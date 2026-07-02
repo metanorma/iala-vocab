@@ -10,62 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Pick-up_factor
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-2-195
+    id: 4-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-195
+    id: 4-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-2-195
+    id: 4-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-195
+    id: 4-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-2-195
+    id: 4-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-2-195
+    id: 4-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-2-195
+    id: 4-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-195
+    id: 4-2-195
 ---
 id: 4-2-195-eng
 termid: 4-2-195
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Pick-up factor
-  normative_status: preferred
-definition:
-- content: For a specified antenna or combination of antennas connected to a receiver
-    of a direction finder, the ratio of the receiver input voltage to the field strength
-    of the received wave, taking into account input impedance, and any variable component
-    between the antenna and the receiver, the direction and polarization of the wave
-    being specified.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pick-up_factor
+  terms:
+  - type: expression
+    designation: Pick-up factor
+    normative_status: preferred
+  definition:
+  - content: For a specified antenna or combination of antennas connected to a receiver
+      of a direction finder, the ratio of the receiver input voltage to the field
+      strength of the received wave, taking into account input impedance, and any
+      variable component between the antenna and the receiver, the direction and polarization
+      of the wave being specified.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pick-up_factor

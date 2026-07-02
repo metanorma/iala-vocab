@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Percentage_of_Visibility
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-1-305
+    id: 2-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-305
+    id: 2-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-305
+    id: 2-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-305
+    id: 2-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-305
+    id: 2-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-305
+    id: 2-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-305
+    id: 2-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-1-305
+    id: 2-1-305
 ---
 id: 2-1-305-eng
 termid: 2-1-305
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Percentage of Visibility
-  normative_status: preferred
-definition:
-- content: The percentage of nights during which a light is seen from a given point
-    during a given period.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Percentage_of_Visibility
+  terms:
+  - type: expression
+    designation: Percentage of Visibility
+    normative_status: preferred
+  definition:
+  - content: The percentage of nights during which a light is seen from a given point
+      during a given period.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Percentage_of_Visibility

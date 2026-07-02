@@ -10,59 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Phase
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-1-320
+    id: 1-1-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-1-320
+    id: 1-1-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-1-320
+    id: 1-1-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-1-320
+    id: 1-1-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-1-320
+    id: 1-1-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-1-320
+    id: 1-1-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-1-320
+    id: 1-1-320
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-1-320
+    id: 1-1-320
 ---
 id: 1-1-320-eng
 termid: 1-1-320
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Phase
-  normative_status: preferred
-- type: expression
-  designation: Phase (of a sinusoidal quantity)
-  normative_status: admitted
-definition:
-- content: Angular distance between a defined point and the point corresponding to
-    a defined state of oscillation.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Phase
+  terms:
+  - type: expression
+    designation: Phase
+    normative_status: preferred
+  - type: expression
+    designation: Phase (of a sinusoidal quantity)
+    normative_status: admitted
+  definition:
+  - content: Angular distance between a defined point and the point corresponding
+      to a defined state of oscillation.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Phase

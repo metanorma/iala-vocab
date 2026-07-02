@@ -10,59 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Slewing_guy
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 8-3-050
+    id: 8-3-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 8-3-050
+    id: 8-3-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 8-3-050
+    id: 8-3-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 8-3-050
+    id: 8-3-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 8-3-050
+    id: 8-3-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 8-3-050
+    id: 8-3-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 8-3-050
+    id: 8-3-050
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 8-3-050
+    id: 8-3-050
 ---
 id: 8-3-050-eng
 termid: 8-3-050
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Slewing guy
-  normative_status: preferred
-- type: expression
-  designation: Vang (USA)
-  normative_status: admitted
-definition:
-- content: The tackle leading from each side of the top of a derrick for steadying
-    purposes and for slewing.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Slewing_guy
+  terms:
+  - type: expression
+    designation: Slewing guy
+    normative_status: preferred
+  - type: expression
+    designation: Vang (USA)
+    normative_status: admitted
+  definition:
+  - content: The tackle leading from each side of the top of a derrick for steadying
+      purposes and for slewing.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Slewing_guy

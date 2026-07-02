@@ -10,64 +10,67 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Stationary_wave
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-1-250
+    id: 1-1-250
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-1-250
+    id: 1-1-250
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-1-250
+    id: 1-1-250
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-1-250
+    id: 1-1-250
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-1-250
+    id: 1-1-250
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-1-250
+    id: 1-1-250
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-1-250
+    id: 1-1-250
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-1-250
+    id: 1-1-250
 ---
 id: 1-1-250-eng
 termid: 1-1-250
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Stationary wave
-  normative_status: preferred
-- type: expression
-  designation: Standing wave
-  normative_status: admitted
-definition:
-- content: A state of vibration in which the oscillatory phenomena at all points are
-    governed by the same time function, with the exception of a numerical factor,
-    varying from one point to another.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Stationary_wave
+  terms:
+  - type: expression
+    designation: Stationary wave
+    normative_status: preferred
+  - type: expression
+    designation: Standing wave
+    normative_status: admitted
+  definition:
+  - content: A state of vibration in which the oscillatory phenomena at all points
+      are governed by the same time function, with the exception of a numerical factor,
+      varying from one point to another.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Stationary_wave

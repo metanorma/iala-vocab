@@ -10,61 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_-_Continuous_carrier
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-2-040
+    id: 4-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-040
+    id: 4-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-2-040
+    id: 4-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-040
+    id: 4-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-2-040
+    id: 4-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-2-040
+    id: 4-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-2-040
+    id: 4-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-040
+    id: 4-2-040
 ---
 id: 4-2-040-eng
 termid: 4-2-040
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Radio beacon - Continuous carrier
-  normative_status: preferred
-definition:
-- content: |-
-    Continuous carrier radio beacon
+  terms:
+  - type: expression
+    designation: Radio beacon - Continuous carrier
+    normative_status: preferred
+  definition:
+  - content: |-
+      Continuous carrier radio beacon
 
-    A radio beacon, the carrier of which is unbroken but which is modulated with the identification signal.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The continuous carrier improves the performance of automatic direction
-    finders.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_-_Continuous_carrier
+      A radio beacon, the carrier of which is unbroken but which is modulated with the identification signal.
+  notes:
+  - content: The continuous carrier improves the performance of automatic direction
+      finders.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_-_Continuous_carrier

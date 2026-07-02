@@ -10,25 +10,27 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Absolute_accuracy
 ---
 id: absolute-accuracy-eng
 termid: absolute-accuracy
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Absolute accuracy
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0401501e
+  terms:
+  - type: expression
+    designation: Absolute accuracy
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0401501e
 
-    The accuracy of a position estimate with respect to the geographic or geodetic co-ordinates of the Earth
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Absolute_accuracy
+      The accuracy of a position estimate with respect to the geographic or geodetic co-ordinates of the Earth
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Absolute_accuracy

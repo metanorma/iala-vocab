@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Busbar
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-6-165
+    id: 6-6-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-6-165
+    id: 6-6-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-6-165
+    id: 6-6-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-6-165
+    id: 6-6-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-6-165
+    id: 6-6-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-6-165
+    id: 6-6-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-6-165
+    id: 6-6-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-6-165
+    id: 6-6-165
 ---
 id: 6-6-165-eng
 termid: 6-6-165
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Busbar
-  normative_status: preferred
-definition:
-- content: A conductor, usually in the form of a solid metal bar, used in a cubicle
-    or in a building to distribute heavy currents round a system, such that supplies
-    and loads can be connected at convenient positions.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Busbar
+  terms:
+  - type: expression
+    designation: Busbar
+    normative_status: preferred
+  definition:
+  - content: A conductor, usually in the form of a solid metal bar, used in a cubicle
+      or in a building to distribute heavy currents round a system, such that supplies
+      and loads can be connected at convenient positions.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Busbar

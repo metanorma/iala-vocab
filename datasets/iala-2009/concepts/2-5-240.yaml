@@ -10,63 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Direction_Light_(2)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-5-240
+    id: 2-5-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-5-240
+    id: 2-5-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-5-240
+    id: 2-5-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-5-240
+    id: 2-5-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-5-240
+    id: 2-5-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-5-240
+    id: 2-5-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-5-240
+    id: 2-5-240
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-5-240
+    id: 2-5-240
 ---
 id: 2-5-240-eng
 termid: 2-5-240
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Direction Light (2)
-  normative_status: preferred
-- type: expression
-  designation: Single Station Range Light (U.S.A.)
-  normative_status: admitted
-definition:
-- content: |-
-    A direction light {{2-5-235, Direction Light}} bounded by other sectors of different character which define its margins with small angles of uncertainty.
+  terms:
+  - type: expression
+    designation: Direction Light (2)
+    normative_status: preferred
+  - type: expression
+    designation: Single Station Range Light (U.S.A.)
+    normative_status: admitted
+  definition:
+  - content: |-
+      A direction light {{2-5-235, Direction Light}} bounded by other sectors of different character which define its margins with small angles of uncertainty.
 
-    Most commonly the bounding sectors are of different colours (red and green). (Fig.46b)
+      Most commonly the bounding sectors are of different colours (red and green). (Fig.46b)
 
-    ![Ch2_Fig46b.jpg](/iala-vocab/images/iala/Ch2_Fig46b.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Direction_Light_(2)
+      ![Ch2_Fig46b.jpg](/iala-vocab/images/iala/Ch2_Fig46b.jpg)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Direction_Light_(2)

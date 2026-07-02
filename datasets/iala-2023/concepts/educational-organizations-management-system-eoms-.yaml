@@ -10,28 +10,30 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Educational_organizations_management_system_(EOMS)
 ---
 id: educational-organizations-management-system-eoms--eng
 termid: educational-organizations-management-system-eoms-
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Educational organizations management system (EOMS)
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0901111e
+  terms:
+  - type: expression
+    designation: Educational organizations management system (EOMS)
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0901111e
 
-    Educational organizations management system (EOMS) is a quality management system for an educational organization. The International Organization for Standardization (ISO) has issued ISO Standard 21001:2018 on Educational organizations – management systems for educational organizations – requirements with guidance for use.
+      Educational organizations management system (EOMS) is a quality management system for an educational organization. The International Organization for Standardization (ISO) has issued ISO Standard 21001:2018 on Educational organizations – management systems for educational organizations – requirements with guidance for use.
 
-    Source:
-    IALA Guideline G1014 Accreditation of VTS training organizations and approval to deliver IALA VTS model courses, section 3.1.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Educational_organizations_management_system_(EOMS)
+      Source:
+      IALA Guideline G1014 Accreditation of VTS training organizations and approval to deliver IALA VTS model courses, section 3.1.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Educational_organizations_management_system_(EOMS)

@@ -10,24 +10,26 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Bearing_(angle)
 ---
 id: bearing-angle--eng
 termid: bearing-angle-
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Bearing (angle)
-  normative_status: preferred
-definition:
-- content: Bearing (angle) – is the limits of light sectors and areas of visibility
-    of lights, and alignments of leading lights and directional lights, are given
-    as bearings from seaward. The bearings of sectors are given in clockwise order.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bearing_(angle)
+  terms:
+  - type: expression
+    designation: Bearing (angle)
+    normative_status: preferred
+  definition:
+  - content: Bearing (angle) – is the limits of light sectors and areas of visibility
+      of lights, and alignments of leading lights and directional lights, are given
+      as bearings from seaward. The bearings of sectors are given in clockwise order.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bearing_(angle)

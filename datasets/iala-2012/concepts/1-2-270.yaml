@@ -10,65 +10,68 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Pier
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-2-270
+    id: 1-2-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-2-270
+    id: 1-2-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-2-270
+    id: 1-2-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-2-270
+    id: 1-2-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-2-270
+    id: 1-2-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-2-270
+    id: 1-2-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-2-270
+    id: 1-2-270
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-2-270
+    id: 1-2-270
 ---
 id: 1-2-270-eng
 termid: 1-2-270
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Pier
-  normative_status: preferred
-- type: expression
-  designation: Jetty
-  normative_status: admitted
-definition:
-- content: A structure extending into the water approximately perpendicular to a shore
-    or a bank and providing berthing for ships, and which may also provide cargo-handling
-    facilities.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: A pier or jetty providing cargo-handling facilities may also be called
-    a wharf.
-- content: In French the term mole is also sometimes used in place of the term "brise-lames",
-    for a breakwater {{1-2-250, Breakwater}} when it protects the entrance of a harbour.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pier
+  terms:
+  - type: expression
+    designation: Pier
+    normative_status: preferred
+  - type: expression
+    designation: Jetty
+    normative_status: admitted
+  definition:
+  - content: A structure extending into the water approximately perpendicular to a
+      shore or a bank and providing berthing for ships, and which may also provide
+      cargo-handling facilities.
+  notes:
+  - content: A pier or jetty providing cargo-handling facilities may also be called
+      a wharf.
+  - content: In French the term mole is also sometimes used in place of the term "brise-lames",
+      for a breakwater {{1-2-250, Breakwater}} when it protects the entrance of a
+      harbour.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pier

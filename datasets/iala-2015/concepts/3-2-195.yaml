@@ -10,61 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Electrodynamic_emitter_-_Driver
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 3-2-195
+    id: 3-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 3-2-195
+    id: 3-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 3-2-195
+    id: 3-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 3-2-195
+    id: 3-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 3-2-195
+    id: 3-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 3-2-195
+    id: 3-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 3-2-195
+    id: 3-2-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 3-2-195
+    id: 3-2-195
 ---
 id: 3-2-195-eng
 termid: 3-2-195
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Electrodynamic emitter - Driver
-  normative_status: preferred
-definition:
-- content: |-
-    Driver (in an electrodynamic emitter) (U.S.A.)
+  terms:
+  - type: expression
+    designation: Electrodynamic emitter - Driver
+    normative_status: preferred
+  definition:
+  - content: |-
+      Driver (in an electrodynamic emitter) (U.S.A.)
 
-    An assembly comprising the active part of the electrodynamic emitter unit to which the horn is attached.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The terms "Moteur" and "Corps" in French, and "Antrieb" in German apply
-    to any form of sound emitter.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Electrodynamic_emitter_-_Driver
+      An assembly comprising the active part of the electrodynamic emitter unit to which the horn is attached.
+  notes:
+  - content: The terms "Moteur" and "Corps" in French, and "Antrieb" in German apply
+      to any form of sound emitter.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Electrodynamic_emitter_-_Driver

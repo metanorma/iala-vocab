@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/To_level_(surveying)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-6-530
+    id: 7-6-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-6-530
+    id: 7-6-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-6-530
+    id: 7-6-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-6-530
+    id: 7-6-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-6-530
+    id: 7-6-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-6-530
+    id: 7-6-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-6-530
+    id: 7-6-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-6-530
+    id: 7-6-530
 ---
 id: 7-6-530-eng
 termid: 7-6-530
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: To level (surveying)
-  normative_status: preferred
-definition:
-- content: To determine differences in altitude using an optical instrument and a
-    calibrated levelling staff.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/To_level_(surveying)
+  terms:
+  - type: expression
+    designation: To level (surveying)
+    normative_status: preferred
+  definition:
+  - content: To determine differences in altitude using an optical instrument and
+      a calibrated levelling staff.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/To_level_(surveying)

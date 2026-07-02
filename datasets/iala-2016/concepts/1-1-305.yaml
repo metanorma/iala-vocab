@@ -10,65 +10,67 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Amplitude
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-1-305
+    id: 1-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-1-305
+    id: 1-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-1-305
+    id: 1-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-1-305
+    id: 1-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-1-305
+    id: 1-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-1-305
+    id: 1-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-1-305
+    id: 1-1-305
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-1-305
+    id: 1-1-305
 ---
 id: 1-1-305-eng
 termid: 1-1-305
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Amplitude
-  normative_status: preferred
-- type: expression
-  designation: Amplitude (of a symmetrical periodic quantity)
-  normative_status: admitted
-definition:
-- content: The maximum magnitude of a symmetrical periodic quantity within one period
-    of the oscillation.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: In German the term "amplitude" applies to the maximum instantaneous value
-    of a sinusoidal oscillatory quantity. In the case of a non-sinusoidal quantity
-    the term Scheitelwert is used.
-- content: Not to be confused with "Amplitude (of an observed heavenly body)" {{1-2-125,
-    Amplitude of an observed heavenly body}}.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Amplitude
+  terms:
+  - type: expression
+    designation: Amplitude
+    normative_status: preferred
+  - type: expression
+    designation: Amplitude (of a symmetrical periodic quantity)
+    normative_status: admitted
+  definition:
+  - content: The maximum magnitude of a symmetrical periodic quantity within one period
+      of the oscillation.
+  notes:
+  - content: In German the term "amplitude" applies to the maximum instantaneous value
+      of a sinusoidal oscillatory quantity. In the case of a non-sinusoidal quantity
+      the term Scheitelwert is used.
+  - content: Not to be confused with "Amplitude (of an observed heavenly body)" {{1-2-125,
+      Amplitude of an observed heavenly body}}.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Amplitude

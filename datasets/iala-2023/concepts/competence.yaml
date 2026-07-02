@@ -10,28 +10,30 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Competence
 ---
 id: competence-eng
 termid: competence
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Competence
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0901007e
+  terms:
+  - type: expression
+    designation: Competence
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0901007e
 
-    Competence is having the knowledge, skills, attitude and personal attributes necessary to safely, effectively and efficiently carry out the functions or sub-functions assigned to a specific VTS position.
+      Competence is having the knowledge, skills, attitude and personal attributes necessary to safely, effectively and efficiently carry out the functions or sub-functions assigned to a specific VTS position.
 
-    Source:
-    IALA Guideline G1156 Recruitment, training and assessment of VTS Personnel
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Competence
+      Source:
+      IALA Guideline G1156 Recruitment, training and assessment of VTS Personnel
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Competence

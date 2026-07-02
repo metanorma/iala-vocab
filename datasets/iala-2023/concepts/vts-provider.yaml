@@ -10,27 +10,29 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/VTS_provider
 ---
 id: vts-provider-eng
 termid: vts-provider
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: VTS provider
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0901113e
+  terms:
+  - type: expression
+    designation: VTS provider
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0901113e
 
-    VTS provider means the organization or entity authorized by the Government or competent authority to provide a vessel traffic service.
+      VTS provider means the organization or entity authorized by the Government or competent authority to provide a vessel traffic service.
 
-    Source:IMO Resolution A.1158(32)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/VTS_provider
+      Source:IMO Resolution A.1158(32)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/VTS_provider

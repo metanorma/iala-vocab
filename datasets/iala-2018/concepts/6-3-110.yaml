@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Wind_speed_duration_curve
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-3-110
+    id: 6-3-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-3-110
+    id: 6-3-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-3-110
+    id: 6-3-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-3-110
+    id: 6-3-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-3-110
+    id: 6-3-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-3-110
+    id: 6-3-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-3-110
+    id: 6-3-110
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-3-110
+    id: 6-3-110
 ---
 id: 6-3-110-eng
 termid: 6-3-110
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Wind speed duration curve
-  normative_status: preferred
-definition:
-- content: A characteristic depicting the cumulative hours the wind speed exceeds
-    a specified wind speed in a year as a function of these specified speeds.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wind_speed_duration_curve
+  terms:
+  - type: expression
+    designation: Wind speed duration curve
+    normative_status: preferred
+  definition:
+  - content: A characteristic depicting the cumulative hours the wind speed exceeds
+      a specified wind speed in a year as a function of these specified speeds.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wind_speed_duration_curve

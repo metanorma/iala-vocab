@@ -10,71 +10,73 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Four-stroke_engine
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-2-040
+    id: 6-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-2-040
+    id: 6-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-2-040
+    id: 6-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-2-040
+    id: 6-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-2-040
+    id: 6-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-2-040
+    id: 6-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-2-040
+    id: 6-2-040
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-2-040
+    id: 6-2-040
 ---
 id: 6-2-040-eng
 termid: 6-2-040
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Four-stroke engine
-  normative_status: preferred
-definition:
-- content: |-
-    An internal combustion engine in which the working cycle is completed in four strokes of the piston (i.e. in two revolutions of the crankshaft).
+  terms:
+  - type: expression
+    designation: Four-stroke engine
+    normative_status: preferred
+  definition:
+  - content: |-
+      An internal combustion engine in which the working cycle is completed in four strokes of the piston (i.e. in two revolutions of the crankshaft).
 
-    1. Induction of the working fluid
+      1. Induction of the working fluid
 
-    air in diesel engines
-    fuel or fuel-air mixture in petrol engines
+      air in diesel engines
+      fuel or fuel-air mixture in petrol engines
 
-    2. Compression of the working fluid
+      2. Compression of the working fluid
 
-    3. Fuel injection and combustion in diesel engines
+      3. Fuel injection and combustion in diesel engines
 
-    fuel ignition and expansion of the ignited fluid in petrol engines, this stroke is the power stroke
+      fuel ignition and expansion of the ignited fluid in petrol engines, this stroke is the power stroke
 
-    4. Exhaustion of the waste gases
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The four strokes correspond to
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Four-stroke_engine
+      4. Exhaustion of the waste gases
+  notes:
+  - content: The four strokes correspond to
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Four-stroke_engine

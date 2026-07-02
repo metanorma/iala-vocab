@@ -10,23 +10,25 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Seafarer
 ---
 id: seafarer-eng
 termid: seafarer
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Seafarer
-  normative_status: preferred
-definition:
-- content: Seafarer - means any person who is employed or engaged or works in any
-    capacity on board a ship.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Seafarer
+  terms:
+  - type: expression
+    designation: Seafarer
+    normative_status: preferred
+  definition:
+  - content: Seafarer - means any person who is employed or engaged or works in any
+      capacity on board a ship.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Seafarer

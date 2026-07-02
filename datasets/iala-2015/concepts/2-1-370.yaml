@@ -10,64 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Point_Vision
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-1-370
+    id: 2-1-370
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-370
+    id: 2-1-370
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-370
+    id: 2-1-370
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-370
+    id: 2-1-370
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-370
+    id: 2-1-370
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-370
+    id: 2-1-370
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-370
+    id: 2-1-370
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-1-370
+    id: 2-1-370
 ---
 id: 2-1-370-eng
 termid: 2-1-370
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Point Vision
-  normative_status: preferred
-definition:
-- content: |-
-    Point Vision (of a light source);
+  terms:
+  - type: expression
+    designation: Point Vision
+    normative_status: preferred
+  definition:
+  - content: |-
+      Point Vision (of a light source);
 
-    A special mode of vision which takes place when the threshold of illuminance {{2-1-390, Threshold of Illuminance}} at the eye of an observer is independent of the angular subtense of the light source.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: For a background luminance of less than about 0.1 candela per square metre,
-    point vision takes place when the light source has an apparent angular diameter
-    not more than about one minute of arc. For higher values of background luminance,
-    point vision can also take place if the angular diameter of the light source is
-    accordingly smaller.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Point_Vision
+      A special mode of vision which takes place when the threshold of illuminance {{2-1-390, Threshold of Illuminance}} at the eye of an observer is independent of the angular subtense of the light source.
+  notes:
+  - content: For a background luminance of less than about 0.1 candela per square
+      metre, point vision takes place when the light source has an apparent angular
+      diameter not more than about one minute of arc. For higher values of background
+      luminance, point vision can also take place if the angular diameter of the light
+      source is accordingly smaller.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Point_Vision

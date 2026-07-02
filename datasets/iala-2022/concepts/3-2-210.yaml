@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Re-entrant_horn
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 3-2-210
+    id: 3-2-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 3-2-210
+    id: 3-2-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 3-2-210
+    id: 3-2-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 3-2-210
+    id: 3-2-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 3-2-210
+    id: 3-2-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 3-2-210
+    id: 3-2-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 3-2-210
+    id: 3-2-210
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 3-2-210
+    id: 3-2-210
 ---
 id: 3-2-210-eng
 termid: 3-2-210
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Re-entrant horn
-  normative_status: preferred
-definition:
-- content: A horn which is shortened by causing the sound to pass through coaxial
-    channels successively in forward and backward directions one or more times.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Re-entrant_horn
+  terms:
+  - type: expression
+    designation: Re-entrant horn
+    normative_status: preferred
+  definition:
+  - content: A horn which is shortened by causing the sound to pass through coaxial
+      channels successively in forward and backward directions one or more times.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Re-entrant_horn

@@ -10,61 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Head
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-1055
+    id: 4-1-1055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-1055
+    id: 4-1-1055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-1055
+    id: 4-1-1055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-1055
+    id: 4-1-1055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-1055
+    id: 4-1-1055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-1055
+    id: 4-1-1055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-1055
+    id: 4-1-1055
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-1055
+    id: 4-1-1055
 ---
 id: 4-1-1055-eng
 termid: 4-1-1055
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Head
-  normative_status: preferred
-- type: expression
-  designation: "(Ship's) Heading (defined in Chapter 1-2-045)"
-  normative_status: admitted
-definition:
-- content: |-
-    (Ship's) Head
+  terms:
+  - type: expression
+    designation: Head
+    normative_status: preferred
+  - type: expression
+    designation: "(Ship's) Heading (defined in Chapter 1-2-045)"
+    normative_status: admitted
+  definition:
+  - content: |-
+      (Ship's) Head
 
-    The horizontal direction in which a ship is pointed, expressed as an angular measure from a reference direction, usually true North.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Head
+      The horizontal direction in which a ship is pointed, expressed as an angular measure from a reference direction, usually true North.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Head

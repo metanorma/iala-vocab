@@ -10,63 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Dry_Dock
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-2-300
+    id: 1-2-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-2-300
+    id: 1-2-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-2-300
+    id: 1-2-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-2-300
+    id: 1-2-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-2-300
+    id: 1-2-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-2-300
+    id: 1-2-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-2-300
+    id: 1-2-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-2-300
+    id: 1-2-300
 ---
 id: 1-2-300-eng
 termid: 1-2-300
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Dry Dock
-  normative_status: preferred
-definition:
-- content: |-
-    (Dry) Dock
+  terms:
+  - type: expression
+    designation: Dry Dock
+    normative_status: preferred
+  definition:
+  - content: |-
+      (Dry) Dock
 
-    A structure providing support for a vessel and means for removing the water so that the bottom of the vessel can be exposed.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: When the structure is floating it is usually called in English a floating
-    dock and in German a Schwimmdock.
-- content: In French when the structure is fixed it is called a forme de radoub; when
-    the structure is floating it is called a dock flottant.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Dry_Dock
+      A structure providing support for a vessel and means for removing the water so that the bottom of the vessel can be exposed.
+  notes:
+  - content: When the structure is floating it is usually called in English a floating
+      dock and in German a Schwimmdock.
+  - content: In French when the structure is fixed it is called a forme de radoub;
+      when the structure is floating it is called a dock flottant.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Dry_Dock

@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Cheese_antenna
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-565
+    id: 4-1-565
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-565
+    id: 4-1-565
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-565
+    id: 4-1-565
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-565
+    id: 4-1-565
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-565
+    id: 4-1-565
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-565
+    id: 4-1-565
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-565
+    id: 4-1-565
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-565
+    id: 4-1-565
 ---
 id: 4-1-565-eng
 termid: 4-1-565
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Cheese antenna
-  normative_status: preferred
-definition:
-- content: An antenna consisting of a mirror in the shape of part of a parabolic cylinder
-    bounded by two parallel plates normal to the cylinder axis, and of an antenna
-    feed placed on or near the focal line.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Cheese_antenna
+  terms:
+  - type: expression
+    designation: Cheese antenna
+    normative_status: preferred
+  definition:
+  - content: An antenna consisting of a mirror in the shape of part of a parabolic
+      cylinder bounded by two parallel plates normal to the cylinder axis, and of
+      an antenna feed placed on or near the focal line.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Cheese_antenna

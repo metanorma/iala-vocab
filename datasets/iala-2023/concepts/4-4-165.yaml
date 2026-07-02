@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Decca_Variable_errors
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-4-165
+    id: 4-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-4-165
+    id: 4-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-4-165
+    id: 4-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-4-165
+    id: 4-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-4-165
+    id: 4-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-4-165
+    id: 4-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-4-165
+    id: 4-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-4-165
+    id: 4-4-165
 ---
 id: 4-4-165-eng
 termid: 4-4-165
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Decca Variable errors
-  normative_status: preferred
-definition:
-- content: |-
-    Variable errors (in Decca)
+  terms:
+  - type: expression
+    designation: Decca Variable errors
+    normative_status: preferred
+  definition:
+  - content: |-
+      Variable errors (in Decca)
 
-    Errors which, being random, cannot be corrected, such as errors due to night effect, variations of earth conductivity etc.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Decca_Variable_errors
+      Errors which, being random, cannot be corrected, such as errors due to night effect, variations of earth conductivity etc.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Decca_Variable_errors

@@ -10,46 +10,48 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Alarm
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: alarm
+    id: alarm
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: alarm
+    id: alarm
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: alarm
+    id: alarm
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: alarm
+    id: alarm
 ---
 id: alarm-eng
 termid: alarm
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Alarm
-  normative_status: preferred
-definition:
-- content: |-
-    A high priority alert requiring immediate attention and action.
+  terms:
+  - type: expression
+    designation: Alarm
+    normative_status: preferred
+  definition:
+  - content: |-
+      A high priority alert requiring immediate attention and action.
 
-    See also Codes on Alerts and Indicators
+      See also Codes on Alerts and Indicators
 
-    Source: IMO Res. A1021(26)
+      Source: IMO Res. A1021(26)
 
-    (VTS40, IALA Guideline no. 1110 refers)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Alarm
+      (VTS40, IALA Guideline no. 1110 refers)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Alarm

@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Tungsten-Halogen_Lamp
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-3-160
+    id: 2-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-3-160
+    id: 2-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-3-160
+    id: 2-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-3-160
+    id: 2-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-3-160
+    id: 2-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-3-160
+    id: 2-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-3-160
+    id: 2-3-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-3-160
+    id: 2-3-160
 ---
 id: 2-3-160-eng
 termid: 2-3-160
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Tungsten-Halogen Lamp
-  normative_status: preferred
-definition:
-- content: |-
-    An incandescent lamp with a gas filling to which a certain proportion of a halogen has been added in order to minimise blackening of the envelope by returning evaporated tungsten to the filament.
+  terms:
+  - type: expression
+    designation: Tungsten-Halogen Lamp
+    normative_status: preferred
+  definition:
+  - content: |-
+      An incandescent lamp with a gas filling to which a certain proportion of a halogen has been added in order to minimise blackening of the envelope by returning evaporated tungsten to the filament.
 
-    It is usually characterised by exceptionally small size in relation to the high luminous intensities which can be obtained.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The Tungsten-Iodine Lamp or Quartz-Iodine Lamp belongs to this category.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tungsten-Halogen_Lamp
+      It is usually characterised by exceptionally small size in relation to the high luminous intensities which can be obtained.
+  notes:
+  - content: The Tungsten-Iodine Lamp or Quartz-Iodine Lamp belongs to this category.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tungsten-Halogen_Lamp

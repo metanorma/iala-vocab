@@ -10,54 +10,56 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Simulator_Training
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: simulator-training
+    id: simulator-training
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: simulator-training
+    id: simulator-training
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: simulator-training
+    id: simulator-training
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: simulator-training
+    id: simulator-training
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: simulator-training
+    id: simulator-training
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: simulator-training
+    id: simulator-training
 ---
 id: simulator-training-eng
 termid: simulator-training
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Simulator Training
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0901032e
+  terms:
+  - type: expression
+    designation: Simulator Training
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0901032e
 
-    Simulator Training is the simulation of operational events, practices and procedures to instruct trainees and assess their ability to demonstrate their levels of competence.
+      Simulator Training is the simulation of operational events, practices and procedures to instruct trainees and assess their ability to demonstrate their levels of competence.
 
-    Source: IALA Recommendation V-103
-    to
-    IALA Guideline G1156 Recruitment, training and assessment of VTS Personnel
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Simulator_Training
+      Source: IALA Recommendation V-103
+      to
+      IALA Guideline G1156 Recruitment, training and assessment of VTS Personnel
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Simulator_Training

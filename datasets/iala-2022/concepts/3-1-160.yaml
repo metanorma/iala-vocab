@@ -10,60 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Sound_level_meter
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 3-1-160
+    id: 3-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 3-1-160
+    id: 3-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 3-1-160
+    id: 3-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 3-1-160
+    id: 3-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 3-1-160
+    id: 3-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 3-1-160
+    id: 3-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 3-1-160
+    id: 3-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 3-1-160
+    id: 3-1-160
 ---
 id: 3-1-160-eng
 termid: 3-1-160
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Sound level meter
-  normative_status: preferred
-definition:
-- content: Instrument including a microphone, an amplifier, an output meter and frequency
-    weighting networks for the measurement of sound levels in a specified manner.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sound_level_meter
+  terms:
+  - type: expression
+    designation: Sound level meter
+    normative_status: preferred
+  definition:
+  - content: Instrument including a microphone, an amplifier, an output meter and
+      frequency weighting networks for the measurement of sound levels in a specified
+      manner.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sound_level_meter

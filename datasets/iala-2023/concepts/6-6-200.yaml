@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Contacts_(of_a_switch)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-6-200
+    id: 6-6-200
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-6-200
+    id: 6-6-200
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-6-200
+    id: 6-6-200
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-6-200
+    id: 6-6-200
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-6-200
+    id: 6-6-200
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-6-200
+    id: 6-6-200
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-6-200
+    id: 6-6-200
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-6-200
+    id: 6-6-200
 ---
 id: 6-6-200-eng
 termid: 6-6-200
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Contacts (of a switch)
-  normative_status: preferred
-definition:
-- content: Two or more conducting elements, designed to establish an electrical path
-    when they touch.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Contacts_(of_a_switch)
+  terms:
+  - type: expression
+    designation: Contacts (of a switch)
+    normative_status: preferred
+  definition:
+  - content: Two or more conducting elements, designed to establish an electrical
+      path when they touch.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Contacts_(of_a_switch)

@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Wick
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-3-060
+    id: 2-3-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-3-060
+    id: 2-3-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-3-060
+    id: 2-3-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-3-060
+    id: 2-3-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-3-060
+    id: 2-3-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-3-060
+    id: 2-3-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-3-060
+    id: 2-3-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-3-060
+    id: 2-3-060
 ---
 id: 2-3-060-eng
 termid: 2-3-060
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Wick
-  normative_status: preferred
-definition:
-- content: |-
-    A strip of plaited material, usually cotton, which by capillary action draws liquid fuel from a reservoir to a burner.
+  terms:
+  - type: expression
+    designation: Wick
+    normative_status: preferred
+  definition:
+  - content: |-
+      A strip of plaited material, usually cotton, which by capillary action draws liquid fuel from a reservoir to a burner.
 
-    ![Ch2_Fig21.jpg](/iala-vocab/images/iala/Ch2_Fig21.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wick
+      ![Ch2_Fig21.jpg](/iala-vocab/images/iala/Ch2_Fig21.jpg)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Wick

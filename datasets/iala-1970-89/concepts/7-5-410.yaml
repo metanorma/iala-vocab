@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Tendering_procedure
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-5-410
+    id: 7-5-410
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-5-410
+    id: 7-5-410
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-5-410
+    id: 7-5-410
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-5-410
+    id: 7-5-410
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-5-410
+    id: 7-5-410
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-5-410
+    id: 7-5-410
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-5-410
+    id: 7-5-410
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-5-410
+    id: 7-5-410
 ---
 id: 7-5-410-eng
 termid: 7-5-410
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Tendering procedure
-  normative_status: preferred
-definition:
-- content: The complete process from the issue of Contract Documents to contractors
-    with an invitation to tender to the return, analysis, and acceptance of completed
-    tenders.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tendering_procedure
+  terms:
+  - type: expression
+    designation: Tendering procedure
+    normative_status: preferred
+  definition:
+  - content: The complete process from the issue of Contract Documents to contractors
+      with an invitation to tender to the return, analysis, and acceptance of completed
+      tenders.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tendering_procedure

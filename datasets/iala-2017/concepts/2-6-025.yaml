@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Daytime_Character
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-6-025
+    id: 2-6-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-6-025
+    id: 2-6-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-6-025
+    id: 2-6-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-6-025
+    id: 2-6-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-6-025
+    id: 2-6-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-6-025
+    id: 2-6-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-6-025
+    id: 2-6-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-6-025
+    id: 2-6-025
 ---
 id: 2-6-025-eng
 termid: 2-6-025
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Daytime Character
-  normative_status: preferred
-definition:
-- content: The daytime identifying visual characteristics of any aid to navigation,
-    e.g. shape, colour etc.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Daytime_Character
+  terms:
+  - type: expression
+    designation: Daytime Character
+    normative_status: preferred
+  definition:
+  - content: The daytime identifying visual characteristics of any aid to navigation,
+      e.g. shape, colour etc.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Daytime_Character

@@ -10,113 +10,116 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Allard's_Law
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-265
+    id: 2-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-265
+    id: 2-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-1-265
+    id: 2-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-265
+    id: 2-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-265
+    id: 2-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-265
+    id: 2-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-265
+    id: 2-1-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-1-265
+    id: 2-1-265
 ---
 id: 2-1-265-eng
 termid: 2-1-265
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Allard's Law
-  normative_status: preferred
-definition:
-- content: |-
-    A formula relating the illuminance produced on a normal surface at a given distance from a point source of light, the intensity of the light and the degree of transparency of the atmosphere (assumed uniform).
+  terms:
+  - type: expression
+    designation: Allard's Law
+    normative_status: preferred
+  definition:
+  - content: |-
+      A formula relating the illuminance produced on a normal surface at a given distance from a point source of light, the intensity of the light and the degree of transparency of the atmosphere (assumed uniform).
 
-    The law may be expressed as follows
+      The law may be expressed as follows
 
-    ![Allard1.gif](/iala-vocab/images/iala/Allard1.gif)
+      ![Allard1.gif](/iala-vocab/images/iala/Allard1.gif)
 
-    where E is the resulting illuminance on this surface
+      where E is the resulting illuminance on this surface
 
-    I is the intensity of the incident light in the direction of measurement.
+      I is the intensity of the incident light in the direction of measurement.
 
-    T is the atmospheric transmission factor (assumed uniform) for the specified
+      T is the atmospheric transmission factor (assumed uniform) for the specified
 
-    x is the distance of the surface from the light source, measured in the specified units of distance.
+      x is the distance of the surface from the light source, measured in the specified units of distance.
 
-    ![Allard2.gif](/iala-vocab/images/iala/Allard2.gif)
+      ![Allard2.gif](/iala-vocab/images/iala/Allard2.gif)
 
-    where V = meteorological visibility (2-1-280 and 2-1-290, Note:).
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: Another form of Allard's Law is
-annotations:
-- content: Unit distance.
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Allard's_Law
+      where V = meteorological visibility (2-1-280 and 2-1-290, Note:).
+  notes:
+  - content: Another form of Allard's Law is
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Unit distance.
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Allard's_Law
 ---
 id: 2-1-265-deu
 termid: 2-1-265
 data:
   language_code: deu
-terms:
-- type: expression
-  designation: Tragweitenformel
-  normative_status: preferred
-definition:
-- content: |-
-    Allardsche Formel
+  terms:
+  - type: expression
+    designation: Tragweitenformel
+    normative_status: preferred
+  definition:
+  - content: |-
+      Allardsche Formel
 
-    Gleichung, die den Zusammenhang zwischen der Lichtstärke einer punktförmigen Lichtquelle und der von ihr in vorgegebenem Abstand auf einer Fläche senkrecht zur Lichteinfallsrichtung erzeugten Beleuchtungsstärke unter Berücksichtigung der Lichtdurchlässigkeit der als homogen angenommenen Atmosphäre beschreibt.
+      Gleichung, die den Zusammenhang zwischen der Lichtstärke einer punktförmigen Lichtquelle und der von ihr in vorgegebenem Abstand auf einer Fläche senkrecht zur Lichteinfallsrichtung erzeugten Beleuchtungsstärke unter Berücksichtigung der Lichtdurchlässigkeit der als homogen angenommenen Atmosphäre beschreibt.
 
-    Die Gleichung kann wie folgt geschrieben werden:
+      Die Gleichung kann wie folgt geschrieben werden:
 
-    Hierin bedeuten:
+      Hierin bedeuten:
 
-    E  Beleuchtungsstärke auf der Fläche
+      E  Beleuchtungsstärke auf der Fläche
 
-    I  Lichtstärke des einfallenden Lichtes in Meßrichtung
+      I  Lichtstärke des einfallenden Lichtes in Meßrichtung
 
-    T  atmosphärischer Durchlässigkeitsfaktor der als homogen angenommenen Atmosphäre, bezogen auf eine bestimmte Längeneinheit
+      T  atmosphärischer Durchlässigkeitsfaktor der als homogen angenommenen Atmosphäre, bezogen auf eine bestimmte Längeneinheit
 
-    x  Abstand der Fläche von der Lichtquelle in bestimmten Längeneinheiten.
+      x  Abstand der Fläche von der Lichtquelle in bestimmten Längeneinheiten.
 
-    Anmerkung:
+      Anmerkung:
 
-    Die Tragweitenformel kann auch wie folgt geschrieben werden:
+      Die Tragweitenformel kann auch wie folgt geschrieben werden:
 
-    Hierin ist V die meteorologische Sichtweite (2-1-280 und 2-1-290 Anmerkung).
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Allard's_Law/de
+      Hierin ist V die meteorologische Sichtweite (2-1-280 und 2-1-290 Anmerkung).
+  sources:
+  - origin:
+      ref:
+        source: IALA Dictionary
+    type: authoritative
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Allard's_Law/de

@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Synchronism
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-1-355
+    id: 1-1-355
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-1-355
+    id: 1-1-355
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-1-355
+    id: 1-1-355
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-1-355
+    id: 1-1-355
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-1-355
+    id: 1-1-355
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-1-355
+    id: 1-1-355
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-1-355
+    id: 1-1-355
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-1-355
+    id: 1-1-355
 ---
 id: 1-1-355-eng
 termid: 1-1-355
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Synchronism
-  normative_status: preferred
-definition:
-- content: Coincidence of periodic phenomena of the same frequency or phase.
-- content: Coincidence of the characters of navigation lights.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Synchronism
+  terms:
+  - type: expression
+    designation: Synchronism
+    normative_status: preferred
+  definition:
+  - content: Coincidence of periodic phenomena of the same frequency or phase.
+  - content: Coincidence of the characters of navigation lights.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Synchronism

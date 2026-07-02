@@ -10,60 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Tuned_antenna
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-245
+    id: 4-1-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-245
+    id: 4-1-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-245
+    id: 4-1-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-245
+    id: 4-1-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-245
+    id: 4-1-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-245
+    id: 4-1-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-245
+    id: 4-1-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-245
+    id: 4-1-245
 ---
 id: 4-1-245-eng
 termid: 4-1-245
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Tuned antenna
-  normative_status: preferred
-definition:
-- content: An antenna which, together with its appropriate tuning circuit, resonates
-    at a desired frequency.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tuned_antenna
+  terms:
+  - type: expression
+    designation: Tuned antenna
+    normative_status: preferred
+  definition:
+  - content: An antenna which, together with its appropriate tuning circuit, resonates
+      at a desired frequency.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tuned_antenna

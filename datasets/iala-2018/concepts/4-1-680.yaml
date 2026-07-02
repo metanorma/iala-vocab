@@ -10,63 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Bandwidth_characteristic
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-680
+    id: 4-1-680
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-680
+    id: 4-1-680
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-680
+    id: 4-1-680
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-680
+    id: 4-1-680
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-680
+    id: 4-1-680
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-680
+    id: 4-1-680
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-680
+    id: 4-1-680
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-680
+    id: 4-1-680
 ---
 id: 4-1-680-eng
 termid: 4-1-680
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Bandwidth characteristic
-  normative_status: preferred
-- type: expression
-  designation: Bandwidth characteristic (of the whole or part of a radio transmitter)
-  normative_status: admitted
-definition:
-- content: The variation of the output power with respect to frequency, the transmitter
-    having been adjusted for operation on a specified frequency, and the frequency
-    variation normally being only a small percentage of the specified frequency.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bandwidth_characteristic
+  terms:
+  - type: expression
+    designation: Bandwidth characteristic
+    normative_status: preferred
+  - type: expression
+    designation: Bandwidth characteristic (of the whole or part of a radio transmitter)
+    normative_status: admitted
+  definition:
+  - content: The variation of the output power with respect to frequency, the transmitter
+      having been adjusted for operation on a specified frequency, and the frequency
+      variation normally being only a small percentage of the specified frequency.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Bandwidth_characteristic

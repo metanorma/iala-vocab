@@ -10,56 +10,58 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Sieve
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-3-175
+    id: 7-3-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-3-175
+    id: 7-3-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-3-175
+    id: 7-3-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-3-175
+    id: 7-3-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-3-175
+    id: 7-3-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-3-175
+    id: 7-3-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-3-175
+    id: 7-3-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-3-175
+    id: 7-3-175
 ---
 id: 7-3-175-eng
 termid: 7-3-175
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Sieve
-  normative_status: preferred
-definition:
-- content: Frame supporting a wire mesh, used for separating different sizes of sand
-    and gravel, the mesh size being appropriate to the grading required.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sieve
+  terms:
+  - type: expression
+    designation: Sieve
+    normative_status: preferred
+  definition:
+  - content: Frame supporting a wire mesh, used for separating different sizes of
+      sand and gravel, the mesh size being appropriate to the grading required.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sieve

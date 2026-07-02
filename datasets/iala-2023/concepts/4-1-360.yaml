@@ -10,64 +10,67 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Gain_function
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-360
+    id: 4-1-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-360
+    id: 4-1-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-360
+    id: 4-1-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-360
+    id: 4-1-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-360
+    id: 4-1-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-360
+    id: 4-1-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-360
+    id: 4-1-360
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-360
+    id: 4-1-360
 ---
 id: 4-1-360-eng
 termid: 4-1-360
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Gain function
-  normative_status: preferred
-- type: expression
-  designation: Gain function (G.B.)
-  normative_status: admitted
-definition:
-- content: |-
-    Directive gain (U.S.A.)
+  terms:
+  - type: expression
+    designation: Gain function
+    normative_status: preferred
+  - type: expression
+    designation: Gain function (G.B.)
+    normative_status: admitted
+  definition:
+  - content: |-
+      Directive gain (U.S.A.)
 
-    For a given direction, 4PI times the ratio of the radiation intensity in that direction to the total power radiated by the antenna.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.R.E
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Gain_function
+      For a given direction, 4PI times the ratio of the radiation intensity in that direction to the total power radiated by the antenna.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.R.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Gain_function

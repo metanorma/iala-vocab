@@ -10,23 +10,25 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Height_of_a_Light
 ---
 id: height-of-a-light-eng
 termid: height-of-a-light
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Height of a Light
-  normative_status: preferred
-definition:
-- content: Height of a Light – is the vertical distance between ground level and the
-    top of the light structure, but excluding aerials, antennas etc.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Height_of_a_Light
+  terms:
+  - type: expression
+    designation: Height of a Light
+    normative_status: preferred
+  definition:
+  - content: Height of a Light – is the vertical distance between ground level and
+      the top of the light structure, but excluding aerials, antennas etc.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Height_of_a_Light

@@ -10,23 +10,25 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Morse_Code_Fog_Signal
 ---
 id: morse-code-fog-signal-eng
 termid: morse-code-fog-signal
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Morse Code Fog Signal
-  normative_status: preferred
-definition:
-- content: Morse Code Fog Signal – is a fog signal emitting one or more characters
-    of the Morse Code.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Morse_Code_Fog_Signal
+  terms:
+  - type: expression
+    designation: Morse Code Fog Signal
+    normative_status: preferred
+  definition:
+  - content: Morse Code Fog Signal – is a fog signal emitting one or more characters
+      of the Morse Code.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Morse_Code_Fog_Signal

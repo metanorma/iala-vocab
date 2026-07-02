@@ -10,58 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Characteristic_frequency
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-035
+    id: 4-1-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-035
+    id: 4-1-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-035
+    id: 4-1-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-035
+    id: 4-1-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-035
+    id: 4-1-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-035
+    id: 4-1-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-035
+    id: 4-1-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-035
+    id: 4-1-035
 ---
 id: 4-1-035-eng
 termid: 4-1-035
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Characteristic frequency
-  normative_status: preferred
-definition:
-- content: A frequency which can be easily identified and measured in a given emission.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.T.U
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Characteristic_frequency
+  terms:
+  - type: expression
+    designation: Characteristic frequency
+    normative_status: preferred
+  definition:
+  - content: A frequency which can be easily identified and measured in a given emission.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.T.U
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Characteristic_frequency

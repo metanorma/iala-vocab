@@ -10,62 +10,65 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Diffuse_Reflection
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-140
+    id: 2-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-140
+    id: 2-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-1-140
+    id: 2-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-140
+    id: 2-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-140
+    id: 2-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-140
+    id: 2-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-140
+    id: 2-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-1-140
+    id: 2-1-140
 ---
 id: 2-1-140-eng
 termid: 2-1-140
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Diffuse Reflection
-  normative_status: preferred
-definition:
-- content: |-
-    Diffusion by reflection in which, on the macroscopic scale, there is no specular reflection.
+  terms:
+  - type: expression
+    designation: Diffuse Reflection
+    normative_status: preferred
+  definition:
+  - content: |-
+      Diffusion by reflection in which, on the macroscopic scale, there is no specular reflection.
 
-    ![Ch2_Fig7.jpg](/iala-vocab/images/iala/Ch2_Fig7.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E.  (Fig. 7b)
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Diffuse_Reflection
+      ![Ch2_Fig7.jpg](/iala-vocab/images/iala/Ch2_Fig7.jpg)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E.  (Fig. 7b)
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Diffuse_Reflection

@@ -10,61 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Direction_finding_-_radio
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-2-060
+    id: 4-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-060
+    id: 4-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-2-060
+    id: 4-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-060
+    id: 4-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-2-060
+    id: 4-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-2-060
+    id: 4-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-2-060
+    id: 4-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-060
+    id: 4-2-060
 ---
 id: 4-2-060-eng
 termid: 4-2-060
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Direction finding - radio
-  normative_status: preferred
-definition:
-- content: |-
-    (Radio) Direction finding
+  terms:
+  - type: expression
+    designation: Direction finding - radio
+    normative_status: preferred
+  definition:
+  - content: |-
+      (Radio) Direction finding
 
-    Radiodetermination using the reception of radio waves for the purpose of determining the direction of a station or object.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.T.U
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Direction_finding_-_radio
+      Radiodetermination using the reception of radio waves for the purpose of determining the direction of a station or object.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.T.U
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Direction_finding_-_radio

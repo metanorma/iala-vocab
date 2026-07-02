@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Open-mesh_flooring
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-2-525
+    id: 7-2-525
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-2-525
+    id: 7-2-525
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-2-525
+    id: 7-2-525
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-2-525
+    id: 7-2-525
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-2-525
+    id: 7-2-525
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-2-525
+    id: 7-2-525
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-2-525
+    id: 7-2-525
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-2-525
+    id: 7-2-525
 ---
 id: 7-2-525-eng
 termid: 7-2-525
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Open-mesh flooring
-  normative_status: preferred
-definition:
-- content: Metal, or more recently GRP, flooring formed from bars on edge connected
-    to form a rectangular open pattern, particularly used to give a lightweight skid
-    resistant floor or decking to footbridges, catwalks, etc...
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Open-mesh_flooring
+  terms:
+  - type: expression
+    designation: Open-mesh flooring
+    normative_status: preferred
+  definition:
+  - content: Metal, or more recently GRP, flooring formed from bars on edge connected
+      to form a rectangular open pattern, particularly used to give a lightweight
+      skid resistant floor or decking to footbridges, catwalks, etc...
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Open-mesh_flooring

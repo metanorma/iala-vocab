@@ -10,65 +10,67 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Optical_Panel
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-2-175
+    id: 2-2-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-2-175
+    id: 2-2-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-2-175
+    id: 2-2-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-2-175
+    id: 2-2-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-2-175
+    id: 2-2-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-2-175
+    id: 2-2-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-2-175
+    id: 2-2-175
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-2-175
+    id: 2-2-175
 ---
 id: 2-2-175-eng
 termid: 2-2-175
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Optical Panel
-  normative_status: preferred
-- type: expression
-  designation: Flash Panel (U.S.A.)
-  normative_status: admitted
-definition:
-- content: |-
-    A prismatic lens which may be of dioptric elements only, or may include both dioptric and catadioptric elements, all mounted in one rigid supporting frame. Such a panel may be symmetrical or asymmetrical according to requirements. One or more panels form an optic.
+  terms:
+  - type: expression
+    designation: Optical Panel
+    normative_status: preferred
+  - type: expression
+    designation: Flash Panel (U.S.A.)
+    normative_status: admitted
+  definition:
+  - content: |-
+      A prismatic lens which may be of dioptric elements only, or may include both dioptric and catadioptric elements, all mounted in one rigid supporting frame. Such a panel may be symmetrical or asymmetrical according to requirements. One or more panels form an optic.
 
-    (Figs. 10 and 17)
+      (Figs. 10 and 17)
 
-    ![Ch2_Fig10.jpg](/iala-vocab/images/iala/Ch2_Fig10.jpg)
+      ![Ch2_Fig10.jpg](/iala-vocab/images/iala/Ch2_Fig10.jpg)
 
-    ![Ch2_Fig17.jpg](/iala-vocab/images/iala/Ch2_Fig17.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Optical_Panel
+      ![Ch2_Fig17.jpg](/iala-vocab/images/iala/Ch2_Fig17.jpg)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Optical_Panel

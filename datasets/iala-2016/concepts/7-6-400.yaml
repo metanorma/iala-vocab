@@ -10,58 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Tremie_hopper
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-6-400
+    id: 7-6-400
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-6-400
+    id: 7-6-400
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-6-400
+    id: 7-6-400
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-6-400
+    id: 7-6-400
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-6-400
+    id: 7-6-400
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-6-400
+    id: 7-6-400
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 7-6-400
+    id: 7-6-400
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-6-400
+    id: 7-6-400
 ---
 id: 7-6-400-eng
 termid: 7-6-400
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Tremie hopper
-  normative_status: preferred
-definition:
-- content: The upper part of a system used to place concrete underwater without segregation.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The lowest part of the hopper connects to a tremie pipe or spout leading
-    beneath the water to the desired location. The complete system is called a tremie.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tremie_hopper
+  terms:
+  - type: expression
+    designation: Tremie hopper
+    normative_status: preferred
+  definition:
+  - content: The upper part of a system used to place concrete underwater without
+      segregation.
+  notes:
+  - content: The lowest part of the hopper connects to a tremie pipe or spout leading
+      beneath the water to the desired location. The complete system is called a tremie.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tremie_hopper

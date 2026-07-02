@@ -10,54 +10,56 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/VTS_workstation
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: vts-workstation
+    id: vts-workstation
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: vts-workstation
+    id: vts-workstation
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: vts-workstation
+    id: vts-workstation
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: vts-workstation
+    id: vts-workstation
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: vts-workstation
+    id: vts-workstation
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: vts-workstation
+    id: vts-workstation
 ---
 id: vts-workstation-eng
 termid: vts-workstation
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: VTS workstation
-  normative_status: preferred
-definition:
-- content: |-
-    VTS-2012-54
+  terms:
+  - type: expression
+    designation: VTS workstation
+    normative_status: preferred
+  definition:
+  - content: |-
+      VTS-2012-54
 
-    A VTS workstation is the place in a VTS Centre from which a VTS Operator carries out his/her duties.
+      A VTS workstation is the place in a VTS Centre from which a VTS Operator carries out his/her duties.
 
-    Source: IALA Guideline 1045 (2005)
+      Source: IALA Guideline 1045 (2005)
 
-    (VTS33/output/8 refers)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/VTS_workstation
+      (VTS33/output/8 refers)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/VTS_workstation

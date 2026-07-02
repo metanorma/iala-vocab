@@ -10,61 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Error-detecting_code
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-3-435
+    id: 5-3-435
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-3-435
+    id: 5-3-435
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-3-435
+    id: 5-3-435
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-3-435
+    id: 5-3-435
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-3-435
+    id: 5-3-435
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-3-435
+    id: 5-3-435
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 5-3-435
+    id: 5-3-435
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-3-435
+    id: 5-3-435
 ---
 id: 5-3-435-eng
 termid: 5-3-435
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Error-detecting code
-  normative_status: preferred
-definition:
-- content: A code in which each data signal conforms to specific rules of construction,
-    so that departures from this construction in the received signals can be automatically
-    detected.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Error-detecting_code
+  terms:
+  - type: expression
+    designation: Error-detecting code
+    normative_status: preferred
+  definition:
+  - content: A code in which each data signal conforms to specific rules of construction,
+      so that departures from this construction in the received signals can be automatically
+      detected.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Error-detecting_code

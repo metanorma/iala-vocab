@@ -10,64 +10,68 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Pin_Cap_(G.B.)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-3-125
+    id: 2-3-125
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-3-125
+    id: 2-3-125
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-3-125
+    id: 2-3-125
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-3-125
+    id: 2-3-125
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-3-125
+    id: 2-3-125
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-3-125
+    id: 2-3-125
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-3-125
+    id: 2-3-125
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-3-125
+    id: 2-3-125
 ---
 id: 2-3-125-eng
 termid: 2-3-125
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Pin Cap (G.B.)
-  normative_status: preferred
-definition:
-- content: |-
-    A cap (types F, G) which has one or more pins for fixing it in the lampholder.
+  terms:
+  - type: expression
+    designation: Pin Cap (G.B.)
+    normative_status: preferred
+  definition:
+  - content: |-
+      A cap (types F, G) which has one or more pins for fixing it in the lampholder.
 
-    ![Ch2_Fig25.jpg](/iala-vocab/images/iala/Ch2_Fig25.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-notes:
-- content: For particular numbers of pins, terms such as Three-Pin Cap are employed.
-- content: In the U.S.A., a lamp having a cap with two pins is called a Bi-Post Lamp.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pin_Cap_(G.B.)
+      ![Ch2_Fig25.jpg](/iala-vocab/images/iala/Ch2_Fig25.jpg)
+  notes:
+  - content: For particular numbers of pins, terms such as Three-Pin Cap are employed.
+  - content: In the U.S.A., a lamp having a cap with two pins is called a Bi-Post
+      Lamp.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Pin_Cap_(G.B.)

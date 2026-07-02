@@ -10,58 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Stabilization_(in_radionavigation)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-1060
+    id: 4-1-1060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-1060
+    id: 4-1-1060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-1060
+    id: 4-1-1060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-1060
+    id: 4-1-1060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-1060
+    id: 4-1-1060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-1060
+    id: 4-1-1060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-1060
+    id: 4-1-1060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-1060
+    id: 4-1-1060
 ---
 id: 4-1-1060-eng
 termid: 4-1-1060
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Stabilization (in radionavigation)
-  normative_status: preferred
-definition:
-- content: Maintenance of a desired orientation independent of the motion of the vessel.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.R.E
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Stabilization_(in_radionavigation)
+  terms:
+  - type: expression
+    designation: Stabilization (in radionavigation)
+    normative_status: preferred
+  definition:
+  - content: Maintenance of a desired orientation independent of the motion of the
+      vessel.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.R.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Stabilization_(in_radionavigation)

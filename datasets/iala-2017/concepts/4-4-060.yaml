@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Loran_C
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-4-060
+    id: 4-4-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-4-060
+    id: 4-4-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-4-060
+    id: 4-4-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-4-060
+    id: 4-4-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-4-060
+    id: 4-4-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-4-060
+    id: 4-4-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-4-060
+    id: 4-4-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-4-060
+    id: 4-4-060
 ---
 id: 4-4-060-eng
 termid: 4-4-060
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Loran C
-  normative_status: preferred
-definition:
-- content: |-
-    A system operating on the assigned frequency of 100 kHz and having a groundwave range of nominally 1500 miles over sea water or land.
+  terms:
+  - type: expression
+    designation: Loran C
+    normative_status: preferred
+  definition:
+  - content: |-
+      A system operating on the assigned frequency of 100 kHz and having a groundwave range of nominally 1500 miles over sea water or land.
 
-    Very high accuracy is obtained by comparing the phase of the cycles comprising the pulses of the paired stations.
+      Very high accuracy is obtained by comparing the phase of the cycles comprising the pulses of the paired stations.
 
-    The occupied bandwidth is 20 kHz.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Loran_C
+      The occupied bandwidth is 20 kHz.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Loran_C

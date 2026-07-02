@@ -10,66 +10,68 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Contrast_Threshold
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-1-300
+    id: 2-1-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-300
+    id: 2-1-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-300
+    id: 2-1-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-300
+    id: 2-1-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-300
+    id: 2-1-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-300
+    id: 2-1-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-300
+    id: 2-1-300
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-1-300
+    id: 2-1-300
 ---
 id: 2-1-300-eng
 termid: 2-1-300
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Contrast Threshold
-  normative_status: preferred
-definition:
-- content: |-
-    (Luminance) Contrast Threshold
+  terms:
+  - type: expression
+    designation: Contrast Threshold
+    normative_status: preferred
+  definition:
+  - content: |-
+      (Luminance) Contrast Threshold
 
-    The minimum contrast at the eye of a given observer at which an object can be detected.
+      The minimum contrast at the eye of a given observer at which an object can be detected.
 
-    The average value has been taken to be 0.02 in most studies of visibility, and this value is correct for laboratory observation under daylight conditions.
+      The average value has been taken to be 0.02 in most studies of visibility, and this value is correct for laboratory observation under daylight conditions.
 
-    For practical observation in the field, a value of 0.05 is more appropriate and has been adopted internationally.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: |-
-    The contrast threshold is a property of the eye of the individual observer.
-    For most normal observers under ordinary daylight conditions there is good agreement between values for different individuals.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Contrast_Threshold
+      For practical observation in the field, a value of 0.05 is more appropriate and has been adopted internationally.
+  notes:
+  - content: |-
+      The contrast threshold is a property of the eye of the individual observer.
+      For most normal observers under ordinary daylight conditions there is good agreement between values for different individuals.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Contrast_Threshold

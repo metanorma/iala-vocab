@@ -10,59 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Surveillance_radar
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-3-015
+    id: 4-3-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-3-015
+    id: 4-3-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-3-015
+    id: 4-3-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-3-015
+    id: 4-3-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-3-015
+    id: 4-3-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-3-015
+    id: 4-3-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-3-015
+    id: 4-3-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-3-015
+    id: 4-3-015
 ---
 id: 4-3-015-eng
 termid: 4-3-015
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Surveillance radar
-  normative_status: preferred
-definition:
-- content: A radio navigational aid employing primary radar to display at a land station
-    the position of craft within its range.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Surveillance_radar
+  terms:
+  - type: expression
+    designation: Surveillance radar
+    normative_status: preferred
+  definition:
+  - content: A radio navigational aid employing primary radar to display at a land
+      station the position of craft within its range.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Surveillance_radar

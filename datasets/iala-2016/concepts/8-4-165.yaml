@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Centre_of_gravity_(of_a_buoy)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 8-4-165
+    id: 8-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 8-4-165
+    id: 8-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 8-4-165
+    id: 8-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 8-4-165
+    id: 8-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 8-4-165
+    id: 8-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 8-4-165
+    id: 8-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 8-4-165
+    id: 8-4-165
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 8-4-165
+    id: 8-4-165
 ---
 id: 8-4-165-eng
 termid: 8-4-165
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Centre of gravity (of a buoy)
-  normative_status: preferred
-definition:
-- content: The point about which the net moment of all the gravitational forces acting
-    on the buoy is zero for all positions of the buoy. The total weight of the buoy
-    may be considered as a downward force through this point.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Centre_of_gravity_(of_a_buoy)
+  terms:
+  - type: expression
+    designation: Centre of gravity (of a buoy)
+    normative_status: preferred
+  definition:
+  - content: The point about which the net moment of all the gravitational forces
+      acting on the buoy is zero for all positions of the buoy. The total weight of
+      the buoy may be considered as a downward force through this point.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Centre_of_gravity_(of_a_buoy)

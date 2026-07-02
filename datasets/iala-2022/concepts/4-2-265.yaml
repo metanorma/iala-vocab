@@ -10,58 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Site_error
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-2-265
+    id: 4-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-265
+    id: 4-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-2-265
+    id: 4-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-265
+    id: 4-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-2-265
+    id: 4-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-2-265
+    id: 4-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-2-265
+    id: 4-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-265
+    id: 4-2-265
 ---
 id: 4-2-265-eng
 termid: 4-2-265
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Site error
-  normative_status: preferred
-definition:
-- content: An error due to some feature or features of a direction-finding site.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Site_error
+  terms:
+  - type: expression
+    designation: Site error
+    normative_status: preferred
+  definition:
+  - content: An error due to some feature or features of a direction-finding site.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Site_error

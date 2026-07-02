@@ -10,71 +10,74 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Irradiance
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-1-140
+    id: 1-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-1-140
+    id: 1-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-1-140
+    id: 1-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-1-140
+    id: 1-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-1-140
+    id: 1-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-1-140
+    id: 1-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-1-140
+    id: 1-1-140
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-1-140
+    id: 1-1-140
 ---
 id: 1-1-140-eng
 termid: 1-1-140
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Irradiance
-  normative_status: preferred
-- type: expression
-  designation: Irradiance (at a point of a surface)
-  normative_status: admitted
-- type: symbol
-  designation: stem:[Ee]
-  normative_status: preferred
-definition:
-- content: The quotient of the radiant flux (dOe) incident on an element of the surface
-    containing the point, by the area (dA) of that element.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-  modification: modified from source
-notes:
-- content: If the radiant flux Fe may be considered uniformly distributed over a finite
-    plane surface of area A, the irradiance on this surface is given by ?? where Fe
-    is the total radiant flux incident on the surface.
-annotations:
-- content: Unit watt per square metre (W/m2)
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Irradiance
+  terms:
+  - type: expression
+    designation: Irradiance
+    normative_status: preferred
+  - type: expression
+    designation: Irradiance (at a point of a surface)
+    normative_status: admitted
+  - type: symbol
+    designation: stem:[Ee]
+    normative_status: preferred
+  definition:
+  - content: The quotient of the radiant flux (dOe) incident on an element of the
+      surface containing the point, by the area (dA) of that element.
+  notes:
+  - content: If the radiant flux Fe may be considered uniformly distributed over a
+      finite plane surface of area A, the irradiance on this surface is given by ??
+      where Fe is the total radiant flux incident on the surface.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+    modification: modified from source
+  annotations:
+  - content: Unit watt per square metre (W/m2)
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Irradiance

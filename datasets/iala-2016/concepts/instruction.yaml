@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Instruction
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: instruction
+    id: instruction
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: instruction
+    id: instruction
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: instruction
+    id: instruction
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: instruction
+    id: instruction
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: instruction
+    id: instruction
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: instruction
+    id: instruction
 ---
 id: instruction-eng
 termid: instruction
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Instruction
-  normative_status: preferred
-definition:
-- content: |-
-    VTS-2012-17
+  terms:
+  - type: expression
+    designation: Instruction
+    normative_status: preferred
+  definition:
+  - content: |-
+      VTS-2012-17
 
-    This indicates that the interaction from a VTS Centre implies the intention of the sender to influence others by a regulation.
+      This indicates that the interaction from a VTS Centre implies the intention of the sender to influence others by a regulation.
 
-    Source: IALA Guideline 1068 Para 2, Page 5 (2009)
+      Source: IALA Guideline 1068 Para 2, Page 5 (2009)
 
-    (VTS33/output/8 refers)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: This means that the sender should have full authority to send such a message.  The
-    recipient has to follow this legally binding message unless he/she has contradictory
-    safety reasons which then have to be reported to the sender.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Instruction
+      (VTS33/output/8 refers)
+  notes:
+  - content: This means that the sender should have full authority to send such a
+      message.  The recipient has to follow this legally binding message unless he/she
+      has contradictory safety reasons which then have to be reported to the sender.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Instruction

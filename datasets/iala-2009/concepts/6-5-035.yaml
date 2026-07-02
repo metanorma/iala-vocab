@@ -10,57 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Sealed_cell
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-5-035
+    id: 6-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-5-035
+    id: 6-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-5-035
+    id: 6-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-5-035
+    id: 6-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-5-035
+    id: 6-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-5-035
+    id: 6-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-5-035
+    id: 6-5-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-5-035
+    id: 6-5-035
 ---
 id: 6-5-035-eng
 termid: 6-5-035
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Sealed cell
-  normative_status: preferred
-definition:
-- content: An electrochemical cell which remains sealed providing it is operated within
-    its designed specified limits but has a re-sealable valve to release gas if the
-    internal pressure exceeds a pre-set value. Water and electrolyte cannot be added.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sealed_cell
+  terms:
+  - type: expression
+    designation: Sealed cell
+    normative_status: preferred
+  definition:
+  - content: An electrochemical cell which remains sealed providing it is operated
+      within its designed specified limits but has a re-sealable valve to release
+      gas if the internal pressure exceeds a pre-set value. Water and electrolyte
+      cannot be added.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sealed_cell

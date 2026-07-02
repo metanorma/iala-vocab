@@ -10,64 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Lorac
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-4-380
+    id: 4-4-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-4-380
+    id: 4-4-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-4-380
+    id: 4-4-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-4-380
+    id: 4-4-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-4-380
+    id: 4-4-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-4-380
+    id: 4-4-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-4-380
+    id: 4-4-380
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-4-380
+    id: 4-4-380
 ---
 id: 4-4-380-eng
 termid: 4-4-380
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Lorac
-  normative_status: preferred
-definition:
-- content: |-
-    A navigation system in which a position fix is obtained by phase comparison of continuous wave transmissions.
+  terms:
+  - type: expression
+    designation: Lorac
+    normative_status: preferred
+  definition:
+  - content: |-
+      A navigation system in which a position fix is obtained by phase comparison of continuous wave transmissions.
 
-    Two widely spaced transmitters are used, the beat note between their frequencies being derived on the vessel.
+      Two widely spaced transmitters are used, the beat note between their frequencies being derived on the vessel.
 
-    This is phase compared with a similar beat note, produced at a fixed shore location, and transmitted to the vessel on a different radio frequency, to produce a line of position.
+      This is phase compared with a similar beat note, produced at a fixed shore location, and transmitted to the vessel on a different radio frequency, to produce a line of position.
 
-    A second line is produced by a similar system.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: This is similar to the Raydist system {{4-4-270, Raydist}}.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lorac
+      A second line is produced by a similar system.
+  notes:
+  - content: This is similar to the Raydist system {{4-4-270, Raydist}}.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Lorac

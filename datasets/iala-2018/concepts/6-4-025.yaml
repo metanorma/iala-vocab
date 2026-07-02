@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Armature
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-4-025
+    id: 6-4-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-4-025
+    id: 6-4-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-4-025
+    id: 6-4-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-4-025
+    id: 6-4-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-4-025
+    id: 6-4-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-4-025
+    id: 6-4-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-4-025
+    id: 6-4-025
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-4-025
+    id: 6-4-025
 ---
 id: 6-4-025-eng
 termid: 6-4-025
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Armature
-  normative_status: preferred
-definition:
-- content: The part of a rotary electric machine in which an alternating voltage is
-    generated and the load current is carried, or which, when a current is passed
-    through the coils wound on it, provides motive power.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: In Great Britain, the term is used only if the part is on the rotor of
-    the machine, and then it refers to the complete rotor.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Armature
+  terms:
+  - type: expression
+    designation: Armature
+    normative_status: preferred
+  definition:
+  - content: The part of a rotary electric machine in which an alternating voltage
+      is generated and the load current is carried, or which, when a current is passed
+      through the coils wound on it, provides motive power.
+  notes:
+  - content: In Great Britain, the term is used only if the part is on the rotor of
+      the machine, and then it refers to the complete rotor.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Armature

@@ -10,59 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/On-off_control_system
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-2-095
+    id: 5-2-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-2-095
+    id: 5-2-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-2-095
+    id: 5-2-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-2-095
+    id: 5-2-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-2-095
+    id: 5-2-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-2-095
+    id: 5-2-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-2-095
+    id: 5-2-095
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-2-095
+    id: 5-2-095
 ---
 id: 5-2-095-eng
 termid: 5-2-095
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: On-off control system
-  normative_status: preferred
-definition:
-- content: A two-step control system in which a supply of energy to the controlled
-    system is either on or off.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.E.E
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/On-off_control_system
+  terms:
+  - type: expression
+    designation: On-off control system
+    normative_status: preferred
+  definition:
+  - content: A two-step control system in which a supply of energy to the controlled
+      system is either on or off.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.E.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/On-off_control_system

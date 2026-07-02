@@ -10,87 +10,89 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Topmark_(2)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-6-255
+    id: 2-6-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-6-255
+    id: 2-6-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-6-255
+    id: 2-6-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-6-255
+    id: 2-6-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-6-255
+    id: 2-6-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-6-255
+    id: 2-6-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-6-255
+    id: 2-6-255
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-6-255
+    id: 2-6-255
 ---
 id: 2-6-255-eng
 termid: 2-6-255
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Topmark (2)
-  normative_status: preferred
-definition:
-- content: |-
-    One or more relatively small objects of characteristic shape or colour (or both), placed on top of a navigation mark (or buoy) to identify it. (Figs. 65 and 66)
+  terms:
+  - type: expression
+    designation: Topmark (2)
+    normative_status: preferred
+  definition:
+  - content: |-
+      One or more relatively small objects of characteristic shape or colour (or both), placed on top of a navigation mark (or buoy) to identify it. (Figs. 65 and 66)
 
-    a. Simple
-    b. Composite, viz. made up of two or three individual topmarks.
+      a. Simple
+      b. Composite, viz. made up of two or three individual topmarks.
 
-    Cone
-    Can
-    Sphere
-    Diamond
-    St. George's Cross
-    "T"
-    Broom
+      Cone
+      Can
+      Sphere
+      Diamond
+      St. George's Cross
+      "T"
+      Broom
 
-    A broom topmark has the appearance of a circular broomhead and has two forms "Broom, point upwards" (in German, "mit Besen abwarts") and "Broom, point downwards" (in German, "mit Besen aufwarts").
+      A broom topmark has the appearance of a circular broomhead and has two forms "Broom, point upwards" (in German, "mit Besen abwarts") and "Broom, point downwards" (in German, "mit Besen aufwarts").
 
-    Two cones, point upwards
-    Two cones, point downwards
-    Two cones, point to point
-    Two cones, base to base
+      Two cones, point upwards
+      Two cones, point downwards
+      Two cones, point to point
+      Two cones, base to base
 
-    ![Ch2_Fig65.jpg](/iala-vocab/images/iala/Ch2_Fig65.jpg)
+      ![Ch2_Fig65.jpg](/iala-vocab/images/iala/Ch2_Fig65.jpg)
 
-    ![Ch2_Fig66.jpg](/iala-vocab/images/iala/Ch2_Fig66.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: A topmark may be
-- content: 'The following characteristic apparent shapes of topmarks are internationally
-    recognised for the lateral system of marking (or buoyage):'
-- content: 'The following characteristic apparent shapes of topmarks are internationally
-    recognised for the cardinal system of marking (or buoyage):'
-- content: Other forms (e.g. St. Andrew's Cross) are used, for example, as landfall
-    marks.
-- content: In the U.S.A. the word Daymark is often used for a topmark.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Topmark_(2)
+      ![Ch2_Fig66.jpg](/iala-vocab/images/iala/Ch2_Fig66.jpg)
+  notes:
+  - content: A topmark may be
+  - content: 'The following characteristic apparent shapes of topmarks are internationally
+      recognised for the lateral system of marking (or buoyage):'
+  - content: 'The following characteristic apparent shapes of topmarks are internationally
+      recognised for the cardinal system of marking (or buoyage):'
+  - content: Other forms (e.g. St. Andrew's Cross) are used, for example, as landfall
+      marks.
+  - content: In the U.S.A. the word Daymark is often used for a topmark.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Topmark_(2)

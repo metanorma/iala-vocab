@@ -10,54 +10,56 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Correction
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: correction
+    id: correction
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: correction
+    id: correction
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: correction
+    id: correction
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: correction
+    id: correction
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: correction
+    id: correction
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: correction
+    id: correction
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: correction
+    id: correction
 ---
 id: correction-eng
 termid: correction
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Correction
-  normative_status: preferred
-definition:
-- content: The numerical value of a correction is the best estimate that can be made
-    of the difference between the true and the measured value of a parameter. The
-    sign is such that a correction that is to be added to an observed reading is taken
-    as positive.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Correction
+  terms:
+  - type: expression
+    designation: Correction
+    normative_status: preferred
+  definition:
+  - content: The numerical value of a correction is the best estimate that can be
+      made of the difference between the true and the measured value of a parameter.
+      The sign is such that a correction that is to be added to an observed reading
+      is taken as positive.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Correction

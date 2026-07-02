@@ -10,62 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Access_manhole
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: access-manhole
+    id: access-manhole
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: access-manhole
+    id: access-manhole
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: access-manhole
+    id: access-manhole
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: access-manhole
+    id: access-manhole
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: access-manhole
+    id: access-manhole
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: access-manhole
+    id: access-manhole
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: access-manhole
+    id: access-manhole
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: access-manhole
+    id: access-manhole
 ---
 id: access-manhole-eng
 termid: access-manhole
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Access manhole
-  normative_status: preferred
-definition:
-- content: |-
-    8-4-125(
+  terms:
+  - type: expression
+    designation: Access manhole
+    normative_status: preferred
+  definition:
+  - content: |-
+      8-4-125(
 
-    An opening, for example in a buoy body, to permit personnel to enter the interior for occasional inspections or repairs.  It is closed by means of a firmly-secured watertight cover.
+      An opening, for example in a buoy body, to permit personnel to enter the interior for occasional inspections or repairs.  It is closed by means of a firmly-secured watertight cover.
 
-    On vessels and on Lanbys, a large access manhole is called a deck hatch.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: 'Note:'
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Access_manhole
+      On vessels and on Lanbys, a large access manhole is called a deck hatch.
+  notes:
+  - content: 'Note:'
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Access_manhole

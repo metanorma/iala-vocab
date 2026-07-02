@@ -10,61 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Visual_Range
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-1-285
+    id: 2-1-285
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-285
+    id: 2-1-285
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-1-285
+    id: 2-1-285
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-285
+    id: 2-1-285
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-285
+    id: 2-1-285
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-285
+    id: 2-1-285
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-285
+    id: 2-1-285
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-1-285
+    id: 2-1-285
 ---
 id: 2-1-285-eng
 termid: 2-1-285
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Visual Range
-  normative_status: preferred
-definition:
-- content: The maximum distance (usually horizontal) at which a given object can be
-    seen by day in any particular circumstances, as limited by the atmospheric transmission.
-    The distance is such that the contrast of the object with its background is reduced
-    by the atmosphere to the contrast threshold value for the observer {{2-1-300,
-    Contrast Threshold}}.
-- content: Loosely used as a synonym for "visibility" (in sense 2 of 2-1 -275). This
-    use of the term is deprecated.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Visual_Range
+  terms:
+  - type: expression
+    designation: Visual Range
+    normative_status: preferred
+  definition:
+  - content: The maximum distance (usually horizontal) at which a given object can
+      be seen by day in any particular circumstances, as limited by the atmospheric
+      transmission. The distance is such that the contrast of the object with its
+      background is reduced by the atmosphere to the contrast threshold value for
+      the observer {{2-1-300, Contrast Threshold}}.
+  - content: Loosely used as a synonym for "visibility" (in sense 2 of 2-1 -275).
+      This use of the term is deprecated.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Visual_Range

@@ -10,60 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_station
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-2-000
+    id: 4-2-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-000
+    id: 4-2-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-2-000
+    id: 4-2-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-000
+    id: 4-2-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-2-000
+    id: 4-2-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-2-000
+    id: 4-2-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-2-000
+    id: 4-2-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-000
+    id: 4-2-000
 ---
 id: 4-2-000-eng
 termid: 4-2-000
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Radio beacon station
-  normative_status: preferred
-definition:
-- content: A station in the radionavigation service, the emissions of which are intended
-    to enable a mobile station to determine its bearing or direction in relation to
-    the radio beacon station.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.T.U
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_station
+  terms:
+  - type: expression
+    designation: Radio beacon station
+    normative_status: preferred
+  definition:
+  - content: A station in the radionavigation service, the emissions of which are
+      intended to enable a mobile station to determine its bearing or direction in
+      relation to the radio beacon station.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.T.U
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_station

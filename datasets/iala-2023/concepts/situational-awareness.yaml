@@ -10,26 +10,28 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Situational_Awareness
 ---
 id: situational-awareness-eng
 termid: situational-awareness
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Situational Awareness
-  normative_status: preferred
-definition:
-- content: |-
-    Situational awareness refers to the ability to identify, process, and comprehend the critical elements of information about what is happening in the surrounding environment at any given time.
-    It involves being aware of what is happening around you and understanding how that information, events, and your own actions will impact your goals and objectives, both immediately and in the near future.
+  terms:
+  - type: expression
+    designation: Situational Awareness
+    normative_status: preferred
+  definition:
+  - content: |-
+      Situational awareness refers to the ability to identify, process, and comprehend the critical elements of information about what is happening in the surrounding environment at any given time.
+      It involves being aware of what is happening around you and understanding how that information, events, and your own actions will impact your goals and objectives, both immediately and in the near future.
 
-    Source: VTS54 Task 1.1.3(a) - Develop guidance on the Implications of Maritime Autonomous Surface Ships (MASS) from a VTS Perspective
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Situational_Awareness
+      Source: VTS54 Task 1.1.3(a) - Develop guidance on the Implications of Maritime Autonomous Surface Ships (MASS) from a VTS Perspective
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Situational_Awareness

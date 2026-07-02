@@ -10,59 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Drip-protected_enclosure_(or_machine)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-8-245
+    id: 6-8-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-8-245
+    id: 6-8-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-8-245
+    id: 6-8-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-8-245
+    id: 6-8-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-8-245
+    id: 6-8-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-8-245
+    id: 6-8-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-8-245
+    id: 6-8-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-8-245
+    id: 6-8-245
 ---
 id: 6-8-245-eng
 termid: 6-8-245
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Drip-protected enclosure (or machine)
-  normative_status: preferred
-- type: expression
-  designation: Drip-proof enclosure (or machine)
-  normative_status: admitted
-definition:
-- content: An enclosure (or machine) designed to prevent the ingress of liquids and
-    solid particles falling on it vertically or nearly vertically.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Drip-protected_enclosure_(or_machine)
+  terms:
+  - type: expression
+    designation: Drip-protected enclosure (or machine)
+    normative_status: preferred
+  - type: expression
+    designation: Drip-proof enclosure (or machine)
+    normative_status: admitted
+  definition:
+  - content: An enclosure (or machine) designed to prevent the ingress of liquids
+      and solid particles falling on it vertically or nearly vertically.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Drip-protected_enclosure_(or_machine)

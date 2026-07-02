@@ -10,59 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Forward_action_(general_term)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 5-2-265
+    id: 5-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-2-265
+    id: 5-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-2-265
+    id: 5-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-2-265
+    id: 5-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-2-265
+    id: 5-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-2-265
+    id: 5-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 5-2-265
+    id: 5-2-265
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-2-265
+    id: 5-2-265
 ---
 id: 5-2-265-eng
 termid: 5-2-265
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Forward action (general term)
-  normative_status: preferred
-definition:
-- content: A function which tends to carry out a control operation but which, when
-    considered alone, cannot monitor the correct achievement of the command thus transmitted.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Forward_action_(general_term)
+  terms:
+  - type: expression
+    designation: Forward action (general term)
+    normative_status: preferred
+  definition:
+  - content: A function which tends to carry out a control operation but which, when
+      considered alone, cannot monitor the correct achievement of the command thus
+      transmitted.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Forward_action_(general_term)

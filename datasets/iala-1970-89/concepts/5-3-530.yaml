@@ -10,61 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Quantization
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-3-530
+    id: 5-3-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-3-530
+    id: 5-3-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-3-530
+    id: 5-3-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-3-530
+    id: 5-3-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-3-530
+    id: 5-3-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-3-530
+    id: 5-3-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 5-3-530
+    id: 5-3-530
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-3-530
+    id: 5-3-530
 ---
 id: 5-3-530-eng
 termid: 5-3-530
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Quantization
-  normative_status: preferred
-definition:
-- content: A process in which the range of values of a variable is divided into a
-    finite number of smaller subranges, each of which is represented by an assigned
-    or "quantized" value within the subrange.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.E.C
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Quantization
+  terms:
+  - type: expression
+    designation: Quantization
+    normative_status: preferred
+  definition:
+  - content: A process in which the range of values of a variable is divided into
+      a finite number of smaller subranges, each of which is represented by an assigned
+      or "quantized" value within the subrange.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.E.C
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Quantization

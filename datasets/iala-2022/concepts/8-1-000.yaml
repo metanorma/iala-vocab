@@ -10,62 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Service_Vessels
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 8-1-000
+    id: 8-1-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 8-1-000
+    id: 8-1-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 8-1-000
+    id: 8-1-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 8-1-000
+    id: 8-1-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 8-1-000
+    id: 8-1-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 8-1-000
+    id: 8-1-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 8-1-000
+    id: 8-1-000
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 8-1-000
+    id: 8-1-000
 ---
 id: 8-1-000-eng
 termid: 8-1-000
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Service Vessels
-  normative_status: preferred
-definition:
-- content: |-
-    A general term for all types of vessel used by lighthouse services.
+  terms:
+  - type: expression
+    designation: Service Vessels
+    normative_status: preferred
+  definition:
+  - content: |-
+      A general term for all types of vessel used by lighthouse services.
 
-    Note :
+      Note :
 
-    The German term Seezeichenfahrzeug is a general term for all vessels that mainly attend aids to navigation in order to service them.
+      The German term Seezeichenfahrzeug is a general term for all vessels that mainly attend aids to navigation in order to service them.
 
-    The English term servicing vessel is often used with this meaning.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Service_Vessels
+      The English term servicing vessel is often used with this meaning.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Service_Vessels

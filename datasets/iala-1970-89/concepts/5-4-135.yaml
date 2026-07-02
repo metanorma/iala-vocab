@@ -10,61 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Velodyne_integrator
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 5-4-135
+    id: 5-4-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 5-4-135
+    id: 5-4-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 5-4-135
+    id: 5-4-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 5-4-135
+    id: 5-4-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 5-4-135
+    id: 5-4-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 5-4-135
+    id: 5-4-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 5-4-135
+    id: 5-4-135
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 5-4-135
+    id: 5-4-135
 ---
 id: 5-4-135-eng
 termid: 5-4-135
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Velodyne integrator
-  normative_status: preferred
-definition:
-- content: A servo mechanism usually employing a d.c. split field motor and tacho-generator
-    on the same shaft, in which it is intended that the speed of rotation be maintained
-    proportional to an input voltage. The total number of revolutions of the output
-    shaft is an approximate measure of the time-integral of the input voltage.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Velodyne_integrator
+  terms:
+  - type: expression
+    designation: Velodyne integrator
+    normative_status: preferred
+  definition:
+  - content: A servo mechanism usually employing a d.c. split field motor and tacho-generator
+      on the same shaft, in which it is intended that the speed of rotation be maintained
+      proportional to an input voltage. The total number of revolutions of the output
+      shaft is an approximate measure of the time-integral of the input voltage.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Velodyne_integrator

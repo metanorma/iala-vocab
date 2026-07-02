@@ -10,54 +10,56 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Marginally_detectable_bias_(MDB)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: marginally-detectable-bias-mdb-
+    id: marginally-detectable-bias-mdb-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: marginally-detectable-bias-mdb-
+    id: marginally-detectable-bias-mdb-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: marginally-detectable-bias-mdb-
+    id: marginally-detectable-bias-mdb-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: marginally-detectable-bias-mdb-
+    id: marginally-detectable-bias-mdb-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: marginally-detectable-bias-mdb-
+    id: marginally-detectable-bias-mdb-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: marginally-detectable-bias-mdb-
+    id: marginally-detectable-bias-mdb-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: marginally-detectable-bias-mdb-
+    id: marginally-detectable-bias-mdb-
 ---
 id: marginally-detectable-bias-mdb--eng
 termid: marginally-detectable-bias-mdb-
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Marginally detectable bias (MDB)
-  normative_status: preferred
-definition:
-- content: The minimum size of gross error in an observation that may be detected
-    with given probabilities of type 1 and type 2 errors. A type 1 error occurs when
-    an observation without a gross error is wrongly rejected, and a type 2 error occurs
-    when an observation with a gross error is wrongly accepted.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Marginally_detectable_bias_(MDB)
+  terms:
+  - type: expression
+    designation: Marginally detectable bias (MDB)
+    normative_status: preferred
+  definition:
+  - content: The minimum size of gross error in an observation that may be detected
+      with given probabilities of type 1 and type 2 errors. A type 1 error occurs
+      when an observation without a gross error is wrongly rejected, and a type 2
+      error occurs when an observation with a gross error is wrongly accepted.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Marginally_detectable_bias_(MDB)

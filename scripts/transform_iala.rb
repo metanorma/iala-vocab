@@ -367,7 +367,7 @@ index.each do |item|
       {
         "type" => "authoritative",
         "origin" => {
-          "ref" => "IALA Dictionary",
+          "ref" => { "source" => "IALA Dictionary" },
           "link" => "https://www.iala.int/wiki/dictionary/index.php/#{title.gsub(' ', '_')}"
         }
       }
@@ -412,11 +412,11 @@ index.each do |item|
   lc_sources = [
     {
       "type" => "authoritative",
-      "origin" => { "ref" => "IALA Dictionary" }
+      "origin" => { "ref" => { "source" => "IALA Dictionary" } }
     }
   ]
   extracted_refs.each do |ref, ref_mod|
-    src = { "type" => "authoritative", "origin" => { "ref" => ref } }
+    src = { "type" => "authoritative", "origin" => { "ref" => { "source" => ref } } }
     src["modification"] = "modified from source" if ref_mod || modified_any
     lc_sources << src
   end
@@ -560,10 +560,10 @@ index.each do |item|
     end
 
     ll_sources = [
-      { "type" => "authoritative", "origin" => { "ref" => "IALA Dictionary" } }
+      { "type" => "authoritative", "origin" => { "ref" => { "source" => "IALA Dictionary" } } }
     ]
     ll_extracted_refs.each do |ref, ref_mod|
-      src = { "type" => "authoritative", "origin" => { "ref" => ref } }
+      src = { "type" => "authoritative", "origin" => { "ref" => { "source" => ref } } }
       src["modification"] = "modified from source" if ref_mod || ll_modified_any
       ll_sources << src
     end
@@ -694,9 +694,9 @@ index.each do |item|
         tr_terms << { "type" => "symbol", "designation" => sym, "normative_status" => "preferred" }
       end
 
-      tr_sources = [{ "type" => "authoritative", "origin" => { "ref" => "IALA Dictionary" } }]
+      tr_sources = [{ "type" => "authoritative", "origin" => { "ref" => { "source" => "IALA Dictionary" } } }]
       tr_extracted_refs.each do |ref, ref_mod|
-        src = { "type" => "authoritative", "origin" => { "ref" => ref } }
+        src = { "type" => "authoritative", "origin" => { "ref" => { "source" => ref } } }
         src["modification"] = "modified from source" if ref_mod || tr_modified_any
         tr_sources << src
         slug = sanitize(ref)

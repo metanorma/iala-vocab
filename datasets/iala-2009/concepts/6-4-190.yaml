@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Alternator
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-4-190
+    id: 6-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-4-190
+    id: 6-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 6-4-190
+    id: 6-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-4-190
+    id: 6-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-4-190
+    id: 6-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-4-190
+    id: 6-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-4-190
+    id: 6-4-190
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-4-190
+    id: 6-4-190
 ---
 id: 6-4-190-eng
 termid: 6-4-190
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Alternator
-  normative_status: preferred
-definition:
-- content: |-
-    Alternative ter: Alternating-current generator, a.c. generator
+  terms:
+  - type: expression
+    designation: Alternator
+    normative_status: preferred
+  definition:
+  - content: |-
+      Alternative ter: Alternating-current generator, a.c. generator
 
-    A generator for the production of alternating current and voltage.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Alternator
+      A generator for the production of alternating current and voltage.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Alternator

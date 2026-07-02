@@ -10,59 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Resolving_time
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-160
+    id: 4-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-160
+    id: 4-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-160
+    id: 4-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-160
+    id: 4-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-160
+    id: 4-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-160
+    id: 4-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-160
+    id: 4-1-160
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-160
+    id: 4-1-160
 ---
 id: 4-1-160-eng
 termid: 4-1-160
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Resolving time
-  normative_status: preferred
-definition:
-- content: The minimum time interval by which two events must be separated to be distinguishable,
-    in a navigation system, by the time measurement alone.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.R.E
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Resolving_time
+  terms:
+  - type: expression
+    designation: Resolving time
+    normative_status: preferred
+  definition:
+  - content: The minimum time interval by which two events must be separated to be
+      distinguishable, in a navigation system, by the time measurement alone.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.R.E
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Resolving_time

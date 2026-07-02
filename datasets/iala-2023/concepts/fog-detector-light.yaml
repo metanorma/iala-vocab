@@ -10,24 +10,26 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Fog_Detector_Light
 ---
 id: fog-detector-light-eng
 termid: fog-detector-light
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Fog Detector Light
-  normative_status: preferred
-definition:
-- content: Fog Detector Light – is a light able to detect fog automatically. There
-    are various types; some are visible only over a narrow arc; some exhibit a blueish-white
-    flash lasting approximately one second; others sweep back and forth.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fog_Detector_Light
+  terms:
+  - type: expression
+    designation: Fog Detector Light
+    normative_status: preferred
+  definition:
+  - content: Fog Detector Light – is a light able to detect fog automatically. There
+      are various types; some are visible only over a narrow arc; some exhibit a blueish-white
+      flash lasting approximately one second; others sweep back and forth.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Fog_Detector_Light

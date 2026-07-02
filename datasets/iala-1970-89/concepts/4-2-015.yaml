@@ -10,61 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Transmission_schedule
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-015
+    id: 4-2-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-2-015
+    id: 4-2-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-015
+    id: 4-2-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-2-015
+    id: 4-2-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-2-015
+    id: 4-2-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-2-015
+    id: 4-2-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-2-015
+    id: 4-2-015
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-015
+    id: 4-2-015
 ---
 id: 4-2-015-eng
 termid: 4-2-015
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Transmission schedule
-  normative_status: preferred
-definition:
-- content: |-
-    Radio beacon schedule Sequence number
+  terms:
+  - type: expression
+    designation: Transmission schedule
+    normative_status: preferred
+  definition:
+  - content: |-
+      Radio beacon schedule Sequence number
 
-    A term used in parts of the world where radio beacons are operated in groups. It indicates the position (or positions) in the group occupied by the transmissions of the radio beacon and is designated by the numbers) of the minute(s) in which transmission occurs.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: A.L.R.S
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Transmission_schedule
+      A term used in parts of the world where radio beacons are operated in groups. It indicates the position (or positions) in the group occupied by the transmissions of the radio beacon and is designated by the numbers) of the minute(s) in which transmission occurs.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: A.L.R.S
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Transmission_schedule

@@ -10,84 +10,87 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Meteorological_Visibility
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-1-280
+    id: 2-1-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-280
+    id: 2-1-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-280
+    id: 2-1-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-1-280
+    id: 2-1-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-280
+    id: 2-1-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-280
+    id: 2-1-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-280
+    id: 2-1-280
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-280
+    id: 2-1-280
 ---
 id: 2-1-280-eng
 termid: 2-1-280
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Meteorological Visibility
-  normative_status: preferred
-- type: symbol
-  designation: stem:[V]
-  normative_status: preferred
-- type: symbol
-  designation: stem:[V0.05]
-  normative_status: preferred
-definition:
-- content: |-
-    The greatest distance at which a black object of suitable dimensions can be seen and recognised by day against the horizon sky, or, in the case of night observations, could be seen and recognised if the general illumination were raised to the normal daylight level. The term may express the visibility in a single direction or the prevailing visibility in all directions.
+  terms:
+  - type: expression
+    designation: Meteorological Visibility
+    normative_status: preferred
+  - type: symbol
+    designation: stem:[V]
+    normative_status: preferred
+  - type: symbol
+    designation: stem:[V0.05]
+    normative_status: preferred
+  definition:
+  - content: |-
+      The greatest distance at which a black object of suitable dimensions can be seen and recognised by day against the horizon sky, or, in the case of night observations, could be seen and recognised if the general illumination were raised to the normal daylight level. The term may express the visibility in a single direction or the prevailing visibility in all directions.
 
-    Unit: kilometre (km); sea-mile (s.m.)
+      Unit: kilometre (km); sea-mile (s.m.)
 
-    In Germany, the visibility so defined has the
+      In Germany, the visibility so defined has the
 
-    and is often called the Praktische Sichtweite.
+      and is often called the Praktische Sichtweite.
 
-    In the case of a uniform atmosphere, the visibility so defined is equal to ,  where s is the atmospheric extinction coefficient (2-1-270, Note 2:).
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: W.M.O
-  modification: modified from source
-notes:
-- content: 'It has been established that in such circumstances an object may be seen
-    and recognised if a certain value of the contrast threshold C is reached (2-1-295
-    and 2-1-300). For practical observations, the value of C = 0.05 has been agreed
-    by the Reference: W.M.O. In the case of a uniform atmosphere, the visibility so
-    defined is equal to, where s is the atmospheric extinction coefficient (2-1-270,
-    Note 2:).'
-- content: 'Under ideal conditions (in daylight laboratory observation), however,
-    C is equal to 0.02. A visibility defined by this value has been called the Meteorological
-    Range (and, in German, Normsichtweite, with Symbol: VN)'
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Meteorological_Visibility
+      In the case of a uniform atmosphere, the visibility so defined is equal to ,  where s is the atmospheric extinction coefficient (2-1-270, Note 2:).
+  notes:
+  - content: 'It has been established that in such circumstances an object may be
+      seen and recognised if a certain value of the contrast threshold C is reached
+      (2-1-295 and 2-1-300). For practical observations, the value of C = 0.05 has
+      been agreed by the Reference: W.M.O. In the case of a uniform atmosphere, the
+      visibility so defined is equal to, where s is the atmospheric extinction coefficient
+      (2-1-270, Note 2:).'
+  - content: 'Under ideal conditions (in daylight laboratory observation), however,
+      C is equal to 0.02. A visibility defined by this value has been called the Meteorological
+      Range (and, in German, Normsichtweite, with Symbol: VN)'
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: W.M.O
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Meteorological_Visibility

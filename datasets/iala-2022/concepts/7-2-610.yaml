@@ -10,59 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Drainpipe
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-2-610
+    id: 7-2-610
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-2-610
+    id: 7-2-610
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-2-610
+    id: 7-2-610
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-2-610
+    id: 7-2-610
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-2-610
+    id: 7-2-610
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-2-610
+    id: 7-2-610
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-2-610
+    id: 7-2-610
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-2-610
+    id: 7-2-610
 ---
 id: 7-2-610-eng
 termid: 7-2-610
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Drainpipe
-  normative_status: preferred
-- type: expression
-  designation: Downpipe
-  normative_status: admitted
-definition:
-- content: A pipe leading water from the gutter of a roof to a drainage system at,
-    or below, ground level.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Drainpipe
+  terms:
+  - type: expression
+    designation: Drainpipe
+    normative_status: preferred
+  - type: expression
+    designation: Downpipe
+    normative_status: admitted
+  definition:
+  - content: A pipe leading water from the gutter of a roof to a drainage system at,
+      or below, ground level.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Drainpipe

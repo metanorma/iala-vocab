@@ -10,65 +10,68 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Point_Brilliance
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: point-brilliance
+    id: point-brilliance
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: point-brilliance
+    id: point-brilliance
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: point-brilliance
+    id: point-brilliance
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: point-brilliance
+    id: point-brilliance
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: point-brilliance
+    id: point-brilliance
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: point-brilliance
+    id: point-brilliance
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: point-brilliance
+    id: point-brilliance
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: point-brilliance
+    id: point-brilliance
 ---
 id: point-brilliance-eng
 termid: point-brilliance
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Point Brilliance
-  normative_status: preferred
-- type: symbol
-  designation: stem:[E]
-  normative_status: preferred
-definition:
-- content: |-
-    2-1 -395
+  terms:
+  - type: expression
+    designation: Point Brilliance
+    normative_status: preferred
+  - type: symbol
+    designation: stem:[E]
+    normative_status: preferred
+  definition:
+  - content: |-
+      2-1 -395
 
-    A quantity involved in the visual observation of a source of light when viewed directly from such a distance that the apparent diameter is inappreciable. The point brilliance is measured by the illuminance produced by the source on a plane at the observer's eye normal to the direction of the source.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-annotations:
-- content: Unit lux (lx)
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Point_Brilliance
+      A quantity involved in the visual observation of a source of light when viewed directly from such a distance that the apparent diameter is inappreciable. The point brilliance is measured by the illuminance produced by the source on a plane at the observer's eye normal to the direction of the source.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+  annotations:
+  - content: Unit lux (lx)
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Point_Brilliance

@@ -10,34 +10,36 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Approved_AtoN_Training_Course
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: approved-aton-training-course
+    id: approved-aton-training-course
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: approved-aton-training-course
+    id: approved-aton-training-course
 ---
 id: approved-aton-training-course-eng
 termid: approved-aton-training-course
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Approved AtoN Training Course
-  normative_status: preferred
-definition:
-- content: |-
-    Approved AtoN Training Course is a course of study in AtoN that has successfully completed the quality assurance process under which a training course is assessed to ensure that IALA standards are met.
+  terms:
+  - type: expression
+    designation: Approved AtoN Training Course
+    normative_status: preferred
+  definition:
+  - content: |-
+      Approved AtoN Training Course is a course of study in AtoN that has successfully completed the quality assurance process under which a training course is assessed to ensure that IALA standards are met.
 
-    Source: ENG7, Recommendation R0141
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Approved_AtoN_Training_Course
+      Source: ENG7, Recommendation R0141
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Approved_AtoN_Training_Course

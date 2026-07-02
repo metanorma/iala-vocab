@@ -10,65 +10,68 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Scattering
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-325
+    id: 4-1-325
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-325
+    id: 4-1-325
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-325
+    id: 4-1-325
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-325
+    id: 4-1-325
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-325
+    id: 4-1-325
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-325
+    id: 4-1-325
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-325
+    id: 4-1-325
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-325
+    id: 4-1-325
 ---
 id: 4-1-325-eng
 termid: 4-1-325
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Scattering
-  normative_status: preferred
-- type: expression
-  designation: Scattering (in radio wave propagation)
-  normative_status: admitted
-definition:
-- content: In the most general sense, the process by which the propagation of electromagnetic
-    waves is modified by lack of homogeneity in the medium.
-- content: More usually the process by which the propagation of electromagnetic waves
-    is modified by one or more discontinuities in the medium of limited extent compared
-    with the wavelength.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Scattering
+  terms:
+  - type: expression
+    designation: Scattering
+    normative_status: preferred
+  - type: expression
+    designation: Scattering (in radio wave propagation)
+    normative_status: admitted
+  definition:
+  - content: In the most general sense, the process by which the propagation of electromagnetic
+      waves is modified by lack of homogeneity in the medium.
+  - content: More usually the process by which the propagation of electromagnetic
+      waves is modified by one or more discontinuities in the medium of limited extent
+      compared with the wavelength.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Scattering

@@ -10,64 +10,66 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Rated_power_output
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 6-8-020
+    id: 6-8-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 6-8-020
+    id: 6-8-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 6-8-020
+    id: 6-8-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 6-8-020
+    id: 6-8-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 6-8-020
+    id: 6-8-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 6-8-020
+    id: 6-8-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 6-8-020
+    id: 6-8-020
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 6-8-020
+    id: 6-8-020
 ---
 id: 6-8-020-eng
 termid: 6-8-020
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Rated power output
-  normative_status: preferred
-- type: expression
-  designation: Full load
-  normative_status: admitted
-definition:
-- content: |-
-    (rated) power output
+  terms:
+  - type: expression
+    designation: Rated power output
+    normative_status: preferred
+  - type: expression
+    designation: Full load
+    normative_status: admitted
+  definition:
+  - content: |-
+      (rated) power output
 
-    The minimum power available from a source if the normal specified operating conditions are observed.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The term " power output " is sometimes used to mean output power, but this
-    usage is deprecated.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Rated_power_output
+      The minimum power available from a source if the normal specified operating conditions are observed.
+  notes:
+  - content: The term " power output " is sometimes used to mean output power, but
+      this usage is deprecated.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Rated_power_output

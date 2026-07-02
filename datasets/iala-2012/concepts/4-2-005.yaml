@@ -10,60 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_characteristic
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-2-005
+    id: 4-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-005
+    id: 4-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-005
+    id: 4-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-2-005
+    id: 4-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-2-005
+    id: 4-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-2-005
+    id: 4-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-2-005
+    id: 4-2-005
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-005
+    id: 4-2-005
 ---
 id: 4-2-005-eng
 termid: 4-2-005
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Radio beacon characteristic
-  normative_status: preferred
-definition:
-- content: The description of the complete cycle of transmission of a radio beacon
-    in a given period of time, inclusive of any silent period.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: A.L.R.S
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_characteristic
+  terms:
+  - type: expression
+    designation: Radio beacon characteristic
+    normative_status: preferred
+  definition:
+  - content: The description of the complete cycle of transmission of a radio beacon
+      in a given period of time, inclusive of any silent period.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: A.L.R.S
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_beacon_characteristic

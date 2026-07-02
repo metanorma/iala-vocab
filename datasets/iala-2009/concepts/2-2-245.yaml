@@ -10,61 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Ground_and_Polished_Glass
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-2-245
+    id: 2-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-2-245
+    id: 2-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-2-245
+    id: 2-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-2-245
+    id: 2-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-2-245
+    id: 2-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-2-245
+    id: 2-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-2-245
+    id: 2-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-2-245
+    id: 2-2-245
 ---
 id: 2-2-245-eng
 termid: 2-2-245
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Ground and Polished Glass
-  normative_status: preferred
-- type: expression
-  designation: Cut Glass
-  normative_status: admitted
-definition:
-- content: Glass formed, after solidification, into the shape required for optical
-    purposes by cutting roughly to shape initially and subsequently shaping accurately
-    by grinding and polishing, using abrasive powders at first coarse and becoming
-    successively finer.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ground_and_Polished_Glass
+  terms:
+  - type: expression
+    designation: Ground and Polished Glass
+    normative_status: preferred
+  - type: expression
+    designation: Cut Glass
+    normative_status: admitted
+  definition:
+  - content: Glass formed, after solidification, into the shape required for optical
+      purposes by cutting roughly to shape initially and subsequently shaping accurately
+      by grinding and polishing, using abrasive powders at first coarse and becoming
+      successively finer.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Ground_and_Polished_Glass

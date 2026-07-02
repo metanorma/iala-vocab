@@ -10,59 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Radio_horizon
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-945
+    id: 4-1-945
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-945
+    id: 4-1-945
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-945
+    id: 4-1-945
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-945
+    id: 4-1-945
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-945
+    id: 4-1-945
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-945
+    id: 4-1-945
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-945
+    id: 4-1-945
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-945
+    id: 4-1-945
 ---
 id: 4-1-945-eng
 termid: 4-1-945
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Radio horizon
-  normative_status: preferred
-definition:
-- content: The locus of points at which direct rays from the antenna become tangential
-    to the earth's surface, taking into account the curvature due to refraction.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.C.I.R
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_horizon
+  terms:
+  - type: expression
+    designation: Radio horizon
+    normative_status: preferred
+  definition:
+  - content: The locus of points at which direct rays from the antenna become tangential
+      to the earth's surface, taking into account the curvature due to refraction.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.C.I.R
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radio_horizon

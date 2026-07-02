@@ -10,61 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Storey
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 7-2-060
+    id: 7-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 7-2-060
+    id: 7-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 7-2-060
+    id: 7-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 7-2-060
+    id: 7-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 7-2-060
+    id: 7-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 7-2-060
+    id: 7-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 7-2-060
+    id: 7-2-060
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 7-2-060
+    id: 7-2-060
 ---
 id: 7-2-060-eng
 termid: 7-2-060
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Storey
-  normative_status: preferred
-definition:
-- content: |-
-    Alternative tems: Floor, Story (USA)
+  terms:
+  - type: expression
+    designation: Storey
+    normative_status: preferred
+  definition:
+  - content: |-
+      Alternative tems: Floor, Story (USA)
 
-    The space between two successive floors of a building.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The French term etage does not apply to the space between the ground floor
-    and the first floor.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Storey
+      The space between two successive floors of a building.
+  notes:
+  - content: The French term etage does not apply to the space between the ground
+      floor and the first floor.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Storey

@@ -10,60 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Anchorage
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-2-155
+    id: 1-2-155
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-2-155
+    id: 1-2-155
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-2-155
+    id: 1-2-155
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-2-155
+    id: 1-2-155
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-2-155
+    id: 1-2-155
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-2-155
+    id: 1-2-155
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-2-155
+    id: 1-2-155
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-2-155
+    id: 1-2-155
 ---
 id: 1-2-155-eng
 termid: 1-2-155
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Anchorage
-  normative_status: preferred
-definition:
-- content: An area where ships can ride at anchor, sometimes designated by competent
-    authorities.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.H.B
-  modification: modified from source
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Anchorage
+  terms:
+  - type: expression
+    designation: Anchorage
+    normative_status: preferred
+  definition:
+  - content: An area where ships can ride at anchor, sometimes designated by competent
+      authorities.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.H.B
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Anchorage

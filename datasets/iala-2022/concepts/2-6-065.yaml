@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Port_Hand_Mark_(or_Buoy)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-6-065
+    id: 2-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-6-065
+    id: 2-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-6-065
+    id: 2-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-6-065
+    id: 2-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-6-065
+    id: 2-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-6-065
+    id: 2-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-6-065
+    id: 2-6-065
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-6-065
+    id: 2-6-065
 ---
 id: 2-6-065-eng
 termid: 2-6-065
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Port Hand Mark (or Buoy)
-  normative_status: preferred
-definition:
-- content: A mark (or buoy) which is to be left to the port hand when approaching
-    from the open sea or in general proceeding in the direction of the main stream
-    of flood tide, or in the direction established by the appropriate authority.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Port_Hand_Mark_(or_Buoy)
+  terms:
+  - type: expression
+    designation: Port Hand Mark (or Buoy)
+    normative_status: preferred
+  definition:
+  - content: A mark (or buoy) which is to be left to the port hand when approaching
+      from the open sea or in general proceeding in the direction of the main stream
+      of flood tide, or in the direction established by the appropriate authority.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Port_Hand_Mark_(or_Buoy)

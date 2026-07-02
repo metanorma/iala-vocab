@@ -10,64 +10,67 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Transmissivity
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-1-195
+    id: 2-1-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-195
+    id: 2-1-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-1-195
+    id: 2-1-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-195
+    id: 2-1-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-195
+    id: 2-1-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-195
+    id: 2-1-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-195
+    id: 2-1-195
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-1-195
+    id: 2-1-195
 ---
 id: 2-1-195-eng
 termid: 2-1-195
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Transmissivity
-  normative_status: preferred
-- type: expression
-  designation: Transmissivity (of an absorbing material)
-  normative_status: admitted
-definition:
-- content: The internal transmittance of a layer of the material such that the path
-    of the radiation is of
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-annotations:
-- content: Unit length, and under conditions in which the boundary of the material
-    has no influence.
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Transmissivity
+  terms:
+  - type: expression
+    designation: Transmissivity
+    normative_status: preferred
+  - type: expression
+    designation: Transmissivity (of an absorbing material)
+    normative_status: admitted
+  definition:
+  - content: The internal transmittance of a layer of the material such that the path
+      of the radiation is of
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+  annotations:
+  - content: Unit length, and under conditions in which the boundary of the material
+      has no influence.
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Transmissivity

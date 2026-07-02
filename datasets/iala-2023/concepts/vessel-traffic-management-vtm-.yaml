@@ -10,52 +10,54 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Vessel_Traffic_Management_(VTM)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: vessel-traffic-management-vtm-
+    id: vessel-traffic-management-vtm-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: vessel-traffic-management-vtm-
+    id: vessel-traffic-management-vtm-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: vessel-traffic-management-vtm-
+    id: vessel-traffic-management-vtm-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: vessel-traffic-management-vtm-
+    id: vessel-traffic-management-vtm-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: vessel-traffic-management-vtm-
+    id: vessel-traffic-management-vtm-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: vessel-traffic-management-vtm-
+    id: vessel-traffic-management-vtm-
 ---
 id: vessel-traffic-management-vtm--eng
 termid: vessel-traffic-management-vtm-
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Vessel Traffic Management (VTM)
-  normative_status: preferred
-definition:
-- content: |-
-    VTS-2012-37
+  terms:
+  - type: expression
+    designation: Vessel Traffic Management (VTM)
+    normative_status: preferred
+  definition:
+  - content: |-
+      VTS-2012-37
 
-    Vessel Traffic Management (VTM) is the functional framework of harmonized measures and services to enhance the safety, security and efficiency of shipping and the protection of the marine environment in all navigable waters.
+      Vessel Traffic Management (VTM) is the functional framework of harmonized measures and services to enhance the safety, security and efficiency of shipping and the protection of the marine environment in all navigable waters.
 
-    (VTS33/output/8 refers)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Vessel_Traffic_Management_(VTM)
+      (VTS33/output/8 refers)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Vessel_Traffic_Management_(VTM)

@@ -10,94 +10,97 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Angle_of_Divergence
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-1-100
+    id: 2-1-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-1-100
+    id: 2-1-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-1-100
+    id: 2-1-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-1-100
+    id: 2-1-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-1-100
+    id: 2-1-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-1-100
+    id: 2-1-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-1-100
+    id: 2-1-100
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-1-100
+    id: 2-1-100
 ---
 id: 2-1-100-eng
 termid: 2-1-100
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Angle of Divergence
-  normative_status: preferred
-definition:
-- content: |-
-    The angle formed by two rays of a luminous beam in a given plane, the intensity within the angle being at least equal to an assigned percentage of the maximum of the curve of the intensity distribution in that plane.
+  terms:
+  - type: expression
+    designation: Angle of Divergence
+    normative_status: preferred
+  definition:
+  - content: |-
+      The angle formed by two rays of a luminous beam in a given plane, the intensity within the angle being at least equal to an assigned percentage of the maximum of the curve of the intensity distribution in that plane.
 
-    Most often the plane is either vertical (vertical divergence) or horizontal (horizontal divergence).
+      Most often the plane is either vertical (vertical divergence) or horizontal (horizontal divergence).
 
-    The value of the assigned percentage has differed widely, the most common values being 10%, 15% or 50%.
+      The value of the assigned percentage has differed widely, the most common values being 10%, 15% or 50%.
 
-    For an optical apparatus which does not produce a converged beam {{2-2-215, Converged Beam}} or a diverged beam {{2-2-220, Diverged Beam}}, the angle of divergence is also defined approximately by radians or degrees, where f is the focal distance of an optical apparatus and d is the maximum dimension of a light source placed at its focus, measured in the same plane as the angle of divergence.
+      For an optical apparatus which does not produce a converged beam {{2-2-215, Converged Beam}} or a diverged beam {{2-2-220, Diverged Beam}}, the angle of divergence is also defined approximately by radians or degrees, where f is the focal distance of an optical apparatus and d is the maximum dimension of a light source placed at its focus, measured in the same plane as the angle of divergence.
 
-    ![Ch2_Fig5.jpg](/iala-vocab/images/iala/Ch2_Fig5.jpg)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: The word Divergence is also used as an abbreviation for "angle of divergence".
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Angle_of_Divergence
+      ![Ch2_Fig5.jpg](/iala-vocab/images/iala/Ch2_Fig5.jpg)
+  notes:
+  - content: The word Divergence is also used as an abbreviation for "angle of divergence".
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Angle_of_Divergence
 ---
 id: 2-1-100-deu
 termid: 2-1-100
 data:
   language_code: deu
-terms:
-- type: expression
-  designation: Streuwinkel
-  normative_status: preferred
-definition:
-- content: |-
-    Winkel, der durch zwei Strahlen eines Lichtbündels in einer defmierten Ebene gebildet wird. Innerhalb dieses Winkels ist die Lichtstärke gleich oder größer einem vorgegebenen Prozentsatz vom Maximum der Lichtstärkeverteilungskurve in dieser Ebene.
+  terms:
+  - type: expression
+    designation: Streuwinkel
+    normative_status: preferred
+  definition:
+  - content: |-
+      Winkel, der durch zwei Strahlen eines Lichtbündels in einer defmierten Ebene gebildet wird. Innerhalb dieses Winkels ist die Lichtstärke gleich oder größer einem vorgegebenen Prozentsatz vom Maximum der Lichtstärkeverteilungskurve in dieser Ebene.
 
-    Die vorgegebene Ebene ist meistens entweder vertikal (Vertikalstreuung) oder horizontal (Horizontalstreuung).
+      Die vorgegebene Ebene ist meistens entweder vertikal (Vertikalstreuung) oder horizontal (Horizontalstreuung).
 
-    Die vorgegebenen Prozentsätze sind sehr verschieden, im allgemeinen sind es 10%, 15% oder 50%.
+      Die vorgegebenen Prozentsätze sind sehr verschieden, im allgemeinen sind es 10%, 15% oder 50%.
 
-    Für ein optisches Gerät, das weder ein konvergierendes noch ein divergierendes Lichtbündel (2-2-215, 2-2-220) erzeugt, ist die Größe des Streuwinkels auch angenähert d : f in Bogenminuten oder 57 d : f in Grad. Dabei ist f die Brennweite einer Optik und d die größte Abmessung des Leuchtkörpers der im Brennpunkt befindlichen Lichtquelle, gemessen in der Ebene des Streuwinkels.
+      Für ein optisches Gerät, das weder ein konvergierendes noch ein divergierendes Lichtbündel (2-2-215, 2-2-220) erzeugt, ist die Größe des Streuwinkels auch angenähert d : f in Bogenminuten oder 57 d : f in Grad. Dabei ist f die Brennweite einer Optik und d die größte Abmessung des Leuchtkörpers der im Brennpunkt befindlichen Lichtquelle, gemessen in der Ebene des Streuwinkels.
 
-    Anmerkung:
+      Anmerkung:
 
-    Der Ausdruck Streuung wird mitunter auch als Abkürzung für "Streuwinkel" benutzt.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Angle_of_Divergence/de
+      Der Ausdruck Streuung wird mitunter auch als Abkürzung für "Streuwinkel" benutzt.
+  sources:
+  - origin:
+      ref:
+        source: IALA Dictionary
+    type: authoritative
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Angle_of_Divergence/de

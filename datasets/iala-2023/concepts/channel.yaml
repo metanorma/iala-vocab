@@ -10,30 +10,33 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Channel
 ---
 id: channel-eng
 termid: channel
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Channel
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0102135e
+  terms:
+  - type: expression
+    designation: Channel
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0102135e
 
-    A channel is a natural or dredged lane having sufficient depth, usually restricted on either side by shallow water and designated for customary use by vessels.  The borders of a channel may be defined by natural or artificial banks and is nearly always marked by AtoN
+      A channel is a natural or dredged lane having sufficient depth, usually restricted on either side by shallow water and designated for customary use by vessels.  The borders of a channel may be defined by natural or artificial banks and is nearly always marked by AtoN
 
-    Part of an (otherwise shallow) water having sufficient depth for shipping and designated or customarily used for shipping. The borders of the channel may be defined by natural or artificial banks or by aids to navigation.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: I.H.B. (supplemented)
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Channel
+      Part of an (otherwise shallow) water having sufficient depth for shipping and designated or customarily used for shipping. The borders of the channel may be defined by natural or artificial banks or by aids to navigation.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: I.H.B. (supplemented)
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Channel

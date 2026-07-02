@@ -1,6 +1,7 @@
 require 'yaml'
 require 'json'
 require 'fileutils'
+require 'glossarist'
 
 # Datasets to cross-link. Each pair of datasets with shared termids gets
 # either "equivalent" (same definition) or "supersedes"/"superseded_by"
@@ -77,8 +78,14 @@ DATASETS.combination(2).each do |a, b|
     rel_a, rel_b = if norm_a == norm_b && !norm_a.empty?
       pair_counts[:equivalent] += 1
       [
-        { 'type' => 'equivalent', 'ref' => { 'source' => b[:urn], 'concept_id' => termid } },
-        { 'type' => 'equivalent', 'ref' => { 'source' => a[:urn], 'concept_id' => termid } },
+        Glossarist::RelatedConcept.new(
+          type: 'equivalent',
+          ref: Glossarist::ConceptRef.new(source: b[:urn], id: termid)
+        ).to_hash,
+        Glossarist::RelatedConcept.new(
+          type: 'equivalent',
+          ref: Glossarist::ConceptRef.new(source: a[:urn], id: termid)
+        ).to_hash,
       ]
     else
       pair_counts[:superseded] += 1
@@ -87,8 +94,14 @@ DATASETS.combination(2).each do |a, b|
       # should treat the relationship as edition-agnostic (the diff itself
       # signals the modification, not the link direction).
       [
-        { 'type' => 'related_concept', 'ref' => { 'source' => b[:urn], 'concept_id' => termid } },
-        { 'type' => 'related_concept', 'ref' => { 'source' => a[:urn], 'concept_id' => termid } },
+        Glossarist::RelatedConcept.new(
+          type: 'related_concept',
+          ref: Glossarist::ConceptRef.new(source: b[:urn], id: termid)
+        ).to_hash,
+        Glossarist::RelatedConcept.new(
+          type: 'related_concept',
+          ref: Glossarist::ConceptRef.new(source: a[:urn], id: termid)
+        ).to_hash,
       ]
     end
 

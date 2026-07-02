@@ -10,65 +10,68 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Isotropic_radiator
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-340
+    id: 4-1-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-340
+    id: 4-1-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-340
+    id: 4-1-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-340
+    id: 4-1-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-340
+    id: 4-1-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-340
+    id: 4-1-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-340
+    id: 4-1-340
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-340
+    id: 4-1-340
 ---
 id: 4-1-340-eng
 termid: 4-1-340
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Isotropic radiator
-  normative_status: preferred
-definition:
-- content: |-
-    Unipole (U.S.A.)
+  terms:
+  - type: expression
+    designation: Isotropic radiator
+    normative_status: preferred
+  definition:
+  - content: |-
+      Unipole (U.S.A.)
 
-    An antenna which radiates or receives uniformly in all directions.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: B.S
-  modification: modified from source
-notes:
-- content: This is a hypothetical concept used as a standard in connection with the
-    gain function.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Isotropic_radiator
+      An antenna which radiates or receives uniformly in all directions.
+  notes:
+  - content: This is a hypothetical concept used as a standard in connection with
+      the gain function.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: B.S
+    modification: modified from source
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Isotropic_radiator

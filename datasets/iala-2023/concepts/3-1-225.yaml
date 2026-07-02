@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Frequency_group
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 3-1-225
+    id: 3-1-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 3-1-225
+    id: 3-1-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 3-1-225
+    id: 3-1-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 3-1-225
+    id: 3-1-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 3-1-225
+    id: 3-1-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 3-1-225
+    id: 3-1-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 3-1-225
+    id: 3-1-225
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 3-1-225
+    id: 3-1-225
 ---
 id: 3-1-225-eng
 termid: 3-1-225
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Frequency group
-  normative_status: preferred
-definition:
-- content: A frequency band, the bandwidth of which is the maximum bandwidth of a
-    sound for which its threshold of audibility (in the presence of a uniform masking
-    noise) and its equivalent loudness remain independent of the spectral distribution
-    of sound intensity within the frequency group.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Frequency_group
+  terms:
+  - type: expression
+    designation: Frequency group
+    normative_status: preferred
+  definition:
+  - content: A frequency band, the bandwidth of which is the maximum bandwidth of
+      a sound for which its threshold of audibility (in the presence of a uniform
+      masking noise) and its equivalent loudness remain independent of the spectral
+      distribution of sound intensity within the frequency group.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Frequency_group

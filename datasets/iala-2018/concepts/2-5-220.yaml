@@ -10,58 +10,60 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Sector_(of_a_sector_light)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-5-220
+    id: 2-5-220
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-5-220
+    id: 2-5-220
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-5-220
+    id: 2-5-220
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-5-220
+    id: 2-5-220
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 2-5-220
+    id: 2-5-220
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-5-220
+    id: 2-5-220
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-5-220
+    id: 2-5-220
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-5-220
+    id: 2-5-220
 ---
 id: 2-5-220-eng
 termid: 2-5-220
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Sector (of a sector light)
-  normative_status: preferred
-definition:
-- content: |-
-    The space bounded by two vertical planes passing through the luminous source of the sector light and within which a light of a given character is visible. (Fig.45)
+  terms:
+  - type: expression
+    designation: Sector (of a sector light)
+    normative_status: preferred
+  definition:
+  - content: |-
+      The space bounded by two vertical planes passing through the luminous source of the sector light and within which a light of a given character is visible. (Fig.45)
 
-    ![Angle_Of_Uncertainty_2023.png](/iala-vocab/images/iala/Angle_Of_Uncertainty_2023.png)
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sector_(of_a_sector_light)
+      ![Angle_Of_Uncertainty_2023.png](/iala-vocab/images/iala/Angle_Of_Uncertainty_2023.png)
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Sector_(of_a_sector_light)

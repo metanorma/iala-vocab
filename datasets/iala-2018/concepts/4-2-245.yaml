@@ -10,62 +10,64 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Error_curve
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-2-245
+    id: 4-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-2-245
+    id: 4-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-2-245
+    id: 4-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-2-245
+    id: 4-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-2-245
+    id: 4-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-2-245
+    id: 4-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-2-245
+    id: 4-2-245
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-2-245
+    id: 4-2-245
 ---
 id: 4-2-245-eng
 termid: 4-2-245
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Error curve
-  normative_status: preferred
-- type: expression
-  designation: Error curve (of a direction finder)
-  normative_status: admitted
-definition:
-- content: A curve applicable to a particular direction finder and which shows the
-    installation errors as a function of some specified variable.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: Use is commonly made of a family of such error curves as a function of
-    true bearing with frequency as the parameter.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Error_curve
+  terms:
+  - type: expression
+    designation: Error curve
+    normative_status: preferred
+  - type: expression
+    designation: Error curve (of a direction finder)
+    normative_status: admitted
+  definition:
+  - content: A curve applicable to a particular direction finder and which shows the
+      installation errors as a function of some specified variable.
+  notes:
+  - content: Use is commonly made of a family of such error curves as a function of
+      true bearing with frequency as the parameter.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Error_curve

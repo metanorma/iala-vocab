@@ -10,24 +10,26 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/True_Range
 ---
 id: true-range-eng
 termid: true-range
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: True Range
-  normative_status: preferred
-definition:
-- content: True Range – is the maximum distance, measured from the place of emission
-    to positions, at which the information carried by the signal can be understood,
-    in existing transmission of light, sound and motion conditions.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/True_Range
+  terms:
+  - type: expression
+    designation: True Range
+    normative_status: preferred
+  definition:
+  - content: True Range – is the maximum distance, measured from the place of emission
+      to positions, at which the information carried by the signal can be understood,
+      in existing transmission of light, sound and motion conditions.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/True_Range

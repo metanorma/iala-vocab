@@ -10,34 +10,36 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Competent_Authority_(AtoN)
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: competent-authority-aton-
+    id: competent-authority-aton-
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: competent-authority-aton-
+    id: competent-authority-aton-
 ---
 id: competent-authority-aton--eng
 termid: competent-authority-aton-
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Competent Authority (AtoN)
-  normative_status: preferred
-definition:
-- content: |-
-    Competent Authority (AtoN) is an authority made responsible, in whole or in part, by the Government for the safety (including environmental safety) and efficiency of aids to navigation service provision and the protection of the environment.
+  terms:
+  - type: expression
+    designation: Competent Authority (AtoN)
+    normative_status: preferred
+  definition:
+  - content: |-
+      Competent Authority (AtoN) is an authority made responsible, in whole or in part, by the Government for the safety (including environmental safety) and efficiency of aids to navigation service provision and the protection of the environment.
 
-    Source: ENG7, Recommendation R0141
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Competent_Authority_(AtoN)
+      Source: ENG7, Recommendation R0141
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Competent_Authority_(AtoN)

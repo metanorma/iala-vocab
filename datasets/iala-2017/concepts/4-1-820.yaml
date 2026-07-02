@@ -10,57 +10,59 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Electromagnetic_waves
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-820
+    id: 4-1-820
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-820
+    id: 4-1-820
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-820
+    id: 4-1-820
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-820
+    id: 4-1-820
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-820
+    id: 4-1-820
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-820
+    id: 4-1-820
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-820
+    id: 4-1-820
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 4-1-820
+    id: 4-1-820
 ---
 id: 4-1-820-eng
 termid: 4-1-820
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Electromagnetic waves
-  normative_status: preferred
-definition:
-- content: The waves which occur in the natural process by which electric and magnetic
-    effects are propagated. Electromagnetic waves are known as Hertzian waves, infra-red
-    rays, light, ultra-violet rays, X-rays, etc., depending on their frequencies.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Electromagnetic_waves
+  terms:
+  - type: expression
+    designation: Electromagnetic waves
+    normative_status: preferred
+  definition:
+  - content: The waves which occur in the natural process by which electric and magnetic
+      effects are propagated. Electromagnetic waves are known as Hertzian waves, infra-red
+      rays, light, ultra-violet rays, X-rays, etc., depending on their frequencies.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Electromagnetic_waves

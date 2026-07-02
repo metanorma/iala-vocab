@@ -10,61 +10,63 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Local_oscillator
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 4-1-710
+    id: 4-1-710
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 4-1-710
+    id: 4-1-710
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 4-1-710
+    id: 4-1-710
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 4-1-710
+    id: 4-1-710
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 4-1-710
+    id: 4-1-710
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 4-1-710
+    id: 4-1-710
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 4-1-710
+    id: 4-1-710
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 4-1-710
+    id: 4-1-710
 ---
 id: 4-1-710-eng
 termid: 4-1-710
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Local oscillator
-  normative_status: preferred
-- type: expression
-  designation: Local oscillator (L.O.)
-  normative_status: admitted
-definition:
-- content: |-
-    Frequency-change oscillator (deprecated)
+  terms:
+  - type: expression
+    designation: Local oscillator
+    normative_status: preferred
+  - type: expression
+    designation: Local oscillator (L.O.)
+    normative_status: admitted
+  definition:
+  - content: |-
+      Frequency-change oscillator (deprecated)
 
-    An oscillator used to derive an intermediate frequency by beating with the signal-carrying frequency in superheterodyne reception.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Local_oscillator
+      An oscillator used to derive an intermediate frequency by beating with the signal-carrying frequency in superheterodyne reception.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Local_oscillator

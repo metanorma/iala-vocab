@@ -10,73 +10,76 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Radiant_exposure
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-1-145
+    id: 1-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-1-145
+    id: 1-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-1-145
+    id: 1-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-1-145
+    id: 1-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-1-145
+    id: 1-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-1-145
+    id: 1-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 1-1-145
+    id: 1-1-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-1-145
+    id: 1-1-145
 ---
 id: 1-1-145-eng
 termid: 1-1-145
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Radiant exposure
-  normative_status: preferred
-- type: expression
-  designation: Radiant exposure (at a point of a surface)
-  normative_status: admitted
-- type: symbol
-  designation: stem:[He]
-  normative_status: preferred
-definition:
-- content: |-
-    The product of an irradiance (Ee) and its duration (dt).
+  terms:
+  - type: expression
+    designation: Radiant exposure
+    normative_status: preferred
+  - type: expression
+    designation: Radiant exposure (at a point of a surface)
+    normative_status: admitted
+  - type: symbol
+    designation: stem:[He]
+    normative_status: preferred
+  definition:
+  - content: |-
+      The product of an irradiance (Ee) and its duration (dt).
 
-    He = ?Ee.dt
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-- type: authoritative
-  origin:
-    ref: C.I.E
-  modification: modified from source
-notes:
-- content: Equivalent definition Surface density of the radiant energy received.
-- content: Formerly irradiation in English and irradiation in French.
-- content: For further definitions see C.I.E.
-annotations:
-- content: Unit joule per square metre (J/m2)
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radiant_exposure
+      He = ?Ee.dt
+  notes:
+  - content: Equivalent definition Surface density of the radiant energy received.
+  - content: Formerly irradiation in English and irradiation in French.
+  - content: For further definitions see C.I.E.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  - type: authoritative
+    origin:
+      ref:
+        source: C.I.E
+    modification: modified from source
+  annotations:
+  - content: Unit joule per square metre (J/m2)
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Radiant_exposure

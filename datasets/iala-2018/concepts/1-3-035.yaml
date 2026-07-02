@@ -10,59 +10,61 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Tidal_range
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 1-3-035
+    id: 1-3-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 1-3-035
+    id: 1-3-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 1-3-035
+    id: 1-3-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 1-3-035
+    id: 1-3-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2016
-    concept_id: 1-3-035
+    id: 1-3-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 1-3-035
+    id: 1-3-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 1-3-035
+    id: 1-3-035
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 1-3-035
+    id: 1-3-035
 ---
 id: 1-3-035-eng
 termid: 1-3-035
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Tidal range
-  normative_status: preferred
-- type: expression
-  designation: Tidal amplitude
-  normative_status: admitted
-definition:
-- content: Difference between the heights of the sea at high tide and the following
-    low tide, or at low tide and the following high tide.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tidal_range
+  terms:
+  - type: expression
+    designation: Tidal range
+    normative_status: preferred
+  - type: expression
+    designation: Tidal amplitude
+    normative_status: admitted
+  definition:
+  - content: Difference between the heights of the sea at high tide and the following
+      low tide, or at low tide and the following high tide.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Tidal_range

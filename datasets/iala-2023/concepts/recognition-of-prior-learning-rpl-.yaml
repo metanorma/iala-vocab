@@ -10,33 +10,35 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Recognition_of_prior_learning_(RPL)
 ---
 id: recognition-of-prior-learning-rpl--eng
 termid: recognition-of-prior-learning-rpl-
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Recognition of prior learning (RPL)
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0901107e
+  terms:
+  - type: expression
+    designation: Recognition of prior learning (RPL)
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0901107e
 
-    Recognition of prior learning (RPL) is a process of assessing the experience, knowledge, skills, attitudes and
-    competencies acquired by an applicant (through formal or informal learning) against a given set of learning
-    outcomes, objectives, or standards to determine whether the required learning and competency has been
-    achieved.
+      Recognition of prior learning (RPL) is a process of assessing the experience, knowledge, skills, attitudes and
+      competencies acquired by an applicant (through formal or informal learning) against a given set of learning
+      outcomes, objectives, or standards to determine whether the required learning and competency has been
+      achieved.
 
-    RPL is often described using different terminologies such as Accreditation of Prior Learning (APL), Crediting Current Competence (CCC), Accreditation of Prior Experiential Learning (APEL) and Prior Learning Assessment and Recognition (PLAR).
+      RPL is often described using different terminologies such as Accreditation of Prior Learning (APL), Crediting Current Competence (CCC), Accreditation of Prior Experiential Learning (APEL) and Prior Learning Assessment and Recognition (PLAR).
 
-    Source:
-    IALA Guideline G1017 (Ed 2.0) Assessment for Recognition of Prior Learning in VTS Training (2021), section 1.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Recognition_of_prior_learning_(RPL)
+      Source:
+      IALA Guideline G1017 (Ed 2.0) Assessment for Recognition of Prior Learning in VTS Training (2021), section 1.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Recognition_of_prior_learning_(RPL)

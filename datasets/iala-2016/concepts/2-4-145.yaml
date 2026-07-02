@@ -10,60 +10,62 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Light_controller
 related:
 - type: equivalent
   ref:
     source: urn:iala:dictionary:1970-89
-    concept_id: 2-4-145
+    id: 2-4-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2009
-    concept_id: 2-4-145
+    id: 2-4-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2012
-    concept_id: 2-4-145
+    id: 2-4-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2015
-    concept_id: 2-4-145
+    id: 2-4-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2017
-    concept_id: 2-4-145
+    id: 2-4-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2018
-    concept_id: 2-4-145
+    id: 2-4-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2022
-    concept_id: 2-4-145
+    id: 2-4-145
 - type: equivalent
   ref:
     source: urn:iala:dictionary:2023
-    concept_id: 2-4-145
+    id: 2-4-145
 ---
 id: 2-4-145-eng
 termid: 2-4-145
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Light controller
-  normative_status: preferred
-definition:
-- content: An automatic apparatus which lights and extinguishes a light as required.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-notes:
-- content: Several types of apparatus for this purpose exist. See for examples 2-4-150,
-    2-4-155, 2-4-160.
-- content: The French term Economiseur is used for such apparatus when the light is
-    a gas or vapour burner.
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light_controller
+  terms:
+  - type: expression
+    designation: Light controller
+    normative_status: preferred
+  definition:
+  - content: An automatic apparatus which lights and extinguishes a light as required.
+  notes:
+  - content: Several types of apparatus for this purpose exist. See for examples 2-4-150,
+      2-4-155, 2-4-160.
+  - content: The French term Economiseur is used for such apparatus when the light
+      is a gas or vapour burner.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light_controller

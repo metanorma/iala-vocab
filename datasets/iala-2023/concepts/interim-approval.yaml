@@ -10,27 +10,29 @@ status: valid
 sources:
 - type: authoritative
   origin:
-    ref: IALA Dictionary
+    ref:
+      source: IALA Dictionary
     link: https://www.iala.int/wiki/dictionary/index.php/Interim_approval
 ---
 id: interim-approval-eng
 termid: interim-approval
 data:
   language_code: eng
-terms:
-- type: expression
-  designation: Interim approval
-  normative_status: preferred
-definition:
-- content: |-
-    urn:mrn:iala:dic:0901105e
+  terms:
+  - type: expression
+    designation: Interim approval
+    normative_status: preferred
+  definition:
+  - content: |-
+      urn:mrn:iala:dic:0901105e
 
-    In order to facilitate the start-up operation of a new training organization, or the implementation of a new model course at an existing training organization, the competent authority may grant an interim approval for the delivery of a single course within a defined timeframe, for example 12 months. An interim approval should be valid for the initial delivery of a model course.
+      In order to facilitate the start-up operation of a new training organization, or the implementation of a new model course at an existing training organization, the competent authority may grant an interim approval for the delivery of a single course within a defined timeframe, for example 12 months. An interim approval should be valid for the initial delivery of a model course.
 
-    Source: IALA Guideline G1014 Accreditation of VTS training organizations and approval to deliver IALA VTS model courses, section 6.1.
-sources:
-- type: authoritative
-  origin:
-    ref: IALA Dictionary
-annotations:
-- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Interim_approval
+      Source: IALA Guideline G1014 Accreditation of VTS training organizations and approval to deliver IALA VTS model courses, section 6.1.
+  sources:
+  - type: authoritative
+    origin:
+      ref:
+        source: IALA Dictionary
+  annotations:
+  - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Interim_approval
