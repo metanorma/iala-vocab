@@ -6,7 +6,7 @@ data:
   - source: urn:iala:dictionary:iala-1970-89
     concept_id: section-unknown
     ref_type: section
-status: valid
+status: superseded
 sources:
 - type: authoritative
   origin:
@@ -45,6 +45,13 @@ related:
   ref:
     source: urn:iala:dictionary:2022
     concept_id: 2-1-245
+- type: superseded_by
+  ref:
+    source: urn:iala:dictionary:2018
+    concept_id: geographical-range
+dates:
+- type: retired
+  date: '2018'
 ---
 id: 2-1-245-eng
 termid: 2-1-245

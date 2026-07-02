@@ -24,7 +24,7 @@ TOP_LEVEL_SECTIONS = {
   "12" => "Heritage"
 }.freeze
 
-OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "reference-docs", "sections")
+OUTPUT_DIR = File.join(File.dirname(__FILE__), "..", "reference-docs", "scraped", "sections")
 OUTPUT_FILE = File.join(OUTPUT_DIR, "section-tree.json")
 
 def extract_chapter_number(href)

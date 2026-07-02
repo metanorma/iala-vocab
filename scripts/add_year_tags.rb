@@ -3,7 +3,7 @@ require 'yaml'
 require 'fileutils'
 
 def process_edition(edition)
-  index_path = "reference-docs/editions/#{edition}/index.json"
+  index_path = "reference-docs/scraped/editions/#{edition}/index.json"
   return unless File.exist?(index_path)
 
   index = JSON.parse(File.read(index_path))
@@ -13,7 +13,7 @@ def process_edition(edition)
     termid = concept['numeric_code']
     termid = slug if termid.nil? || termid.empty?
     
-    page_file = "reference-docs/editions/#{edition}/#{concept['page_file']}"
+    page_file = "reference-docs/scraped/editions/#{edition}/#{concept['page_file']}"
     
     unless File.exist?(page_file)
       puts "Missing page file: #{page_file}"

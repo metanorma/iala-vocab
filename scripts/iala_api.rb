@@ -74,10 +74,27 @@ module IalaApi
 
   private
 
+  def self.subdir_for_params(params)
+    case params[:action]
+    when "parse" then "parse"
+    when "query"
+      if params[:list] == "categorymembers"
+        "categorymembers"
+      elsif params[:prop] == "revisions"
+        "content"
+      else
+        "misc"
+      end
+    else
+      "misc"
+    end
+  end
+
   def self.api_request(params)
     url_str = "#{API_BASE}?#{URI.encode_www_form(params)}"
     url_hash = Digest::MD5.hexdigest(url_str)
-    cache_file = File.join(File.dirname(__FILE__), "..", "reference-docs", "api-cache", "#{url_hash}.json")
+    subdir = subdir_for_params(params)
+    cache_file = File.join(File.dirname(__FILE__), "..", "reference-docs", "api-cache", subdir, "#{url_hash}.json")
     
     if File.exist?(cache_file) && File.size(cache_file) > 0
       return JSON.parse(File.read(cache_file))

@@ -6,12 +6,13 @@ require "nokogiri"
 
 LANGS = {
   "fr" => { category: "Classement_alphabétique", code: "fra" },
-  "es" => { category: "Indice_alfabeto_Español", code: "spa" }
+  "es" => { category: "Indice_alfabeto_Español", code: "spa" },
+  "de" => { category: "German",                   code: "deu" },
 }
 
 LANGS.each do |suffix, config|
   lang = config[:code]
-  out_dir = File.join("reference-docs", "translations", lang)
+  out_dir = File.join("reference-docs", "scraped", "translations", lang)
   FileUtils.mkdir_p(out_dir)
   
   puts "=== Scraping #{suffix.upcase} (#{config[:category]}) ==="

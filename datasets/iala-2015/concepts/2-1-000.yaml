@@ -66,3 +66,23 @@ sources:
     ref: C.I.E. (extract)
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light
+---
+id: 2-1-000-deu
+termid: 2-1-000
+data:
+  language_code: deu
+terms:
+- type: expression
+  designation: Licht
+  normative_status: preferred
+definition:
+- content: |-
+    Merkmal aller Wahrnehmungen und Empfindungen, die dem Sehorgan eigentümlich sind und durch das Sehorgan vermittelt werden.
+
+    C.I.E. (Auszug)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Light/de

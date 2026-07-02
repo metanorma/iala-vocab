@@ -6,7 +6,7 @@ require "set"
 
 BASE = "https://www.iala.int"
 IMG_DIR = File.join("public", "images", "iala")
-EDITIONS_DIR = File.join("reference-docs", "editions")
+EDITIONS_DIR = File.join("reference-docs", "scraped", "editions")
 
 FileUtils.mkdir_p(IMG_DIR)
 
@@ -104,6 +104,6 @@ puts ""
 puts "Done — Downloaded: #{downloaded}, Skipped (cached): #{skipped}, Filtered (icons/tiny): #{filtered}, Errors: #{errors}"
 
 # Save mapping
-map_file = File.join("reference-docs", "image-map.json")
+map_file = File.join("reference-docs", "reports", "image-map.json")
 File.write(map_file, JSON.pretty_generate(image_map.sort.to_h))
 puts "Image map saved to: #{map_file} (#{image_map.size} entries)"

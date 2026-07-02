@@ -29,6 +29,14 @@ related:
   ref:
     source: urn:iala:dictionary:2022
     concept_id: aid-to-navigation
+- type: retires
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: 1-1-005
+- type: retires
+  ref:
+    source: urn:iala:dictionary:1970-89
+    concept_id: VTS-2012-3
 ---
 id: aid-to-navigation-eng
 termid: aid-to-navigation

@@ -1,0 +1,31 @@
+{
+  "title": "Angle of Divergence/de",
+  "english_title": "Angle of Divergence",
+  "lang": "deu",
+  "parse": {
+    "text": "<div class=\"mw-parser-output\"><div class=\"mw-parser-output\"><p><b>2-1-100</b>\n</p><p><big><big><big>Streuwinkel</big></big></big>\n</p><p>Winkel, der durch zwei Strahlen eines Lichtbündels in einer defmierten Ebene gebildet wird. Innerhalb dieses Winkels ist die Lichtstärke gleich oder größer einem vorgegebenen Prozentsatz vom Maximum der Lichtstärkeverteilungskurve in dieser Ebene. \n</p><p>Die vorgegebene Ebene ist meistens entweder vertikal (Vertikalstreuung) oder horizontal (Horizontalstreuung).\n</p><p>Die vorgegebenen Prozentsätze sind sehr verschieden, im allgemeinen sind es 10<span class=\"mw-lingo-term\" data-lingo-term-id=\"0bcef9c45bd8a48eda1b26eb0c61c869\">%</span>, 15<span class=\"mw-lingo-term\" data-lingo-term-id=\"0bcef9c45bd8a48eda1b26eb0c61c869\">%</span> oder 50<span class=\"mw-lingo-term\" data-lingo-term-id=\"0bcef9c45bd8a48eda1b26eb0c61c869\">%</span>. \n</p><p>Für ein optisches Gerät, das weder ein konvergierendes noch ein divergierendes Lichtbündel (2-2-215, 2-2-220) erzeugt, ist die Größe des Streuwinkels auch angenähert d : f in Bogenminuten oder 57 d : f in Grad. Dabei ist f die Brennweite einer Optik und d die größte Abmessung des Leuchtkörpers der im Brennpunkt befindlichen Lichtquelle, gemessen in der Ebene des Streuwinkels.\n</p><p><br>\nAnmerkung:\n</p><p>Der Ausdruck Streuung wird mitunter auch als Abkürzung für \"Streuwinkel\" benutzt. \n</p><p><br>\n</p><p><span class=\"mw-image-border\" typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:Ch2_Fig5.jpg\" class=\"mw-file-description\"><img src=\"/wiki/dictionary/images/thumb/a/a2/Ch2_Fig5.jpg/400px-Ch2_Fig5.jpg\" decoding=\"async\" width=\"400\" height=\"270\" class=\"mw-file-element\" srcset=\"/wiki/dictionary/images/thumb/a/a2/Ch2_Fig5.jpg/600px-Ch2_Fig5.jpg 1.5x, /wiki/dictionary/images/a/a2/Ch2_Fig5.jpg 2x\"></a></span>\n</p><p><br>\n</p><p><br>\n<br>\n<i>Please note that this is the term as it stands in the original <span class=\"mw-lingo-term\" data-lingo-term-id=\"0a1217bfe27a54fc7e55b72fc62c2371\">IALA</span> Dictionary edition (1970-1989)</i>\n<br>\n</p>\n<div class=\"LanguageLinks\">\n<table width=\"100%\">\n<tbody><tr valign=\"top\" style=\"background: #FFFFFF\">\n<td style=\"width: 25px; padding-left: 0em; border-right: 1px solid #aaaaaa;border-left: 1px solid #EEF3E2;border-top: 1px solid #EEF3E2;border-bottom: 1px solid #EEF3E2;\"><span typeof=\"mw:File\"><a href=\"/wiki/dictionary/index.php/File:25px-Geographylogo.png\" class=\"mw-file-description\" title=\"Languages\"><img alt=\"Languages\" src=\"/wiki/dictionary/images/8/82/25px-Geographylogo.png\" decoding=\"async\" width=\"25\" height=\"25\" class=\"mw-file-element\"></a></span></td>\n<td style=\"padding: 1px 1em 0; background: #EEF3E2;\">\n<p><b><a href=\"/wiki/dictionary/index.php/Angle_of_Divergence\" title=\"Angle of Divergence\">English</a></b>\n<span></span>\n<span></span>\n<span></span>\n • <span lang=\"de\"><a class=\"mw-selflink selflink\">Deutsch</a></span>\n</p>\n</td></tr></tbody></table></div></div><div class=\"mw-lingo-tooltip\" id=\"0bcef9c45bd8a48eda1b26eb0c61c869\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>percent\n</p>\n</div></div>\n</div><div class=\"mw-lingo-tooltip\" id=\"0a1217bfe27a54fc7e55b72fc62c2371\"><div class=\"mw-lingo-definition navigation-not-searchable\"><div class=\"mw-lingo-definition-text\">\n<p>International Association of Marine Aids to Navigation and Lighthouse Authorities - AISM\n</p>\n</div></div>\n</div>\n<!-- \nNewPP limit report\nCached time: 20260630225523\nCache expiry: 86400\nReduced expiry: false\nComplications: []\nCPU time usage: 0.066 seconds\nReal time usage: 0.087 seconds\nPreprocessor visited node count: 69/1000000\nPost‐expand include size: 1023/2097152 bytes\nTemplate argument size: 299/2097152 bytes\nHighest expansion depth: 7/100\nExpensive parser function count: 3/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   16.485      1 -total\n 70.77%   11.666      1 Template:Languages\n 44.89%    7.400      4 Template:Languages/Lang\n 28.20%    4.649      1 Template:IALAFooter\n-->\n\n<!-- Saved in parser cache with key wiki_iala_dictionary_1_41:pcache:idhash:2937-0!canonical and timestamp 20260630225523 and revision id 8302. Rendering was triggered because: api-parse\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "missing": "",
+        "*": "2.1_Optics_and_Vision/de"
+      },
+      {
+        "sortkey": "",
+        "missing": "",
+        "*": "Alphabetical_Index/de"
+      },
+      {
+        "sortkey": "",
+        "missing": "",
+        "*": "IALA_Dictionary_1970-89_Edition/de"
+      },
+      {
+        "sortkey": "",
+        "*": "German"
+      }
+    ],
+    "langlinks": []
+  },
+  "wikitext": "\n'''2-1-100\n\n<big><big><big>Streuwinkel</big></big></big>\n\nWinkel, der durch zwei Strahlen eines Lichtbündels in einer defmierten Ebene gebildet wird. Innerhalb dieses Winkels ist die Lichtstärke gleich oder größer einem vorgegebenen Prozentsatz vom Maximum der Lichtstärkeverteilungskurve in dieser Ebene. \n\nDie vorgegebene Ebene ist meistens entweder vertikal (Vertikalstreuung) oder horizontal (Horizontalstreuung).\n\nDie vorgegebenen Prozentsätze sind sehr verschieden, im allgemeinen sind es 10%, 15% oder 50%. \n\nFür ein optisches Gerät, das weder ein konvergierendes noch ein divergierendes Lichtbündel (2-2-215, 2-2-220) erzeugt, ist die Größe des Streuwinkels auch angenähert d : f in Bogenminuten oder 57 d : f in Grad. Dabei ist f die Brennweite einer Optik und d die größte Abmessung des Leuchtkörpers der im Brennpunkt befindlichen Lichtquelle, gemessen in der Ebene des Streuwinkels.\n\n\nAnmerkung:\n\nDer Ausdruck Streuung wird mitunter auch als Abkürzung für \"Streuwinkel\" benutzt. \n\n\n\n[[Image:Ch2_Fig5.jpg|400px|border]]\n\n\n{{IALAFooter}}\n\n{{languages|Angle of Divergence}}\n[[Category:2.1 Optics and Vision/de]]\n[[Category:Alphabetical Index/de]]\n[[Category:IALA Dictionary 1970-89 Edition/de]]\n[[Category:German]]"
+}

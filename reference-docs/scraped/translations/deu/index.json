@@ -1,0 +1,51 @@
+[
+  {
+    "english_title": "Aberration",
+    "title": "Aberration/de",
+    "lang": "deu",
+    "definition_preview": "2-1-120\n Abbildungsfehler, Aberration\n Unerwünschte Abweichung von einer fehlerfreien Abbildung nach den Gesetzen der geometrischen Optik \n \n\n\nPlease note that this is the term as it stands in the orig",
+    "page_file": "deu/aberration-de.json"
+  },
+  {
+    "english_title": "Absorptance",
+    "title": "Absorptance/de",
+    "lang": "deu",
+    "definition_preview": "2-1-205 \n Absorptionsgrad\n Verhältnis des absorbierten Lichtstroms (Fa) zu dem eingestrahlten Lichtstrom (Fo).\n Symbol: a\n Quelle: C.I.E. (abgewandelt) \n \n\n\nPlease note that this is the term as it stan",
+    "page_file": "deu/absorptance-de.json"
+  },
+  {
+    "english_title": "Adaptation",
+    "title": "Adaptation/de",
+    "lang": "deu",
+    "definition_preview": "2-1-325\n Adaptation\n 1. Vorgang der Anpassung des Sehorgans an Leuchtdichten und Farbreize im Sehraum.\n 2. Endzustand dieses Prozesses. Im besonderen spricht man von Helladaptation oder Dunkeladaptatio",
+    "page_file": "deu/adaptation-de.json"
+  },
+  {
+    "english_title": "Allard's Law",
+    "title": "Allard's Law/de",
+    "lang": "deu",
+    "definition_preview": "2-1-265\n Tragweitenformel\n Allardsche Formel\n Gleichung, die den Zusammenhang zwischen der Lichtstärke einer punktförmigen Lichtquelle und der von ihr in vorgegebenem Abstand auf einer Fläche senkrecht",
+    "page_file": "deu/allard-s-law-de.json"
+  },
+  {
+    "english_title": "Angle of Divergence",
+    "title": "Angle of Divergence/de",
+    "lang": "deu",
+    "definition_preview": "2-1-100\n Streuwinkel\n Winkel, der durch zwei Strahlen eines Lichtbündels in einer defmierten Ebene gebildet wird. Innerhalb dieses Winkels ist die Lichtstärke gleich oder größer einem vorgegebenen Proz",
+    "page_file": "deu/angle-of-divergence-de.json"
+  },
+  {
+    "english_title": "Light",
+    "title": "Light/de",
+    "lang": "deu",
+    "definition_preview": "2-1-000\n Licht\n Merkmal aller Wahrnehmungen und Empfindungen, die dem Sehorgan eigentümlich sind und durch das Sehorgan vermittelt werden.\n C.I.E. (Auszug) \n \n\n\nPlease note that this is the term as it ",
+    "page_file": "deu/light-de.json"
+  },
+  {
+    "english_title": "TestPage",
+    "title": "TestPage/de",
+    "lang": "deu",
+    "definition_preview": "Language Test Page in GERMAN\n 1-2-3\n 1.2.3\n \nProbezeite\n \n \n\nPlease note that this is the term as it stands in the original IALA Dictionary edition (1970-1989)\n\n English\n\n\n\n • Deutsch\n International As",
+    "page_file": "deu/testpage-de.json"
+  }
+]

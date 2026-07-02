@@ -110,6 +110,6 @@ DATASETS.combination(2).each do |a, b|
   puts "#{pair_key}: matched=#{pair_counts[:matched]} equivalent=#{pair_counts[:equivalent]} modified=#{pair_counts[:superseded]}"
 end
 
-FileUtils.mkdir_p('reference-docs')
-File.write('reference-docs/cross-edition-report.json', JSON.pretty_generate(report))
+FileUtils.mkdir_p('reference-docs/reports')
+File.write('reference-docs/reports/cross-edition.json', JSON.pretty_generate(report))
 puts "Updated concepts and wrote report."

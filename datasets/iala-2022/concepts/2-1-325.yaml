@@ -71,3 +71,25 @@ sources:
   modification: modified from source
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Adaptation
+---
+id: 2-1-325-deu
+termid: 2-1-325
+data:
+  language_code: deu
+terms:
+- type: expression
+  designation: Adaptation
+  normative_status: preferred
+definition:
+- content: |-
+    1. Vorgang der Anpassung des Sehorgans an Leuchtdichten und Farbreize im Sehraum.
+
+    2. Endzustand dieses Prozesses. Im besonderen spricht man von Helladaptation oder Dunkeladaptation, je nachdem die Leuchtdichte von mindestens einigen Candela je Quadratmeter oder kleiner als einige Hundertstel Candela je Quadratmeter ist.
+
+    Referenz: C.I.E. (angepasst)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Adaptation/de
