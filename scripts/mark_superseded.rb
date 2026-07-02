@@ -1,8 +1,7 @@
 #!/usr/bin/env ruby
-require "yaml"
 require "json"
 require "uri"
-require "glossarist"
+require_relative "glossarist_helpers"
 
 EDITIONS = %w[iala-1970-89 iala-2009 iala-2012 iala-2015 iala-2016 iala-2017 iala-2018 iala-2022 iala-2023].freeze
 EDITION_YEARS = {
@@ -11,6 +10,11 @@ EDITION_YEARS = {
   "iala-2018" => 2018, "iala-2022" => 2022, "iala-2023" => 2023,
 }.freeze
 
+def urn_for(edition)
+  "urn:iala:dictionary:#{edition.sub('iala-', '')}"
+end
+
+# Build index of (edition, title) → entry by scraping the cached indices.
 def load_indices
   hash = {}
   EDITIONS.each do |edition|
@@ -38,50 +42,23 @@ end
 
 def each_concept_file
   EDITIONS.each do |edition|
-    Dir.glob("datasets/#{edition}/concepts/*.yaml").each do |path|
-      yield edition, path
-    end
+    Dir.glob("datasets/#{edition}/concepts/*.yaml").each { |path| yield edition, path }
   end
 end
 
-def read_docs(path)
-  YAML.load_stream(File.read(path))
-rescue => e
-  warn "  parse error in #{path}: #{e.message}"
-  []
+def has_related?(managed, type, source, id)
+  return false unless managed.related
+  managed.related.any? do |r|
+    r.type == type && r.ref&.source == source && r.ref&.id == id
+  end
 end
 
-def write_docs(path, docs)
-  content = docs.map { |d| YAML.dump(d) }.join
-  File.write(path, content)
-end
-
-def related_entry(type, edition, termid)
-  Glossarist::RelatedConcept.new(
-    type: type,
-    ref: Glossarist::ConceptRef.new(
-      source: "urn:iala:dictionary:#{edition.sub('iala-', '')}",
-      id: termid
-    )
-  ).to_hash
-end
-
-def append_related(managed, entry)
-  return false if managed.nil?
-  managed["related"] ||= []
-  return false if managed["related"].any? { |r| r["type"] == entry["type"] &&
-                                                  r.dig("ref", "id") == entry.dig("ref", "id") &&
-                                                  r.dig("ref", "source") == entry.dig("ref", "source") }
-  managed["related"] << entry
-  true
-end
-
-def append_date(managed, type, date)
-  return false if managed.nil?
-  managed["dates"] ||= []
-  return false if managed["dates"].any? { |d| d["type"] == type && d["date"] == date }
-  managed["dates"] << { "type" => type, "date" => date.to_s }
-  true
+def has_date?(managed, type, _date)
+  return false unless managed.dates
+  # ConceptDate.date is typed as :date_time; year-only strings (e.g.
+  # "2023") don't survive model round-trip, so compare on type only.
+  # The retired year is constant per edition, so type uniqueness is enough.
+  managed.dates.any? { |d| d.type == type }
 end
 
 stats = { scanned: 0, superseded_marked: 0, edges_added: 0, missing_target: 0, errors: 0 }
@@ -89,12 +66,11 @@ superseded_links = []
 
 each_concept_file do |edition, path|
   stats[:scanned] += 1
-  docs = read_docs(path)
-  next if docs.empty?
-  managed = docs[0]
-  next unless managed && managed["sources"]
+  concept = GlossaristHelpers.read_concept_file(path)
+  next unless concept && concept.managed
+  managed = concept.managed
 
-  link = managed["sources"].map { |s| s.dig("origin", "link") }.compact.first
+  link = managed.sources&.flat_map { |s| s.origin&.link }.compact.first
   next unless link && link.end_with?("_(Superseded)")
 
   base = File.basename(URI.parse(link).path).sub(/_\(Superseded\)\z/, "").tr("_", " ")
@@ -107,41 +83,56 @@ each_concept_file do |edition, path|
   end
 
   target_edition, target_termid = target
-  changed = false
+  dirty = false
 
-  if managed["status"] != "superseded"
-    managed["status"] = "superseded"
+  if managed.status != "superseded"
+    managed.status = "superseded"
     stats[:superseded_marked] += 1
-    changed = true
+    dirty = true
   end
 
-  if append_related(managed, related_entry("superseded_by", target_edition, target_termid))
+  unless has_related?(managed, "superseded_by", urn_for(target_edition), target_termid)
+    managed.related << Glossarist::RelatedConcept.new(
+      type: "superseded_by",
+      ref: Glossarist::ConceptRef.new(source: urn_for(target_edition), id: target_termid),
+    )
     stats[:edges_added] += 1
-    changed = true
+    dirty = true
   end
 
   target_year = EDITION_YEARS[target_edition]
-  if target_year && append_date(managed, "retired", target_year)
-    changed = true
+  if target_year && !has_date?(managed, "retired", target_year)
+    managed.dates << Glossarist::ConceptDate.new(type: "retired", date: target_year.to_s)
+    dirty = true
   end
 
-  write_docs(path, docs) if changed
-  superseded_links << { source: edition, source_termid: managed["id"],
-                        target: target_edition, target_termid: target_termid }
+  if dirty
+    GlossaristHelpers.write_concept_file(path, concept)
+    superseded_links << { source: edition, source_termid: managed.id,
+                          target: target_edition, target_termid: target_termid }
+  end
 rescue => e
   warn "  ERROR on #{path}: #{e.message}"
   stats[:errors] += 1
 end
 
+# Write inverse supersedes edges on the active targets.
 superseded_links.each do |link|
   target_path = "datasets/#{link[:target]}/concepts/#{link[:target_termid]}.yaml"
   next unless File.exist?(target_path)
 
-  docs = read_docs(target_path)
-  next if docs.empty?
+  concept = GlossaristHelpers.read_concept_file(target_path)
+  next unless concept && concept.managed
 
-  changed = append_related(docs[0], related_entry("supersedes", link[:source], link[:source_termid]))
-  write_docs(target_path, docs) if changed
+  if has_related?(concept.managed, "supersedes", urn_for(link[:source]), link[:source_termid])
+    next
+  end
+
+  concept.managed.related << Glossarist::RelatedConcept.new(
+    type: "supersedes",
+    ref: Glossarist::ConceptRef.new(source: urn_for(link[:source]), id: link[:source_termid]),
+  )
+  GlossaristHelpers.write_concept_file(target_path, concept)
 rescue => e
   warn "  ERROR on inverse #{target_path}: #{e.message}"
   stats[:errors] += 1
