@@ -21,7 +21,7 @@ EDITION_MAP = {
 }.freeze
 
 EDITION_ID  = EDITION_MAP[CATEGORY] || CATEGORY.downcase.gsub(/[^a-z0-9-]/, "-").gsub(/-+/, "-").gsub(/^-|-$/, "")
-OUTPUT_DIR  = File.join(File.dirname(__FILE__), "..", "reference-docs", "editions", EDITION_ID)
+OUTPUT_DIR  = File.join(File.dirname(__FILE__), "..", "reference-docs", "scraped", "editions", EDITION_ID)
 PAGES_DIR   = File.join(OUTPUT_DIR, "pages")
 
 # ---------------------------------------------------------------------------

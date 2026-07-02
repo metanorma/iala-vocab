@@ -10,7 +10,7 @@ unless edition
   exit 1
 end
 
-index_path = "reference-docs/editions/#{edition}/index.json"
+index_path = "reference-docs/scraped/editions/#{edition}/index.json"
 unless File.exist?(index_path)
   puts "Index not found: #{index_path}"
   exit 1
@@ -68,8 +68,8 @@ end
 # Map: english_title → { "fra" => page_data, "spa" => page_data }.
 translations = Hash.new { |h, k| h[k] = {} }
 {
-  "fra" => "reference-docs/translations/fra/index.json",
-  "spa" => "reference-docs/translations/spa/index.json",
+  "fra" => "reference-docs/scraped/translations/fra/index.json",
+  "spa" => "reference-docs/scraped/translations/spa/index.json",
 }.each do |lang, path|
   next unless File.exist?(path)
   entries = JSON.parse(File.read(path))
@@ -78,7 +78,7 @@ translations = Hash.new { |h, k| h[k] = {} }
     page_rel = e["page_file"]
     next if en_title.nil? || en_title.empty? || page_rel.nil?
     # page_file is like "fra/audible-signal-fr.json"; resolve relative to translations dir
-    page_path = File.join("reference-docs/translations", page_rel)
+    page_path = File.join("reference-docs/scraped/translations", page_rel)
     translations[en_title][lang] = page_path if File.exist?(page_path)
   end
 end
@@ -196,7 +196,7 @@ index.each do |item|
   
   # But let's try to grab langlinks when processing a main page.
   
-  cached_path = "reference-docs/editions/#{edition}/#{page_file}"
+  cached_path = "reference-docs/scraped/editions/#{edition}/#{page_file}"
   next unless File.exist?(cached_path)
   
   page = JSON.parse(File.read(cached_path))
@@ -445,7 +445,7 @@ index.each do |item|
   langlinks.each do |ll|
     # Find cached page for ll[:title]
     ll_page_file = "pages/#{ll[:title].downcase.gsub(/[^a-z0-9]+/, '-')}.json"
-    ll_cached_path = "reference-docs/editions/#{edition}/#{ll_page_file}"
+    ll_cached_path = "reference-docs/scraped/editions/#{edition}/#{ll_page_file}"
     next unless File.exist?(ll_cached_path)
     
     ll_page = JSON.parse(File.read(ll_cached_path))

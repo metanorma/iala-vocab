@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Aid to Navigation (Discontinued)",
+    "categories": [
+      "Historic Terms",
+      "Approved by DWG"
+    ],
+    "page_file": "pages/aid-to-navigation-discontinued.json"
+  },
+  {
+    "title": "Geographical Range (Superseded)",
+    "categories": [
+      "Historic Terms",
+      "Alphabetical Index",
+      "IALA Dictionary 1970-89 Edition"
+    ],
+    "page_file": "pages/geographical-range-superseded.json"
+  }
+]

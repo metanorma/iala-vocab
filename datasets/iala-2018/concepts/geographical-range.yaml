@@ -21,6 +21,10 @@ related:
   ref:
     source: urn:iala:dictionary:2023
     concept_id: geographical-range
+- type: supersedes
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: 2-1-245
 ---
 id: geographical-range-eng
 termid: geographical-range

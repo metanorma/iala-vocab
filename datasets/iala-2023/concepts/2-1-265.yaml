@@ -82,3 +82,41 @@ notes:
 annotations:
 - content: Unit distance.
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Allard's_Law
+---
+id: 2-1-265-deu
+termid: 2-1-265
+data:
+  language_code: deu
+terms:
+- type: expression
+  designation: Tragweitenformel
+  normative_status: preferred
+definition:
+- content: |-
+    Allardsche Formel
+
+    Gleichung, die den Zusammenhang zwischen der Lichtstärke einer punktförmigen Lichtquelle und der von ihr in vorgegebenem Abstand auf einer Fläche senkrecht zur Lichteinfallsrichtung erzeugten Beleuchtungsstärke unter Berücksichtigung der Lichtdurchlässigkeit der als homogen angenommenen Atmosphäre beschreibt.
+
+    Die Gleichung kann wie folgt geschrieben werden:
+
+    Hierin bedeuten:
+
+    E  Beleuchtungsstärke auf der Fläche
+
+    I  Lichtstärke des einfallenden Lichtes in Meßrichtung
+
+    T  atmosphärischer Durchlässigkeitsfaktor der als homogen angenommenen Atmosphäre, bezogen auf eine bestimmte Längeneinheit
+
+    x  Abstand der Fläche von der Lichtquelle in bestimmten Längeneinheiten.
+
+    Anmerkung:
+
+    Die Tragweitenformel kann auch wie folgt geschrieben werden:
+
+    Hierin ist V die meteorologische Sichtweite (2-1-280 und 2-1-290 Anmerkung).
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Allard's_Law/de

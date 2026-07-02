@@ -1,0 +1,43 @@
+---
+id: VTS-2012-3
+data:
+  identifier: VTS-2012-3
+  domains:
+  - source: urn:iala:dictionary:1970-89
+    concept_id: section-historic
+    ref_type: section
+status: retired
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Aid_to_Navigation_(Discontinued)
+related:
+- type: retired_by
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: aid-to-navigation
+dates:
+- type: accepted
+  date: 1970-1989
+- type: retired
+  date: '2016'
+---
+id: VTS-2012-3-eng
+termid: VTS-2012-3
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Aid to Navigation (2)
+  normative_status: preferred
+definition:
+- content: Any device or system, external to a vessel, which is provided to help a
+    mariner determine position and course, to warn of dangers or of obstructions,
+    or to give advice about the location of a best or preferred route.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Discontinued entry from Aid to Navigation (Discontinued) (https://www.iala.int/wiki/dictionary/index.php/Aid_to_Navigation_(Discontinued))

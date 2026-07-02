@@ -1,0 +1,47 @@
+---
+id: 1-1-005
+data:
+  identifier: 1-1-005
+  domains:
+  - source: urn:iala:dictionary:1970-89
+    concept_id: section-historic
+    ref_type: section
+status: retired
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+    link: https://www.iala.int/wiki/dictionary/index.php/Aid_to_Navigation_(Discontinued)
+related:
+- type: retired_by
+  ref:
+    source: urn:iala:dictionary:2023
+    concept_id: aid-to-navigation
+dates:
+- type: accepted
+  date: 1970-1989
+- type: retired
+  date: '2016'
+---
+id: 1-1-005-eng
+termid: 1-1-005
+data:
+  language_code: eng
+terms:
+- type: expression
+  designation: Aid to navigation
+  normative_status: preferred
+- type: expression
+  designation: Seamark (G.B.)
+  normative_status: admitted
+definition:
+- content: Visual, acoustical or radio device to assist the safe and easy movement
+    of ships.
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+notes:
+- content: The term "seamark" is most commonly used for a visual device.
+annotations:
+- content: Discontinued entry from Aid to Navigation (Discontinued) (https://www.iala.int/wiki/dictionary/index.php/Aid_to_Navigation_(Discontinued))

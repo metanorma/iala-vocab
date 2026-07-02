@@ -63,3 +63,21 @@ sources:
     ref: IALA Dictionary
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Aberration
+---
+id: 2-1-120-deu
+termid: 2-1-120
+data:
+  language_code: deu
+terms:
+- type: expression
+  designation: Abbildungsfehler, Aberration
+  normative_status: preferred
+definition:
+- content: Unerwünschte Abweichung von einer fehlerfreien Abbildung nach den Gesetzen
+    der geometrischen Optik
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Aberration/de

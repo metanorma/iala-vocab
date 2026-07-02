@@ -72,3 +72,25 @@ sources:
   modification: modified from source
 annotations:
 - content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Absorptance
+---
+id: 2-1-205-deu
+termid: 2-1-205
+data:
+  language_code: deu
+terms:
+- type: expression
+  designation: Absorptionsgrad
+  normative_status: preferred
+definition:
+- content: |-
+    Verhältnis des absorbierten Lichtstroms (Fa) zu dem eingestrahlten Lichtstrom (Fo).
+
+    Symbol: a
+
+    Quelle: C.I.E. (abgewandelt)
+sources:
+- type: authoritative
+  origin:
+    ref: IALA Dictionary
+annotations:
+- content: Sourced from https://www.iala.int/wiki/dictionary/index.php/Absorptance/de

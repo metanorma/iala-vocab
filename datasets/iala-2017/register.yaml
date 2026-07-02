@@ -1,10 +1,20 @@
 ---
 schema_type: glossarist
 schema_version: '3'
+id: iala-2017
+year: 2017
+urn: urn:iala:dictionary:2017
+status: retired
 languages:
 - eng
+- fra
+- spa
+- deu
 languageOrder:
 - eng
+- fra
+- spa
+- deu
 ordering: systematic
 sections:
 - id: '0'
@@ -239,7 +249,3 @@ sections:
     names:
       eng: Conservation terms
     children: []
-:id: iala-2017
-:year: 2017
-:urn: urn:iala:dictionary:2017
-:status: retired
